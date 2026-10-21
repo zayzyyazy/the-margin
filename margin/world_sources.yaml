@@ -1,0 +1,12 @@
+# General-news sources for "The World, Explained". Live-tested 2026-10-21: feed answers, outlet identity matches the feed
+# title, items carry publication dates, and the article pages are readable as full text (trafilatura, ≥ 250 words).
+# Opinion and live pages are recognised per item (margin/world.py) and never used as evidence.
+# Left out: POLITICO Europe (article pages reachable only as 150–240-word teasers), Reuters/AP (block scripts).
+- {name: "BBC News · World", feed: "https://feeds.bbci.co.uk/news/world/rss.xml", bucket: world, lang: en, active: true}
+- {name: "BBC News · Business", feed: "https://feeds.bbci.co.uk/news/business/rss.xml", bucket: world, lang: en, active: true}
+- {name: "The Guardian · World", feed: "https://www.theguardian.com/world/rss", bucket: world, lang: en, active: true}
+- {name: "The Guardian · Europe", feed: "https://www.theguardian.com/world/europe-news/rss", bucket: world, lang: en, active: true}
+- {name: "DW", feed: "https://rss.dw.com/rdf/rss-en-all", bucket: world, lang: en, active: true}
+- {name: "tagesschau", feed: "https://www.tagesschau.de/index~rss2.xml", bucket: world, lang: de, active: true}
+- {name: "Al Jazeera", feed: "https://www.aljazeera.com/xml/rss/all.xml", bucket: world, lang: en, active: true}
+- {name: "Mada Masr", feed: "https://www.madamasr.com/en/feed/", bucket: world, lang: en, active: true}

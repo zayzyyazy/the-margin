@@ -1,0 +1,8 @@
+# Models for "The World, Explained". Owner-controlled settings.
+# paid_approved: false → only free-tier Gemini may run (public news only, as approved 2026-10-20).
+# Proposed paid pilot (awaiting approval): writer claude-haiku-5-5, judge claude-sonnet-5-5, caps below (≈ €5/month).
+paid_approved: false
+writer: gemini-3.5-flash-lite
+judge: gemini-3.1-flash-lite     # best free judge in calibration (8/9 planted errors caught); Sonnet 5.5 caught 9/9
+daily_cap_usd: 0.25
+monthly_cap_usd: 5.40

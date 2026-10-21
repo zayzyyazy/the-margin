@@ -12,7 +12,6 @@ import re
 import socket
 import urllib.parse
 
-import feedparser
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X) TheMargin/2.0 (personal reading edition)"
 socket.setdefaulttimeout(30)
@@ -91,6 +90,7 @@ def _item(src, e):
 def fetch(src):
     """Return (report, items) for one source. Never raises: a failing feed is a report, not a crash."""
     rep = {"name": src["name"], "feed": src["feed"], "bucket": src["bucket"], "ok": False, "status": None, "items": 0, "newest": None, "error": None}
+    import feedparser                  # imported here: the private server renders pages without needing the feed parser
     try:
         f = feedparser.parse(src["feed"], agent=UA)
         rep["status"] = f.get("status")

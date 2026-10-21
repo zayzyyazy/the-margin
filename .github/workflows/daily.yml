@@ -24,7 +24,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 35
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -37,8 +37,10 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Tests
         run: python -m unittest discover -s tests
-      - name: Fetch feeds and select today's edition
+      - name: Fetch feeds, select today's edition, explain the world section
         id: update
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}      # free tier, public news only; paid models stay off (margin/models.yaml)
         continue-on-error: true          # a failed update still publishes its status; the job is marked failed at the end
         run: python -m margin.update ${{ github.event_name == 'schedule' && '--scheduled' || '' }} ${{ inputs.force && '--force' || '' }}
       - name: Commit edition and status

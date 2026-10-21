@@ -114,10 +114,10 @@ class Persistence(unittest.TestCase):
         shutil.rmtree(self.tmp)
 
     def test_failure_keeps_last_edition_and_reports_it(self):
-        r, _ = update.run(self.data, self.src, now=NOW - dt.timedelta(days=1), fetch=fake_fetch(day(at=NOW - dt.timedelta(days=1))))
+        r, _ = update.run(self.data, self.src, world_enabled=False, now=NOW - dt.timedelta(days=1), fetch=fake_fetch(day(at=NOW - dt.timedelta(days=1))))
         self.assertEqual(r, "ok")
         before = (self.data / "editions" / "2026-10-20.json").read_text()
-        r, why = update.run(self.data, self.src, now=NOW, fetch=fake_fetch([], ok=False))
+        r, why = update.run(self.data, self.src, world_enabled=False, now=NOW, fetch=fake_fetch([], ok=False))
         self.assertEqual(r, "failed")
         self.assertIn("sources responded", why)
         self.assertFalse((self.data / "editions" / "2026-10-21.json").exists())
@@ -133,15 +133,15 @@ class Persistence(unittest.TestCase):
         self.assertIn("URLError: timed out", (out / "sources" / "index.html").read_text())
 
     def test_too_few_articles_is_a_failure_not_a_thin_edition(self):
-        r, why = update.run(self.data, self.src, now=NOW, fetch=fake_fetch([item(1, "A", "ai"), item(2, "B", "mind")]))
+        r, why = update.run(self.data, self.src, world_enabled=False, now=NOW, fetch=fake_fetch([item(1, "A", "ai"), item(2, "B", "mind")]))
         self.assertEqual(r, "failed")
         self.assertIn("passed selection", why)
 
     def test_archive_persists_and_editions_do_not_repeat(self):
         yesterday = NOW - dt.timedelta(days=1)
         items1 = day(4, at=yesterday)
-        self.assertEqual(update.run(self.data, self.src, now=yesterday, fetch=fake_fetch(items1))[0], "ok")
-        self.assertEqual(update.run(self.data, self.src, now=NOW, fetch=fake_fetch(items1 + day(2, start=100)))[0], "ok")
+        self.assertEqual(update.run(self.data, self.src, world_enabled=False, now=yesterday, fetch=fake_fetch(items1))[0], "ok")
+        self.assertEqual(update.run(self.data, self.src, world_enabled=False, now=NOW, fetch=fake_fetch(items1 + day(2, start=100)))[0], "ok")
         e1 = json.loads((self.data / "editions" / "2026-10-20.json").read_text())
         e2 = json.loads((self.data / "editions" / "2026-10-21.json").read_text())
         self.assertFalse({i["link"] for i in e1["items"]} & {i["link"] for i in e2["items"]})
@@ -153,17 +153,17 @@ class Persistence(unittest.TestCase):
         self.assertTrue((out / "e" / "2026-10-20" / "index.html").exists())
 
     def test_rerun_same_day_does_not_replace_edition(self):
-        update.run(self.data, self.src, now=NOW, fetch=fake_fetch(day()))
+        update.run(self.data, self.src, world_enabled=False, now=NOW, fetch=fake_fetch(day()))
         first = (self.data / "editions" / "2026-10-21.json").read_text()
-        r, why = update.run(self.data, self.src, now=NOW + dt.timedelta(hours=1), fetch=fake_fetch(day(4, start=200)))
+        r, why = update.run(self.data, self.src, world_enabled=False, now=NOW + dt.timedelta(hours=1), fetch=fake_fetch(day(4, start=200)))
         self.assertEqual(r, "skip")
         self.assertEqual((self.data / "editions" / "2026-10-21.json").read_text(), first)
 
     def test_scheduled_run_waits_for_seven_berlin(self):
         winter_early = dt.datetime(2026, 11, 2, 5, 0, tzinfo=dt.timezone.utc)      # 06:00 CET
-        self.assertEqual(update.run(self.data, self.src, now=winter_early, scheduled=True, fetch=fake_fetch(day(at=winter_early)))[0], "skip")
+        self.assertEqual(update.run(self.data, self.src, world_enabled=False, now=winter_early, scheduled=True, fetch=fake_fetch(day(at=winter_early)))[0], "skip")
         winter_ok = dt.datetime(2026, 11, 2, 6, 0, tzinfo=dt.timezone.utc)          # 07:00 CET
-        self.assertEqual(update.run(self.data, self.src, now=winter_ok, scheduled=True, fetch=fake_fetch(day(at=winter_ok)))[0], "ok")
+        self.assertEqual(update.run(self.data, self.src, world_enabled=False, now=winter_ok, scheduled=True, fetch=fake_fetch(day(at=winter_ok)))[0], "ok")
 
 
 if __name__ == "__main__":

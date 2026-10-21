@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
-from . import ingest, select
+from . import ingest, llm, select, world
 
 ROOT = Path(__file__).resolve().parents[1]
 BERLIN = ZoneInfo("Europe/Berlin")
@@ -48,7 +48,7 @@ def gh_output(**kv):
             f.writelines(f"{k}={v}\n" for k, v in kv.items())
 
 
-def run(data_dir, sources_file, now=None, force=False, scheduled=False, fetch=ingest.collect):
+def run(data_dir, sources_file, now=None, force=False, scheduled=False, fetch=ingest.collect, world_enabled=True):
     now = now or dt.datetime.now(dt.timezone.utc)
     local = now.astimezone(BERLIN)
     today = local.date()
@@ -90,6 +90,12 @@ def run(data_dir, sources_file, now=None, force=False, scheduled=False, fetch=in
                "sources_active": len(sources), "sources_ok": len(ok),
                "sources_failed": [r["name"] for r in reports if not r["ok"]],
                "items": [{k: i.get(k) for k in keep} for i in chosen]}
+    try:                                        # the world section never blocks the edition; its failures are reported in it
+        cfg = llm.config()
+        ledger = llm.Ledger(data_dir / "ledger.jsonl", cfg["daily_cap_usd"], cfg["monthly_cap_usd"], cfg["paid_approved"])
+        edition["world"] = world.build_world(now, cfg, ledger, edir=edir) if world_enabled else None
+    except Exception as e:  # noqa: BLE001
+        edition["world"] = {"developments": [], "error": f"{type(e).__name__}: {str(e)[:160]}"}
     write_json(target, edition)
     status["last_attempt"] = dict(attempt, result="ok", reason=None)
     status["last_success"] = {"at": now.isoformat(), "edition_date": today.isoformat(), "articles": len(chosen)}
