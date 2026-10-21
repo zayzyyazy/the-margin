@@ -128,7 +128,7 @@ class Persistence(unittest.TestCase):
         out = self.tmp / "site"
         build.build(self.data, out, self.src)
         html = (out / "index.html").read_text()
-        self.assertIn("This morning’s update failed", html)
+        self.assertIn("The latest update failed", html)
         self.assertIn("20 October", html)
         self.assertIn("URLError: timed out", (out / "sources" / "index.html").read_text())
 

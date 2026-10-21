@@ -84,8 +84,8 @@ def edition_body(ed, number, status, latest, rel):
     n = len(ed["items"])
     notice = ""
     la = status.get("last_attempt") or {}
-    if latest and la.get("result") == "failed" and la.get("edition_date", "") > ed["date"]:
-        notice = (f'<p class="notice" role="status"><b>This morning’s update failed</b> ({esc(la.get("reason"))}, {short_dt(la["at"])}). '
+    if latest and la.get("result") == "failed" and la.get("at", "") > ed["generated_at"]:
+        notice = (f'<p class="notice" role="status"><b>The latest update failed</b> ({esc(la.get("reason"))}, {short_dt(la["at"])}). '
                   f'You are reading the last complete edition, from {d.day} {d:%B}.</p>')
     failed = ed.get("sources_failed") or []
     health = (f'{ed["sources_ok"]} of {ed["sources_active"]} sources responded'
