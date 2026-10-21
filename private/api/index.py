@@ -113,6 +113,13 @@ LOGIN = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <p class="health">The public edition is at <a href="{pub}">{pub}</a>.</p></section></main></body></html>"""
 
 
+def route(raw):
+    """Vercel rewrites every path to /api/index?__path=/<original>; locally the original path arrives as is."""
+    u = urllib.parse.urlsplit(raw)
+    p = urllib.parse.parse_qs(u.query).get("__path", [u.path])[0] or "/"
+    return "/" + p.lstrip("/")
+
+
 class handler(BaseHTTPRequestHandler):
     def log_message(self, *args):          # the default access log would include paths and IPs; keep logs empty
         pass
@@ -140,7 +147,7 @@ class handler(BaseHTTPRequestHandler):
         self.send(code, LOGIN.format(pub=PUBLIC, msg=m).encode())
 
     def do_GET(self):
-        path = urllib.parse.urlsplit(self.path).path
+        path = route(self.path)
         if path == "/health":
             return self.send(200, b"ok", "text/plain")
         if not configured():
@@ -169,7 +176,7 @@ class handler(BaseHTTPRequestHandler):
         self.send(200, page.encode())
 
     def do_POST(self):
-        path = urllib.parse.urlsplit(self.path).path
+        path = route(self.path)
         if not configured():
             return self.send(503, b"The private edition is not configured yet.", "text/plain")
         origin = self.headers.get("origin")
