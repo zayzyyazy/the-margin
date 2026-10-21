@@ -130,7 +130,12 @@ def world_blocks(w):
             reps = (d.get("brief") or {}).get("reports", [])
             quotes = "".join(f'<blockquote lang="{esc(r["lang"])}"><p>{esc(r["excerpt"])}</p><cite>— <a href="{esc(r["link"])}">{esc(r["outlet"])}</a>, '
                              f'{KIND.get(r["kind"], "Reporting").lower()}, {berlin(r["published"]).day} {berlin(r["published"]):%b}</cite></blockquote>' for r in reps)
-            also = ", ".join(f'<a href="{esc(a["link"])}">{esc(a["outlet"])}</a>' for a in d.get("also", [])[:4] if a["kind"] != "opinion")
+            quoted, also_l = {r["outlet"] for r in reps}, []
+            for a in d.get("also", []):                 # each other outlet once; not those already quoted above
+                if a["kind"] != "opinion" and a["outlet"] not in quoted:
+                    quoted.add(a["outlet"])
+                    also_l.append(f'<a href="{esc(a["link"])}">{esc(a["outlet"])}</a>')
+            also = ", ".join(also_l[:4])
             head = reps[0]["title"] if reps else ", ".join(d.get("names", []))
             out.append(f'<article class="blk wx brief" id="w-{esc(d["id"])}"><p class="kicker">Brief · in the publishers’ own words</p>'
                        f'<h3 class="wx-h" lang="{esc(reps[0]["lang"] if reps else "en")}">{esc(head)}</h3>{quotes}'
