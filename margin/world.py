@@ -442,14 +442,28 @@ def explain(dev, texts, cfg, ledger):
     return {"headline": draft["headline"], "parts": parts, "terms": terms, "complete": ok, "report": report}
 
 
+def central(dev, i):
+    """How squarely an item is about the development: shared names with the development's top names, from the headline."""
+    core = set(dev["names"][:4])
+    return len(core & names_in_title(i))
+
+
+def names_in_title(i):
+    return {w for w in re.findall(r"[a-zäöüß\-]+", i["title"].lower()) if len(w) > 2}
+
+
 def brief_of(dev):
-    """Fallback: only the publishers' own words, each attributed — up to two outlets' opening lines, reporting first."""
+    """Fallback: only the publishers' own words, each attributed — the two reports most squarely about the development
+    (headline shares the development's names), English reporting first, one per outlet, syndicated copies skipped."""
+    pool = [i for i in dev["items"] if i["kind"] in ("reporting", "analysis") and i.get("excerpt") and not i.get("syndicated_with")]
+    pool.sort(key=lambda i: (-central(dev, i), i["kind"] != "reporting", i["lang"] != "en"))
     out, seen = [], set()
-    for i in dev["items"]:
-        if i["kind"] in ("reporting", "analysis") and i["outlet"] not in seen and i.get("excerpt") and not i.get("syndicated_with"):
-            seen.add(i["outlet"])
-            out.append({"outlet": i["outlet"], "title": i["title"], "link": i["link"], "excerpt": i["excerpt"], "kind": i["kind"],
-                        "published": i["published"], "lang": i["lang"]})
+    for i in pool:
+        if i["outlet"] in seen or central(dev, i) < 2:
+            continue
+        seen.add(i["outlet"])
+        out.append({"outlet": i["outlet"], "title": i["title"], "link": i["link"], "excerpt": i["excerpt"], "kind": i["kind"],
+                    "published": i["published"], "lang": i["lang"]})
         if len(out) == 2:
             break
     return {"reports": out}
@@ -498,6 +512,9 @@ def build_world(now, cfg, ledger, fetch=ingest.collect, edir=None):
                 entry.update(mode="explained" if ex["complete"] else "brief", explained=ex,
                              brief=None if ex["complete"] else brief_of(dev),
                              why=None if ex["complete"] else "too little survived checking")
+        if entry["mode"] == "brief" and not entry["brief"]["reports"]:
+            notes.append(f"dropped {', '.join(dev['names'][:3])}: no report squarely about it")
+            continue
         chosen.append(entry)
     return {"developments": chosen, "clusters_found": len(devs), "items": len(items),
             "sources_ok": sum(r["ok"] for r in reports), "sources_active": len(reports),

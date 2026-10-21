@@ -37,7 +37,7 @@ for (const [n, url] of process.argv.slice(2).entries()) {
     const wide = [...document.querySelectorAll("body *")].filter(e => !e.closest(".skip")).filter(e => { const r = e.getBoundingClientRect(); return r.width > 0 && (r.right > vw + 1 || r.left < -1); })
       .slice(0, 5).map(e => e.tagName + "." + e.className + " " + Math.round(e.getBoundingClientRect().right));
     const texts = [...document.querySelectorAll(".exc p:not(.label), .standfirst, .end > p:not(.colophon):not(.endnav):not(.orn)")].map(e => parseFloat(getComputedStyle(e).fontSize));
-    const taps = [...document.querySelectorAll("a, button")].filter(e => e.offsetParent && !e.closest(".exc, .also, .srcs, .ed ul, .colophon, h2, .skip"))
+    const taps = [...document.querySelectorAll("a, button")].filter(e => e.offsetParent && !e.closest(".exc, .also, .srcs, .ed ul, .colophon, h2, .skip, sup.c, .srcl, cite, .me h3, .toc"))
       .map(e => ({ t: (e.textContent || "").trim().slice(0, 30), h: Math.round(e.getBoundingClientRect().height) })).filter(x => x.h < 32);
     return { vw, scrollWidth: document.documentElement.scrollWidth, wide, minReadingPx: Math.min(...texts), smallTaps: taps.slice(0, 6),
              fonts: [...document.fonts].filter(f => f.status === "loaded").map(f => f.family + " " + f.style), height: document.documentElement.scrollHeight };

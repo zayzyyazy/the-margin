@@ -208,3 +208,4 @@ sup.c a { color: var(--accent); text-decoration: none; padding: 0 1px; }
 .pg-in .save { min-height: 32px; padding: 6px 12px; }
 .pg-in .meta { margin-bottom: 4px; }
 .pg-in .rail { margin-bottom: 2px; }
+sup.c a { display: inline-block; padding: 8px 4px; margin: -8px -1px; }   /* bigger tap area, same line spacing */
