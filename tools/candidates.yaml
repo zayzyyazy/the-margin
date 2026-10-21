@@ -1,0 +1,59 @@
+# Sources named in "The Margin RSS Research Library" (PDF, 2026-10-20). The registry CSV/OPML the PDF links to
+# (sandbox:/mnt/data/...) were never delivered, so no feed URL here is taken from the registry.
+# how: pdf-feed = feed URL printed in the PDF · pdf-site = homepage printed in the PDF, feed read from the site's own
+#      <link rel="alternate"> · named = only the name is in the PDF; homepage is the publisher's public site, feed
+#      read from that site's own <link rel="alternate"> · v1 = feed already validated in weekly/sources.yaml (2026-10-19)
+# tier/role: as stated in the PDF where it states them (tier_src: pdf), otherwise inferred from its text (tier_src: inferred).
+# bucket: ai = AI mechanisms & engineering · economy = companies, industries, economics · mind = psychology, philosophy,
+#         society · discovery = science, creative technology, unexpected discoveries
+- {name: Construction Physics, site: "https://www.construction-physics.com/", how: pdf-site, tier: 1, tier_src: pdf, role: explainer, bucket: economy}
+- {name: Hamel's Blog, site: "https://hamel.dev/", how: pdf-site, tier: 1, tier_src: pdf, role: explainer, bucket: ai}
+- {name: Simon Willison's Weblog, site: "https://simonwillison.net/", how: named, tier: 1, tier_src: pdf, role: explainer, bucket: ai}
+- {name: Quanta Magazine, feed: "https://www.quantamagazine.org/feed/", how: v1, tier: 1, tier_src: pdf, role: explainer, bucket: discovery}
+- {name: Our World in Data, feed: "https://ourworldindata.org/atom.xml", how: v1, tier: 1, tier_src: pdf, role: explainer, bucket: economy}
+- {name: Sander Dieleman, site: "https://sander.ai/", how: named, tier: 1, tier_src: pdf, role: explainer, bucket: ai}
+- {name: Normal Technology, site: "https://www.normaltech.ai/", how: named, tier: 1, tier_src: pdf, role: argument, bucket: ai}
+- {name: Ahead of AI, site: "https://magazine.sebastianraschka.com/", how: named, tier: 1, tier_src: pdf, role: explainer, bucket: ai}
+- {name: Behavioral Scientist, site: "https://behavioralscientist.org/", how: pdf-site, tier: 1, tier_src: pdf, role: explainer, bucket: mind}
+- {name: Experimental History, site: "https://www.experimental-history.com/", how: pdf-site, tier: 1, tier_src: pdf, role: argument, bucket: mind}
+- {name: Psyche, feed: "https://psyche.co/feed", how: v1, tier: 1, tier_src: pdf, role: argument, bucket: mind}
+- {name: Benedict Evans, site: "https://www.ben-evans.com/", how: pdf-site, tier: 1, tier_src: pdf, role: explainer, bucket: economy}
+- {name: Max Woolf's Blog, site: "https://minimaxir.com/", how: pdf-site, tier: 1, tier_src: pdf, role: explainer, bucket: ai}
+- {name: IEEE Spectrum, feed: "https://spectrum.ieee.org/feeds/feed.rss", how: v1, tier: 1, tier_src: pdf, role: explainer, bucket: discovery}
+- {name: Engineering at Meta, site: "https://engineering.fb.com/", how: pdf-site, tier: 1, tier_src: pdf, role: primary, bucket: ai}
+- {name: Interconnects, site: "https://www.interconnects.ai/", how: named, tier: 1, tier_src: inferred, role: explainer, bucket: ai}
+- {name: Import AI, site: "https://importai.substack.com/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: ai}
+- {name: Hugging Face Blog, site: "https://huggingface.co/blog", how: named, tier: 2, tier_src: inferred, role: signal, bucket: ai}
+- {name: Google DeepMind, site: "https://deepmind.google/discover/blog/", how: named, tier: 2, tier_src: inferred, role: primary, bucket: ai}
+- {name: BAIR Blog, site: "https://bair.berkeley.edu/blog/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: ai}
+- {name: AWS Machine Learning Blog, site: "https://aws.amazon.com/blogs/machine-learning/", how: pdf-site, tier: 2, tier_src: inferred, role: primary, bucket: ai}
+- {name: Mozilla Hacks, site: "https://hacks.mozilla.org/", how: pdf-site, tier: 2, tier_src: inferred, role: explainer, bucket: ai}
+- {name: Krebs on Security, feed: "https://krebsonsecurity.com/feed/", how: pdf-feed, tier: 2, tier_src: inferred, role: explainer, bucket: ai}
+- {name: Marginal Revolution, feed: "https://marginalrevolution.com/feed", how: v1, tier: 2, tier_src: inferred, role: argument, bucket: economy}
+- {name: Econbrowser, site: "https://econbrowser.com/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: economy}
+- {name: Liberty Street Economics, site: "https://libertystreeteconomics.newyorkfed.org/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: economy}
+- {name: ECB Blog, site: "https://www.ecb.europa.eu/press/blog/html/index.en.html", how: named, tier: 2, tier_src: inferred, role: primary, bucket: economy}
+- {name: Deutsche Bundesbank, site: "https://www.bundesbank.de/en/homepage/rss/deutsche-bundesbank-s-rss-feed-620440", how: pdf-site, tier: 2, tier_src: inferred, role: primary, bucket: economy}
+- {name: Tech.eu, site: "https://tech.eu/", how: pdf-site, tier: 2, tier_src: inferred, role: signal, bucket: economy}
+- {name: Rest of World, feed: "https://restofworld.org/feed/latest/", how: v1, tier: 2, tier_src: inferred, role: explainer, bucket: economy}
+- {name: Hackaday, site: "https://hackaday.com/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: discovery}
+- {name: Hackster News, site: "https://www.hackster.io/news", how: pdf-site, tier: 2, tier_src: inferred, role: signal, bucket: discovery}
+- {name: Raspberry Pi News, site: "https://www.raspberrypi.com/news/", how: named, tier: 2, tier_src: inferred, role: primary, bucket: discovery}
+- {name: Arduino Blog, site: "https://blog.arduino.cc/", how: named, tier: 2, tier_src: inferred, role: primary, bucket: discovery}
+- {name: Fraunhofer, site: "https://www.fraunhofer.de/en/press.html", how: named, tier: 2, tier_src: inferred, role: primary, bucket: discovery}
+- {name: Make, site: "https://makezine.com/", how: named, tier: 3, tier_src: pdf, role: discovery, bucket: discovery}
+- {name: Aeon, feed: "https://aeon.co/feed.rss", how: v1, tier: 2, tier_src: inferred, role: argument, bucket: mind}
+- {name: Daily Nous, site: "https://dailynous.com/", how: named, tier: 2, tier_src: inferred, role: argument, bucket: mind}
+- {name: JSTOR Daily, site: "https://daily.jstor.org/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: mind}
+- {name: Asterisk, site: "https://asteriskmag.com/", how: named, tier: 3, tier_src: pdf, role: argument, bucket: mind}
+- {name: Astral Codex Ten, site: "https://www.astralcodexten.com/", how: named, tier: 3, tier_src: pdf, role: argument, bucket: mind}
+- {name: Crooked Timber, site: "https://crookedtimber.org/", how: named, tier: 3, tier_src: pdf, role: argument, bucket: mind}
+- {name: Nautilus, site: "https://nautil.us/", how: named, tier: 3, tier_src: inferred, role: discovery, bucket: discovery}
+- {name: The New Atlantis, site: "https://www.thenewatlantis.com/", how: pdf-site, tier: 3, tier_src: inferred, role: argument, bucket: mind}
+- {name: Golem, site: "https://www.golem.de/", how: named, tier: 2, tier_src: inferred, role: signal, bucket: ai, lang: de}
+- {name: Spektrum, site: "https://www.spektrum.de/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: discovery, lang: de}
+- {name: netzpolitik.org, site: "https://netzpolitik.org/", how: named, tier: 2, tier_src: inferred, role: explainer, bucket: mind, lang: de}
+- {name: CORRECTIV, site: "https://correctiv.org/", how: named, tier: 3, tier_src: pdf, role: explainer, bucket: mind, lang: de}
+- {name: tagesschau, site: "https://www.tagesschau.de/", how: named, tier: 2, tier_src: inferred, role: signal, bucket: economy, lang: de}
+- {name: Ars Technica, feed: "https://feeds.arstechnica.com/arstechnica/index", how: v1, tier: 2, tier_src: inferred, role: signal, bucket: ai}
+- {name: NASA Science, site: "https://science.nasa.gov/", how: named, tier: 3, tier_src: pdf, role: primary, bucket: discovery}

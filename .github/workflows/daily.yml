@@ -1,0 +1,66 @@
+name: Daily edition
+# 07:00 Europe/Berlin every day. Actions cron is UTC, so it fires at 05:00 (CEST) and 06:00 (CET);
+# the updater itself waits for 07:00 Berlin and builds at most one edition per date.
+on:
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild today's edition even if it exists"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-edition
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Tests
+        run: python -m unittest discover -s tests
+      - name: Fetch feeds and select today's edition
+        id: update
+        continue-on-error: true          # a failed update still publishes its status; the job is marked failed at the end
+        run: python -m margin.update ${{ github.event_name == 'schedule' && '--scheduled' || '' }} ${{ inputs.force && '--force' || '' }}
+      - name: Commit edition and status
+        if: steps.update.outputs.changed == 'true'
+        run: |
+          git config user.name "margin-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Edition $(TZ=Europe/Berlin date +%F): ${{ steps.update.outputs.result }}"
+          git push
+      - name: Build site
+        if: steps.update.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: python -m margin.build --out _site
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.update.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        with:
+          path: _site
+      - id: deploy
+        if: steps.update.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v4
+      - name: Report a failed update
+        if: steps.update.outcome == 'failure'
+        run: |
+          echo "::error::Update failed — the previous edition is still live. See data/status.json."
+          exit 1

@@ -1,0 +1,849 @@
+# The Margin V2 — source registry. Generated from reports/feed-validation.json (live test 2026-10-21), then reviewed.
+# `how` says where each feed URL came from (see tools/candidates.yaml); nothing was guessed.
+# Only `active: true` sources are fetched for the daily edition. Failures are re-tested on every update and shown on /sources/.
+- name: Construction Physics
+  feed: https://www.construction-physics.com/feed
+  how: pdf-site
+  lang: en
+  bucket: economy
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+  access: partly paywalled
+- name: Hamel's Blog
+  feed: https://hamel.dev/index.xml
+  how: pdf-site
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Simon Willison's Weblog
+  feed: https://simonwillison.net/atom/everything/
+  how: named
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Quanta Magazine
+  feed: https://www.quantamagazine.org/feed/
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Our World in Data
+  feed: https://ourworldindata.org/atom.xml
+  how: v1
+  lang: en
+  bucket: economy
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Sander Dieleman
+  feed: https://sander.ai/feed.xml
+  how: named
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Normal Technology
+  feed: https://www.normaltech.ai/feed
+  how: named
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Ahead of AI
+  feed: https://magazine.sebastianraschka.com/feed
+  how: named
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+  access: partly paywalled
+- name: Behavioral Scientist
+  feed: https://behavioralscientist.org/feed/
+  how: pdf-site
+  lang: en
+  bucket: mind
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Experimental History
+  feed: https://www.experimental-history.com/feed
+  how: pdf-site
+  lang: en
+  bucket: mind
+  tier: 1
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Psyche
+  feed: https://psyche.co/feed
+  how: v1
+  lang: en
+  bucket: mind
+  tier: 1
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Benedict Evans
+  feed: null
+  how: pdf-site
+  lang: en
+  bucket: economy
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Max Woolf's Blog
+  feed: null
+  how: pdf-site
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: IEEE Spectrum
+  feed: https://spectrum.ieee.org/feeds/feed.rss
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: 1
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Engineering at Meta
+  feed: https://engineering.fb.com/feed/
+  how: pdf-site
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: pdf
+  role: primary
+  library: true
+  active: true
+  note: ''
+- name: Interconnects
+  feed: https://www.interconnects.ai/feed
+  how: named
+  lang: en
+  bucket: ai
+  tier: 1
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+  access: partly paywalled
+- name: Import AI
+  feed: https://importai.substack.com/feed
+  how: named
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Hugging Face Blog
+  feed: https://huggingface.co/blog/feed.xml
+  how: named
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: true
+  note: feed gives titles without excerpts
+- name: Google DeepMind
+  feed: null
+  how: named
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: BAIR Blog
+  feed: https://bair.berkeley.edu/blog/feed.xml
+  how: named
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: AWS Machine Learning Blog
+  feed: https://aws.amazon.com/blogs/machine-learning/feed/
+  how: pdf-site
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: true
+  note: ''
+- name: Mozilla Hacks
+  feed: https://hacks.mozilla.org/feed/
+  how: pdf-site
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Krebs on Security
+  feed: https://krebsonsecurity.com/feed/
+  how: pdf-feed
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Marginal Revolution
+  feed: https://marginalrevolution.com/feed
+  how: v1
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Econbrowser
+  feed: https://econbrowser.com/feed
+  how: named
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Liberty Street Economics
+  feed: https://libertystreeteconomics.newyorkfed.org/feed/
+  how: named
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: ECB Blog
+  feed: null
+  how: named
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Deutsche Bundesbank
+  feed: https://www.bundesbank.de/service/rss/en/633292/feed.rss
+  how: pdf-site
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: true
+  note: feed gives titles without excerpts
+- name: Tech.eu
+  feed: null
+  how: pdf-site
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Rest of World
+  feed: https://restofworld.org/feed/latest/
+  how: v1
+  lang: en
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Hackaday
+  feed: https://hackaday.com/feed/
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: true
+  note: ''
+- name: Hackster News
+  feed: https://www.hackster.io/news.atom
+  how: pdf-site
+  lang: en
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: true
+  note: ''
+- name: Raspberry Pi News
+  feed: null
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Arduino Blog
+  feed: https://blog.arduino.cc/feed/
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: true
+  note: ''
+- name: Fraunhofer
+  feed: https://www.fraunhofer.de/en/rss/press.rss
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: primary
+  library: true
+  active: true
+  note: ''
+- name: Make
+  feed: https://makezine.com/feed/
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 3
+  tier_src: pdf
+  role: discovery
+  library: true
+  active: true
+  note: ''
+- name: Aeon
+  feed: https://aeon.co/feed.rss
+  how: v1
+  lang: en
+  bucket: mind
+  tier: 2
+  tier_src: inferred
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Daily Nous
+  feed: https://dailynous.com/feed/
+  how: named
+  lang: en
+  bucket: mind
+  tier: 2
+  tier_src: inferred
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: JSTOR Daily
+  feed: null
+  how: named
+  lang: en
+  bucket: mind
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Asterisk
+  feed: https://asteriskmag.com/feed
+  how: named
+  lang: en
+  bucket: mind
+  tier: 3
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Astral Codex Ten
+  feed: https://www.astralcodexten.com/feed
+  how: named
+  lang: en
+  bucket: mind
+  tier: 3
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: excerpt taken from feed's full text
+  access: partly paywalled
+- name: Crooked Timber
+  feed: https://crookedtimber.org/feed/
+  how: named
+  lang: en
+  bucket: mind
+  tier: 3
+  tier_src: pdf
+  role: argument
+  library: true
+  active: true
+  note: ''
+- name: Nautilus
+  feed: https://nautil.us/feed
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 3
+  tier_src: inferred
+  role: discovery
+  library: true
+  active: true
+  note: ''
+- name: The New Atlantis
+  feed: https://www.thenewatlantis.com/feed
+  how: pdf-site
+  lang: en
+  bucket: mind
+  tier: 3
+  tier_src: inferred
+  role: argument
+  library: true
+  active: true
+  note: ''
+  access: partly paywalled
+- name: Golem
+  feed: null
+  how: named
+  lang: de
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: Spektrum
+  feed: null
+  how: named
+  lang: de
+  bucket: discovery
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: page advertises no RSS/Atom feed (not guessed)'
+- name: netzpolitik.org
+  feed: null
+  how: named
+  lang: de
+  bucket: mind
+  tier: 2
+  tier_src: inferred
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: HTTPError: HTTP Error 503: Service Temporarily Unavailable'
+- name: CORRECTIV
+  feed: null
+  how: named
+  lang: de
+  bucket: mind
+  tier: 3
+  tier_src: pdf
+  role: explainer
+  library: true
+  active: false
+  note: 'not connected: HTTPError: HTTP Error 503: Service Unavailable'
+- name: tagesschau
+  feed: https://www.tagesschau.de/index~atom.xml
+  how: named
+  lang: de
+  bucket: economy
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: true
+  note: ''
+- name: Ars Technica
+  feed: https://feeds.arstechnica.com/arstechnica/index
+  how: v1
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: inferred
+  role: signal
+  library: true
+  active: true
+  note: ''
+- name: NASA Science
+  feed: https://science.nasa.gov/feed/
+  how: named
+  lang: en
+  bucket: discovery
+  tier: 3
+  tier_src: pdf
+  role: primary
+  library: true
+  active: false
+  note: 'not connected: <unknown>:8:45: not well-formed (invalid token)'
+- name: MIT Technology Review
+  feed: https://www.technologyreview.com/feed/
+  how: v1
+  lang: en
+  bucket: ai
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: metered paywall on some articles
+  access: partly paywalled
+- name: heise online
+  feed: https://www.heise.de/rss/heise-atom.xml
+  how: v1
+  lang: de
+  bucket: ai
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: very high-volume German news wire
+- name: Sifted
+  feed: https://sifted.eu/feed
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: feed has no summaries; feed gives titles without excerpts
+- name: TechCrunch
+  feed: https://techcrunch.com/feed/
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: mostly funding/product announcements
+- name: The Guardian · Business
+  feed: https://www.theguardian.com/business/rss
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: news wire
+- name: BBC News · Business
+  feed: https://feeds.bbci.co.uk/news/business/rss.xml
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: news wire
+- name: Handelsblatt
+  feed: https://www.handelsblatt.com/contentexport/feed/top-themen
+  how: v1
+  lang: de
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: news wire, partly paywalled
+  access: paywalled
+- name: tagesschau · Wirtschaft
+  feed: https://www.tagesschau.de/wirtschaft/index~rss2.xml
+  how: v1
+  lang: de
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: news wire; library's tagesschau feed covers it
+- name: Financial Times · Companies
+  feed: https://www.ft.com/companies?format=rss
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: hard paywall
+  access: paywalled
+- name: BBC News · World
+  feed: https://feeds.bbci.co.uk/news/world/rss.xml
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: world news wire — outside V2's four strands
+- name: Al Jazeera
+  feed: https://www.aljazeera.com/xml/rss/all.xml
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: world news wire
+- name: DW
+  feed: https://rss.dw.com/rdf/rss-en-all
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: world news wire
+- name: The Guardian · World
+  feed: https://www.theguardian.com/world/rss
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: world news wire
+- name: tagesschau · Ausland
+  feed: https://www.tagesschau.de/ausland/index~rss2.xml
+  how: v1
+  lang: de
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: world news wire
+- name: Mada Masr
+  feed: https://www.madamasr.com/en/feed/
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: regional news wire
+- name: POLITICO Europe
+  feed: https://www.politico.eu/feed/
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: political news wire
+- name: VoxEU (CEPR)
+  feed: https://cepr.org/rss/vox-content
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: research-based economics
+- name: The Economist · Finance & economics
+  feed: https://www.economist.com/finance-and-economics/rss.xml
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: hard paywall
+  access: paywalled
+- name: Bruegel
+  feed: https://www.bruegel.org/rss.xml
+  how: v1
+  lang: en
+  bucket: economy
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: policy research; slow cadence
+- name: Nature
+  feed: https://www.nature.com/nature.rss
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: article pages walled for the text fetcher in the cost test
+- name: New Scientist
+  feed: https://www.newscientist.com/feed/home/
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: science news, partly metered
+  access: partly paywalled
+- name: Scientific American
+  feed: https://www.scientificamerican.com/platform/syndication/rss/
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: high volume; capped like every source
+- name: Knowable Magazine
+  feed: https://knowablemagazine.org/rss
+  how: v1
+  lang: en
+  bucket: discovery
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: explanatory science
+- name: The Conversation · Europe
+  feed: https://theconversation.com/europe/articles.atom
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: signal
+  library: false
+  active: false
+  note: largely duplicates The Conversation · Global
+- name: The Conversation · Global
+  feed: https://theconversation.com/global/articles.atom
+  how: v1
+  lang: en
+  bucket: mind
+  tier: null
+  tier_src: null
+  role: explainer
+  library: false
+  active: true
+  note: academic explainers, CC BY-ND
