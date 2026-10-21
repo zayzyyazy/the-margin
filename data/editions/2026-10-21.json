@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T12:54:00.344289+00:00",
+ "candidates": 190,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "41ba77c36178",
+   "title": "How To Use Decision Models for Evals",
+   "link": "https://hamel.dev/blog/posts/decision-model-evals/",
+   "source": "Hamel's Blog",
+   "authors": [
+    "Hamel Husain",
+    "Antaripa Saha"
+   ],
+   "published": "2026-10-20T07:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Decision models have exploded onto the scene recently, starting with TypeSafe’s Jev, followed by Perplexity’s Decider, Liquid’s d1, Cloudflare’s Clef, and OpenAI’s Decisions API. These models promise fast, inexpensive classification. Decision models are an appealing low-cost alternative to LLM judges for automated evals. But whether they’re the right choice depends on the cost, performance, and latency requirements of your use case. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.461,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "2e44ddb7e51d",
+   "title": "How to Train Your Robot",
+   "link": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-10-15T14:23:58+00:00",
+   "bucket": "economy",
+   "excerpt": "The enormous advance in AI capabilities over the last several years has in large part been driven by the availability of vast amounts of training data.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 3599,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.721,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "94df38eadb2d",
+   "title": "How to overcome task paralysis",
+   "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+   "source": "Psyche",
+   "authors": [
+    "Joe Wilner"
+   ],
+   "published": "2026-10-20T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.43,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1bffb96404d3",
+   "title": "The Robot I Didn’t Expect to Build",
+   "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Jonathan W. Hurst"
+   ],
+   "published": "2026-10-19T13:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.239,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "792abee5165e",
+   "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+   "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-10-19T15:30:37+00:00",
+   "bucket": "ai",
+   "excerpt": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We’re sharing our own …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1575,
+   "access": "free",
+   "lang": "en",
+   "score": 5.12,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d14cc783106b",
+   "title": "When do people experience mental health conditions for the first time?",
+   "link": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+   "source": "Our World in Data",
+   "authors": [
+    "Hannah Ritchie"
+   ],
+   "published": "2026-10-19T00:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Knowing when people are most at risk allows us to offer support when it might make the biggest difference.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.239,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "42b97b441b02",
+   "title": "How Do Fungi Keep the Planet Healthy?",
+   "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Steven Strogatz and Janna Levin"
+   ],
+   "published": "2026-10-15T13:40:13+00:00",
+   "bucket": "discovery",
+   "excerpt": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.797,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "feeds": {
+  "checked_at": "2026-10-21T12:54:00.344289+00:00",
+  "reports": [
+   {
+    "name": "Bruegel",
+    "feed": "https://www.bruegel.org/rss.xml",
+    "bucket": "economy",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
+   {
+    "name": "Import AI",
+    "feed": "https://importai.substack.com/feed",
+    "bucket": "ai",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
+   {
+    "name": "AWS Machine Learning Blog",
+    "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T21:14:10+00:00",
+    "error": null
+   },
+   {
+    "name": "Aeon",
+    "feed": "https://aeon.co/feed.rss",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-21T10:01:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Ahead of AI",
+    "feed": "https://magazine.sebastianraschka.com/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-09-29T10:50:25+00:00",
+    "error": null
+   },
+   {
+    "name": "Arduino Blog",
+    "feed": "https://blog.arduino.cc/feed/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T13:16:33+00:00",
+    "error": null
+   },
+   {
+    "name": "Ars Technica",
+    "feed": "https://feeds.arstechnica.com/arstechnica/index",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-21T02:12:18+00:00",
+    "error": null
+   },
+   {
+    "name": "Asterisk",
+    "feed": "https://asteriskmag.com/feed",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T00:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Astral Codex Ten",
+    "feed": "https://www.astralcodexten.com/feed",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T20:32:59+00:00",
+    "error": null
+   },
+   {
+    "name": "BAIR Blog",
+    "feed": "https://bair.berkeley.edu/blog/feed.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-07-29T09:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Behavioral Scientist",
+    "feed": "https://behavioralscientist.org/feed/",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-15T10:09:45+00:00",
+    "error": null
+   },
+   {
+    "name": "Construction Physics",
+    "feed": "https://www.construction-physics.com/feed",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-17T12:03:37+00:00",
+    "error": null
+   },
+   {
+    "name": "Crooked Timber",
+    "feed": "https://crookedtimber.org/feed/",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 15,
+    "newest": "2026-10-19T22:45:10+00:00",
+    "error": null
+   },
+   {
+    "name": "Daily Nous",
+    "feed": "https://dailynous.com/feed/",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T14:03:45+00:00",
+    "error": null
+   },
+   {
+    "name": "Deutsche Bundesbank",
+    "feed": "https://www.bundesbank.de/service/rss/en/633292/feed.rss",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T08:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Econbrowser",
+    "feed": "https://econbrowser.com/feed",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T20:33:03+00:00",
+    "error": null
+   },
+   {
+    "name": "Engineering at Meta",
+    "feed": "https://engineering.fb.com/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 9,
+    "newest": "2026-10-19T16:00:47+00:00",
+    "error": null
+   },
+   {
+    "name": "Experimental History",
+    "feed": "https://www.experimental-history.com/feed",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-13T21:04:46+00:00",
+    "error": null
+   },
+   {
+    "name": "Fraunhofer",
+    "feed": "https://www.fraunhofer.de/en/rss/press.rss",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 25,
+    "newest": "2026-10-07T00:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Hackaday",
+    "feed": "https://hackaday.com/feed/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 7,
+    "newest": "2026-10-21T11:00:19+00:00",
+    "error": null
+   },
+   {
+    "name": "Hackster News",
+    "feed": "https://www.hackster.io/news.atom",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 25,
+    "newest": "2026-10-20T22:08:39+00:00",
+    "error": null
+   },
+   {
+    "name": "Hamel's Blog",
+    "feed": "https://hamel.dev/index.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T07:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Hugging Face Blog",
+    "feed": "https://huggingface.co/blog/feed.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 886,
+    "newest": "2026-10-21T12:51:24+00:00",
+    "error": null
+   },
+   {
+    "name": "IEEE Spectrum",
+    "feed": "https://spectrum.ieee.org/feeds/feed.rss",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 30,
+    "newest": "2026-10-19T18:00:03+00:00",
+    "error": null
+   },
+   {
+    "name": "Interconnects",
+    "feed": "https://www.interconnects.ai/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T17:04:21+00:00",
+    "error": null
+   },
+   {
+    "name": "Knowable Magazine",
+    "feed": "https://knowablemagazine.org/rss",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T00:00:20+00:00",
+    "error": null
+   },
+   {
+    "name": "Krebs on Security",
+    "feed": "https://krebsonsecurity.com/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-19T13:48:56+00:00",
+    "error": null
+   },
+   {
+    "name": "Liberty Street Economics",
+    "feed": "https://libertystreeteconomics.newyorkfed.org/feed/",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 100,
+    "newest": "2026-10-15T11:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "MIT Technology Review",
+    "feed": "https://www.technologyreview.com/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-21T12:10:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Make",
+    "feed": "https://makezine.com/feed/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T17:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Marginal Revolution",
+    "feed": "https://marginalrevolution.com/feed",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 15,
+    "newest": "2026-10-21T06:20:34+00:00",
+    "error": null
+   },
+   {
+    "name": "Mozilla Hacks",
+    "feed": "https://hacks.mozilla.org/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-08-24T15:32:15+00:00",
+    "error": null
+   },
+   {
+    "name": "Nautilus",
+    "feed": "https://nautil.us/feed",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-20T23:05:00+00:00",
+    "error": null
+   },
+   {
+    "name": "New Scientist",
+    "feed": "https://www.newscientist.com/feed/home/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 301,
+    "items": 10,
+    "newest": "2026-10-21T10:30:31+00:00",
+    "error": null
+   },
+   {
+    "name": "Normal Technology",
+    "feed": "https://www.normaltech.ai/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-19T20:11:55+00:00",
+    "error": null
+   },
+   {
+    "name": "Our World in Data",
+    "feed": "https://ourworldindata.org/atom.xml",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-19T00:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Psyche",
+    "feed": "https://psyche.co/feed",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-21T10:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Quanta Magazine",
+    "feed": "https://www.quantamagazine.org/feed/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 5,
+    "newest": "2026-10-19T15:40:26+00:00",
+    "error": null
+   },
+   {
+    "name": "Rest of World",
+    "feed": "https://restofworld.org/feed/latest/",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 12,
+    "newest": "2026-10-19T10:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Sander Dieleman",
+    "feed": "https://sander.ai/feed.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-08-23T23:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Scientific American",
+    "feed": "https://www.scientificamerican.com/platform/syndication/rss/",
+    "bucket": "discovery",
+    "ok": true,
+    "status": 200,
+    "items": 50,
+    "newest": "2026-10-21T10:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Simon Willison's Weblog",
+    "feed": "https://simonwillison.net/atom/everything/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 30,
+    "newest": "2026-10-20T23:50:25+00:00",
+    "error": null
+   },
+   {
+    "name": "The Conversation · Global",
+    "feed": "https://theconversation.com/global/articles.atom",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 48,
+    "newest": "2026-10-20T12:36:24+00:00",
+    "error": null
+   },
+   {
+    "name": "The New Atlantis",
+    "feed": "https://www.thenewatlantis.com/feed",
+    "bucket": "mind",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-07T14:11:52+00:00",
+    "error": null
+   },
+   {
+    "name": "VoxEU (CEPR)",
+    "feed": "https://cepr.org/rss/vox-content",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 50,
+    "newest": "2026-10-20T23:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "tagesschau",
+    "feed": "https://www.tagesschau.de/index~atom.xml",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 73,
+    "newest": "2026-10-21T12:36:17+00:00",
+    "error": null
+   }
+  ]
+ },
+ "last_attempt": {
+  "at": "2026-10-21T12:54:00.344289+00:00",
+  "edition_date": "2026-10-21",
+  "sources_active": 46,
+  "sources_ok": 44,
+  "items_fetched": 1800,
+  "candidates": 190,
+  "result": "ok",
+  "reason": null
+ },
+ "last_success": {
+  "at": "2026-10-21T12:54:00.344289+00:00",
+  "edition_date": "2026-10-21",
+  "articles": 7
+ }
+}
