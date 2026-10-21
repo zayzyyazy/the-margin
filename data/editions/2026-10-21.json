@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T12:54:00.344289+00:00",
- "candidates": 190,
+ "generated_at": "2026-10-21T14:35:12.817115+00:00",
+ "candidates": 188,
  "sources_active": 46,
  "sources_ok": 44,
  "sources_failed": [
@@ -26,7 +26,7 @@
    "full_words": 0,
    "access": "free",
    "lang": "en",
-   "score": 5.461,
+   "score": 5.444,
    "why": [
     "explanatory"
    ],
@@ -48,7 +48,7 @@
    "full_words": 3599,
    "access": "partly paywalled",
    "lang": "en",
-   "score": 4.721,
+   "score": 4.703,
    "why": [
     "long-form",
     "explanatory"
@@ -71,30 +71,32 @@
    "full_words": 0,
    "access": "free",
    "lang": "en",
-   "score": 4.43,
+   "score": 4.412,
    "why": [
     "explanatory"
    ],
    "also_in": null
   },
   {
-   "id": "1bffb96404d3",
-   "title": "The Robot I Didn’t Expect to Build",
-   "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "id": "efe5e4841688",
+   "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "IEEE Spectrum",
    "authors": [
-    "Jonathan W. Hurst"
+    "Eliza Strickland"
    ],
-   "published": "2026-10-19T13:00:03+00:00",
+   "published": "2026-10-21T13:00:02+00:00",
    "bucket": "discovery",
-   "excerpt": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. …",
+   "excerpt": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. …",
    "excerpt_origin": "feed summary",
    "excerpt_shortened": true,
    "full_words": 0,
    "access": "free",
    "lang": "en",
-   "score": 4.239,
-   "why": [],
+   "score": 5.055,
+   "why": [
+    "explanatory"
+   ],
    "also_in": null
   },
   {
@@ -111,7 +113,7 @@
    "full_words": 1575,
    "access": "free",
    "lang": "en",
-   "score": 5.12,
+   "score": 5.102,
    "why": [
     "long-form",
     "explanatory"
@@ -134,31 +136,855 @@
    "full_words": 0,
    "access": "free",
    "lang": "en",
-   "score": 4.239,
+   "score": 4.221,
    "why": [],
    "also_in": null
   },
   {
-   "id": "42b97b441b02",
-   "title": "How Do Fungi Keep the Planet Healthy?",
-   "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-   "source": "Quanta Magazine",
+   "id": "b82ddb621cf6",
+   "title": "The Age of Altair",
+   "link": "https://hackaday.com/2026/10/21/the-age-of-altair/",
+   "source": "Hackaday",
    "authors": [
-    "Steven Strogatz and Janna Levin"
+    "Al Williams"
    ],
-   "published": "2026-10-15T13:40:13+00:00",
+   "published": "2026-10-21T14:00:53+00:00",
    "bucket": "discovery",
-   "excerpt": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.",
+   "excerpt": "I recently got the Amazon Christmas toy book in the mail, and it is definitely the modern version of the Sears Christmas Wish Book for last century’s youth. Or at …",
    "excerpt_origin": "feed summary",
-   "excerpt_shortened": false,
-   "full_words": 0,
+   "excerpt_shortened": true,
+   "full_words": 1306,
    "access": "free",
    "lang": "en",
-   "score": 3.797,
+   "score": 4.1,
    "why": [
-    "explanatory"
+    "long-form"
    ],
    "also_in": null
   }
- ]
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "ddf272ebf1",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "witkoff",
+     "putin",
+     "russia"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-21T14:17:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 552,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T13:49:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 695,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
+      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
+      "published": "2026-10-21T12:14:14+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 400,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "published": "2026-10-21T11:50:27+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 753,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-21T13:56:00+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html",
+      "kind": "reporting",
+      "published": "2026-10-21T11:55:51+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+      "kind": "reporting",
+      "published": "2026-10-21T09:37:12+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-20T20:00:57+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Zelenskyy visits Norway amid Trump White House tensions",
+      "link": "https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-20T19:48:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-20T19:30:05+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Russia frees US citizen Stephen Hubbard during talks with envoy",
+     "parts": {
+      "happened": [
+       {
+        "text": "Russia released Stephen Hubbard, a 74-year-old American citizen who had been jailed on mercenary charges, during a meeting in St Petersburg between Russian President Vladimir Putin and US envoy Steve Witkoff.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Stephen Hubbard was captured by Russian forces shortly after Moscow's full-scale invasion of Ukraine in 2022 and was sentenced in 2024 to nearly seven years in a penal colony.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Steve Witkoff serves as a US envoy tasked by President Donald Trump with brokering an end to the ongoing conflict.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The sources describe the release as a diplomatic victory for the US president ahead of upcoming elections, while strengthening ties between Washington and Moscow.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "The Guardian reported that energy analysts and traders have questioned whether a temporary resumption of Russian diesel imports will deliver meaningful relief to consumers.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Vladimir Putin has not publicly commented on whether the peace proposals brought by Steve Witkoff are acceptable to Moscow.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The sources report that it remains unclear who ordered the recent restrictions on Ukraine's access to the Starshield satellite network.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Starshield",
+       "definition": "A satellite-based communications network adapted for military and governmental operations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Simultaneously, Russia's domestic intelligence agency announced the arrest of a German national on similar allegations of mercenary activity.",
+        "why": [
+         "partial",
+         "The evidence mentions a German arrest but does not explicitly confirm 'similar allegations' of mercenary activity."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "During their three-hour meeting, Witkoff and Putin discussed proposals aimed at ending the war in Ukraine alongside regional security issues.",
+        "why": [
+         "partial",
+         "Evidence says talks lasted 'about' three hours, making the claim's definitive phrasing slightly inaccurate."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+       "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
+       "kind": "reporting",
+       "published": "2026-10-21T14:17:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+       "kind": "reporting",
+       "published": "2026-10-21T13:49:50+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "africa",
+     "adjustments": []
+    },
+    "id": "ff3567fb54",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "nigeria",
+     "abuja",
+     "africa",
+     "ebola"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T12:39:34+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 665,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Nigeria bestätigt ersten Ebola-Fall",
+      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+      "published": "2026-10-21T01:11:10+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 262,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "published": "2026-10-21T00:14:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 420,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Nigeria records its first Ebola case, in capital Abuja",
+      "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-20T19:08:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 608,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nigeria confirms first Ebola case in current regional outbreak",
+     "parts": {
+      "happened": [
+       {
+        "text": "Health Minister Muhammad Ali Pate stated that the patient is in isolation receiving medical care after being admitted to a hospital in Abuja.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Health authorities have identified 44 close contacts of the woman and launched contact-tracing efforts to prevent further spread of the virus.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Nigeria is Africa's most populous country, with around 220 million inhabitants.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Dr Jean Kaseya, the director general of the Africa Centres for Disease Control, stated that the outbreak presents an extremely serious threat with a fatality rate of nearly 50%.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The exact location where the patient was exposed to the virus remains under investigation by health authorities.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ebola",
+       "definition": "A rare and severe viral illness characterized by fever, body aches, and potential internal and external bleeding."
+      },
+      {
+       "term": "Contact-tracing",
+       "definition": "The public health process of identifying, assessing, and monitoring individuals who have interacted with an infected person."
+      },
+      {
+       "term": "Incubation period",
+       "definition": "The time elapsed between exposure to a pathogenic organism and when symptoms first appear."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "The current Ebola outbreak began in the Democratic Republic of Congo in mid-May and has since spread to other African countries including Uganda and Kenya.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Nigeria successfully stopped a previous Ebola outbreak in 2014 and established an Ebola task force in June following the start of the current crisis.",
+        "why": [
+         "number(s) not in evidence: 2014"
+        ]
+       },
+       {
+        "id": "happened.0",
+        "text": "Nigeria has recorded its first Ebola case in a female patient who travelled from Uganda to the capital, Abuja, and tested positive for the Bundibugyo strain.",
+        "why": [
+         "partial",
+         "Evidence does not confirm this is the first case in Nigeria."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "The World Health Organization has noted that the current outbreak is the fastest-spreading on record and is on track to exceed the historical West African epidemic.",
+        "why": [
+         "partial",
+         "The claim states the WHO's assessment as a standalone fact without attributing it."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Discrepancies exist regarding the patient's travel history and nationality, with Ugandan officials stating she only transited through Uganda while Nigerian authorities have not disclosed her full itinerary.",
+        "why": [
+         "partial",
+         "Claim presents discrepancies as factual rather than reporting official statements."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Nigeria confirms Ebola case linked to East Africa",
+       "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+       "kind": "reporting",
+       "published": "2026-10-21T12:39:34+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "tagesschau",
+       "title": "Nigeria bestätigt ersten Ebola-Fall",
+       "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+       "excerpt": "Bislang waren drei afrikanische Länder von dem aktuellen Ebola-Ausbruch betroffen, nun meldet auch Nigeria einen Fall. Eine Frau sei in der Hauptstadt Abuja in Behandlung, so die Behörden. Nigeria ist das bevölkerungsreichste Land auf dem Kontinent.",
+       "kind": "reporting",
+       "published": "2026-10-21T01:11:10+00:00",
+       "lang": "de"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "4b40ca08b2",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "tesla",
+     "spacex",
+     "musk",
+     "spacex-tesla"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
+      "published": "2026-10-21T13:08:11+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 637,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T08:42:49+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 614,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
+      "link": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-21T05:53:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 492,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+      "kind": "reporting",
+      "published": "2026-10-21T07:11:45+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-10-21T06:36:39+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Elon Musk confirms talks on merging Tesla and SpaceX",
+     "parts": {
+      "happened": [
+       {
+        "text": "Elon Musk confirmed that he is actively considering merging his two major companies, Tesla and SpaceX, during a call with financial analysts.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Special committees consisting of independent directors have been formed within both companies to examine the potential transaction.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The two firms have already collaborated on joint projects such as the Terafab initiative to manufacture computer chips.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Proponents argue that a combined entity could deploy capital more efficiently and simplify decision-making across automotive, energy, artificial intelligence and aerospace sectors.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Justus Parmar, chief executive officer at Frotuna Investments, stated that Tesla's cash-generative automotive business could help support SpaceX's bottom line and fund capital-intensive space goals.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Gene Munster, managing partner at Deepwater Asset Management, expressed the view that momentum is building internally and that the merger will ultimately happen.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Elon Musk emphasised that it remains premature to assume the merger will go ahead because the special committees have not yet agreed on terms.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Critics caution that investors would expose themselves to a broader spectrum of technical and regulatory risks.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Any proposed transaction would face intense scrutiny from competition and security authorities in the United States and China due to SpaceX's military contracts and Tesla's manufacturing plant in Shanghai.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Starlink",
+       "definition": "A satellite internet constellation operated by aerospace manufacturer SpaceX."
+      },
+      {
+       "term": "Robotaxis",
+       "definition": "Autonomous vehicles operated for passenger transport services."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Following the announcement, shares in the space technology company SpaceX rose by eight percent in after-hours trading, whilst Tesla shares saw a slight increase.",
+        "why": [
+         "partial",
+         "Tesla shares rose by 1.8%, not a slight increase without specific mention."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Elon Musk serves as the chief executive officer of both Tesla, an electric vehicle and robotics company, and SpaceX, a space technology company that builds rockets and internet satellites.",
+        "why": [
+         "partial",
+         "Evidence does not explicitly state Musk is currently CEO of both companies."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "SpaceX recently made its stock market debut and previously acquired other companies owned by Musk, including xAI and the platform formerly known as Twitter.",
+        "why": [
+         "contradicted",
+         "Evidence indicates SpaceX acquired xAI and X, not that SpaceX recently went public."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "tagesschau",
+       "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
+       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
+       "excerpt": "Die Musk-Konzerne Tesla und SpaceX könnten sich zusammentun und so einen mehrere Billionen Dollar schweren Tech-Konzern bilden. Welche Folgen - aber auch Risiken - diese Fusion haben könnte.",
+       "kind": "reporting",
+       "published": "2026-10-21T13:08:11+00:00",
+       "lang": "de"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+       "kind": "reporting",
+       "published": "2026-10-21T08:42:49+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "9dc5faae10",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "lebanon",
+     "israel",
+     "unifil",
+     "hezbollah"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "link": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-20T18:19:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1089,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "published": "2026-10-21T13:32:57+00:00",
+      "kind": "analysis",
+      "lang": "en",
+      "words": 1374,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "UNIFIL Mandate Ending Amid Regional Instability in Lebanon",
+     "parts": {
+      "happened": [
+       {
+        "text": "The mandate of the United Nations Interim Force in Lebanon is nearing its end, with its 7,565 peacekeepers from 46 countries most likely starting to withdraw on December 31, 2026.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Lebanese Prime Minister Nawaf Salam warned of the vacuum this withdrawal could create if it happens without an agreement on a replacement international force.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "UNIFIL spokesperson Kandice Ardiel stated that the mission continues to monitor events, liaise between parties, and facilitate the safe movement of civilians and aid until the mandate finishes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Multinational United Nations Interim Force in Lebanon troops were deployed to the region in 1978 following an Israeli invasion responding to Palestinian attacks.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Blue Line serves as a United Nations-identified withdrawal line between Israel and Lebanon rather than an internationally agreed border.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Following cross-border attacks by Hezbollah in October 2023 and the subsequent war in 2024, Israel occupied large swaths of Lebanese territory north of the Blue Line.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Paul Shaya, a Washington-based Middle East researcher, warned that the absence of an international military force means agreement violations by Israel or Hezbollah cannot be tracked.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "David Wood, a Lebanon researcher at the International Crisis Group, cautioned that attempting to force Hezbollah to surrender its weapons could trigger a deadly domestic conflict.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "David Wood noted that Lebanon's leaders currently possess few bargaining chips and limited options for disarming Hezbollah.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "As noted in the Al Jazeera analysis, therapists and families remain apprehensive about how they will cope if full-scale war returns to the region.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "UNIFIL",
+       "definition": "General definition: A United Nations peacekeeping mission deployed to monitor conflict zones and maintain security."
+      },
+      {
+       "term": "Blue Line",
+       "definition": "General definition: A demarcation line drawn by the United Nations to confirm the withdrawal of forces from a disputed territory."
+      },
+      {
+       "term": "Hezbollah",
+       "definition": "General definition: A political and military organisation operating within Lebanon."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "According to the Al Jazeera analysis, war-driven inflation and economic pressure have severely restricted access to care and therapy for neurodivergent individuals in Lebanon.",
+        "why": [
+         "interpretation attributes a view to someone"
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "It remains unconfirmed whether a new international force or agreement will successfully replace UNIFIL before its scheduled departure at the end of December 2026.",
+        "why": [
+         "number(s) not in evidence: 2026"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+       "link": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
+       "kind": "reporting",
+       "published": "2026-10-20T18:19:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+       "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+       "excerpt": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
+       "kind": "analysis",
+       "published": "2026-10-21T13:32:57+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 14,
+  "items": 393,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
 }

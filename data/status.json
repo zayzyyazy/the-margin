@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-10-21T12:54:00.344289+00:00",
+  "checked_at": "2026-10-21T14:35:12.817115+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -199,7 +199,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-10-21T11:00:19+00:00",
+    "newest": "2026-10-21T14:00:53+00:00",
     "error": null
    },
    {
@@ -209,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-20T22:08:39+00:00",
+    "newest": "2026-10-21T13:12:00+00:00",
     "error": null
    },
    {
@@ -239,7 +239,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-19T18:00:03+00:00",
+    "newest": "2026-10-21T13:00:02+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-10-21T10:30:31+00:00",
+    "newest": "2026-10-21T14:28:16+00:00",
     "error": null
    },
    {
@@ -458,24 +458,24 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 73,
-    "newest": "2026-10-21T12:36:17+00:00",
+    "items": 79,
+    "newest": "2026-10-21T14:15:08+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-10-21T12:54:00.344289+00:00",
+  "at": "2026-10-21T14:35:12.817115+00:00",
   "edition_date": "2026-10-21",
   "sources_active": 46,
   "sources_ok": 44,
-  "items_fetched": 1800,
-  "candidates": 190,
+  "items_fetched": 1806,
+  "candidates": 188,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-10-21T12:54:00.344289+00:00",
+  "at": "2026-10-21T14:35:12.817115+00:00",
   "edition_date": "2026-10-21",
   "articles": 7
  }
