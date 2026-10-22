@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-10-21T14:43:11.412620+00:00",
+  "checked_at": "2026-10-22T09:52:47.007218+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -23,13 +23,23 @@
     "error": "HTTP 403"
    },
    {
+    "name": "Mozilla Hacks",
+    "feed": "https://hacks.mozilla.org/feed/",
+    "bucket": "ai",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
+   {
     "name": "AWS Machine Learning Blog",
     "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
     "bucket": "ai",
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-20T21:14:10+00:00",
+    "newest": "2026-10-21T23:38:38+00:00",
     "error": null
    },
    {
@@ -59,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-20T13:16:33+00:00",
+    "newest": "2026-10-21T16:15:10+00:00",
     "error": null
    },
    {
@@ -69,7 +79,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T02:12:18+00:00",
+    "newest": "2026-10-21T22:17:50+00:00",
     "error": null
    },
    {
@@ -89,7 +99,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-20T20:32:59+00:00",
+    "newest": "2026-10-21T21:53:11+00:00",
     "error": null
    },
    {
@@ -139,7 +149,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-20T14:03:45+00:00",
+    "newest": "2026-10-22T08:00:00+00:00",
     "error": null
    },
    {
@@ -189,7 +199,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-07T00:00:00+00:00",
+    "newest": "2026-10-22T00:00:00+00:00",
     "error": null
    },
    {
@@ -199,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-10-21T14:00:53+00:00",
+    "newest": "2026-10-22T08:00:17+00:00",
     "error": null
    },
    {
@@ -209,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-21T14:11:20+00:00",
+    "newest": "2026-10-21T23:41:25+00:00",
     "error": null
    },
    {
@@ -228,8 +238,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 886,
-    "newest": "2026-10-21T12:51:24+00:00",
+    "items": 888,
+    "newest": "2026-10-22T07:51:31+00:00",
     "error": null
    },
    {
@@ -239,7 +249,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-21T13:00:02+00:00",
+    "newest": "2026-10-21T18:00:03+00:00",
     "error": null
    },
    {
@@ -259,7 +269,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-20T00:00:20+00:00",
+    "newest": "2026-10-21T00:00:21+00:00",
     "error": null
    },
    {
@@ -269,7 +279,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-19T13:48:56+00:00",
+    "newest": "2026-10-21T15:26:07+00:00",
     "error": null
    },
    {
@@ -289,7 +299,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-21T12:10:00+00:00",
+    "newest": "2026-10-22T08:41:18+00:00",
     "error": null
    },
    {
@@ -309,17 +319,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-10-21T06:20:34+00:00",
-    "error": null
-   },
-   {
-    "name": "Mozilla Hacks",
-    "feed": "https://hacks.mozilla.org/feed/",
-    "bucket": "ai",
-    "ok": true,
-    "status": 200,
-    "items": 20,
-    "newest": "2026-08-24T15:32:15+00:00",
+    "newest": "2026-10-22T07:12:46+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-20T23:05:00+00:00",
+    "newest": "2026-10-21T23:00:00+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-10-21T14:28:16+00:00",
+    "newest": "2026-10-21T19:18:25+00:00",
     "error": null
    },
    {
@@ -379,7 +379,7 @@
     "ok": true,
     "status": 200,
     "items": 5,
-    "newest": "2026-10-19T15:40:26+00:00",
+    "newest": "2026-10-21T14:00:07+00:00",
     "error": null
    },
    {
@@ -409,7 +409,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-21T10:00:00+00:00",
+    "newest": "2026-10-21T19:30:00+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-20T23:50:25+00:00",
+    "newest": "2026-10-21T18:41:53+00:00",
     "error": null
    },
    {
@@ -429,7 +429,7 @@
     "ok": true,
     "status": 200,
     "items": 48,
-    "newest": "2026-10-20T12:36:24+00:00",
+    "newest": "2026-10-22T00:43:33+00:00",
     "error": null
    },
    {
@@ -449,7 +449,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-20T23:00:00+00:00",
+    "newest": "2026-10-21T23:00:00+00:00",
     "error": null
    },
    {
@@ -458,25 +458,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 79,
-    "newest": "2026-10-21T14:35:26+00:00",
+    "items": 77,
+    "newest": "2026-10-22T09:26:18+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-10-21T14:43:11.412620+00:00",
-  "edition_date": "2026-10-21",
+  "at": "2026-10-22T09:52:47.007218+00:00",
+  "edition_date": "2026-10-22",
   "sources_active": 46,
-  "sources_ok": 44,
-  "items_fetched": 1806,
-  "candidates": 188,
+  "sources_ok": 43,
+  "items_fetched": 1786,
+  "candidates": 185,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-10-21T14:43:11.412620+00:00",
-  "edition_date": "2026-10-21",
+  "at": "2026-10-22T09:52:47.007218+00:00",
+  "edition_date": "2026-10-22",
   "articles": 7
  }
 }

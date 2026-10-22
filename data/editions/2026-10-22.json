@@ -1,0 +1,981 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T09:52:47.007218+00:00",
+ "candidates": 185,
+ "sources_active": 46,
+ "sources_ok": 43,
+ "sources_failed": [
+  "Import AI",
+  "Mozilla Hacks",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "2d20b63ff185",
+   "title": "Meta shakes up the frontiers, open and closed",
+   "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "source": "Interconnects",
+   "authors": [
+    "Nathan Lambert"
+   ],
+   "published": "2026-10-17T14:06:54+00:00",
+   "bucket": "ai",
+   "excerpt": "This has been a week where the balance of American open-weight models took a step change back toward the frontier. Meta took the lead of this charge with Muse Spark Open, which is now the strongest American-made open model by quite some margin, but the addition of Reflection’s first model Beam is also relevant. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 2124,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.899,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "eb16fa77e9a1",
+   "title": "Reading List 10/17/26",
+   "link": "https://www.construction-physics.com/p/reading-list-101726",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-10-17T12:03:37+00:00",
+   "bucket": "economy",
+   "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at Icon’s fundraising, employment in China’s solar industry, grid-scale battery reliability, Tesla’s flying roadster, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 635,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.378,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "c48ab15c1954",
+   "title": "Why Global Trepanation?",
+   "link": "https://www.astralcodexten.com/p/why-global-trepanation",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-10-21T21:53:11+00:00",
+   "bucket": "mind",
+   "excerpt": "A friend asked me to investigate the following mystery: why do 5-10% of skulls from 10,000 BC to 3,000 BC, all over the world, have holes in them? Why do bone growth patterns indicate that most skull-hole-havers survived years after their holes were drilled, even though brain surgery today requires careful sterilization (and frequently, prophylactic antibiotics) to prevent fatal infections? …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1288,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.889,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "42788d5ecc2b",
+   "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+   "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Molly Herring"
+   ],
+   "published": "2026-10-21T14:00:07+00:00",
+   "bucket": "discovery",
+   "excerpt": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.839,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "9ccae6f48ab4",
+   "title": "New paper: Emerging trends in AI agent evaluation",
+   "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+   "source": "Normal Technology",
+   "authors": [
+    "Sayash Kapoor"
+   ],
+   "published": "2026-10-19T20:11:55+00:00",
+   "bucket": "ai",
+   "excerpt": "By Felix Chen, Stephan Rabanser, Sayash Kapoor, and Arvind Narayanan. See the full author list and affiliations here. There are growing calls for independent and embedded AI evaluation, especially of AI agents. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1242,
+   "access": "free",
+   "lang": "en",
+   "score": 4.83,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1bffb96404d3",
+   "title": "The Robot I Didn’t Expect to Build",
+   "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Jonathan W. Hurst"
+   ],
+   "published": "2026-10-19T13:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.987,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "2d8616453c2a",
+   "title": "Dear Al Pacino",
+   "link": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
+   "source": "Psyche",
+   "authors": [
+    "Joe Mullich"
+   ],
+   "published": "2026-10-21T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.86,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.5,
+     "region": "europe",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "a6e9d3290e",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "macron",
+     "france",
+     "french"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "French borrowing costs overtake US amid budget turmoil",
+      "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "published": "2026-10-22T08:40:36+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 460,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "link": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+      "published": "2026-10-22T05:58:52+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 807,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "France bans protests in parts of Paris as Macron slams Trump",
+      "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-21T22:32:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 515,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+      "published": "2026-10-21T17:48:20+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 420,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+      "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "kind": "reporting",
+      "published": "2026-10-21T23:06:36+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-21T14:04:28+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-21T06:50:40+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "French borrowing costs rise amid budget turmoil and political row",
+     "parts": {
+      "happened": [
+       {
+        "text": "French borrowing costs rose to their highest level in almost 15 years as investors worried about the government's ability to pass a budget.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "French authorities banned protests in parts of Paris, including around the Elysee presidential palace and the Louvre.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Emmanuel Macron is the president of France, and Donald Trump is the president of the United States.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Carsten Brzeski of the bank ING said that rising yields had reinforced the European Central Bank's restrictive monetary policy stance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jim Reid of Deutsche Bank stated that the sell-off in French government bonds was starting to ripple out to other European countries.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Carsten Brzeski stated that the European Central Bank is very likely to stay on hold and delay any next rate hike decision.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Authorities face further uncertainty as new large-scale protests and demonstrations have been called for the coming weekend.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Bond yield",
+       "definition": "The return an investor realizes on a bond, fluctuating inverse to its market price."
+      },
+      {
+       "term": "European Central Bank",
+       "definition": "The central bank responsible for European Union monetary policy and the euro."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "France has been grappling with widespread protests and riots that began when students demonstrated over high prices and school conditions before turning violent.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Emmanuel Macron condemned foreign leaders for making stupid comments about the unrest after Donald Trump blamed migration for the violence.",
+        "why": [
+         "partial",
+         "Evidence does not confirm Macron condemned leaders specifically because of Trump's comments."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+       "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+       "excerpt": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. …",
+       "kind": "reporting",
+       "published": "2026-10-21T23:06:36+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "France bans protests in parts of Paris as Macron slams Trump",
+       "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "French President Emmanuel Macron railed against \"stupid\" comments made by foreign leaders for their political purposes. Plus, Paris police are set to extend restrictions on gatherings in parts of the city on Thursday.",
+       "kind": "reporting",
+       "published": "2026-10-21T22:32:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "2fc973aca3",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "putin",
+     "russia",
+     "witkoff"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "published": "2026-10-22T08:18:39+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 400,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine, Russia trade strikes after Witkoff talks",
+      "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-22T04:57:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 573,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: New peace proposals lack ‘substance’, says Kremlin after Witkoff-Putin meeting in Russia",
+      "link": "https://www.theguardian.com/world/2026/oct/22/ukraine-war-briefing-peace-proposals-lack-substance-witkoff-putin-meeting",
+      "published": "2026-10-22T01:52:52+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 726,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1142,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "\"Nichts ohne Regelung der Territorialfrage\" – ARD-Reporter zum Treffen zwischen Witkoff und Putin",
+      "link": "https://www.tagesschau.de/video/video-1670536.html",
+      "kind": "reporting",
+      "published": "2026-10-22T08:32:31+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-22T02:16:25+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "kind": "reporting",
+      "published": "2026-10-22T01:16:20+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-21T21:27:41+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-21T19:58:06+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-21T19:32:00+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1670536.html",
+      "error": "only 19 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine and Russia exchange strikes following US envoy visit",
+     "parts": {
+      "happened": [
+       {
+        "text": "Russian missile strikes on Kyiv and the surrounding region killed at least two people and injured dozens of residents, including children, according to Ukrainian authorities.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "In response to the escalation, Ukraine launched a barrage of hundreds of drones targeting the Moscow region and other areas in Russia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The military exchanges followed a meeting between United States special envoy Steve Witkoff and Russian President Vladimir Putin in St Petersburg to discuss ending the ongoing war.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "During the diplomatic visit, Russia released jailed American citizen Stephen Hubbard, prompting praise from the US envoy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Ukrainian Foreign Minister Andrii Sybiha stated that appeasement and flattery would not halt the Russian military campaign, emphasizing that only strength would stop the war.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The Kremlin expressed willingness in principle to restart talks mediated by the United States, but warned that current European and Ukrainian peace proposals lacked substance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains unclear how trilateral negotiations will proceed at the technical level and whether both sides can bridge their starkly differing approaches to postwar security.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "United States special envoy",
+       "definition": "A diplomatic representative appointed by the United States government to handle specific international negotiations or missions."
+      },
+      {
+       "term": "Trilateral talks",
+       "definition": "Negotiations involving three distinct national governments or parties attempting to resolve a dispute."
+      },
+      {
+       "term": "Air defences",
+       "definition": "Military measures and weapon systems designed to nullify or intercept incoming aerial attacks or missiles."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.1",
+        "text": "United States President Donald Trump claimed that the conflict was as close as it had ever been to ending, despite the continuing hostilities.",
+        "why": [
+         "partial",
+         "The claim omits the hedge that the president 'believed' the war 'may be' ending."
+        ]
+       }
+      ],
+      "checked": 7,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Ukraine, Russia trade strikes after Witkoff talks",
+       "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals.",
+       "kind": "reporting",
+       "published": "2026-10-22T04:57:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+       "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+       "excerpt": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
+       "kind": "reporting",
+       "published": "2026-10-22T08:18:39+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "2f962da646",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "facebook",
+     "meta",
+     "analytica",
+     "mexico"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+      "published": "2026-10-22T09:23:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 601,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Warum Meta eine Rekordstrafe zahlen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytica-100.html",
+      "published": "2026-10-22T06:36:44+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 412,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T21:49:07+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 878,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+      "link": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-21T19:27:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 493,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Meta ordered to pay twenty five billion dollars in New Mexico",
+     "parts": {
+      "happened": [
+       {
+        "text": "A judge in New Mexico ordered Meta Platforms to pay the US state $25bn after a court found the company intentionally misled consumers about data privacy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Judge Francis Mathew wrote that the company spent years lying to the public about its data handling and core business practices.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Cambridge Analytica was a British political consulting firm that harvested Facebook data to generate targeted political ads during the 2016 US presidential election.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Meta is the parent company owning major social media platforms including Facebook, Instagram and WhatsApp.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "CJ Mahoney, Meta's chief legal officer, stated that the company was confident it would win an appeal against the ruling.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Mahoney also claimed that the lawsuit attempts to impose a tax on speech and makes it impossible to conduct business in New Mexico.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "New Mexico Attorney General Raúl Torrez declared that the judgment serves as an unambiguous message to Silicon Valley that no corporation is above the law.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The final financial outcome remains open as Meta prepares its appeal process.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "It is unconfirmed how long the appeals will tie up the funds before any money actually reaches the state's education system.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "The ultimate impact of ongoing separate multi-state legal challenges concerning child safety and platform addiction remains undetermined.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Meta",
+       "definition": "A multinational technology conglomerate that owns major social media services such as Facebook, Instagram and WhatsApp."
+      },
+      {
+       "term": "Attorney General",
+       "definition": "A high-ranking government official who acts as the chief legal advisor to the government and primary law enforcement officer for a state."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "The state's attorney general stated that the penalty is legally mandated to be paid into New Mexico's education fund.",
+        "why": [
+         "partial",
+         "The claim omits that funds will likely be tied up by appeals, distorting the immediacy."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "The legal action stems from a 2021 lawsuit filed by New Mexico's attorney general following the Cambridge Analytica data scandal.",
+        "why": [
+         "partial",
+         "Claim lacks the 'up to' or 'as many as' hedge for the user count mentioned in evidence."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+       "link": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+       "excerpt": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.",
+       "kind": "reporting",
+       "published": "2026-10-22T09:23:53+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+       "link": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
+       "kind": "reporting",
+       "published": "2026-10-21T19:27:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "9aaed25866",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "saurav",
+     "ranka",
+     "delhi",
+     "jail"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail",
+      "link": "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-22T05:22:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 969,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:22:28+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 376,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Indian court orders release of two leaders of Cockroach movement",
+      "link": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+      "published": "2026-10-21T15:26:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 494,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Indian court frees jailed youth leaders after protest crackdown",
+     "parts": {
+      "happened": [
+       {
+        "text": "The two leaders furnished personal bonds and signed written undertakings promising to maintain peace and not call for protests at Jantar Mantar.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "They had initially been arrested and booked for trespassing after entering the Jantar Mantar protest site and raising the Indian flag.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The movement has been calling for the resignation of Chief Election Commissioner Gyanesh Kumar following voter-list irregularities.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Delhi Police recently denotified Jantar Mantar as a designated protest site, months after demonstrations led to the resignation of India's education minister.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The release of the two leaders is likely to deal a blow to Prime Minister Narendra Modi's government, according to The Guardian.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Critics warn that the electoral roll revision process could exclude eligible voters and deny them their right to vote.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains uncertain how the youth movement will proceed as founders vow to re-strategise and continue their demonstrations.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "Both the governing Bharatiya Janata Party and the Election Commission have rejected allegations that the electoral roll revision was designed to benefit the ruling party.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Chief Election Commissioner",
+       "definition": "The head of the independent body responsible for administering election processes in India."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Saurav Das and Ashutosh Ranka were released from Tihar Jail on Wednesday night after a magistrate declined a police request to extend their judicial custody.",
+        "why": [
+         "partial",
+         "Evidence does not specify they were released at 'night'."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Saurav Das and Ashutosh Ranka are leaders of the Cockroach Janta Party, a youth collective that began as an internet joke.",
+        "why": [
+         "partial",
+         "Evidence identifies the party but does not mention it began as an internet joke."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail",
+       "link": "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The two Cockroach Janta Party leaders were released after pledging not to call for protests at Delhi's Jantar Mantar amid demonstrations demanding CEC Gyanesh Kumar's resignation. DW has more.",
+       "kind": "reporting",
+       "published": "2026-10-22T05:22:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 393,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
