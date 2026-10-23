@@ -1,0 +1,880 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T09:47:00.395720+00:00",
+ "candidates": 162,
+ "sources_active": 46,
+ "sources_ok": 43,
+ "sources_failed": [
+  "Import AI",
+  "Econbrowser",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "e5e599b36f53",
+   "title": "Why AI Can’t Replace Engineering Teams",
+   "link": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Brian Jenney"
+   ],
+   "published": "2026-10-22T18:02:20+00:00",
+   "bucket": "ai",
+   "excerpt": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.088,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "34319c122433",
+   "title": "Will bystander economies be able to finance their governments?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-10-23T04:51:50+00:00",
+   "bucket": "economy",
+   "excerpt": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 833,
+   "access": "free",
+   "lang": "en",
+   "score": 3.839,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "d3c817538f63",
+   "title": "Why romantic relationships matter more to men than to women",
+   "link": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
+   "source": "Psyche",
+   "authors": [
+    "Iris Wahring"
+   ],
+   "published": "2026-10-22T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.423,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "432a74571447",
+   "title": "Why do mathematicians keep proving things they already know?",
+   "link": "https://www.newscientist.com/article/2595497-why-do-mathematicians-keep-proving-things-they-already-know/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Jacob Aron"
+   ],
+   "published": "2026-10-23T08:00:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "What exactly is a mathematical proof? Columnist Jacob Aron breaks down how mathematicians plot a course to answer open questions, and how finding several solutions to the same problem is an important part of the whole endeavour of maths",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.388,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "de0bc113c085",
+   "title": "Making the case for context-aware AI",
+   "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "MIT Technology Review Insights"
+   ],
+   "published": "2026-10-22T10:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 3044,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.688,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "256e2fb6cae6",
+   "title": "How Lula turned four lessons from the presidential elections in Colombia into a comeback in Brazil’s Sunday runoff",
+   "link": "https://theconversation.com/how-lula-turned-four-lessons-from-the-presidential-elections-in-colombia-into-a-comeback-in-brazils-sunday-runoff-295048",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Guilherme Casarões, Associate Professor of Brazilian Studies, Florida International University",
+    "Carlos Ricaurte, Latin America and Caribbean Center, Florida International University"
+   ],
+   "published": "2026-10-22T23:58:36+00:00",
+   "bucket": "mind",
+   "excerpt": "Iván Cepeda’s defeat in Colombia served as a wake-up call for the left in Brazil. The campaign shifted its focus from rhetoric about sovereignty to issues that directly affect people’s daily lives, pushing foreign policy into the background",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1343,
+   "access": "free",
+   "lang": "en",
+   "score": 3.989,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ae171af93b8b",
+   "title": "KiCad… In The Browser?",
+   "link": "https://hackaday.com/2026/10/22/kicad-in-the-browser/",
+   "source": "Hackaday",
+   "authors": [
+    "Zoe Skyforest"
+   ],
+   "published": "2026-10-22T15:30:27+00:00",
+   "bucket": "discovery",
+   "excerpt": "KiCad is a useful tool for designing printed circuit boards, but it’s of no use to you if you can’t install it on the computer you’re on. To get around …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.3,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "16a561f35f",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "ukraine",
+     "musk",
+     "ukrainian"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:36:43+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 577,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+      "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-23T05:37:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 400,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "published": "2026-10-23T02:28:21+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 324,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Donald Trump has sold out Ukraine. He makes appeaser Chamberlain look like a man of iron principle | Simon Tisdall",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
+      "kind": "opinion",
+      "published": "2026-10-22T11:00:41+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine reports Starlink restrictions despite Donald Trump's claims",
+     "parts": {
+      "happened": [
+       {
+        "text": "Ukraine is still recording connection issues with the Starlink satellite network after United States President Donald Trump said Elon Musk had reversed limits on the uplink.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Donald Trump stated that the tech billionaire had put the service back, though he declined to confirm whether he had directly asked for the restrictions to be lifted.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Defence ministry sources in Ukraine said that there was currently no confirmation that the speed restrictions had actually been lifted.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Starlink and its military-grade counterpart Starshield are communication networks utilizing thousands of satellites to provide connectivity on the battlefield and in remote areas.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Earlier, reports emerged that Elon Musk had capped connection speeds for Ukrainian hardware, rendering some offensive and interceptor drones virtually useless.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "These technical disputes occurred amid a diplomatic row between Donald Trump and Ukrainian President Volodymyr Zelensky regarding Ukrainian strikes on Russian oil infrastructure and US deals on Russian diesel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Sources within the Ukrainian defence ministry stated that the connection losses at high speeds were actively hampering military operations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "United States Democratic Senator Richard Blumenthal announced that he had opened an inquiry into the matter.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains disputed who originally ordered the restrictions, with Elon Musk previously suggesting the US military and president were behind any limits, while the White House and the Pentagon denied directing any changes.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A senior European official stated that Ukraine has not received a clear official explanation regarding who ordered the restrictions or why.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Starlink",
+       "definition": "A satellite internet constellation operated by American aerospace company SpaceX."
+      },
+      {
+       "term": "SpaceX",
+       "definition": "An American aerospace manufacturer and space transportation services company."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 10,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text mentions US deals on Russian diesel without prior context or explanation.",
+        "The text assumes the reader knows about a diplomatic row that is not explained."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+       "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Trump said that he did not want to comment on who called for capping Starshield for Ukraine, but that Musk had \"put it back.\"",
+       "kind": "reporting",
+       "published": "2026-10-23T05:37:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+       "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+       "kind": "reporting",
+       "published": "2026-10-23T09:36:43+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "8042db0d54",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "israel",
+     "hebron",
+     "bank",
+     "netanyahu"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+      "published": "2026-10-23T09:12:25+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 375,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+      "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-23T08:25:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 269,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israeli military kills two in gun battle in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-23T09:12:38+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+      "error": "only 56 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israel prepares West Bank closure following attack near Hebron",
+     "parts": {
+      "happened": [
+       {
+        "text": "Israeli forces killed two alleged Palestinian attackers at a checkpoint after multiple people were wounded.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The military operation comes shortly before parliamentary elections are scheduled to take place in Israel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Benjamin Netanyahu stated that security forces had successfully prevented a major terrorist attack that threatened civilians.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Right-wing politicians reportedly attempt to gain voter support by promising a harsh approach against Palestinian violence.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "No detailed information was initially provided regarding the specific target of the suspected attack.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Opinion polls suggest that it could be difficult for either Benjamin Netanyahu's camp or the opposition to secure a majority.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Benjamin Netanyahu announced that the Israeli government was preparing to close down the occupied West Bank following a shooting attack near Hebron.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu serves as the prime minister of Israel.",
+        "why": [
+         "quote not found in S2"
+        ]
+       }
+      ],
+      "checked": 6,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+       "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Prime Minister Benjamin Netanyahu said Israel is shutting down the occupied West Bank after having prevented a \"major attack.\"",
+       "kind": "reporting",
+       "published": "2026-10-23T08:25:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "tagesschau",
+       "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+       "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+       "excerpt": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant haben sollen.",
+       "kind": "reporting",
+       "published": "2026-10-23T09:12:25+00:00",
+       "lang": "de"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "6a492fa39c",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "france",
+     "macron"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Macron to meet student groups: Where are France’s protests heading?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
+      "published": "2026-10-23T08:50:23+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 832,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
+      "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-22T16:28:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 497,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "French student protests prompt security bans and government talks",
+     "parts": {
+      "happened": [
+       {
+        "text": "French President Emmanuel Macron plans to meet with high school student representatives as the country braces for further protests over the weekend.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jean-Didier Berger, the minister delegate to the interior minister, said the police presence on the streets would be increased by 20 percent.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Emmanuel Macron is the French president whose government faces political deadlock and mounting debt.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Observers suggest that a few minor measures cannot address the deeper anxieties regarding job prospects and the decline of state services.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jacques Reland, a senior research fellow at the Global Policy Institute, stated that the root cause is that young people's prospects depend on family wealth because the wealthy family has replaced the welfare state.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Reland also stated that protesters are demanding financial support that the government cannot provide without increasing the deficit or touching social security, which would provoke further protests.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains to be seen how the government can successfully bring young people off the streets.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Student groups and unions continue to mobilize and hold rallies despite government demonstration bans.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Whether upcoming talks between authorities, unions and student representatives will yield concrete solutions is yet to be decided.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "High school students have been protesting since September against teacher shortages, overcrowded classrooms and dilapidated school buildings.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Authorities announced curfews and protest bans in several cities following weekend demonstrations that escalated into violence, looting and clashes with police.",
+        "why": [
+         "partial",
+         "Evidence says authorities recommend not demonstrating; does not explicitly confirm city-wide bans or curfews."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "The student grievances have since expanded into a nationwide movement addressing the cost of living and deteriorating public services ahead of the presidential election.",
+        "why": [
+         "partial",
+         "Evidence does not mention the upcoming presidential election."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Macron to meet student groups: Where are France’s protests heading?",
+       "link": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
+       "excerpt": "President to meet for first time with student representatives on Friday before further protests.",
+       "kind": "reporting",
+       "published": "2026-10-23T08:50:23+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
+       "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "French President Emmanuel Macron vowed to ban unauthorized protests after France was rocked by violence and looting. As anger over public services and the cost of living grows, authorities are bracing for more protests.",
+       "kind": "reporting",
+       "published": "2026-10-22T16:28:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "ce6ff6f552",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "taiwan",
+     "one",
+     "champi",
+     "liuqiu"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:45:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 538,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+      "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-23T06:40:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 441,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Typhoon Champi disrupts Taiwan and Japan as severe storm approaches",
+     "parts": {
+      "happened": [
+       {
+        "text": "Powerful Typhoon Champi swept close to Taiwan's north-east coast on Friday, causing hundreds of flight cancellations across the region.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Authorities reported that one person died after being swept away by waves, while 171 people were injured and 1,000 were forced to evacuate.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Taiwan's Central Weather Administration is the government agency monitoring the storm's trajectory alongside weather agencies in Hong Kong and Japan.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Weather agencies forecast that Champi will bring strong winds and 90cm of rain to Taiwan's north-east until Saturday.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "After passing Taiwan and the Okinawa islands, the storm is expected to hover over waters off China's eastern coast before moving towards Japan's main island.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Central Weather Administration Administrator Lu Kuo-chen stated that if the storm slows down as it approaches Taiwan's northeastern tip, its impact will last longer.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Weather agencies in Taiwan, Hong Kong and Japan expect the eye of the storm to pass without making landfall in Taiwan.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "However, a forecaster in Taiwan's Central Weather Administration told Reuters that a direct hit could not be ruled out entirely if the storm stalls, loops or wobbles.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "El Niño",
+       "definition": "A naturally occurring climate pattern involving the warming of surface waters in the tropical Pacific Ocean, which can trigger extreme weather events."
+      },
+      {
+       "term": "Typhoon",
+       "definition": "A mature tropical cyclone that develops in the western part of the North Pacific Ocean."
+      },
+      {
+       "term": "Central Weather Administration",
+       "definition": "A governmental agency responsible for meteorological observation, forecasting, and warning services."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Schools, offices, and Taiwan's stock exchange suspended operations on Friday, and power cuts affected nearly 8,400 households in Japan's Okinawa prefecture.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Typhoon Champi reached peak strength earlier in the week as the planet's strongest storm of the year, attaining maximum sustained winds equivalent to a Category 5 hurricane.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "The storm has been fuelled by a Super El Niño, a naturally occurring phenomenon that heats the Pacific Ocean and contributes to active typhoon seasons.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+       "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+       "kind": "reporting",
+       "published": "2026-10-23T08:45:58+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+       "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "One person has died and thousands have been evacuated as Taiwan prepares for a possible direct hit. Though no longer a \"super\" typhoon, Champi is still packing winds of nearly 200 kmh and will bring torrential rain.",
+       "kind": "reporting",
+       "published": "2026-10-23T06:40:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 12,
+  "items": 384,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}

@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-10-22T09:52:47.007218+00:00",
+  "checked_at": "2026-10-23T09:47:00.395720+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -13,18 +13,18 @@
     "error": "HTTP 403"
    },
    {
-    "name": "Import AI",
-    "feed": "https://importai.substack.com/feed",
-    "bucket": "ai",
+    "name": "Econbrowser",
+    "feed": "https://econbrowser.com/feed",
+    "bucket": "economy",
     "ok": false,
-    "status": 403,
+    "status": null,
     "items": 0,
     "newest": null,
-    "error": "HTTP 403"
+    "error": "<urlopen error timed out>"
    },
    {
-    "name": "Mozilla Hacks",
-    "feed": "https://hacks.mozilla.org/feed/",
+    "name": "Import AI",
+    "feed": "https://importai.substack.com/feed",
     "bucket": "ai",
     "ok": false,
     "status": 403,
@@ -39,7 +39,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T23:38:38+00:00",
+    "newest": "2026-10-22T18:06:35+00:00",
     "error": null
    },
    {
@@ -49,7 +49,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T10:01:00+00:00",
+    "newest": "2026-10-22T10:01:00+00:00",
     "error": null
    },
    {
@@ -69,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-21T16:15:10+00:00",
+    "newest": "2026-10-22T15:05:11+00:00",
     "error": null
    },
    {
@@ -79,7 +79,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T22:17:50+00:00",
+    "newest": "2026-10-22T22:25:33+00:00",
     "error": null
    },
    {
@@ -99,7 +99,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T21:53:11+00:00",
+    "newest": "2026-10-22T19:42:57+00:00",
     "error": null
    },
    {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-22T08:00:00+00:00",
+    "newest": "2026-10-22T12:36:06+00:00",
     "error": null
    },
    {
@@ -160,16 +160,6 @@
     "status": 200,
     "items": 10,
     "newest": "2026-10-20T08:00:00+00:00",
-    "error": null
-   },
-   {
-    "name": "Econbrowser",
-    "feed": "https://econbrowser.com/feed",
-    "bucket": "economy",
-    "ok": true,
-    "status": 200,
-    "items": 10,
-    "newest": "2026-10-20T20:33:03+00:00",
     "error": null
    },
    {
@@ -209,7 +199,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-10-22T08:00:17+00:00",
+    "newest": "2026-10-23T08:00:17+00:00",
     "error": null
    },
    {
@@ -219,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-21T23:41:25+00:00",
+    "newest": "2026-10-22T15:03:03+00:00",
     "error": null
    },
    {
@@ -238,8 +228,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 888,
-    "newest": "2026-10-22T07:51:31+00:00",
+    "items": 889,
+    "newest": "2026-10-22T22:24:34+00:00",
     "error": null
    },
    {
@@ -249,7 +239,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-21T18:00:03+00:00",
+    "newest": "2026-10-22T18:02:20+00:00",
     "error": null
    },
    {
@@ -299,7 +289,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-22T08:41:18+00:00",
+    "newest": "2026-10-23T09:00:00+00:00",
     "error": null
    },
    {
@@ -319,7 +309,17 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-10-22T07:12:46+00:00",
+    "newest": "2026-10-23T07:38:28+00:00",
+    "error": null
+   },
+   {
+    "name": "Mozilla Hacks",
+    "feed": "https://hacks.mozilla.org/feed/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-08-24T15:32:15+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-21T23:00:00+00:00",
+    "newest": "2026-10-22T22:00:00+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-10-21T19:18:25+00:00",
+    "newest": "2026-10-23T09:00:00+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T10:00:00+00:00",
+    "newest": "2026-10-22T10:01:00+00:00",
     "error": null
    },
    {
@@ -389,7 +389,7 @@
     "ok": true,
     "status": 200,
     "items": 12,
-    "newest": "2026-10-19T10:00:00+00:00",
+    "newest": "2026-10-22T10:00:00+00:00",
     "error": null
    },
    {
@@ -409,7 +409,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-21T19:30:00+00:00",
+    "newest": "2026-10-22T22:55:00+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-21T18:41:53+00:00",
+    "newest": "2026-10-22T19:42:26+00:00",
     "error": null
    },
    {
@@ -428,8 +428,8 @@
     "bucket": "mind",
     "ok": true,
     "status": 200,
-    "items": 48,
-    "newest": "2026-10-22T00:43:33+00:00",
+    "items": 49,
+    "newest": "2026-10-22T23:58:36+00:00",
     "error": null
    },
    {
@@ -449,7 +449,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-21T23:00:00+00:00",
+    "newest": "2026-10-22T23:00:00+00:00",
     "error": null
    },
    {
@@ -458,25 +458,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 77,
-    "newest": "2026-10-22T09:26:18+00:00",
+    "items": 79,
+    "newest": "2026-10-23T09:33:59+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-10-22T09:52:47.007218+00:00",
-  "edition_date": "2026-10-22",
+  "at": "2026-10-23T09:47:00.395720+00:00",
+  "edition_date": "2026-10-23",
   "sources_active": 46,
   "sources_ok": 43,
-  "items_fetched": 1786,
-  "candidates": 185,
+  "items_fetched": 1800,
+  "candidates": 162,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-10-22T09:52:47.007218+00:00",
-  "edition_date": "2026-10-22",
+  "at": "2026-10-23T09:47:00.395720+00:00",
+  "edition_date": "2026-10-23",
   "articles": 7
  }
 }
