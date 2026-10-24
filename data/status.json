@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-10-23T09:47:00.395720+00:00",
+  "checked_at": "2026-10-24T09:20:19.597989+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -11,16 +11,6 @@
     "items": 0,
     "newest": null,
     "error": "HTTP 403"
-   },
-   {
-    "name": "Econbrowser",
-    "feed": "https://econbrowser.com/feed",
-    "bucket": "economy",
-    "ok": false,
-    "status": null,
-    "items": 0,
-    "newest": null,
-    "error": "<urlopen error timed out>"
    },
    {
     "name": "Import AI",
@@ -39,7 +29,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-22T18:06:35+00:00",
+    "newest": "2026-10-23T17:48:54+00:00",
     "error": null
    },
    {
@@ -49,7 +39,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-22T10:01:00+00:00",
+    "newest": "2026-10-23T10:00:00+00:00",
     "error": null
    },
    {
@@ -69,7 +59,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-22T15:05:11+00:00",
+    "newest": "2026-10-23T19:12:37+00:00",
     "error": null
    },
    {
@@ -79,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-22T22:25:33+00:00",
+    "newest": "2026-10-23T22:48:25+00:00",
     "error": null
    },
    {
@@ -99,7 +89,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-22T19:42:57+00:00",
+    "newest": "2026-10-23T23:45:42+00:00",
     "error": null
    },
    {
@@ -149,7 +139,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-22T12:36:06+00:00",
+    "newest": "2026-10-23T12:54:48+00:00",
     "error": null
    },
    {
@@ -160,6 +150,16 @@
     "status": 200,
     "items": 10,
     "newest": "2026-10-20T08:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Econbrowser",
+    "feed": "https://econbrowser.com/feed",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-10-23T02:16:00+00:00",
     "error": null
    },
    {
@@ -199,7 +199,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-10-23T08:00:17+00:00",
+    "newest": "2026-10-24T08:00:14+00:00",
     "error": null
    },
    {
@@ -209,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-22T15:03:03+00:00",
+    "newest": "2026-10-23T23:12:38+00:00",
     "error": null
    },
    {
@@ -228,8 +228,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 889,
-    "newest": "2026-10-22T22:24:34+00:00",
+    "items": 890,
+    "newest": "2026-10-23T16:15:50+00:00",
     "error": null
    },
    {
@@ -239,7 +239,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-22T18:02:20+00:00",
+    "newest": "2026-10-23T18:00:03+00:00",
     "error": null
    },
    {
@@ -259,7 +259,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-21T00:00:21+00:00",
+    "newest": "2026-10-23T00:00:23+00:00",
     "error": null
    },
    {
@@ -289,7 +289,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-23T09:00:00+00:00",
+    "newest": "2026-10-23T12:10:00+00:00",
     "error": null
    },
    {
@@ -299,7 +299,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-20T17:00:00+00:00",
+    "newest": "2026-10-23T20:32:37+00:00",
     "error": null
    },
    {
@@ -309,7 +309,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-10-23T07:38:28+00:00",
+    "newest": "2026-10-24T08:46:22+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-22T22:00:00+00:00",
+    "newest": "2026-10-23T23:30:00+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-10-23T09:00:00+00:00",
+    "newest": "2026-10-23T14:42:27+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-22T10:01:00+00:00",
+    "newest": "2026-10-23T10:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +379,7 @@
     "ok": true,
     "status": 200,
     "items": 5,
-    "newest": "2026-10-21T14:00:07+00:00",
+    "newest": "2026-10-23T14:54:10+00:00",
     "error": null
    },
    {
@@ -409,7 +409,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-22T22:55:00+00:00",
+    "newest": "2026-10-23T20:20:00+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-22T19:42:26+00:00",
+    "newest": "2026-10-23T21:35:13+00:00",
     "error": null
    },
    {
@@ -429,7 +429,7 @@
     "ok": true,
     "status": 200,
     "items": 49,
-    "newest": "2026-10-22T23:58:36+00:00",
+    "newest": "2026-10-23T09:03:28+00:00",
     "error": null
    },
    {
@@ -449,7 +449,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-22T23:00:00+00:00",
+    "newest": "2026-10-23T23:00:00+00:00",
     "error": null
    },
    {
@@ -458,25 +458,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 79,
-    "newest": "2026-10-23T09:33:59+00:00",
+    "items": 78,
+    "newest": "2026-10-24T09:17:19+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-10-23T09:47:00.395720+00:00",
-  "edition_date": "2026-10-23",
+  "at": "2026-10-24T09:20:19.597989+00:00",
+  "edition_date": "2026-10-24",
   "sources_active": 46,
-  "sources_ok": 43,
-  "items_fetched": 1800,
-  "candidates": 162,
+  "sources_ok": 44,
+  "items_fetched": 1810,
+  "candidates": 167,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-10-23T09:47:00.395720+00:00",
-  "edition_date": "2026-10-23",
+  "at": "2026-10-24T09:20:19.597989+00:00",
+  "edition_date": "2026-10-24",
   "articles": 7
  }
 }

@@ -1,0 +1,904 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T09:20:19.597989+00:00",
+ "candidates": 167,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "7b8c581169aa",
+   "title": "Why Engineers Should Brave Capitol Hill",
+   "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Lucas Laursen"
+   ],
+   "published": "2026-10-22T13:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an invitation to join the annual Congressional Visits Day organized by IEEE-USA. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.911,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a9380d6cca87",
+   "title": "Quick Study",
+   "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-23T21:35:13+00:00",
+   "bucket": "ai",
+   "excerpt": "Tool: Quick Study Prompt to Claude Opus 5.5 High: Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection, with no external libraries beyond Google Fonts. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.366,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "2d7ca697e43b",
+   "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-10-22T18:36:11+00:00",
+   "bucket": "economy",
+   "excerpt": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.586,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "afa2a91bf475",
+   "title": "Your Book Review: The Ghost In My Brain",
+   "link": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-10-23T23:45:42+00:00",
+   "bucket": "mind",
+   "excerpt": "[ This is one of the finalists in the 2026 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 4229,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.089,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "7e0028385650",
+   "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+   "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Joanna Thompson"
+   ],
+   "published": "2026-10-23T14:54:10+00:00",
+   "bucket": "discovery",
+   "excerpt": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.294,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "74580d156774",
+   "title": "Can you ever really think what someone else is thinking?",
+   "link": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+   "source": "Psyche",
+   "authors": [
+    "Víctor Verdejo"
+   ],
+   "published": "2026-10-23T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts - by Víctor Verdejo …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.06,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "3e992be3a688",
+   "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+   "source": "AWS Machine Learning Blog",
+   "authors": [
+    "Subbu Dandamudi"
+   ],
+   "published": "2026-10-23T16:21:36+00:00",
+   "bucket": "ai",
+   "excerpt": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2831,
+   "access": "free",
+   "lang": "en",
+   "score": 3.921,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "africa",
+     "adjustments": []
+    },
+    "id": "1babe8933a",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ebola",
+     "nigeria",
+     "health",
+     "kenya"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:05:43+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 584,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "published": "2026-10-23T13:57:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 617,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-23T12:11:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1239,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ebola Spreads to Kenya and Nigeria Amid Airport Inquiries",
+     "parts": {
+      "happened": [
+       {
+        "text": "Kenya has recorded its second death from Ebola as it handles its first ever outbreak of the disease.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "A 65-year-old woman who was a close family member of the first victim died after being placed in quarantine, according to the health ministry.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Nigeria has confirmed its single imported case of Ebola involving a woman in the capital Abuja, prompting intensive contact tracing.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Africa Centres for Disease Control and Prevention is an organisation that provides public health services and coordination across the continent.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "African health officials noted that the first confirmed patients in Kenya and Nigeria both passed through Uganda's Entebbe International Airport on October 3.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Melaku Yirga, vice-president for Africa at Prosper Global, stated that the confirmation of Ebola in Kenya and Nigeria reinforces the need for countries to work closely together to prevent further transmission.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Yirga stated that what matters most now is speed, sharing information across borders without delay and ensuring frontline health workers and local organisations have the resources to respond quickly.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The outbreak threatens to strain healthcare systems and heighten economic worries for residents in affected nations.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Health officials are investigating whether the patient in Nigeria may have come into contact with the Kenyan patient at the Ugandan airport.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Switzerland disputed accounts that the Nigerian patient had visited the Democratic Republic of Congo, leaving her exact source of exposure unclear.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Kenyan health authorities are also searching for an untraced Ugandan national identified as a contact of the deceased first patient.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ebola",
+       "definition": "A rare and severe viral disease that causes fever, severe bleeding, and organ impairment."
+      },
+      {
+       "term": "Contact tracing",
+       "definition": "The process of identifying, assessing, and managing people who have been exposed to an infected individual to prevent further transmission."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "The current outbreak began in the Democratic Republic of Congo in May and has become the most geographically widespread in history.",
+        "why": [
+         "unsupported",
+         "The evidence does not describe this as the most geographically widespread outbreak in history."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+       "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+       "kind": "reporting",
+       "published": "2026-10-23T12:11:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+       "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+       "kind": "reporting",
+       "published": "2026-10-24T00:05:43+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "6e869ef6d3",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "israeli",
+     "israel",
+     "netanyahu",
+     "palestinians"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+      "published": "2026-10-24T07:09:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1171,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+      "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "published": "2026-10-23T17:22:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 797,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 543,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-24T03:47:14+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-10-24T09:14:40+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+      "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-10-24T05:29:07+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israel launches Hebron demolitions and siege after soldiers killed",
+     "parts": {
+      "happened": [
+       {
+        "text": "The Israeli military has begun demolishing Palestinian buildings in Hebron after two gunmen killed two Israeli soldiers and injured three others near a checkpoint outside the city.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Separately, displaced West Bank Palestinians face growing hunger following a 50 percent reduction in food aid recipients by the United Nations World Food Programme due to funding constraints.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Lawyers and human rights advocates argue that the home demolitions violate international law regarding collective punishment.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ubai Aboudi, an economist and human rights activist, stated that the West Bank is facing a severe humanitarian and financial crisis.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The World Food Programme noted that aid could potentially be reinstated for some beneficiaries in the future, with notices sent via text message.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "World Food Programme",
+       "definition": "A food-assistance branch of the United Nations providing aid worldwide."
+      },
+      {
+       "term": "Palestinian Authority",
+       "definition": "The interim administrative body governing parts of the West Bank."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "The events follow a surge of settlement expansion and violence in the occupied West Bank since October 2023.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Benjamin Netanyahu announced a siege on Hebron and neighbouring Halhul, promising mass demolitions and forced displacement.",
+        "why": [
+         "partial",
+         "The claim states the siege and displacement as facts rather than reporting them as Netanyahu's stated intentions."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Bezalel Smotrich, the far-right finance minister, shared a video of himself in front of a bulldozer tearing down a Palestinian home without permits to create deterrence.",
+        "why": [
+         "partial",
+         "The evidence does not mention the absence of permits as the motivation for the demolition."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Israel's far-right coalition government faces general elections, with polls indicating it may lose its majority.",
+        "why": [
+         "partial",
+         "The claim incorrectly states the loss of majority as fact rather than a likely possibility."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Israel Katz, the defence minister, stated that Hebron would face the same destruction and forced displacement seen in Gaza, Lebanon, and the Jenin refugee camp.",
+        "why": [
+         "partial",
+         "The evidence mentions comparison to Jenin, but does not state Katz cited Lebanon as a comparison."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "Benjamin Netanyahu stated that plans for the largest military operation in the West Bank since 1967 have been drawn up, though no specific date has been set.",
+        "why": [
+         "partial",
+         "The claim ignores the 'about' qualifier regarding the displacement figures from 1967."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+       "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+       "excerpt": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
+       "kind": "reporting",
+       "published": "2026-10-24T03:47:14+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "2f02fec49f",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "hitler",
+     "nazi",
+     "alpine",
+     "nest"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:03:15+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 398,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
+      "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "published": "2026-10-24T06:21:44+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 341,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-24T07:31:42+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+      "error": "only 44 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Fire at Adolf Hitler's Eagle's Nest mountain retreat",
+     "parts": {
+      "happened": [
+       {
+        "text": "Police in Bavaria detained a suspect during a fire at Adolf Hitler's former mountain retreat, known as the Eagle's Nest.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "About 200 emergency personnel were deployed to tackle the blaze at the remote residence, though difficult terrain hindered their efforts.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Authorities reported that nobody was injured in the incident.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The building, formally called the Kehlsteinhaus, was completed by the Nazis in 1938 and served as a part-time seat of government.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The retreat survived destruction after the defeat of the Nazi regime in 1945 and later became a popular tourist destination housing a mountain inn.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "German media reported that investigators suspected the fire was the result of arson.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Police stated that a criminal investigation is under way to determine whether the detained suspect is connected to the fire.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 7,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text incorrectly identifies the Eagle's Nest as the site of the fire, when it occurred elsewhere."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+       "kind": "reporting",
+       "published": "2026-10-24T09:03:15+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+       "excerpt": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
+       "kind": "reporting",
+       "published": "2026-10-24T07:31:42+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "bdd950e209",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News"
+    ],
+    "names": [
+     "alaska",
+     "sullivan",
+     "trump",
+     "doj"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
+      "link": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
+      "published": "2026-10-24T08:11:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1311,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:49:14+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 579,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US Justice Department Sues Over Alaska Senate Candidates",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United States Department of Justice filed a federal lawsuit in Alaska seeking to prevent the state from certifying its Senate election results if Republican incumbent Dan Sullivan narrowly loses.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The department argued in court filings that the presence of a second candidate named Dan Sullivan on the ballot is deliberately designed to confuse voters and mislead them into casting ballots for the wrong person.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "United States President Donald Trump acknowledged that he directed the department to take this legal action.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Senator Dan Sullivan is running for his third six-year term in the Senate against Mary Peltola, a former congresswoman and the first Alaska Native elected to the United States House of Representatives.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The second candidate on the ballot, Daniel J Sullivan Jr, is a retired elementary schoolteacher and former United States Forest Service employee who registered as a Republican this year.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Although Alaska election officials initially disqualified the second candidate, the Alaska Supreme Court subsequently ruled that both men may remain on the ballot.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Forrest Nabors stated that the similar names could swing the election if voters intending to re-elect the senator accidentally vote for his namesake.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Nabors also noted that the lawsuit will at least raise awareness of the issue among voters, which may reduce the number of mistaken votes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The outcome of the race could influence which political party controls the United States Senate.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Experts disagree on whether voter confusion will actually occur or how officials could accurately measure voter intent.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Legal scholars have questioned the validity of the Justice Department's legal arguments, with one describing the likelihood of the lawsuit's success as extremely low.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains unverified whether any federal court will order Alaska to suspend its certification process.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ranked-choice voting",
+       "definition": "An electoral system where voters rank candidates in order of preference rather than choosing just one."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 12,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text refers to the senator running for a third term, but he is currently in his first term.",
+        "The explanation fails to mention the senator's actual political party, despite mentioning the other candidate's party affiliation."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
+       "link": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
+       "excerpt": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
+       "kind": "reporting",
+       "published": "2026-10-24T08:11:17+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Trump administration sues to block certification of upcoming Alaska election",
+       "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+       "kind": "reporting",
+       "published": "2026-10-23T18:49:14+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 14,
+  "items": 384,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
