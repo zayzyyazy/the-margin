@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-10-24T09:20:19.597989+00:00",
+  "checked_at": "2026-10-25T09:37:07.184477+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -49,7 +49,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-09-29T10:50:25+00:00",
+    "newest": "2026-10-24T11:14:32+00:00",
     "error": null
    },
    {
@@ -69,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-23T22:48:25+00:00",
+    "newest": "2026-10-24T11:50:28+00:00",
     "error": null
    },
    {
@@ -119,7 +119,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-17T12:03:37+00:00",
+    "newest": "2026-10-24T12:01:24+00:00",
     "error": null
    },
    {
@@ -159,7 +159,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-10-23T02:16:00+00:00",
+    "newest": "2026-10-24T19:04:17+00:00",
     "error": null
    },
    {
@@ -199,7 +199,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-10-24T08:00:14+00:00",
+    "newest": "2026-10-25T08:00:24+00:00",
     "error": null
    },
    {
@@ -209,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-10-23T23:12:38+00:00",
+    "newest": "2026-10-24T01:32:54+00:00",
     "error": null
    },
    {
@@ -309,7 +309,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-10-24T08:46:22+00:00",
+    "newest": "2026-10-25T06:57:04+00:00",
     "error": null
    },
    {
@@ -409,7 +409,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-23T20:20:00+00:00",
+    "newest": "2026-10-24T11:00:00+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-10-23T21:35:13+00:00",
+    "newest": "2026-10-24T03:59:57+00:00",
     "error": null
    },
    {
@@ -449,7 +449,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-10-23T23:00:00+00:00",
+    "newest": "2026-10-24T23:00:00+00:00",
     "error": null
    },
    {
@@ -458,25 +458,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 78,
-    "newest": "2026-10-24T09:17:19+00:00",
+    "items": 76,
+    "newest": "2026-10-25T09:26:27+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-10-24T09:20:19.597989+00:00",
-  "edition_date": "2026-10-24",
+  "at": "2026-10-25T09:37:07.184477+00:00",
+  "edition_date": "2026-10-25",
   "sources_active": 46,
   "sources_ok": 44,
-  "items_fetched": 1810,
-  "candidates": 167,
+  "items_fetched": 1808,
+  "candidates": 166,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-10-24T09:20:19.597989+00:00",
-  "edition_date": "2026-10-24",
+  "at": "2026-10-25T09:37:07.184477+00:00",
+  "edition_date": "2026-10-25",
   "articles": 7
  }
 }

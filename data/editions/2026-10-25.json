@@ -1,0 +1,984 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T09:37:07.184477+00:00",
+ "candidates": 166,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "d779d8377c72",
+   "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+   "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "source": "Ahead of AI",
+   "authors": [
+    "Sebastian Raschka, PhD"
+   ],
+   "published": "2026-10-24T11:14:32+00:00",
+   "bucket": "ai",
+   "excerpt": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2239,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.423,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "61a9c497a1c3",
+   "title": "Reading List 10/24/26",
+   "link": "https://www.construction-physics.com/p/reading-list-102426",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-10-24T12:01:24+00:00",
+   "bucket": "economy",
+   "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 673,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.423,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "aa9d0aeb8de4",
+   "title": "Unlocking the secrets of the ‘Dragon Man’ skull – and what it reveals about human evolution",
+   "link": "https://theconversation.com/unlocking-the-secrets-of-the-dragon-man-skull-and-what-it-reveals-about-human-evolution-291321",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Chris Stringer, Honorary Professor, Institute of Archaeology, UCL; Natural History Museum"
+   ],
+   "published": "2026-10-23T09:03:28+00:00",
+   "bucket": "mind",
+   "excerpt": "Most of what we knew about early modern humans has been turned upside down in the past two decades – and many more questions remain.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2593,
+   "access": "free",
+   "lang": "en",
+   "score": 3.733,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "7c85e45a5117",
+   "title": "From Chip Lab to Center Stage",
+   "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Joanna Goodrich"
+   ],
+   "published": "2026-10-23T18:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit designer in the consumer electronics division at Analog Devices of Wilmington, Mass. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.398,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "5107c05a5a62",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-22T18:09:56+00:00",
+   "bucket": "ai",
+   "excerpt": "News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.983,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "712a78f6aab7",
+   "title": "Why are cybersecurity losses not worse?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-10-24T15:57:10+00:00",
+   "bucket": "economy",
+   "excerpt": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.939,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "7c90ee1c3430",
+   "title": "How Multiple Births Can Accelerate A Mother’s Biological Age",
+   "link": "https://nautil.us/how-multiple-births-can-accelerate-a-mothers-biological-age-1286063/",
+   "source": "Nautilus",
+   "authors": [
+    "Jake Currie"
+   ],
+   "published": "2026-10-23T21:00:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "As any mom can tell you, having a baby takes a big toll. Growing an entire new human being inside your body demands a lot of resources, energy, and time and it can lead to dramatic physiological changes. There’s some evidence that child-bearing benefits longevity, but pregnancy can accelerate biological aging as well. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.257,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "59accd8491",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "lula",
+     "bolsonaro",
+     "brazil",
+     "brazilians"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+      "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-25T09:34:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 347,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "published": "2026-10-25T08:00:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 712,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+      "published": "2026-10-25T04:07:12+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 948,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:50:02+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 682,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "kind": "reporting",
+      "published": "2026-10-24T21:10:23+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "How Brazil's changing working class is reshaping the presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-10-24T05:05:44+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Brazil votes in presidential runoff between Lula and Bolsonaro",
+     "parts": {
+      "happened": [
+       {
+        "text": "In the first round of voting earlier in the month, Flavio Bolsonaro surpassed Lula by more than 2.2 million votes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Preliminary election results are expected on Sunday night.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Flavio Bolsonaro is a 45-year-old senator who has sat in the Senate since 2019 and is the eldest son of former president Jair Bolsonaro.",
+        "kind": "fact",
+        "cites": [
+         "S1",
+         "S2"
+        ]
+       },
+       {
+        "text": "Jair Bolsonaro is currently under house arrest serving a sentence for attempting a coup to overturn his 2022 election defeat.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Sources note that the election will determine Brazil's future political direction and its relationship with the United States.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "DW reports that if Flavio Bolsonaro wins, it could determine the extent to which the United States expands its influence in Latin America.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Guardian reports that analysts believe Flavio Bolsonaro could refuse to concede if Lula wins, and that Donald Trump might refuse to recognise the result.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Recent polls have shown the candidates virtually tied, leaving the outcome of the runoff highly unpredictable.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It remains uncertain how many voters who identify with neither candidate will turn out or how the large pool of uncommitted voters will break.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Runoff election",
+       "definition": "A secondary voting contest held between the top candidates when no contender secures an absolute majority in the initial round."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Brazilians are heading to the polls on Sunday for a presidential runoff election between the incumbent leftist Luiz Inacio Lula da Silva and the right-wing senator Flavio Bolsonaro.",
+        "why": [
+         "contradicted",
+         "The evidence identifies Flavio Bolsonaro as the son of Jair Bolsonaro, not the incumbent."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Luiz Inacio Lula da Silva is an 80-year-old veteran politician who previously served as head of state from 2003 to 2010 and took office again in 2023.",
+        "why": [
+         "partial",
+         "Evidence states Lula is 80, but does not confirm he took office in 2023."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+       "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The high stakes election will decide whether Brazil will move toward the right or retain a leftist government.",
+       "kind": "reporting",
+       "published": "2026-10-25T09:34:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+       "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+       "excerpt": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva, is attempting an unprecedented comeback against the far-right senator Flávio Bolsonaro, who won the first-round vote. …",
+       "kind": "reporting",
+       "published": "2026-10-25T08:00:58+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "9be6d9f6e8",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "starlink",
+     "musk",
+     "spacex"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T09:00:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 862,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+      "published": "2026-10-25T07:45:03+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 366,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+      "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+      "published": "2026-10-24T21:25:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 704,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Starlink satellite speeds restored to normal",
+      "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-24T19:33:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 378,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+      "kind": "reporting",
+      "published": "2026-10-24T15:29:30+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-23T22:24:36+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-10-25T05:45:31+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine reports restored Starlink speeds amid dispute over restrictions",
+     "parts": {
+      "happened": [
+       {
+        "text": "Ukrainian officials announced that the connection speeds for the Starlink satellite internet system and its military counterpart Starshield have returned to normal after more than a week of restrictions.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Elon Musk stated that his company SpaceX restricted Ukraine's Starlink internet service because the military violated terms of service by using it for offensive drone strikes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Serhii Beskrestnov, a Ukrainian presidential adviser, stated that Starlink terminals operating in Ukraine have a speed restriction and do not work on Russian territory, making deep strikes physically impossible.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Elon Musk is a tech billionaire who owns SpaceX, the aerospace company that provides the Starlink satellite internet network.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Donald Trump is the President of the United States, whose administration experienced a diplomatic standoff with Kyiv regarding Ukrainian strikes on Russian oil infrastructure.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Ukrainian officials stated that the speed restrictions hampered the military's ability to intercept Russian attack drones and forced the cancellation of combat missions.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "President Volodymyr Zelenskyy warned that the connection limits would cause significant human losses.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Elon Musk asserted that if Starlink were to be switched off entirely, the Ukrainian front line would immediately collapse.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear who was ultimately responsible for the Starlink slowdown that occurred.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Kyiv has questioned Washington's support over intelligence sharing amid speculation that the White House may have ordered restrictions on the Starshield system.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Starlink",
+       "definition": "A satellite internet constellation operated by aerospace company SpaceX."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "Volodymyr Zelensky is the president of Ukraine, which relies heavily on Starlink terminals for military coordination and communications on the battlefield.",
+        "why": [
+         "partial",
+         "Evidence confirms the importance of Starlink to Ukraine, but doesn't explicitly state Zelensky is currently president."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+       "kind": "reporting",
+       "published": "2026-10-25T09:00:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+       "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+       "excerpt": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted. But hours after the announcement, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating ⁠the company’s terms. …",
+       "kind": "reporting",
+       "published": "2026-10-24T21:25:58+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "mena",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "24a3a5ff7f",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "netanyahu",
+     "israel",
+     "israeli",
+     "eisenkot"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+      "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-25T09:27:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 893,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israeli elections: What are the possible outcomes?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+      "published": "2026-10-25T07:10:52+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 894,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "published": "2026-10-25T06:24:46+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 613,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:03:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2373,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+      "link": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "kind": "reporting",
+      "published": "2026-10-25T06:00:54+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+      "link": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-25T05:33:10+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-25T05:27:54+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-25T02:07:29+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Elections cannot produce change in Israel",
+      "link": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
+      "kind": "opinion",
+      "published": "2026-10-25T06:54:37+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israeli elections bring societal fault lines to the ballot box",
+     "parts": {
+      "happened": [],
+      "background": [
+       {
+        "text": "Gadi Eisenkot is a former army chief who leads the liberal Yashar party.",
+        "kind": "fact",
+        "cites": [
+         "S1",
+         "S2"
+        ]
+       },
+       {
+        "text": "Israel's proportional representation system requires parties to form coalitions to secure a governing majority because no single party has ever won an outright majority.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Daniel Ben-Simon stated that Eisenkot's election could serve as an opportunity to reshape the future identity of Moroccan Jews in Israel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Issa Amro claimed that local residents are being collectively punished and that civilian suffering is being exploited for political gain ahead of the vote.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear who will govern Israel or whether the election will result in another stalemate leading to a new vote.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Residents questioned whether the large-scale demolitions in Hebron represent permanent strategic decisions or temporary election propaganda.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Knesset",
+       "definition": "The unicameral parliament of the State of Israel."
+      },
+      {
+       "term": "Mizrahi",
+       "definition": "Jews originating from communities in the Middle East and North Africa."
+      },
+      {
+       "term": "Likud",
+       "definition": "A major right-wing political party in Israel."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Opposition challenger Gadi Eisenkot campaigned by focusing on his Moroccan roots to challenge Netanyahu and address historical divisions within Israel.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu is the prime minister of Israel and the leader of the right-wing Likud party.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "happened.0",
+        "text": "Israeli troops levelled a neighbourhood in Hebron and drove out hundreds of families following a militant attack outside the city.",
+        "why": [
+         "partial",
+         "Evidence says authorities claimed collective punishment; the claim states it as an established fact."
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Israel prepared to head to the polls on October 27 in an election featuring a close race between the right-wing bloc led by Prime Minister Benjamin Netanyahu and a Jewish-led opposition alliance.",
+        "why": [
+         "partial",
+         "Evidence notes the election could end Netanyahu's power; the claim states it definitively as a close race."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+       "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "As Israel prepares to vote, Gadi Eisenkot is leveraging his Moroccan heritage in Likud strongholds such as Sderot. From historical divides to October 7, identity and trauma are redefining the city's political loyalties.",
+       "kind": "reporting",
+       "published": "2026-10-25T09:27:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+       "excerpt": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+       "kind": "reporting",
+       "published": "2026-10-25T02:07:29+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "ee5da2888e",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "hundreds",
+     "france",
+     "european",
+     "paris"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T09:32:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1077,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
+      "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "published": "2026-10-24T17:54:41+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 945,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nearly 1,000 arrests made as protests and clashes sweep France",
+     "parts": {
+      "happened": [
+       {
+        "text": "While demonstrations were largely peaceful, police fired tear gas and water cannon in several cities, and some protesters set barricades on fire or smashed shop windows.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "French interior minister Laurent Nuñez stated that two people were seriously injured during the unrest.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The unrest follows weeks of high school demonstrations that began in mid-September over staff shortages, crumbling buildings and overcrowded classrooms, which later drew in trade unions, teachers and parents.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Mass demonstrations also took place in other European cities, including Barcelona, Tirana, Brussels and Milan.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Radical left presidential candidate Jean-Luc Mélenchon stated that Emmanuel Macron must give in and address social grievances or else face repeated protests every week.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Interior Minister Laurent Nuñez stated that the nationwide number of arrests would likely rise as the situation develops.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The ongoing protests set the stage for a highly divisive presidential election period with voters facing choices between opposing political forces.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Official estimates and union figures regarding the turnout differed significantly, with the interior ministry estimating 410,000 protesters and unions putting the figure at about 800,000.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains to be seen whether the government and protesters will find a political resolution to satisfy the demands of students and trade unions.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Nearly 1,000 arrests were made across France as hundreds of thousands of people took part in demonstrations over the cost of living and poor school conditions.",
+        "why": [
+         "partial",
+         "The evidence does not explicitly link the cost of living and schools to this specific protest day."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Emmanuel Macron serves as the French President, and he faces a political crisis as he prepares to leave office next spring.",
+        "why": [
+         "partial",
+         "Evidence does not mention he is leaving office next spring."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Hundreds of thousands march across France in protests over schools and policing",
+       "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+       "excerpt": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president. …",
+       "kind": "reporting",
+       "published": "2026-10-24T17:54:41+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 16,
+  "items": 388,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
