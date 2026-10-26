@@ -1,0 +1,983 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T10:49:09.191746+00:00",
+ "candidates": 165,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "d4fbb16a96f5",
+   "title": "How much development aid is spent on climate change?",
+   "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
+   "source": "Our World in Data",
+   "authors": [
+    "Hannah Ritchie",
+    "Pablo Arriagada"
+   ],
+   "published": "2026-10-26T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.223,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "80b5a5f63ac5",
+   "title": "Seam Cutter",
+   "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-25T15:10:19+00:00",
+   "bucket": "ai",
+   "excerpt": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.424,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "845fdba73c65",
+   "title": "Everyone says they have anxiety. Clinical anxiety is different",
+   "link": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+   "source": "Psyche",
+   "authors": [
+    "India Sturgis"
+   ],
+   "published": "2026-10-26T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.9,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "5c3e4cecd7fc",
+   "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+   "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Ralph Earle"
+   ],
+   "published": "2026-10-25T12:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.56,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "bd238c9aa345",
+   "title": "How central bankers spend their time",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-10-25T05:14:29+00:00",
+   "bucket": "economy",
+   "excerpt": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.681,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ce5b5e741e9b",
+   "title": "How to build real peace",
+   "link": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+   "source": "Aeon",
+   "authors": [
+    "Azize Aslan"
+   ],
+   "published": "2026-10-26T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.5,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ac8ec5829f7f",
+   "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+   "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+   "source": "Krebs on Security",
+   "authors": [
+    "BrianKrebs"
+   ],
+   "published": "2026-10-21T15:26:07+00:00",
+   "bucket": "ai",
+   "excerpt": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 674,
+   "access": "free",
+   "lang": "en",
+   "score": 3.403,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "4765eef991",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "machado",
+     "venezuelan",
+     "venezuela",
+     "caracas"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+      "link": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-26T09:08:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 309,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+      "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "published": "2026-10-26T05:27:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 733,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T05:20:19+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 771,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
+      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
+      "published": "2026-10-25T19:41:15+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 564,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-26T10:14:26+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-26T09:31:12+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+      "error": "only 51 words readable"
+     },
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "error": "only 129 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Venezuelan opposition leader Maria Corina Machado returns from exile",
+     "parts": {
+      "happened": [
+       {
+        "text": "Venezuela's opposition leader Maria Corina Machado returned to her home country on Sunday after spending nearly a year in exile abroad.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Tens of thousands of supporters lined streets, highways and toll plazas to welcome her as she travelled in a convoy toward the capital city of Caracas.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "María Corina Machado is a prominent Venezuelan opposition politician who advocates for democratic reforms.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "In January, US forces seized Nicolas Maduro and transported him to the United States, where he faces various criminal charges.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Following Maduro's removal, the Trump administration backed his deputy, Delcy Rodriguez, as interim president, establishing a close partnership.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Edmundo González, an exiled opposition ally, stated that Machado's return brings back their sovereign voice to guide the ongoing political process.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A spokesperson for Machado described her homecoming as a major step toward achieving a democratic transition and holding free presidential elections.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Marco Rubio claimed that political reconciliation talks represent Venezuela's best chance in thirty years to establish an enduring democracy.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Supporters gathered in large numbers to celebrate her return and express their desire for freedom and political change.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear what specific actions Machado intends to take following her return to Venezuela.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Reports indicated uncertainty regarding whether the Trump administration fully supports Machado's call for fresh presidential elections by July 2027.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The exact logistical circumstances surrounding how Machado managed to cross back into the country were not immediately clear to observers.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Interim president",
+       "definition": "A temporary head of state who governs a country until an official election or permanent leadership transition takes place."
+      },
+      {
+       "term": "Political exile",
+       "definition": "A person who is forced to leave their native country for political reasons, often facing prosecution or danger if they return."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "US Secretary of State Marco Rubio stated that her safe return was the direct result of US-supported political reconciliation talks.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "happened.3",
+        "text": "US President Donald Trump stated that he did not know anything about her return and expressed hope that she remained safe.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "She left Venezuela last December to receive the Nobel Peace Prize after hiding from the regime of former President Nicolas Maduro.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+       "link": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Nobel Peach Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned from nearly a year in exile. She was greeted by thousands of cheering supporters in Caracas.",
+       "kind": "reporting",
+       "published": "2026-10-26T09:08:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+       "excerpt": "Thousands lined the streets of Caracas to welcome opposition leader Maria Corina Machado back to Venezuela after exile.",
+       "kind": "reporting",
+       "published": "2026-10-26T10:14:26+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "2c40309dad",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "vučić",
+     "serbia",
+     "serbian",
+     "vucic"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T09:04:47+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 711,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "‘This is a symbol for Europe’: streets of Belgrade resound with joy after Vučić defeat",
+      "link": "https://www.theguardian.com/world/2026/oct/26/europe-serbia-election-celebration-aleksandar-vucic-defeat-student-movement",
+      "published": "2026-10-26T05:45:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 602,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "published": "2026-10-26T05:24:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 842,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "kind": "reporting",
+      "published": "2026-10-25T23:42:32+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Student-led movement defeats veteran Serbian ruler Aleksandar Vučić",
+     "parts": {
+      "happened": [
+       {
+        "text": "Aleksandar Vučić admitted defeat to a student-led protest movement in snap parliamentary elections.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Crowds descended on Belgrade, Novi Sad and other cities to celebrate the results.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Independent pollsters projected the Student List to win 52.9% of the vote amid high voter turnout.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The student movement formed less than two years ago following a deadly railway station disaster in Novi Sad.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Aleksandar Vučić shaped Serbia's political life for more than a decade, serving as prime minister and president before leading his party in the snap elections.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The Serbian Progressive Party had been in power since 2012.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Voters and participants expressed hope that the result would set Serbia on a path towards freedom and improved institutions.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "European Commissioner for Enlargement Marta Kos stated that a new chapter could begin for Serbia and that the door to the European Union is open.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Attention turned towards who will lead the Student List as prime minister.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Voters acknowledged that reversing the country's drift towards authoritarianism and entrenched corruption will involve a tough period ahead.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "European Union",
+       "definition": "An economic and political union of European countries."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 10,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text describes a fictional electoral defeat that has not actually occurred in reality."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+       "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+       "excerpt": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+       "kind": "reporting",
+       "published": "2026-10-26T05:24:59+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "mena",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "133c96c08b",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "netanyahu",
+     "israeli",
+     "israel",
+     "palestinians"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+      "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+      "published": "2026-10-26T07:00:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 864,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Israel to close all West Bank land crossings on election day",
+      "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-25T13:09:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 624,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:03:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2373,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "If Netanyahu loses, what changes for Palestinians?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-26T10:16:39+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+      "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-25T09:27:00+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "kind": "reporting",
+      "published": "2026-10-25T06:24:46+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+      "link": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "kind": "reporting",
+      "published": "2026-10-25T06:00:54+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+      "error": "only 12 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israeli military operation in Hebron amid parliamentary elections",
+     "parts": {
+      "happened": [
+       {
+        "text": "The Israel Defense Forces also announced the closure of all land crossings between Israel and the West Bank during Tuesday's parliamentary election.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The West Bank has been under Israeli occupation for nearly sixty years following the events of 1967.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Palestinians in the occupied West Bank have no vote in Tuesday’s elections, but local leaders state that their lives could be deeply affected by the outcome.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Hebron's mayor, Yousef al-Jabari, claimed that Prime Minister Netanyahu and his associates are using Palestinian land and displacing people to achieve political goals.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Residents displaced by the military sweep remain uncertain about how long their exile from their homes will last.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Displaced residents disputed military claims that the local population had left voluntarily and that the targeted clan was associated with Hamas.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Israel Defense Forces",
+       "definition": "The military forces of the State of Israel."
+      },
+      {
+       "term": "Hamas",
+       "definition": "A Palestinian militant group."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Following a gun attack in which two Israeli soldiers were killed, the Israeli military sealed off Hebron, displaced nearly 2,000 residents, and demolished neighbourhoods.",
+        "why": [
+         "number(s) not in evidence: 2000"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu is Israel's longest-serving prime minister and leads a ruling coalition that has been narrowly trailing in polls.",
+        "why": [
+         "partial",
+         "The evidence confirms the coalition is trailing but does not mention Netanyahu is the longest-serving prime minister."
+        ]
+       }
+      ],
+      "checked": 7,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "If Netanyahu loses, what changes for Palestinians?",
+       "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+       "excerpt": "AJLabs tracks how Israeli parties voted against eight Knesset bills that disfavoured Palestinians ahead of the election.",
+       "kind": "reporting",
+       "published": "2026-10-26T10:16:39+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+       "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+       "excerpt": "Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before election Hebron, the biggest city in the West Bank, had paid little attention to Israel’s looming elections until it found itself suddenly in the midst of them, a proving ground for Benjamin Netanyahu’s security credentials in the run-up to Tuesday’s vote. …",
+       "kind": "reporting",
+       "published": "2026-10-26T07:00:25+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "3a655a2afe",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "trump",
+     "michigan",
+     "minaj",
+     "ohio"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:33:19+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 459,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+      "published": "2026-10-25T22:36:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 602,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-26T08:23:37+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+      "error": "only 49 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nicki Minaj joins Donald Trump at Michigan rally for midterms",
+     "parts": {
+      "happened": [
+       {
+        "text": "Rapper Nicki Minaj joined United States President Donald Trump on stage at a political rally in Port Huron, Michigan, on Sunday.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Minaj told the crowd that Trump had changed the country's energy and praised Republican candidates ahead of upcoming elections.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Donald Trump is the President of the United States.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Nicki Minaj is a Trinidad and Tobago-born rapper who has previously expressed support for Trump on several political issues.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The appearance took place in Michigan, where Republican Mike Rogers and Democrat Abdul El-Sayed are competing in a tight Senate race.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The sources report that nationwide midterm elections will decide which political party controls the United States Congress for the remainder of Trump's presidency.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Minaj described the upcoming vote as a major turning point for the nation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The outcome of the close Senate race between Mike Rogers and Abdul El-Sayed remains to be decided by voters.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The White House did not immediately respond to enquiries regarding why Trump has been discussing individuals' bodies during his recent appearances.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Air Force One",
+       "definition": "The official call sign of any air traffic control-controlled United States Air Force aircraft carrying the president."
+      },
+      {
+       "term": "Congress",
+       "definition": "The bicameral legislature of the federal government of the United States, consisting of the Senate and the House of Representatives."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Trump called Minaj onto the stage and made personal remarks about her appearance during his speech.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+       "excerpt": "Donald Trump made sexually explicit remarks about musician Nicki Minaj who was speaking at a rally in Michigan.",
+       "kind": "reporting",
+       "published": "2026-10-26T08:23:37+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+       "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+       "kind": "reporting",
+       "published": "2026-10-25T23:33:19+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 12,
+  "items": 374,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
