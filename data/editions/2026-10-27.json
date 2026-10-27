@@ -1,0 +1,996 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T10:15:10.578589+00:00",
+ "candidates": 157,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "7c0a901e9318",
+   "title": "How Voting Is Like a Klein Bottle",
+   "link": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Alex Stone"
+   ],
+   "published": "2026-10-26T14:54:29+00:00",
+   "bucket": "discovery",
+   "excerpt": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.894,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "571a3e0a138b",
+   "title": "How solid-state transformers could help power the AI boom",
+   "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Casey Crownhart"
+   ],
+   "published": "2026-10-27T09:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade. As the world races to meet rising electricity demand from …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1572,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.688,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "8e1aa3821dee",
+   "title": "Naval Deployment as of 10/26: Convergence near Iran in November?",
+   "link": "https://econbrowser.com/archives/2026/10/naval-deployment-as-of-10-26",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-10-26T22:34:53+00:00",
+   "bucket": "economy",
+   "excerpt": "(Per open sources) from USNI: Source: USNI, as edited by author. Arrows indicate USS Theodore Roosevelt CSG to replace George Washington CSG, augmented by USS Makin Island ARG. Of course, who knows what is actually going where, but at least this is the public sourcing. Of more fundamental concern, what will the Administration actually do.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.688,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "9e466ed815c2",
+   "title": "Israeli election: why nobody has been talking about Palestinian statehood",
+   "link": "https://theconversation.com/israeli-election-why-nobody-has-been-talking-about-palestinian-statehood-294888",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Amnon Aran, Professor of International Relations, City St George's, University of London"
+   ],
+   "published": "2026-10-26T16:46:46+00:00",
+   "bucket": "mind",
+   "excerpt": "As Israelis head to the polls on October 27 one major issue that has not received serious attention during the campaign is Israel’s flat rejection of Palestinian statehood. This puts Israel seriously at odds with world opinion. As it stands, 159 countries around the world recognise Palestinian statehood, including diplomatic heavyweights such as the UK and France. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1004,
+   "access": "free",
+   "lang": "en",
+   "score": 3.921,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f7491cb080e7",
+   "title": "Build a Hidden Lock With a Magnetic Imager",
+   "link": "https://spectrum.ieee.org/magnetic",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Stephen Cass"
+   ],
+   "published": "2026-10-26T13:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.56,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "2c470e0e83d0",
+   "title": "GPT-6.1 Terra",
+   "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-26T23:53:07+00:00",
+   "bucket": "ai",
+   "excerpt": "It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.366,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "9673691a62a3",
+   "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+   "link": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+   "source": "Psyche",
+   "authors": [
+    "Yusuke Fujioka"
+   ],
+   "published": "2026-10-27T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.9,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "1de5f84a51",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "oleshky",
+     "kyiv",
+     "russian"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T09:18:44+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 733,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+      "link": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-27T03:52:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 688,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "link": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "published": "2026-10-27T01:30:27+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 688,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Why Ukraine may be involved in Mali's conflict",
+      "link": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
+      "kind": "analysis",
+      "published": "2026-10-26T14:58:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine and Russia begin Oleshky ceasefire",
+     "parts": {
+      "happened": [
+       {
+        "text": "Russia and Ukraine began a localized ceasefire early Tuesday to allow humanitarian aid into the Russian-occupied town of Oleshky in southern Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Both sides confirmed that the truce took effect following an agreement brokered by United States first lady Melania Trump.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "While the truce began, Russian missile attacks continued elsewhere in Ukraine, hitting the capital Kyiv and damaging a bridge and subway infrastructure.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Oleshky lies across the Dnipro River from the Ukrainian-controlled city of Kherson and was captured by Russian troops during the first days of the full-scale invasion in February 2022.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Residents remaining in the town have faced severe shortages of food, water and medicine, with many trapped by mines and drone attacks.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The United States first lady previously became involved in humanitarian issues stemming from the war, writing a letter to Russian President Vladimir Putin in August 2025.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Melania Trump stated that residents wishing to evacuate will receive coordinated support and transportation to their preferred destination.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It could not be independently verified whether fighting had decreased in the area.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ukraine has accused Russia of preventing residents from leaving, an allegation that Moscow denies.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Dnipro River",
+       "definition": "A major European river flowing through Russia, Belarus and Ukraine into the Black Sea."
+      },
+      {
+       "term": "Kherson",
+       "definition": "A region and city in southern Ukraine situated along the Dnipro River."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.0",
+        "text": "The agreement is intended to allow civilian officials from both countries to visit residents, deliver doctors, food, drinking water and medicine, and open evacuation corridors.",
+        "why": [
+         "partial",
+         "The evidence qualifies these actions as expected, whereas the claim states them as intent."
+        ]
+       },
+       {
+        "id": "matters.2",
+        "text": "Ukrainian President Volodymyr Zelenskyy stated that the continued attacks on Kyiv demonstrate that Russia desires only to kill and continue waging war.",
+        "why": [
+         "partial",
+         "The word 'only' was not used in the evidence quote."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "Neither side has provided details about who will monitor the ceasefire or how long it will last.",
+        "why": [
+         "partial",
+         "Evidence confirms these details are missing, but contradicts the claim that duration is unknown."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+       "link": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+       "excerpt": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis. What we know on day 1,707 Russian strikes on Kyiv killed one person and wounded eight, with mayor Vitali Klitschko saying medical facilities and an intensive care unit had been damaged in the late Monday attack. …",
+       "kind": "reporting",
+       "published": "2026-10-27T01:30:27+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+       "link": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastated by fighting and flooding since Moscow's invasion in 2022.",
+       "kind": "reporting",
+       "published": "2026-10-27T03:52:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "139af48500",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "syria",
+     "jordan",
+     "syrian"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:40:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 280,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+      "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-26T22:15:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 486,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+      "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "published": "2026-10-26T22:08:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 603,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "A bad omen? Syria bans women from university courses",
+      "link": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-26T20:07:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Jordan Strikes Militants in Syria Following Deadly Church Attack",
+     "parts": {
+      "happened": [
+       {
+        "text": "Jordan carried out airstrikes in southern Syria after determining that suspects linked to a deadly church attack were hiding there.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Syrian health officials stated that five people, including women, children and an elderly man, were killed in the strike in Daraa province.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Earlier on Monday, Jordanian security forces arrested three men in connection with the church shooting following a dawn shootout in an abandoned house.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "In response to the Jordanian military action, Syria announced the closure of the Nassib border crossing.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The military actions followed a shooting at a funeral in a Greek Orthodox church in Karak that killed nine people.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "King Abdullah II of Jordan, the country's monarch, had ordered an iron fist response against anyone attempting to divide the population.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Mazen al-Faraya serves as Jordan's interior minister.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Attacks on Christian minorities are very rare in Jordan, which is a stable Middle Eastern state and a close ally of the United States.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Jordanian interior minister Mazen al-Faraya warned that further similar incidents could occur if extremist ways of thinking are not resolved.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Relatives of the church attack victims stated that the arrests of the suspects brought some relief to their immense grief.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Jordan stated it had coordinated the strikes with the Syrian government, while Syria stated it had not been notified and launched its own investigation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jordanian authorities did not provide further details regarding the exact number of terrorists killed or wounded in the air raids.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Public Security Directorate",
+       "definition": "The principal law enforcement and public security agency of Jordan."
+      },
+      {
+       "term": "Nassib",
+       "definition": "A major border crossing between Jordan and Syria used for passenger and commercial transit."
+      },
+      {
+       "term": "Daraa",
+       "definition": "A southern province in Syria located near the border with Jordan."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.1",
+        "text": "The closure of the Nassib border crossing suspended all passenger and commercial traffic in both directions.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "No group claimed responsibility for the initial church attack, and officials noted the attackers were not tied to any organised group.",
+        "why": [
+         "partial",
+         "One source says no claim, but another notes officials identified them as 'takfiri' but not organized."
+        ]
+       }
+      ],
+      "checked": 13,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+       "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+       "kind": "reporting",
+       "published": "2026-10-27T02:40:17+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+       "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week. Syria gave a different account.",
+       "kind": "reporting",
+       "published": "2026-10-26T22:15:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "americas",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "2649f16ae6",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "brazil",
+     "lula",
+     "bolsonaro",
+     "trump"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+      "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-27T04:46:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2313,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:46:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 824,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "published": "2026-10-26T23:02:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 563,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1673134.html",
+      "kind": "reporting",
+      "published": "2026-10-26T21:35:29+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-26T11:39:16+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "kind": "analysis",
+      "published": "2026-10-26T17:56:50+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "kind": "analysis",
+      "published": "2026-10-26T17:38:16+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1673134.html",
+      "error": "only 25 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Brazil election won by Lula as Bolsonaro refuses to concede",
+     "parts": {
+      "happened": [
+       {
+        "text": "Left-wing incumbent Luiz Inacio Lula da Silva won the Brazilian presidential runoff election with 51.7% of the vote against Flavio Bolsonaro's 48.2%.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Supreme Court Justice Alexandre de Moraes ordered Flavio Bolsonaro to surrender his passports and banned him from leaving the country.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Luiz Inacio Lula da Silva is the left-wing president of Brazil and a former union leader who has had famously strained relations with United States governments.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Brazil's Liberal Party acknowledged Lula's election victory despite the challenger's refusal to concede.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "US President Donald Trump remarked that the vote looked terrible and rigged while simultaneously stating that he likes Lula.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether Flavio Bolsonaro will continue to resist the election outcome and attempt to encourage protests.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Neither the Supreme Court nor federal police immediately confirmed the reported passport surrender ruling to media.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "BRICS",
+       "definition": "An intergovernmental organisation comprising major emerging market economies."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Flavio Bolsonaro refused to concede defeat and announced plans to file a case seeking to disqualify Lula's ticket.",
+        "why": [
+         "partial",
+         "Evidence confirms his refusal to concede but does not mention plans to disqualify the ticket."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Flavio Bolsonaro is a right-wing senator and the son of jailed former President Jair Bolsonaro.",
+        "why": [
+         "partial",
+         "Evidence does not confirm Jair Bolsonaro is currently jailed."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "World leaders including German Chancellor Friedrich Merz, Russian President Vladimir Putin and Nigerian President Bola Ahmed Tinubu congratulated Lula on his win.",
+        "why": [
+         "partial",
+         "Evidence mentions Merz and Trump, but omits Putin and Tinubu."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+       "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+       "kind": "reporting",
+       "published": "2026-10-27T01:46:38+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+       "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+       "excerpt": "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback. Lula is the first candidate to win a runoff election after losing in the first round, taking victory with 51.79% of the vote to his rival’s 48.21%. …",
+       "kind": "analysis",
+       "published": "2026-10-26T17:38:16+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "92f3c7621f",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "two",
+     "fairford",
+     "british",
+     "iranian"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
+      "link": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-27T09:32:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 339,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+      "link": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+      "published": "2026-10-27T09:30:30+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 721,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "UK prosecutors charge two after RAF Fairford incident",
+      "link": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss",
+      "published": "2026-10-27T09:12:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 300,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Two men charged with national security offences over RAF Fairford incident",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+      "kind": "reporting",
+      "published": "2026-10-27T09:17:28+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Two Men Charged Under National Security Act After RAF Fairford Incident",
+     "parts": {
+      "happened": [
+       {
+        "text": "British prosecutors stated that two men had been charged under the National Security Act following a September incident near the RAF Fairford airbase in England.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Mohmed Abdulkarim was charged with assisting a foreign intelligence service, while Nouman Essghir was charged with entering a prohibited place for a purpose prejudicial to the United Kingdom.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Armed police and bomb-disposal experts responded to the base on September 27, evacuating dozens of residents to search the rural area for explosives.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "RAF Fairford is an airbase in Gloucestershire, southwestern England, that had been used by United States bombers to carry out strikes on Iran this year.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Britain previously stated there were 20 credible Iranian-backed threats to kill or kidnap individuals based in the UK last year, and banned support for the Islamic Revolutionary Guard Corps in July.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Counterterrorism police chief Laurence Taylor said investigators believed the foreign intelligence service involved was Iran, and British Prime Minister Andy Burnham stated the activity was likely coordinated in Iran.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "United States bombers were withdrawn from the Fairford airbase on security grounds shortly after the arrests.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Six other men who were arrested during the course of the investigation remain on police bail while enquiries continue.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Crown Prosecution Service",
+       "definition": "The principal government agency in England and Wales that conducts criminal prosecutions."
+      },
+      {
+       "term": "Islamic Revolutionary Guard Corps",
+       "definition": "A multi-service branch of the Iranian Armed Forces tasked with protecting the country's Islamic republic political system."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "Both charged individuals are 24-year-old London residents, with Abdulkarim identified as a British-Iranian dual national and Essghir as a British citizen.",
+        "why": [
+         "partial",
+         "Evidence mentions their age and nationalities, but does not state they reside in London."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "Iran has denied involvement in the incident, although the Iranian ambassador to the UK rejected the allegations.",
+        "why": [
+         "partial",
+         "The phrasing is contradictory and misrepresents the ambassador's action as a general denial of involvement."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
+       "link": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "British prosecutors have charged two men over an incident near RAF Fairford in September. Police suspect Iranian involvement in the case at a base used for US strikes on Iran.",
+       "kind": "reporting",
+       "published": "2026-10-27T09:32:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Two men charged with national security offences over RAF Fairford incident",
+       "link": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+       "excerpt": "One charged assisting a foreign intelligence service and the other with entering a prohibited place, CPS says Two men have been charged with national security offences after an investigation into a suspected terror plot near RAF Fairford. The Crown Prosecution Service said Mohmed Ahmad Abdulkarim, 24, and Nouman Essghir, 24, were both charged under the National Security Act 2023.",
+       "kind": "reporting",
+       "published": "2026-10-27T09:17:28+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 12,
+  "items": 363,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
