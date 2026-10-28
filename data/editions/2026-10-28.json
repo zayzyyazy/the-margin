@@ -1,0 +1,846 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T11:03:58.463314+00:00",
+ "candidates": 155,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "a56806b21a47",
+   "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+   "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-10-27T16:00:12+00:00",
+   "bucket": "ai",
+   "excerpt": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta’s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in each system. PrivacyLib replaces this with a common library that runs inside …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 3804,
+   "access": "free",
+   "lang": "en",
+   "score": 4.894,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "6eda2e587c6c",
+   "title": "Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Alex Tabarrok"
+   ],
+   "published": "2026-10-27T11:17:35+00:00",
+   "bucket": "economy",
+   "excerpt": "From the Archive–these posts are written by ChatGPT These selections emphasize the quality of the criticism: original interpretations, close attention to the work, and arguments worth considering even when you disagree. They are not a ranking of the films and television shows themselves. The list includes five reviews by Tyler Cowen and six by Alex …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1352,
+   "access": "free",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "fab9085d6c8f",
+   "title": "The bookshelf builder",
+   "link": "https://psyche.co/portraits/ellah-wakatama-the-godmother-of-african-books",
+   "source": "Psyche",
+   "authors": [
+    "Carey Baraka"
+   ],
+   "published": "2026-10-28T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.9,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "7f5b130d21c4",
+   "title": "How a Single University Project Started Everything",
+   "link": "https://hackaday.com/2026/10/27/how-a-single-university-project-started-everything/",
+   "source": "Hackaday",
+   "authors": [
+    "Jenny List"
+   ],
+   "published": "2026-10-27T23:00:07+00:00",
+   "bucket": "discovery",
+   "excerpt": "If we care to cast an eye over the history of ubiquitous personal computing as we know it today, we might immediately point at the original IBM PC. After all, …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 318,
+   "access": "free",
+   "lang": "en",
+   "score": 3.7,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "e7eb397504ff",
+   "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+   "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Benjamin Skuse"
+   ],
+   "published": "2026-10-27T13:00:03+00:00",
+   "bucket": "ai",
+   "excerpt": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.488,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "cb7e09e78b75",
+   "title": "Underrepresentation of Non-Native English Speakers in Philosophy: Findings from over 100,000 Papers (guest post)",
+   "link": "https://dailynous.com/2026/10/28/underrepresentation-of-non-native-english-speakers-in-philosophy-findings-from-over-100000-papers-guest-post/",
+   "source": "Daily Nous",
+   "authors": [
+    "Justin Weinberg"
+   ],
+   "published": "2026-10-28T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "The “largest and most systematic study of linguistic inequity in academic philosophy to date” was recently published. Its authors are Neri Marsili (University of Turin)",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1702,
+   "access": "free",
+   "lang": "en",
+   "score": 3.788,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "aef534fb4665",
+   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Michael MacKenzie"
+   ],
+   "published": "2026-10-27T11:19:18+00:00",
+   "bucket": "economy",
+   "excerpt": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1034,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.588,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "38b80a7f4c",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "putin",
+     "oleshky",
+     "norway"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Norway and Finland hold rare phone call with Putin: What that means",
+      "link": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss",
+      "published": "2026-10-28T10:31:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 898,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Russia in Africa: What is Putin hoping to achieve?",
+      "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-28T09:48:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1335,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "link": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
+      "published": "2026-10-28T01:39:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 617,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T22:11:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 996,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-27T18:28:23+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+      "link": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "kind": "reporting",
+      "published": "2026-10-27T17:43:02+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+      "link": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-27T12:54:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-10-27T20:42:38+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nordic Leaders Call Putin While Ceasefire Holds In Kherson",
+     "parts": {
+      "happened": [
+       {
+        "text": "The leaders of Finland and Norway held a 90-minute phone call with Russian President Vladimir Putin to urge an end to the war in Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Western European heads of state have long maintained a policy of avoiding direct talks with the Russian leader following Moscow's full-scale invasion of Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The southern city of Oleshky has remained under Russian occupation since the early days of the invasion in February 2022, leaving thousands of residents trapped without basic utilities.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Austrian political analyst Gerhard Mangott stated that European governments had manoeuvred themselves into a dead end regarding the war, making the Nordic call an effort to establish a new dialogue channel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian Foreign Minister Andrii Sybiha stated that the ongoing humanitarian ceasefire, if successful, could pave the way for wider steps within the peace process.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "The sources indicate that these diplomatic and humanitarian maneuvers could alter regional security alignments and influence upcoming US-brokered talks in Abu Dhabi.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Many details regarding the planned civilian evacuations from Oleshky remain unclear, with residents expressing deep wariness about trusting officials.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "President Zelenskyy warned that demined routes out of Oleshky arranged by Russia would force fleeing civilians toward Russian territory rather than Ukrainian-controlled areas.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "European leaders remain divided on the efficacy of individual diplomatic approaches to Moscow, with several prime ministers warning against fragmented voices.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Wagner Group",
+       "definition": "A Russian private military company composed of mercenaries operating in various conflict zones."
+      },
+      {
+       "term": "Patriot air-defence system",
+       "definition": "A surface-to-air missile system designed to intercept incoming tactical ballistic missiles and aircraft."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Simultaneously, a localized ceasefire mediated with the help of the United States and the Vatican has been extended across the southern Ukrainian region of Kherson to allow humanitarian aid into Oleshky.",
+        "why": [
+         "partial",
+         "Evidence does not verify US/Vatican mediation; claim lacks required attribution."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Ukrainian President Volodymyr Zelenskyy reported that his forces are retaking territory through a series of offensives, while Russian strikes continue to target national infrastructure.",
+        "why": [
+         "partial",
+         "Claim states Zelenskyy's report as objective fact rather than attributed statements."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "The Nordic diplomatic intervention followed a policy shift by United States President Donald Trump, who struck a deal to release Russian diesel stocks and sidelined traditional European allies from negotiations.",
+        "why": [
+         "partial",
+         "Evidence confirms the diesel deal, but does not explicitly state it sidelined allies from negotiations."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+       "link": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
+       "kind": "reporting",
+       "published": "2026-10-27T12:54:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Norway and Finland hold rare phone call with Putin: What that means",
+       "link": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss",
+       "excerpt": "The two Nordic leaders are attempting to influence US-brokered talks in Abu Dhabi to end the war in Ukraine.",
+       "kind": "reporting",
+       "published": "2026-10-28T10:31:22+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "329c7d8559",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "tagesschau"
+    ],
+    "names": [
+     "israel",
+     "aviv",
+     "jerusalem",
+     "gaza"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Israel - Eine Nacht ohne klaren Gewinner",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html",
+      "published": "2026-10-28T05:47:34+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 413,
+      "id": "S1"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israel’s stock market drops as exit polls show no clear election winner",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-28T09:55:47+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-27T10:17:36+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+      "error": "only 241 words readable"
+     },
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "error": "only 90 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "What does Israel's election mean for Gaza and the wider world?",
+       "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+       "kind": "reporting",
+       "published": "2026-10-27T10:17:36+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "only 1 readable report(s)"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "ccd1f20c20",
+    "significance": 3,
+    "outlets": [
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "bolsonaro",
+     "ecuador",
+     "brazil",
+     "argentina"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+      "published": "2026-10-28T09:06:35+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 511,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "published": "2026-10-28T06:36:14+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1386,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Flavio Bolsonaro flees Brazil for US amid investigation",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-27T22:18:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 731,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Flávio Bolsonaro leaves Brazil following presidential election defeat",
+     "parts": {
+      "happened": [
+       {
+        "text": "While US media reports stated that he had landed in the United States, Argentina's immigration authority stated that he entered Argentina and boarded a private flight to Ecuador.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The departure occurred despite a Brazilian supreme court order requiring him to surrender his passports within 24 hours and prohibiting him from leaving the country.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Flávio Bolsonaro is a far-right senator and the son of former Brazilian president Jair Bolsonaro.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Luiz Inácio Lula da Silva is the left-wing incumbent president who secured victory in the election runoff.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The senator has faced multiple investigations, including inquiries into money laundering and corruption.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Political scientist Magna Inácio believes that Flávio Bolsonaro's departure and the broader political situation could create a power vacuum within the Brazilian right.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Another political scientist, Camila Rocha, suggests that the absence of multiple members of the Bolsonaro family could trigger a shift in political power away from blood ties.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "President Lula condemned the departure as shameful, stating that a citizen who leaves secretly must be liable for something.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Reports regarding Flávio Bolsonaro's exact current whereabouts remained contradictory, with different sources placing him variously in the United States, Ecuador, or en route.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "It remains to be seen how the struggle for the political legacy of the Bolsonaro family will unfold among remaining figures in Brazil.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Runoff",
+       "definition": "A secondary voting contest held between top candidates when no contender secures an outright majority in the initial round."
+      },
+      {
+       "term": "Supreme Court",
+       "definition": "The highest judicial authority in a country, responsible for constitutional oversight and final legal rulings."
+      },
+      {
+       "term": "Political asylum",
+       "definition": "Protection granted by a state to a foreign national who has left their home country due to fear of persecution."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Flávio Bolsonaro has left Brazil following his defeat in Sunday's presidential election against Luiz Inácio Lula da Silva.",
+        "why": [
+         "partial",
+         "Evidence confirms he left after losing, but identifies him as a senator, not a presidential candidate."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+       "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+       "excerpt": "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. …",
+       "kind": "reporting",
+       "published": "2026-10-28T06:36:14+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Flavio Bolsonaro flees Brazil for US amid investigation",
+       "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Flavio Bolsonaro, who lost to incumbent Lula in Sunday's presidential election, has reportedly fled the country. Bolsonaro, who is facing multiple corruption probes, has refused to concede.",
+       "kind": "reporting",
+       "published": "2026-10-27T22:18:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "1bef52ee63",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "chinese",
+     "mao",
+     "china",
+     "france"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+      "link": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-27T16:49:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 501,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T13:25:54+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1129,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "published": "2026-10-27T04:42:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 768,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Kylian Mbappé apologises after Mao remarks spark Chinese backlash",
+     "parts": {
+      "happened": [
+       {
+        "text": "Kylian Mbappé apologized after a video circulated online showing him referring to a Chinese leader as a dictator.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The remarks prompted three major Chinese companies to end sponsorship deals with the footballer, while Chinese state television halted broadcasts of Spanish league football matches.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The backlash spread rapidly across social media platforms in China, where internet users criticised the player for offending national sentiment.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Mao Zedong founded the People's Republic of China in 1949 and remains a revered figure within the ruling Communist Party, making public criticism of his legacy highly sensitive.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "China is an important market for international sports stars who secure lucrative commercial endorsements with domestic brands.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The incident demonstrates the financial and reputational risks global public figures face when offending nationalist sentiment in major consumer markets.",
+        "kind": "interp",
+        "cites": []
+       },
+       {
+        "text": "The rapid severing of commercial partnerships highlights how sensitive corporate entities are to public anger directed against political taboos.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear exactly when the original interview hosted by Aurélien Tchouaméni first aired.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "State broadcaster China Media Group stated it would consider the player's apology while judging his future actions, leaving his longer-term commercial standing in the country unresolved.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "La Liga",
+       "definition": "The top professional men's association football division of the Spanish football league system."
+      },
+      {
+       "term": "Chinese Communist Party",
+       "definition": "The founding and sole ruling political party of the People's Republic of China."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Kylian Mbappé is a French professional footballer who plays for Real Madrid and has previously been given the nickname the dictator in European media due to his perceived influence.",
+        "why": [
+         "partial",
+         "Evidence confirms his nickname and club but doesn't state European media perception is the reason."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+       "link": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state television has suspended Spanish league broadcasts.",
+       "kind": "reporting",
+       "published": "2026-10-27T16:49:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+       "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+       "kind": "reporting",
+       "published": "2026-10-27T13:25:54+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 8,
+  "items": 347,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
