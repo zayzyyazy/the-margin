@@ -1,0 +1,749 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T11:20:54.762038+00:00",
+ "candidates": 157,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "100a341b6a1e",
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "source": "Interconnects",
+   "authors": [
+    "Nathan Lambert"
+   ],
+   "published": "2026-10-28T12:58:39+00:00",
+   "bucket": "ai",
+   "excerpt": "Housekeeping: I’m on the road so the voiceover will be late. Hill-climbing is easy, knowing what to hill-climb is hard. Making scores go up is expensive, but we have a much clearer playbook for it than we do for creating meaningful benchmarks at the true frontier of AI today. Independent evaluation of language models is under-appreciated in how hard of a task it is. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1800,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.855,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "fe3b4e6fb420",
+   "title": "Guest Contribution: “Europe, the US, and China: Comparing Geoeconomic Size”",
+   "link": "https://econbrowser.com/archives/2026/10/guest-contribution-europe-the-us-and-china-comparing-geoeconomic-size",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-10-29T00:28:44+00:00",
+   "bucket": "economy",
+   "excerpt": "Today, we present a guest post written by Jeffrey Frankel, Harpel Professor at Harvard’s Kennedy School of Government, and formerly a member of the White House Council of Economic Advisers. A shorter version was published in Project Syndicate. Thanks are due Sohaib Nasim for excellent research assistance. Oct. 29, 2026 — Paul Krugman gave a talk …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1218,
+   "access": "free",
+   "lang": "en",
+   "score": 4.488,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "9b76992fa482",
+   "title": "Fake it ‘til you make it (and then keep faking it)",
+   "link": "https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then",
+   "source": "Experimental History",
+   "authors": [
+    "Adam Mastroianni"
+   ],
+   "published": "2026-10-28T15:36:04+00:00",
+   "bucket": "mind",
+   "excerpt": "This is the quarterly (really more like trimester-ly) links ‘n’ updates post, a collection of things I’ve been reading and doing for the past few months. (1) FAKE IT ‘TIL YOU MAKE IT (AND THEN KEEP FAKING IT) A few years ago, a blog called Data Colada presented evidence of fraud in several papers by then-Harvard Business School professor Francesca Gino. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 2786,
+   "access": "free",
+   "lang": "en",
+   "score": 5.723,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "028b8daa0259",
+   "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+   "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Tom Clynes"
+   ],
+   "published": "2026-10-28T13:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awake, and the Alia bolts forward. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.088,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f3c25642685b",
+   "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Alex Tabarrok"
+   ],
+   "published": "2026-10-29T11:17:47+00:00",
+   "bucket": "ai",
+   "excerpt": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, bottlenecks, and geopolitical competition. Tabarrok emphasizes inexpensive intelligence, scientific discovery, and—especially in his later …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1347,
+   "access": "free",
+   "lang": "en",
+   "score": 4.739,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "6cf3240ea9bd",
+   "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+   "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Yasemin Saplakoglu"
+   ],
+   "published": "2026-10-28T16:04:18+00:00",
+   "bucket": "discovery",
+   "excerpt": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.894,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0be9a870f20d",
+   "title": "My California Ballot, 2026",
+   "link": "https://www.astralcodexten.com/p/my-california-ballot-2026",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-10-28T15:29:17+00:00",
+   "bucket": "mind",
+   "excerpt": "See also ACX meetup groups’ ballot guides to Atlanta, Austin, Boston, the North Carolina Research Triangle, and San Francisco. And effective altruist movement leadership tells me that their strongest opinion this year is to vote Scott Wiener for Congress in San Francisco. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 5451,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "f8df49ce1e",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "netanyahu",
+     "israel",
+     "knesset",
+     "palestinian"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
+      "link": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-29T06:36:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2256,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:24:39+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1162,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published": "2026-10-28T19:58:27+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1187,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+      "link": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+      "kind": "reporting",
+      "published": "2026-10-28T18:54:10+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israel Faces Coalition Gridlock After General Election",
+     "parts": {
+      "happened": [
+       {
+        "text": "Partial results from Israel's general election showed that Prime Minister Benjamin Netanyahu's Likud-led bloc held a lead with 53 seats, while the opposition bloc led by Gadi Eisenkot stood at 48 seats in the 120-seat Knesset.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Both major blocs fell short of the 61 seats required to form a secure majority, leaving the parliament deadlocked as nearly half a million absentee and double-envelope ballots awaited full tabulation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Gadi Eisenkot is a retired general and former military commander who leads the centrist Yashar party and heads the anti-Netanyahu opposition alliance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Between April 2019 and November 2022, Israel held five general elections in rapid succession due to recurring difficulties in forming stable governing coalitions.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Experts cited by the sources indicate that a new Israeli government is unlikely to alter policies regarding Palestinian statehood or military operations in neighbouring countries.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "United Nations High Commissioner for Human Rights Volker Türk stated his hope that the incoming administration would alter its approach to international law and military conduct.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "President Isaac Herzog urged political leaders to approach coalition negotiations with an open mind to prevent the country from being forced into another round of elections.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The final distribution of seats remained subject to change pending the complete counting of hundreds of thousands of absentee double-envelope ballots cast by soldiers, diplomats and prisoners.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remained unclear which political figure President Isaac Herzog would ultimately task with forming a government once official results are finalized.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The sources report that coalition talks face uncertainty because Jewish opposition parties remain divided over whether to negotiate with Arab-majority parties to secure a majority.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Knesset",
+       "definition": "The unicameral national legislature of Israel."
+      },
+      {
+       "term": "Double-envelope ballot",
+       "definition": "An absentee voting method used by military personnel, diplomats, prisoners and others unable to visit their assigned polling stations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Arab-majority parties achieved a record result, winning between 17 and 19 seats following a surge in voter turnout.",
+        "why": [
+         "number(s) not in evidence: 17"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu is Israel's longest-serving prime minister, and the election took place amid ongoing regional conflicts involving Gaza, Lebanon, Syria and Iran following the 7 October 2023 attacks by Hamas.",
+        "why": [
+         "partial",
+         "Evidence mentions conflict with Syria but does not support the claim Netanyahu is the longest-serving PM."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+       "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+       "kind": "reporting",
+       "published": "2026-10-28T20:24:39+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+       "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+       "excerpt": "Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades Israel election results – live updates Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s future hung in the balance on Wednesday as it became clear that Benjamin Netanyahu had lost his governing majority. …",
+       "kind": "reporting",
+       "published": "2026-10-28T19:58:27+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "7e6bed329b",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "russia",
+     "africa",
+     "china",
+     "west"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+      "link": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+      "published": "2026-10-29T08:14:34+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 640,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-28T15:49:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 996,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Russia in Africa: What is Putin hoping to achieve?",
+      "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-28T09:48:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "African leaders gather in Moscow for summit as Russia deepens ties",
+     "parts": {
+      "happened": [
+       {
+        "text": "African leaders and government delegations are gathering in Moscow for the Russia-Africa Summit.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Kremlin expects delegations from 48 countries, including 22 heads of state, to attend the meetings.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Kremlin aims to demonstrate its continued political relevance despite international pressure.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "In 2019, 43 African heads of state or government attended the inaugural summit in Sochi, Russia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Following the invasion of Ukraine, only 17 heads of state attended the second summit held in St Petersburg in 2023.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Moscow has expanded its security footprint in the Sahel through Africa Corps, which is controlled by Russia’s Ministry of Defence and replaced the Wagner Group.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Beverly Ochieng, a Dakar-based analyst, says the economic incentives for attending the summit are much more limited because Moscow offers fewer large investment commitments than the United States or China.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ochieng states that political incentives remain the primary reason why African countries attend the summit.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Sergey Eledinov, a former Russian officer and security analyst, warns that securing fragile governments may backfire because survival does not necessarily create loyalty.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "A separate attempt by Niger to sell existing uranium stockpiles remains in dispute.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Analysts caution that the appearance of Russian flags at African demonstrations does not indicate widespread or uniform public support.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Rosatom",
+       "definition": "Russia's state-owned nuclear energy corporation overseeing civil nuclear projects and uranium mining ventures."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "uncertain.0",
+        "text": "Human Rights Watch has accused Africa Corps forces in Mali of killing civilians and torturing detainees, though the full extent of abuses remains disputed or unresolved.",
+        "why": [
+         "partial",
+         "Evidence confirms the HRW accusations, but does not explicitly mention the extent of abuses being disputed."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+       "link": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+       "excerpt": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West.",
+       "kind": "reporting",
+       "published": "2026-10-29T08:14:34+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Russia in Africa: What is Putin hoping to achieve?",
+       "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Following its invasion of Ukraine and the resulting rift with the West, Russia has declared that it intends to make a \"historic return\" to Africa. What have we seen of this so far?",
+       "kind": "reporting",
+       "published": "2026-10-28T09:48:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "2fd9915f42",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News"
+    ],
+    "names": [
+     "salvador",
+     "haiti",
+     "port-au-prince",
+     "haitian"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+      "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+      "published": "2026-10-29T07:36:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 373,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T06:24:56+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 333,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "El Salvador deploys more than 2,000 troops to Haiti",
+     "parts": {
+      "happened": [
+       {
+        "text": "El Salvador announced it will send more than 2,000 soldiers to Haiti to search for four missing aviation technicians and fight armed gangs.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The deployment follows the ambush and disappearance of four Salvadoran air force technicians who were travelling in an armoured vehicle in Croix-des-Bouquets.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Simultaneously, Haitian electoral authorities postponed the first round of presidential and parliamentary elections from December 13 to July 18, 2027.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Haiti has not held elections since 2016, and the political vacuum has deepened following the 2021 assassination of President Jovenel Moise.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The ongoing violence disrupts farming and food deliveries, leading to severe hunger across the Caribbean country.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "An international food security assessment projects that the number of people facing acute hunger will rise to 6.35 million by mid-2027.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The deployment of additional Salvadoran soldiers is intended to reinforce security operations and rescue efforts alongside Haitian authorities.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the newly arrived Salvadoran troops will join the multinational Gang Suppression Force or operate separately.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "No armed group has claimed responsibility for the disappearance of the four Salvadoran technicians.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The true identities and origins of four bodies handed over to special forces remain disputed after Salvadoran President Bukele stated they did not match the missing servicemen.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Provisional Electoral Council",
+       "definition": "The official body responsible for organising and administering national and local elections."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.2",
+        "text": "Nayib Bukele, El Salvador's president, has already sent troops and threatened to destroy Haiti's gangs if they do not release the missing personnel.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Armed gangs currently control much of the capital, Port-au-Prince, making voting preparations dangerous and voter registration difficult.",
+        "why": [
+         "partial",
+         "Evidence confirms gang control makes registration difficult but does not explicitly name the entire capital."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+       "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+       "excerpt": "El Salvador troops to support rescue mission to find four UN-backed soldiers who disappeared after ambush.",
+       "kind": "reporting",
+       "published": "2026-10-29T07:36:38+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+       "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+       "kind": "reporting",
+       "published": "2026-10-29T06:24:56+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 351,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped spain, toledo, madrid: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
