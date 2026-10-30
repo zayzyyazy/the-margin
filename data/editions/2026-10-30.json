@@ -1,0 +1,767 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T11:13:18.581138+00:00",
+ "candidates": 162,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "e4353ac9861e",
+   "title": "A New Kind of Chemistry",
+   "link": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-10-29T15:45:10+00:00",
+   "bucket": "economy",
+   "excerpt": "Thanks to Kyle Schiller at Marathon Fusion for conversations and information that informed this essay. All errors are my own. Much of modern civilization is built on top of chemical reactions, either to produce new materials (as in the blast furnace, which converts iron oxide into metallic iron), or to generate energy. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 3410,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.855,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "52a505c6d9ea",
+   "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+   "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-10-29T16:00:12+00:00",
+   "bucket": "ai",
+   "excerpt": "Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we’re sharing the results and positive impact we’ve seen with Catching JiTTests deployed into production. Our paper, “Just-in-Time Catching Test Generation at Meta,” fully details …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1266,
+   "access": "free",
+   "lang": "en",
+   "score": 4.789,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "9cacef20be37",
+   "title": "‘Heroes work here’: why I quit being an ER nurse",
+   "link": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+   "source": "Psyche",
+   "authors": [
+    "Anita Lambert"
+   ],
+   "published": "2026-10-30T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.5,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "59a62a28e83b",
+   "title": "How Do You Take a Picture of a Black Hole?",
+   "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Janna Levin and Steven Strogatz"
+   ],
+   "published": "2026-10-29T15:11:57+00:00",
+   "bucket": "discovery",
+   "excerpt": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.039,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "3866e6347e09",
+   "title": "Systems Thinking Is Vital in the Age of AI",
+   "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Sufian Aldogom"
+   ],
+   "published": "2026-10-28T18:00:02+00:00",
+   "bucket": "ai",
+   "excerpt": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.344,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "8c59fbf8b148",
+   "title": "I’d rather drop the balls myself",
+   "link": "https://crookedtimber.org/2026/10/29/id-rather-drop-the-balls-myself/",
+   "source": "Crooked Timber",
+   "authors": [
+    "Gina Schouten"
+   ],
+   "published": "2026-10-29T13:35:44+00:00",
+   "bucket": "mind",
+   "excerpt": "Last week, my partner and I performed a familiar ritual of modern co-parenting: I told him that I felt overburdened by mental labor, and we made a plan to adjust. The logistical work of managing our kids’ lives has recently ramped up steeply, and while we’d been sharing the hands-on work equally, a lot of …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1459,
+   "access": "free",
+   "lang": "en",
+   "score": 4.194,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f43c8c91f2e2",
+   "title": "In Dark Eden, I imagined how life might exist on a sunless planet",
+   "link": "https://www.newscientist.com/article/2596453-in-dark-eden-i-imagined-how-life-might-exist-on-a-sunless-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Chris Beckett"
+   ],
+   "published": "2026-10-30T09:30:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "Dark Eden, the November read for the New Scientist Book Club, takes place on a rogue planet outside the Milky Way. Award-winning author Chris Beckett explains how he thought through the science behind this night world",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1682,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.188,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "ce30118b60",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "russian",
+     "dnipro",
+     "europe"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
+      "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+      "published": "2026-10-30T09:05:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 290,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T14:17:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 591,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
+      "published": "2026-10-29T14:04:36+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 593,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+      "link": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-29T10:37:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2859,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-10-30T09:14:16+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "link": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+      "kind": "reporting",
+      "published": "2026-10-30T02:00:47+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+      "error": "only 38 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Russian Drone Strike Hits Central Ukrainian Railway Station",
+     "parts": {
+      "happened": [
+       {
+        "text": "Dnipropetrovsk regional head Oleksandr Hanzha stated that at least 14 other individuals sustained injuries, including an 11-year-old boy.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ukraine's state railway operator, Ukrzaliznytsia, reported that a passenger train heading to Zaporizhzhia was stationed at one of the targeted platforms during the impact.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "While Ukrainian officials condemned the strike as an attack on civilian transport, Russia's military has consistently denied deliberately targeting civilians.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Ukrainian President Volodymyr Zelensky called for tougher sanctions from the United States, European Union, and G7 nations following the attack.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The ongoing hostilities threaten civilian safety and continue to disrupt vital transport and infrastructure links across the country.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Russia's official military response and specific justifications regarding this individual station attack remained unreleased publicly by military authorities.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ukrzaliznytsia",
+       "definition": "The state railway operator of Ukraine."
+      },
+      {
+       "term": "G7",
+       "definition": "An informal grouping of seven of the world's advanced industrial economies."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "At least 14 people were killed when a Russian jet-powered drone struck a crowded railway platform in the central Ukrainian city of Dnipro.",
+        "why": [
+         "partial",
+         "The claim states the death toll as fact instead of attributing it to local officials."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "The incident occurred against the backdrop of an escalation in attacks on Ukrainian transport infrastructure, with thousands of railway facilities targeted since the onset of Russia's full-scale invasion in February 2022.",
+        "why": [
+         "unsupported",
+         "Evidence does not support the claim that thousands of railway facilities were targeted."
+        ]
+       }
+      ],
+      "checked": 7,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+       "link": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+       "excerpt": "EU council president calls deadly strike ‘cruel and devastating’; fragile ceasefire holds in Oleshky. What we know on day 1,710 European leaders have reacted with outrage to a deadly attack by a Russian drone that slammed into a busy railway platform in the Ukrainian city of Dnipro on Thursday, as Volodymyr Zelenskyy warned Ukraine had intelligence about more ballistic missile strikes to come. …",
+       "kind": "reporting",
+       "published": "2026-10-30T02:00:47+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+       "excerpt": "Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
+       "kind": "reporting",
+       "published": "2026-10-30T09:14:16+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "594ccb4615",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "venezuela",
+     "machado",
+     "trump",
+     "nobel"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+      "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+      "published": "2026-10-30T04:40:07+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 348,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
+      "published": "2026-10-30T03:22:31+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 490,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
+      "link": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-30T03:08:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 404,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T21:05:03+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 405,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Venezuelan opposition leader María Corina Machado returns from exile",
+     "parts": {
+      "happened": [
+       {
+        "text": "Venezuelan opposition leader María Corina Machado has returned to Venezuela after spending nearly a year in exile.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "During a news conference in Caracas, María Corina Machado urged that presidential elections be held in the country next year.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "María Corina Machado thanked United States President Donald Trump and his administration for the January action against former President Nicolás Maduro.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "María Corina Machado is a longtime activist who fled Venezuela by speedboat last December to accept the Nobel Peace Prize in Oslo.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Following the removal of Nicolás Maduro in January, the country has been led by interim President Delcy Rodríguez, who previously served as his vice-president.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The interim government subsequently signed an oil agreement granting favourable terms to the United States.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Jesus Renzullo also stated that Washington benefits from the interim government while maintaining the appearance of supporting a transfer of power.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "María Corina Machado criticised the recent bilateral oil deal for lacking the transparency desired by Venezuelan society.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Interim President Delcy Rodríguez assured the nation that elections would take place, but did not specify an exact date.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The sources note that various criminal investigations initiated by Venezuela's judiciary against María Corina Machado have not been formally lifted.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It remains unclear what María Corina Machado plans to do next, although she has previously stated an intention to run for president again if an election were held.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Interim president",
+       "definition": "A person appointed to govern temporarily during a period of transition between administrations."
+      },
+      {
+       "term": "Nobel Peace Prize laureate",
+       "definition": "An individual who has been awarded the international prize for efforts toward fraternity among nations and the promotion of peace."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.0",
+        "text": "Political scientist Jesus Renzullo stated that Caracas prefers to weaken political rivals by restricting their scope for action rather than eliminating them entirely.",
+        "why": [
+         "quote not found in S2"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+       "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+       "excerpt": "Nobel winner returns to Venezuela from exile, urging elections and criticising a controversial US oil deal with Caracas.",
+       "kind": "reporting",
+       "published": "2026-10-30T04:40:07+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
+       "link": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The return of Maria Corina Machado, who says Trump opened the \"floodgate to freedom\" for Venezuela, presents a challenge for Washington as Trump has also backed interim President Delcy Rodriguez.",
+       "kind": "reporting",
+       "published": "2026-10-30T03:08:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "7fe7de6449",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "netanyahu",
+     "israeli",
+     "likud",
+     "arab"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+      "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-30T06:17:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2097,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+      "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "published": "2026-10-29T23:14:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 956,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:21:54+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 652,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Israel election: Authorities dispute Netanyahu's fraud claims",
+      "link": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-29T17:32:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israeli election leaves Netanyahu and rival short of majority",
+     "parts": {
+      "happened": [
+       {
+        "text": "The final vote count in Israel's parliamentary election showed that Prime Minister Benjamin Netanyahu's Likud-led bloc finished with 53 seats, while the anti-Netanyahu bloc led by Gadi Eisenkot claimed 48 seats.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Gadi Eisenkot, a former military commander, led an opposing coalition of right-wing, centrist and liberal parties aiming to oust the incumbent prime minister.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Arab Israelis, many of whom refer to themselves as Palestinian citizens of Israel, make up about a fifth of the country's population.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "DW reported that difficult coalition talks are expected in the weeks ahead, and the resulting coalition will largely determine whether Israeli policy in Gaza continues on its current course.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The sources note that the success of Arab parties could give Arab lawmakers unprecedented influence over coalition negotiations, though it remains unclear if these gains will translate into real political power.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It is still unconfirmed whether the right-wing factions of Eisenkot's anti-Netanyahu bloc would ultimately entertain the possibility of working with the Arab-led parties.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Netanyahu's Likud claimed large-scale foreign involvement involving Qatar and Turkey, but Israeli authorities, police officials and election committee representatives refuted the claims.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Knesset",
+       "definition": "The unicameral legislature of Israel."
+      },
+      {
+       "term": "Likud",
+       "definition": "A right-wing political party in Israel."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "As at least 61 seats are needed to form a secure majority in the 120-seat Knesset, neither major bloc reached a governing majority.",
+        "why": [
+         "number(s) not in evidence: 120"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Meanwhile, two Arab-Israeli lists secured an unprecedented 19 seats in a historic breakthrough.",
+        "why": [
+         "number(s) not in evidence: 19"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu has served as Israel's prime minister for 19 of the past 30 years and led a ruling coalition of right-wing, far-right and religious parties.",
+        "why": [
+         "partial",
+         "The claim presents the duration as fact, but the evidence cites it as a reported opinion."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+       "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "With all the votes counted, the pro-Netanyahu bloc finished ahead of Gadi Eisenkot's anti-Netanyahu bloc. But tough coalition talks loom as neither grouping won a majority. DW has more.",
+       "kind": "reporting",
+       "published": "2026-10-30T06:17:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+       "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+       "excerpt": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. …",
+       "kind": "reporting",
+       "published": "2026-10-29T23:14:53+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 372,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped spain, sánchez, spanish: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
