@@ -1,0 +1,757 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T10:45:17.820623+00:00",
+ "candidates": 158,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "78088beb880e",
+   "title": "Was I wrong about open models & cyber risks?",
+   "link": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "source": "Interconnects",
+   "authors": [
+    "Nathan Lambert"
+   ],
+   "published": "2026-10-30T17:36:56+00:00",
+   "bucket": "ai",
+   "excerpt": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1762,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.494,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "45d18316f340",
+   "title": "Evaluating New LinkedIn Labor Market Tightness Indicators",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-10-30T14:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Measures of labor market tightness (LMT) describe how difficult it is for firms to find workers. The labor market is considered tight if there are few job seekers available relative to job openings, implying stronger wage pressures as employers compete for scarce job seekers. Thus, good measures of LMT are important for predicting wage inflation and calibrating monetary policy. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1686,
+   "access": "free",
+   "lang": "en",
+   "score": 4.923,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "b9df19d76016",
+   "title": "Your Book Review: The History And Adventures Of An Atom",
+   "link": "https://www.astralcodexten.com/p/your-book-review-the-history-and",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-10-30T16:30:33+00:00",
+   "bucket": "mind",
+   "excerpt": "[ This is one of the finalists in the 2026 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 6070,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "bd7bb8f0e9ab",
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Perri Thaler"
+   ],
+   "published": "2026-10-30T14:52:05+00:00",
+   "bucket": "discovery",
+   "excerpt": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.239,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "bb46da2dc3b3",
+   "title": "dbreunig/nesformer",
+   "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-30T21:59:22+00:00",
+   "bucket": "ai",
+   "excerpt": "Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.394,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "38306686cd22",
+   "title": "Read an extract from Dark Eden by Chris Beckett",
+   "link": "https://www.newscientist.com/article/2596432-read-an-extract-from-dark-eden-by-chris-beckett/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Chris Beckett"
+   ],
+   "published": "2026-10-30T09:30:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "In this extract from Chris Beckett’s Dark Eden, the November read for the New Scientist Book Club, we meet some of the inhabitants of a dark planet that drifts outside the Milky Way, descendants of two astronauts marooned there over a century earlier",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1410,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.075,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a33f90f27dda",
+   "title": "How the Sphinx is helping answer a riddle about extinct crocodiles",
+   "link": "https://theconversation.com/how-the-sphinx-is-helping-answer-a-riddle-about-extinct-crocodiles-294007",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Philip Mannion, Professor of Palaeobiology, UCL"
+   ],
+   "published": "2026-10-30T11:33:54+00:00",
+   "bucket": "mind",
+   "excerpt": "My colleagues and I discovered a new species of extinct crocodile from a fossil found in the same rocks used to carve the Great Sphinx of Giza. Today, there are only two species of the long-snouted gavial crocodile, both of which are endangered: Gavialis gangeticus and Tomistoma schlegelii. They are found only in freshwater environments on the Indian subcontinent and Southeast Asia. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 919,
+   "access": "free",
+   "lang": "en",
+   "score": 3.88,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "56876f107d",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "patriot",
+     "russia",
+     "american-made"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+      "published": "2026-10-31T04:51:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 427,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:40:43+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 564,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "published": "2026-10-30T23:56:24+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 259,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
+      "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-30T20:09:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 384,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "USA genehmigen \"Patriot\"-Lieferungen an Ukraine",
+      "link": "https://www.tagesschau.de/video/video-1675598.html",
+      "kind": "reporting",
+      "published": "2026-10-31T08:16:11+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Russia: Critical newspaper 'Novaya Gazeta' to close",
+      "link": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-30T11:09:00+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1675598.html",
+      "error": "only 11 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "United States approves Patriot missile sale to Ukraine",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United States approved the sale of 500 Patriot PAC-3 missiles and associated support to Ukraine for an estimated 2.1 billion dollars.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The United States State Department announced the package on Friday, noting that the purchase will be fully funded by European allies and Canada.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy welcomed the announcement but stressed that his country needs the missile interceptors immediately.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Donald Trump serves as the President of the United States, heading an administration that took office in January 2025.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russia launched a full-scale invasion of Ukraine in February 2022, following earlier actions in Crimea and Donbas.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The Patriot system is produced by the American aerospace manufacturer Lockheed Martin, which acts as the principal contractor for the sale.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The United States State Department stated that the proposed transaction supports foreign policy and national security objectives by improving the security of a European partner country.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The German-language broadcaster tagesschau reported that the equipment will improve Ukraine's capability to counter current and future threats by strengthening its integrated air and missile defence.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Sources state that the missiles have yet to be manufactured, making rapid delivery unlikely and pushing expected arrival into the early 2030s.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The exact production schedule remains unclear because the order consists of newly built units rather than existing stock.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "German-language reporting from tagesschau noted that the weapons sale still requires formal approval from the United States Congress.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Patriot system",
+       "definition": "A long-range, all-weather air defence system designed to intercept incoming tactical ballistic missiles and aircraft."
+      },
+      {
+       "term": "Lockheed Martin",
+       "definition": "An American aerospace, defence, and arms manufacturing corporation serving global military customers."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The background section incorrectly identifies Donald Trump as the current President of the United States."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+       "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+       "excerpt": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
+       "kind": "reporting",
+       "published": "2026-10-31T04:51:25+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US approves sale of 500 Patriot missiles to Ukraine",
+       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+       "kind": "reporting",
+       "published": "2026-10-31T00:40:43+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "a009a018f3",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "korea",
+     "korean",
+     "binance",
+     "trump"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
+      "published": "2026-10-31T07:20:45+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 400,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+      "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-30T15:37:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 461,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T09:33:51+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 781,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-10-30T14:08:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-10-31T02:12:19+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Crypto giant Binance suspended trades after massive hacking incident",
+     "parts": {
+      "happened": [
+       {
+        "text": "The cryptocurrency exchange Binance temporarily suspended deposits and withdrawals after attackers stole more than $6 billion in digital assets.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Blockchain intelligence firms and security companies attributed the attack to a North Korean hacking unit known as TraderTraitor or Lazarus Group.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Binance stated that about half of the affected assets had been frozen and that it would cover all hacking losses.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Western security agencies and analytics firms have previously stated that North Korea uses cryptocurrency theft to fund its nuclear weapons and missile development programmes.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The regime in Pyongyang has repeatedly denied any involvement in cyberattacks.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Industry experts described the incident as the largest cryptocurrency theft on record.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "According to the sources, the news of the possible hack sent the value of Bitcoin tumbling.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Binance did not directly respond to questions regarding potential links between the incident and North Korea.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The company did not provide detailed information about the remaining portion of the stolen funds that has not yet been frozen.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Investigations into the precise breach points and the identities of the criminals remain ongoing.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Cryptocurrency exchange",
+       "definition": "A digital marketplace that allows users to buy and sell cryptocurrencies."
+      },
+      {
+       "term": "Blockchain",
+       "definition": "A shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Binance is the world's largest cryptocurrency exchange, founded in 2017, and has been subject to regulatory scrutiny around the world.",
+        "why": [
+         "number(s) not in evidence: 2017"
+        ]
+       },
+       {
+        "id": "matters.2",
+        "text": "Global policy experts noted that the attack stands as an unprecedented moment for the digital asset industry.",
+        "why": [
+         "partial",
+         "Evidence calls it a 'watershed moment,' but does not use the specific term 'unprecedented.'"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+       "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+       "kind": "analysis",
+       "published": "2026-10-31T02:12:19+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "5ec4b4a80f",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "canadian",
+     "trump",
+     "canada",
+     "quebec"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T02:39:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1446,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+      "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-10-30T20:55:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 797,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-30T17:00:32+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US tariffs idle Canadian paper mill as trade tensions mount",
+     "parts": {
+      "happened": [
+       {
+        "text": "Most of the mill's 360 employees in Témiscaming are out of work after American owner RYAM initiated an indefinite economic shutdown.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The closure occurred following the breakdown of trade talks between Canada and the United States and the implementation of tariffs.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The town of Témiscaming, Quebec, was built over a century ago around the paper mill and surrounding forests.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Workers previously banded together to purchase the mill in 1973 after facing a similar threat of closure by its American owner.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Residents warn that the town risks turning into a ghost town if the mill does not reopen.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Local leaders argue that the economic impact could ripple through the wider forestry industry, affecting sawmills and trucking.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unconfirmed whether the current workers will successfully secure government support or buy the plant back from RYAM.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Tariff",
+       "definition": "A tax imposed by a government on imported goods from other countries."
+      },
+      {
+       "term": "North Atlantic Treaty Organization",
+       "definition": "An intergovernmental military alliance between European and North American countries."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "uncertain.1",
+        "text": "Sources note it is still to be decided whether a broader resolution to the US tariff pressure will arrive before sub-zero winter temperatures damage the idle plant.",
+        "why": [
+         "partial",
+         "The claim fails to include necessary hedges regarding the potential for winter-related damage."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+       "kind": "reporting",
+       "published": "2026-10-31T02:39:25+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+       "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+       "kind": "reporting",
+       "published": "2026-10-30T20:55:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 12,
+  "items": 379,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped spanish, sánchez, spain: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
