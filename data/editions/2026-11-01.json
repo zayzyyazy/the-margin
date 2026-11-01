@@ -1,0 +1,537 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T11:43:50.464783+00:00",
+ "candidates": 159,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "82edef8e8b94",
+   "title": "How We Took Over ChatGPT Accounts",
+   "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-10-31T23:15:22+00:00",
+   "bucket": "ai",
+   "excerpt": "Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.939,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "839beff98ae1",
+   "title": "Reading List 10/31/26",
+   "link": "https://www.construction-physics.com/p/reading-list-103126",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-10-31T12:34:23+00:00",
+   "bucket": "economy",
+   "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at space fiber optic cable manufacturing, nuclear district heating, Spain’s high-speed rail crash, China’s spaceplane, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 473,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.855,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "d7b75c639ae6",
+   "title": "Democracy is not on the ballot, affordability is not the answer",
+   "link": "https://crookedtimber.org/2026/11/01/democracy-is-not-on-the-ballot-affordability-is-not-the-answer/",
+   "source": "Crooked Timber",
+   "authors": [
+    "John Q"
+   ],
+   "published": "2026-11-01T02:54:49+00:00",
+   "bucket": "mind",
+   "excerpt": "One of the recurring themes of the 2024 election campaign was the argument that “democracy is on the ballot”. Trump had attempted to overthrow US democracy, and regularly mused about the desirability of dictatorship, but had nevertheless been renominated by the Republican Party. That argument went nowhere, and hasn’t been seen in the current midterm …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 925,
+   "access": "free",
+   "lang": "en",
+   "score": 3.589,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "3d92d9cfbebd",
+   "title": "When Electric Cars Were for Women",
+   "link": "https://spectrum.ieee.org/early-electric-vehicles",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Allison Marsh"
+   ],
+   "published": "2026-10-31T13:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.523,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "2bb10a3305ed",
+   "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+   "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-10-27T15:59:24+00:00",
+   "bucket": "ai",
+   "excerpt": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1579,
+   "access": "free",
+   "lang": "en",
+   "score": 3.833,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1412a2800ae3",
+   "title": "How about a Hallowuino half-dozen?",
+   "link": "https://blog.arduino.cc/2026/10/29/how-about-a-hallowuino-half-dozen/",
+   "source": "Arduino Blog",
+   "authors": [
+    "David Groom"
+   ],
+   "published": "2026-10-29T16:08:32+00:00",
+   "bucket": "discovery",
+   "excerpt": "It’s almost that time of year again! No chance to 3D print your Arduino®-powered pumpkin project? Didn’t get around to animating the LEDs on your costume? There’s still time, and here’s a half-dozen Hallowuino-themed projects to get you inspired. Spooky, Sassy Pumpkin You’ve heard of Spooky, Scary Skeletons, well here’s a Spooky, Sassy Pumpkin that …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 717,
+   "access": "free",
+   "lang": "en",
+   "score": 3.74,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "4eeb24e2d3bf",
+   "title": "When giving up teaches you more than persevering ever could",
+   "link": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
+   "source": "Psyche",
+   "authors": [
+    "Mario I Juarez-Garcia"
+   ],
+   "published": "2026-10-29T10:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.382,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "a129293e35",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "oleshky",
+     "ukrainian",
+     "ukraine",
+     "kyiv"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+      "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-01T11:38:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1253,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+      "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy",
+      "published": "2026-11-01T04:17:51+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 671,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T17:53:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 905,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-10-31T16:55:47+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Evacuees leave Russian-occupied Oleshky as regional ceasefire holds",
+     "parts": {
+      "happened": [
+       {
+        "text": "Evacuees were reunited with relatives at the border after years of separation and severe hardship, including food shortages and living without basic utilities.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Oleshky, located in the Kherson region near the front line, has been occupied by Russian forces since the full-scale invasion in February 2022.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The town's population plummeted from twenty-four thousand before the war to an estimated two thousand as supply deliveries stopped and escape routes became heavily mined.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy stated that the evacuation operation demonstrated that de-escalation steps with Russia are achievable under pressure.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": []
+     },
+     "terms": [
+      {
+       "term": "G20",
+       "definition": "An international forum for the governments of major industrialized and emerging economies to discuss global economic and geopolitical issues."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Hundreds of civilians evacuated from the Russian-occupied southern Ukrainian town of Oleshky and crossed into Kyiv-controlled territory via Belarus following a localized ceasefire.",
+        "why": [
+         "partial",
+         "Evidence mentions hundreds but does not specify the number of civilians or the exact route."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "US Secretary of State Marco Rubio noted a growing international interest in facilitating limited truces in the Black Sea to safeguard grain and energy shipments.",
+        "why": [
+         "partial",
+         "The claim states the note as a fact rather than attributed to Rubio."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "Reports regarding a drone attack on an industrial facility and oil refinery near Moscow remain unverified independently.",
+        "why": [
+         "unsupported",
+         "Evidence mentions a drone attack near Kstovo, not Moscow."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "The exact timing and formal participation structure for upcoming peace negotiations involving Russia, Ukraine, and the United States remain subject to ongoing diplomatic discussion.",
+        "why": [
+         "partial",
+         "The claim is stated as fact; the evidence attributes it to a Kremlin aide."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+       "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed a hit on a Russian rocket fuel plant. DW has more.",
+       "kind": "reporting",
+       "published": "2026-11-01T11:38:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+       "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy",
+       "excerpt": "Ukrainian president says Moscow must be shown that support for Kyiv will not diminish; US says interest also growing for limited Black Sea ceasefire. What we know on day 1,712 Volodymyr Zelenskyy has said the Oleshky ceasefire shows that de-escalation steps with Russia are possible, while the US says there is growing interest for a truce in the Black Sea. …",
+       "kind": "reporting",
+       "published": "2026-11-01T04:17:51+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "af0e6336cd",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "delhi",
+     "india",
+     "indian",
+     "opposition"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Thousands rally in New Delhi to demand India’s election chief resign",
+      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+      "published": "2026-11-01T11:26:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 312,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+      "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-01T10:26:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1659,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+      "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "published": "2026-11-01T06:20:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 440,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Indian opposition protests voter list revisions and election chief",
+     "parts": {
+      "happened": [
+       {
+        "text": "Thousands of protesters and opposition leaders marched in New Delhi to demand the resignation of Chief Election Commissioner Gyanesh Kumar.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Indian National Congress party leader Rahul Gandhi led the demonstration on Sunday following more than a month of protests challenging voter roll revisions.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Authorities deployed hundreds of police officers and riot-control vehicles while announcing traffic diversions ahead of the march toward Ramlila Maidan.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Opposition parties, student organisations and youth groups have staged near-daily demonstrations since late September calling for Kumar to step down.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Opposition parties alleged the voter list revisions disproportionately removed Muslims and minorities unlikely to support Prime Minister Narendra Modi's party.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Analysts described the demonstrations and growing opposition support as Prime Minister Narendra Modi's most serious political crisis since taking office.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Health Minister Jagat Prakash Nadda characterized the demonstration as a calculated conspiracy to plunge the nation into anarchy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The Election Commission denied favouring any political party and stated that voters whose names were wrongly removed may register again.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Bharatiya Janata Party accused opposition parties of attempting to undermine democracy by challenging legitimate electoral procedures.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Election Commission of India",
+       "definition": "An autonomous constitutional authority responsible for administering election processes in India."
+      },
+      {
+       "term": "Ramlila Maidan",
+       "definition": "A historic large ground in New Delhi frequently used for public gatherings and political rallies."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "uncertain.2",
+        "text": "It remains unverified whether the voter roll purges targeted specific communities intentionally, as official bodies and opposition parties dispute the motivations.",
+        "why": [
+         "interpretation attributes a view to someone"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "The protests began after a voter verification exercise removed more than 130 million names from electoral rolls across the country.",
+        "why": [
+         "partial",
+         "The evidence states around 130 million, not an exact count of more than 130 million."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Prime Minister Narendra Modi leads the governing Bharatiya Janata Party, whose Hindu nationalist platform has held power since 2014.",
+        "why": [
+         "partial",
+         "Evidence mentions Modi came to power in 2014, but does not explicitly state the party platform held power."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+       "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Thousands are expected to take part in the Indian opposition's planned mega march in New Delhi over a controversial revision of electoral rolls. DW has more.",
+       "kind": "reporting",
+       "published": "2026-11-01T10:26:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+       "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+       "excerpt": "Opposition says hundreds of thousands of people expected to participate in march demanding election chief resign over voter list changes Indian security personnel carrying batons and shields and accompanied by riot control vehicles surrounded the site of a planned opposition ⁠protest in Delhi on Sunday that is set to demand the resignation of the country’s election chief over a controversial revision of voter lists. …",
+       "kind": "reporting",
+       "published": "2026-11-01T06:20:58+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 356,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped germany, france, german: no report squarely about it",
+   "dropped sullivans, republican, democrats: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
