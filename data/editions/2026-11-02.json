@@ -1,0 +1,604 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T13:12:44.806182+00:00",
+ "candidates": 161,
+ "sources_active": 46,
+ "sources_ok": 44,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "5784fbc97a0e",
+   "title": "How Do Banking Supervisors Deal with Failing Banks?",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/",
+   "source": "Liberty Street Economics",
+   "authors": [
+    "Sergio Correia, Stephan Luck, and Emil Verner"
+   ],
+   "published": "2026-11-02T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "In this post, we discuss insights from a recent staff report on the role of banking supervision in identifying and disciplining failing banks. We show that bank failures typically result from supervisory closure decisions based on hard information about book equity. Yet hard information is itself partly produced by supervision, as our evidence suggests that supervisors require troubled banks to recognize potential losses. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1707,
+   "access": "free",
+   "lang": "en",
+   "score": 5.655,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "214d677c0c1f",
+   "title": "If in doubt, delete the uv.lock file",
+   "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-01T23:24:22+00:00",
+   "bucket": "ai",
+   "excerpt": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.314,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "1dd3aab742e1",
+   "title": "How psychology’s classic studies misled us about the self",
+   "link": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+   "source": "Psyche",
+   "authors": [
+    "Jack W Klein & William B Swann"
+   ],
+   "published": "2026-11-02T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.5,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1588bef61433",
+   "title": "Guarding the Gates of Knowledge",
+   "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Harry Goldstein"
+   ],
+   "published": "2026-11-01T14:00:01+00:00",
+   "bucket": "discovery",
+   "excerpt": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.56,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "15edbcf8b94a",
+   "title": "Around half of people will experience a mental health issue in their lifetime",
+   "link": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
+   "source": "Our World in Data",
+   "authors": [
+    "Hannah Ritchie"
+   ],
+   "published": "2026-11-02T00:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "What is someone’s risk of developing depression, anxiety, or other mental health issues at some point in their life?",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.423,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "78e51a231964",
+   "title": "Recession in France?",
+   "link": "https://econbrowser.com/archives/2026/11/recession-in-france",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-11-01T19:30:39+00:00",
+   "bucket": "economy",
+   "excerpt": "A statement by the French Business Cycle Dating Committee (CDCEF) of the French Economic Association (AFSE) on 10/29/2026 (original communique in French), by way of Laurent Ferrara (Chair), and secretariatafse@gmail.com. The quarterly growth rate of French GDP just released by the National Statistical Institute (Insee) for the third quarter of 2026 stands at −0.1%.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 916,
+   "access": "free",
+   "lang": "en",
+   "score": 4.188,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "c3133cf13e1a",
+   "title": "The agentic web is here",
+   "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Grace Huckins"
+   ],
+   "published": "2026-11-02T09:35:19+00:00",
+   "bucket": "ai",
+   "excerpt": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 3750,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.088,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "6d996f0854",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "india",
+     "thousands",
+     "modi",
+     "kumar"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Thousands evacuated as India braces for second cyclone in a week",
+      "link": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
+      "published": "2026-11-02T08:29:29+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 334,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "India news: Gandhi vows to step up pressure on Modi at protest rally",
+      "link": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-02T06:38:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1081,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+      "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "published": "2026-11-01T16:11:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 737,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 873,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Thousands of opposition supporters rally in Delhi to demand election chief's resignation",
+     "parts": {
+      "happened": [
+       {
+        "text": "Tens of thousands of opposition supporters gathered at Ramlila Maidan in central Delhi to demand the resignation of India's chief election commissioner, Gyanesh Kumar.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Organised by the opposition INDIA bloc and led by Rahul Gandhi's Congress party, the protest featured prominent regional leaders and speeches criticising the government.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Rahul Gandhi said the opposition would take legal action regarding vote theft and warned Prime Minister Narendra Modi and Home Minister Amit Shah.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The protest follows weeks of demonstrations over the Special Intensive Revision, a controversial process that removed more than 130 million names from India's draft electoral rolls.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Opposition parties allege that the voter list revision disproportionately targeted Muslims and other minorities to benefit Prime Minister Narendra Modi's ruling Bharatiya Janata Party.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Human Rights Watch said the accusations regarding the voter roll revision raise serious questions about the fairness of future Indian elections.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Bharatiya Janata Party leader and federal minister JP Nadda said the opposition rally was a calculated conspiracy to plunge the nation into anarchy under the guise of defending democracy.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the opposition can overcome a significant trust deficit and successfully unite disparate youth movements, such as the Cockroach Janta Party, with established political parties.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Questions persist regarding the true level of widespread public mobilisation and whether the opposition can build a viable electoral challenge against the ruling party.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Chief Election Commissioner",
+       "definition": "The head of the body responsible for administering election processes in the country."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.2",
+        "text": "The Election Commission maintains that the revision aims to remove duplicate registrations and ineligible individuals, while the Bharatiya Janata Party and election officials have denied all allegations of bias.",
+        "why": [
+         "partial",
+         "Evidence does not support the claim that all allegations were denied, just the commission's position."
+        ]
+       },
+       {
+        "id": "matters.2",
+        "text": "The opposition alliance views the campaign against the chief election commissioner as an essential first step to protect democratic processes in the country.",
+        "why": [
+         "partial",
+         "The claim states the view as fact; it should be attributed to Rahul Gandhi or the opposition."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Thousands evacuated as India braces for second cyclone in a week",
+       "link": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
+       "excerpt": "Cyclone Murasu expected to hit near Ongole late Monday with wind speeds of 100-110km/h, Meteorological Department says.",
+       "kind": "reporting",
+       "published": "2026-11-02T08:29:29+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "India news: Gandhi vows to step up pressure on Modi at protest rally",
+       "link": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Rahul Gandhi said the removal of election chief Gyanesh Kumar will be the first step to getting the country on the right track. Follow DW for more.",
+       "kind": "reporting",
+       "published": "2026-11-02T06:38:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "56f1511d86",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "german",
+     "germany",
+     "gen",
+     "frankfurt"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
+      "published": "2026-11-02T09:21:20+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 531,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Germany news: Berlin hosts digital summit with AI focus",
+      "link": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-02T07:36:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1830,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T11:57:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 879,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Germany news: Gen Z group calls for new protests",
+      "link": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-01T12:26:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "German Youth Protests Turn Violent",
+     "parts": {
+      "happened": [
+       {
+        "text": "Shops were looted and emergency services were targeted with fireworks, stones and bottles during clashes in Frankfurt, Cologne and Hamburg after weekend protests.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Authorities in Frankfurt reported that stones and petrol bombs were thrown, shop windows were smashed, and more than 100 police officers were injured.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Police in Berlin reported that 27 officers were injured and up to 56 people were temporarily detained following a smaller demonstration.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Tens of thousands of young people joined largely peaceful demonstrations organised by the campaign group Gen Z regelt to protest against underfunding in schools, living costs, spending cuts and military service.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Federal Interior Minister Alexander Dobrindt stated that peaceful demonstrations had been hijacked towards the evening by violence-prone left-wing groups and migrant anarchists.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Education Minister Karin Prien argued that the violence indicated that the integration of people of migrant background into German society could be improved.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Chancellor Friedrich Merz stated that the government would show no tolerance for violence, emphasising that offenders would feel the full force of the law.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Chancellor Friedrich Merz also highlighted a positive aspect to the protests, stating that the young generation is politically engaged and concerned about its future.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Defence Minister Boris Pistorius questioned the generalisations made about migrant groups, asking where to stop differentiating and stating that he could not quickly verify the facts.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Officials and researchers debated the precise identities and backgrounds of the individuals who carried out the acts of violence during the unrest.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Christian Democratic Union",
+       "definition": "A major centre-right political party in Germany."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Climate activist Luisa Neubauer criticised the focus on violence, arguing that the debate was treated as a found pleasure by people not seriously interested in youth concerns.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Germany news: Gen Z group calls for new protests",
+       "link": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The group behind German demonstrations this weekend has called for more protests to keep pressure on the government to act. Meanwhile, the IG Metall union has begun warning strikes after pay talks collapse. DW has more.",
+       "kind": "reporting",
+       "published": "2026-11-01T12:26:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "071b7d2b03",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "The Guardian"
+    ],
+    "names": [
+     "el-sayed",
+     "stevens",
+     "republican",
+     "democrats"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks",
+      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-1-day-to-go-democrats-rally-around-el-sayed-amid-attacks?traffic_source=rss",
+      "published": "2026-11-02T09:06:20+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 807,
+      "id": "S1"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Stevens defects to back El-Sayed’s Michigan opponent as Trump delivers anti-Muslim tirade | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/first-thing-stevens-defects-to-back-el-sayeds-michigan-opponent-as-trump-delivers-anti-muslim-tirade",
+      "kind": "opinion",
+      "published": "2026-11-02T12:31:58+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks",
+       "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-1-day-to-go-democrats-rally-around-el-sayed-amid-attacks?traffic_source=rss",
+       "excerpt": "Democrats slam Haley Stevens over her endorsement of a Republican candidate a day before the polls.",
+       "kind": "reporting",
+       "published": "2026-11-02T09:06:20+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "only 1 readable report(s)"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 361,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped democrats, democratic, arizona: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
