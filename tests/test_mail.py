@@ -51,5 +51,19 @@ class MailTests(unittest.TestCase):
         self.assertNotIn("secret", str(c.exception))
 
 
+class PartialReadTests(unittest.TestCase):
+    def test_one_failing_part_keeps_the_rest(self):
+        def boom(*a, **k):
+            raise personal.NotionError("HTTP 404 page or database not shared with the integration")
+        with mock.patch.object(personal, "_hub_right_now", boom), mock.patch.object(personal, "_courses", return_value={}), \
+             mock.patch.object(personal, "_today_plan", return_value=[("B1", "x")]), mock.patch.object(personal, "_deadlines", return_value=[]), \
+             mock.patch.object(personal, "_yesterday", return_value=None), mock.patch.object(personal, "_recent", return_value=[]):
+            r = personal.read("t", dt.date(2026, 11, 4))
+        self.assertEqual(list(r["errors"]), ["hub"])
+        self.assertEqual(r["today"], [("B1", "x")])
+        _, doc, _ = mail.render(ED, r, None, "", dt.date(2026, 11, 4))
+        self.assertIn("Could not read: hub: HTTP 404", doc)
+
+
 if __name__ == "__main__":
     unittest.main()

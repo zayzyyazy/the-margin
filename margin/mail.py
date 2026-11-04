@@ -105,6 +105,10 @@ def your_day(p, today):
             line = r["title"] + (f' — {r["changed"]}' if r["changed"] else "")
             h.append(_p(e(line), muted=True, size=14))
             t.append(f"  {line}")
+    if p.get("errors"):
+        bad = ", ".join(f"{k}: {v}" for k, v in p["errors"].items())
+        h.append(_p(f"Could not read: {e(bad)}", muted=True, size=12))
+        t += ["", f"Could not read: {bad}"]
     return "".join(h), "\n".join(t)
 
 
@@ -241,7 +245,9 @@ def main(argv=None):
     except (smtplib.SMTPException, OSError) as ex:
         print(f"::error::mail failed: {type(ex).__name__}")
         return 1
-    print("mail: sent" + ("" if pers is not None else " (without Your day)"))
+    bad = (pers or {}).get("errors") or {}
+    note = f" (Your day: {err})" if err else (" (Notion parts failed: " + ", ".join(f"{k}={v}" for k, v in bad.items()) + ")" if bad else "")
+    print("mail: sent" + note + ("" if pers is not None or err else " (Notion not configured)"))
     return 0
 
 

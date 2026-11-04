@@ -164,16 +164,27 @@ def _recent(token):
 
 
 def read(token, today):
-    """The whole personal section as plain data. Raises NotionError on the first failure."""
-    courses = _courses(token)
-    return {
-        "right_now": _hub_right_now(token),
-        "today": _today_plan(token, today),
-        "deadlines": _deadlines(token, today, courses),
-        "courses": [c for c in courses.values() if c["next"] and c["status"].lower() not in ("done", "dropped", "mastered")],
-        "yesterday": _yesterday(token, today),
-        "recent": _recent(token),
-    }
+    """The personal section as plain data. Each part is read on its own, so one failure leaves the others intact.
+    `errors` maps a part name to a status-code-only message (never content)."""
+    out = {"right_now": [], "today": [], "deadlines": [], "courses": [], "yesterday": None, "recent": [], "errors": {}}
+
+    def part(name, fn):
+        try:
+            return fn()
+        except NotionError as ex:
+            out["errors"][name] = str(ex)
+        except (KeyError, TypeError, ValueError) as ex:          # a property was renamed or has another type
+            out["errors"][name] = f"unexpected shape ({type(ex).__name__})"
+        return None
+
+    courses = part("courses", lambda: _courses(token)) or {}
+    out["courses"] = [c for c in courses.values() if c["next"] and c["status"].lower() not in ("done", "dropped", "mastered")]
+    out["right_now"] = part("hub", lambda: _hub_right_now(token)) or []
+    out["today"] = part("this-week", lambda: _today_plan(token, today)) or []
+    out["deadlines"] = part("actions", lambda: _deadlines(token, today, courses)) or []
+    out["yesterday"] = part("daily-review", lambda: _yesterday(token, today))
+    out["recent"] = part("activity-log", lambda: _recent(token)) or []
+    return out
 
 
 def days_until(iso, today):

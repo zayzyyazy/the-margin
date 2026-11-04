@@ -23,6 +23,7 @@ BUCKETS = {
 }
 TARGET, MIN_ITEMS, MAX_ITEMS = 7, 6, 8
 MAX_PER_BUCKET, WINDOW_DAYS, PER_SOURCE_POOL = 2, 7, 8
+BUCKET_CAP = {"ai": 3}                              # the owner wants more AI / LLM / model reading: up to three slots
 
 SKIP_TITLE = re.compile(r"^(live|watch|listen|podcast|quiz|video|in pictures|newsletter|morning|evening|today in|"
                         r"kommentar|meinung|marktbericht|liveblog|ticker|opinion|analysis:)\b|"
@@ -154,11 +155,11 @@ def compose(pool):
 
     def fits(i, cap):
         return (all(c["source"] != i["source"] for c in chosen)
-                and sum(c["bucket"] == i["bucket"] for c in chosen) < cap
+                and sum(c["bucket"] == i["bucket"] for c in chosen) < max(cap, BUCKET_CAP.get(i["bucket"], 0))
                 and not (i["role"] == "signal" and any(c["role"] == "signal" for c in chosen)))
 
-    for b in BUCKETS:                               # every strand gets its best item first
-        best = next((i for i in pool if i["bucket"] == b and fits(i, MAX_PER_BUCKET)), None)
+    for b in [*BUCKETS, "ai"]:                      # every strand gets its best item first; AI gets a second
+        best = next((i for i in pool if i["bucket"] == b and i not in chosen and fits(i, MAX_PER_BUCKET)), None)
         if best:
             chosen.append(best)
     for cap in (MAX_PER_BUCKET, MAX_PER_BUCKET + 1):  # relax the strand cap only if the day is thin

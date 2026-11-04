@@ -847,3 +847,69 @@
   library: false
   active: true
   note: academic explainers, CC BY-ND
+- name: Latent Space
+  feed: https://www.latent.space/feed
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
+- name: The Gradient
+  feed: https://thegradient.pub/rss/
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
+- name: Lilian Weng
+  feed: https://lilianweng.github.io/index.xml
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
+- name: Chip Huyen
+  feed: https://huyenchip.com/feed.xml
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
+- name: Eugene Yan
+  feed: https://eugeneyan.com/rss/
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
+- name: One Useful Thing
+  feed: https://www.oneusefulthing.org/feed
+  how: owner-request-2026-11-04
+  lang: en
+  bucket: ai
+  tier: 2
+  tier_src: manual
+  role: explainer
+  library: true
+  active: true
+  note: 'added on request for more LLM/model reading; feed URL not yet live-tested — a failure shows on /sources/'
