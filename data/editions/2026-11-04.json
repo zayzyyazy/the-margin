@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T12:48:56.224097+00:00",
- "candidates": 159,
+ "generated_at": "2026-11-04T17:13:09.042228+00:00",
+ "candidates": 161,
  "sources_active": 46,
  "sources_ok": 44,
  "sources_failed": [
@@ -9,6 +9,28 @@
   "Bruegel"
  ],
  "items": [
+  {
+   "id": "cade63429170",
+   "title": "How well can we measure open model inference share?",
+   "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "source": "Interconnects",
+   "authors": [
+    "Nathan Lambert"
+   ],
+   "published": "2026-11-04T16:35:44+00:00",
+   "bucket": "ai",
+   "excerpt": "My longest running agent testbed has been building the Interconnects Dashboard — an aggregator of all of the best data on open model adoption and performance from across the web. This dashboard is freely available and becoming quite useful. Still, all the measurements we have on open model adoption are incredibly imprecise. We have noisy platform metrics, marketing-related metrics from startups, and imperfect public evaluations. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 477,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.655,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
   {
    "id": "52c52f9a9034",
    "title": "How Market Position Shapes Credit Card Interest Rates",
@@ -33,28 +55,6 @@
    "also_in": null
   },
   {
-   "id": "4869050f92bc",
-   "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
-   "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
-   "source": "Engineering at Meta",
-   "authors": [],
-   "published": "2026-11-03T17:00:35+00:00",
-   "bucket": "ai",
-   "excerpt": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution computational costs by compiling all features into a single merged graph, but that …",
-   "excerpt_origin": "feed summary",
-   "excerpt_shortened": true,
-   "full_words": 2191,
-   "access": "free",
-   "lang": "en",
-   "score": 4.294,
-   "why": [
-    "long-form",
-    "explanatory",
-    "about the publisher"
-   ],
-   "also_in": null
-  },
-  {
    "id": "212928f9201d",
    "title": "Baby heaven",
    "link": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
@@ -75,43 +75,70 @@
    "also_in": null
   },
   {
-   "id": "d2988b987043",
-   "title": "Boiling frog syndrome is often called a myth – but is it?",
-   "link": "https://www.newscientist.com/article/2596833-boiling-frog-syndrome-is-often-called-a-myth-but-is-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "id": "6f326a5e21b5",
+   "title": "Hannah Fry: How to win The Traitors with maths (step one, don’t get made a traitor)",
+   "link": "https://www.newscientist.com/article/2597314-hannah-fry-how-to-win-the-traitors-with-maths-step-one-dont-get-made-a-traitor/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
    "source": "New Scientist",
    "authors": [
-    "James Woodford"
+    "Hannah Fry"
    ],
-   "published": "2026-11-03T09:00:00+00:00",
+   "published": "2026-11-04T14:00:00+00:00",
    "bucket": "discovery",
-   "excerpt": "There is a popular metaphor that says frogs will boil to death if their environment warms so slowly they don’t notice. Scientifically, it is considered a myth, but columnist James Woodford finds evidence to the contrary in his own backyard",
+   "excerpt": "With a little help from Alan Turing and Thomas Bayes, I came up with a mathematical model I hoped would help me win The Traitors. Unfortunately, events then got in the way, writes Professor Hannah Fry in her latest column",
    "excerpt_origin": "feed summary",
    "excerpt_shortened": false,
-   "full_words": 0,
+   "full_words": 1323,
    "access": "partly paywalled",
    "lang": "en",
-   "score": 3.848,
+   "score": 4.688,
    "why": [
+    "long-form",
     "explanatory"
    ],
    "also_in": null
   },
   {
-   "id": "1d8f97c9e7f4",
-   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-   "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-   "source": "Simon Willison's Weblog",
+   "id": "4869050f92bc",
+   "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+   "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+   "source": "Engineering at Meta",
    "authors": [],
-   "published": "2026-11-03T05:32:25+00:00",
+   "published": "2026-11-03T17:00:35+00:00",
    "bucket": "ai",
-   "excerpt": "Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy, youtube",
+   "excerpt": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution computational costs by compiling all features into a single merged graph, but that …",
    "excerpt_origin": "feed summary",
-   "excerpt_shortened": false,
-   "full_words": 0,
+   "excerpt_shortened": true,
+   "full_words": 2191,
    "access": "free",
    "lang": "en",
-   "score": 4.238,
-   "why": [],
+   "score": 4.353,
+   "why": [
+    "long-form",
+    "explanatory",
+    "about the publisher"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "8a5a66ffed5e",
+   "title": "Yesterday Has Never Looked This Good: Feast Your Eyes On The 2026 Retrocomputing Challenge Winners!",
+   "link": "https://hackaday.com/2026/11/04/yesterday-has-never-looked-this-good-feast-your-eyes-on-the-2026-retrocomputing-challenge-winners/",
+   "source": "Hackaday",
+   "authors": [
+    "Jenny List"
+   ],
+   "published": "2026-11-04T15:00:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "If there’s one category among those we see here at Hackaday that has something for everyone, it’s retrocomputing. Spanning everything from relay-based machines that fill a wall through to modern …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1517,
+   "access": "free",
+   "lang": "en",
+   "score": 4.1,
+   "why": [
+    "long-form"
+   ],
    "also_in": null
   },
   {
@@ -135,451 +162,17 @@
     "explanatory"
    ],
    "also_in": null
-  },
-  {
-   "id": "9ffe4e6bb660",
-   "title": "On the Eve of Escalation",
-   "link": "https://econbrowser.com/archives/2026/11/on-the-eve-of-escalation",
-   "source": "Econbrowser",
-   "authors": [
-    "Menzie Chinn"
-   ],
-   "published": "2026-11-03T02:36:47+00:00",
-   "bucket": "economy",
-   "excerpt": "New strikes on Iran tonight, from WSJ: The assault follows comments by Trump playing down the possibility of a return to war with Iran after Tuesday’s midterm elections. “We had a war with Iran. We won,” Trump told reporters Monday. “I don’t know if you even call it a war because we haven’t been doing …",
-   "excerpt_origin": "feed summary",
-   "excerpt_shortened": true,
-   "full_words": 0,
-   "access": "free",
-   "lang": "en",
-   "score": 3.382,
-   "why": [],
-   "also_in": null
   }
  ],
  "world": {
   "developments": [
    {
     "selection": {
-     "score": 5.0,
-     "region": "americas",
-     "adjustments": []
-    },
-    "id": "52a67d96a6",
-    "significance": 4,
-    "outlets": [
-     "Al Jazeera",
-     "BBC News",
-     "DW",
-     "The Guardian"
-    ],
-    "names": [
-     "democrats",
-     "trump",
-     "congress",
-     "house"
-    ],
-    "sources": [
-     {
-      "outlet": "DW",
-      "title": "US midterms: Democrats win House and Senate from Republicans",
-      "link": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "published": "2026-11-04T12:45:00+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 2706,
-      "id": "S1"
-     },
-     {
-      "outlet": "Al Jazeera",
-      "title": "‘Seismic shift’: World reacts to US midterm election results",
-      "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-      "published": "2026-11-04T11:24:50+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 1077,
-      "id": "S2"
-     },
-     {
-      "outlet": "BBC News",
-      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T06:53:56+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 868,
-      "id": "S3"
-     }
-    ],
-    "also": [
-     {
-      "outlet": "Al Jazeera",
-      "title": "Democrats win control of House and Senate: Key US midterms takeaways",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-      "kind": "reporting",
-      "published": "2026-11-04T10:39:52+00:00"
-     },
-     {
-      "outlet": "Al Jazeera",
-      "title": "Photos: US Democrats celebrate winning control of Congress",
-      "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
-      "kind": "reporting",
-      "published": "2026-11-04T10:18:10+00:00"
-     },
-     {
-      "outlet": "Al Jazeera",
-      "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
-      "link": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
-      "kind": "reporting",
-      "published": "2026-11-04T09:48:31+00:00"
-     },
-     {
-      "outlet": "DW",
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
-      "kind": "reporting",
-      "published": "2026-11-04T08:52:00+00:00"
-     },
-     {
-      "outlet": "BBC News",
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "kind": "reporting",
-      "published": "2026-11-04T07:32:02+00:00"
-     },
-     {
-      "outlet": "DW",
-      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us",
-      "link": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-      "kind": "reporting",
-      "published": "2026-11-04T06:34:00+00:00"
-     }
-    ],
-    "fetch_failures": [
-     {
-      "outlet": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "error": "only 186 words readable"
-     }
-    ],
-    "mode": "brief",
-    "explained": {
-     "headline": "Democrats win control of US Congress in midterm elections",
-     "parts": {
-      "happened": [
-       {
-        "text": "Democratic Party candidates secured control of both the US Senate and the House of Representatives in the midterm elections.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "Voters delivered a stinging rebuke to President Donald Trump and his party, handing Democrats victories in several states that had previously been reliably Republican.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "The election also featured a series of historic firsts, including the election of Abdul El-Sayed as the first Muslim US senator.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       }
-      ],
-      "background": [
-       {
-        "text": "The elections took place halfway through Donald Trump's second term, following his return to the White House in January 2025 with unified Republican control of Congress.",
-        "kind": "fact",
-        "cites": [
-         "S3"
-        ]
-       },
-       {
-        "text": "In the preceding months, the Trump administration had pursued sometimes unpopular policies on trade and immigration while launching a war against Iran.",
-        "kind": "fact",
-        "cites": [
-         "S3"
-        ]
-       }
-      ],
-      "matters": [
-       {
-        "text": "The Democratic majorities in Congress will enable the party to frustrate Donald Trump's legislative agenda and launch investigations into his administration.",
-        "kind": "fact",
-        "cites": [
-         "S3"
-        ]
-       },
-       {
-        "text": "Donald Trump acknowledged that his party's poor performance was likely impacted by the short-term consequences of the war on Iran, particularly regarding gasoline prices.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       }
-      ],
-      "uncertain": [
-       {
-        "text": "It remains to be seen whether Donald Trump will adjust his approach or seek to strike deals with congressional Democrats during his final two years in office.",
-        "kind": "interp",
-        "cites": []
-       },
-       {
-        "text": "Iranian supreme leader Mojtaba Khamenei stated in a written message that expectations of a genuine shift in US policy toward Tehran were mistaken, leaving the future of bilateral hostility unclear.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       }
-      ]
-     },
-     "terms": [
-      {
-       "term": "US Senate",
-       "definition": "The upper house of the United States Congress, composed of two senators from each state."
-      },
-      {
-       "term": "House of Representatives",
-       "definition": "The lower house of the United States Congress, where representation is based on each state's population."
-      }
-     ],
-     "complete": false,
-     "report": {
-      "removed": [
-       {
-        "id": "matters.2",
-        "text": "International leaders and observers watched the vote closely, with some European officials suggesting the result could bolster support for Ukraine and environmental transitions.",
-        "why": [
-         "partial",
-         "The claim fails to attribute the opinions to the specific European official mentioned."
-        ]
-       }
-      ],
-      "checked": 9,
-      "coherence": null
-     }
-    },
-    "brief": {
-     "reports": [
-      {
-       "outlet": "DW",
-       "title": "US midterms: Democrats win House and Senate from Republicans",
-       "link": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-       "excerpt": "The Democratic Party gained control of the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
-       "kind": "reporting",
-       "published": "2026-11-04T12:45:00+00:00",
-       "lang": "en"
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Democrats win control of House and Senate: Key US midterms takeaways",
-       "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-       "excerpt": "This is the first time in 20 years that a Republican president has lost both houses of US Congress.",
-       "kind": "reporting",
-       "published": "2026-11-04T10:39:52+00:00",
-       "lang": "en"
-      }
-     ]
-    },
-    "why": "too little survived checking"
-   },
-   {
-    "selection": {
-     "score": 4.0,
-     "region": "mena",
-     "adjustments": []
-    },
-    "id": "df20d0d8b7",
-    "significance": 3,
-    "outlets": [
-     "Al Jazeera",
-     "The Guardian",
-     "tagesschau"
-    ],
-    "names": [
-     "israel",
-     "herzog",
-     "netanyahu",
-     "blockade"
-    ],
-    "sources": [
-     {
-      "outlet": "The Guardian",
-      "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-      "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-      "published": "2026-11-04T12:19:18+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 678,
-      "id": "S1"
-     },
-     {
-      "outlet": "Al Jazeera",
-      "title": "Israel vote results confirmed as election commission rejects fraud claims",
-      "link": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
-      "published": "2026-11-04T10:37:21+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 828,
-      "id": "S2"
-     },
-     {
-      "outlet": "tagesschau",
-      "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
-      "published": "2026-11-04T09:43:26+00:00",
-      "kind": "reporting",
-      "lang": "de",
-      "words": 647,
-      "id": "S3"
-     }
-    ],
-    "also": [],
-    "fetch_failures": [],
-    "mode": "brief",
-    "explained": {
-     "headline": "Israel Election Commission Rejects Fraud Claims as Consultations Begin",
-     "parts": {
-      "happened": [
-       {
-        "text": "Israel's election commission certified the final results of the 27 October vote, rejecting claims of mass fraud promoted by Prime Minister Benjamin Netanyahu.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "The election authorities presented the final results to President Isaac Herzog, who began consultations with party leaders on forming a government.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "The attorney general blocked a demand from the Shin Bet security service to interrogate senior politicians from Palestinian-led parties due to a lack of evidence.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       }
-      ],
-      "background": [
-       {
-        "text": "Neither Benjamin Netanyahu's bloc nor the opposition bloc led by Gadi Eisenkot attained the 61 seats needed to govern, while Arab-led parties secured a record 19 seats.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "Isaac Herzog plays a crucial role in forming the next government by choosing which politician has the first chance to create a coalition.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       }
-      ],
-      "matters": [
-       {
-        "text": "Analyst Nadav Eyal warned that Israelis should brace for more extreme attempts to dismiss election results and discredit leading opposition parties.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "Gadi Eisenkot warned of ongoing attempts to undermine trust in the election results and accused Benjamin Netanyahu of weaponising security services.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "Supreme Court Justice Noam Sohlberg stated that those casting doubt on the election results pose a real danger to Israel's democracy.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       }
-      ],
-      "uncertain": [
-       {
-        "text": "It remains to be seen how long coalition negotiations will take, with observers expecting weeks of tough talks.",
-        "kind": "fact",
-        "cites": [
-         "S3"
-        ]
-       },
-       {
-        "text": "The election committee noted that some suspicions were still under investigation, though they do not cast doubt on the election as a whole.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "It is still uncertain whether Arab-led parties will recommend either candidate for prime minister or under what conditions.",
-        "kind": "fact",
-        "cites": [
-         "S3"
-        ]
-       }
-      ]
-     },
-     "terms": [
-      {
-       "term": "Knesset",
-       "definition": "The unicameral national legislature of Israel."
-      },
-      {
-       "term": "Shin Bet",
-       "definition": "Israel's internal security agency responsible for counter-intelligence and domestic security."
-      },
-      {
-       "term": "Central Elections Committee",
-       "definition": "The official body responsible for overseeing and certifying national elections in Israel."
-      }
-     ],
-     "complete": false,
-     "report": {
-      "removed": [
-       {
-        "id": "background.0",
-        "text": "The October 27 vote stripped Benjamin Netanyahu's far-right coalition of their governing majority in the 120-seat parliament.",
-        "why": [
-         "number(s) not in evidence: 120"
-        ]
-       }
-      ],
-      "checked": 11,
-      "coherence": null
-     }
-    },
-    "brief": {
-     "reports": [
-      {
-       "outlet": "The Guardian",
-       "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-       "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-       "excerpt": "Move comes after attorney general blocked Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of the 27 October vote that stripped Benjamin Netanyahu’s far-right coalition of their governing majority, rejecting claims of mass fraud promoted by the prime minister. …",
-       "kind": "reporting",
-       "published": "2026-11-04T12:19:18+00:00",
-       "lang": "en"
-      }
-     ]
-    },
-    "why": "too little survived checking"
-   },
-   {
-    "selection": {
      "score": 4.0,
      "region": "africa",
      "adjustments": []
     },
-    "id": "d2bba0b9e3",
+    "id": "1a1c5e66ab",
     "significance": 3,
     "outlets": [
      "BBC News",
@@ -587,21 +180,31 @@
      "The Guardian"
     ],
     "names": [
-     "anc",
      "africans",
-     "africa",
-     "congress"
+     "anc",
+     "african",
+     "party"
     ],
     "sources": [
      {
       "outlet": "BBC News",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T11:47:44+00:00",
+      "title": "The young politicians with African roots making history in the US midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:34:32+00:00",
       "kind": "reporting",
       "lang": "en",
-      "words": 1513,
+      "words": 850,
       "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "published": "2026-11-04T14:50:47+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 728,
+      "id": "S2"
      },
      {
       "outlet": "DW",
@@ -611,66 +214,56 @@
       "kind": "reporting",
       "lang": "en",
       "words": 428,
-      "id": "S2"
-     },
-     {
-      "outlet": "The Guardian",
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "published": "2026-11-04T04:00:23+00:00",
-      "kind": "reporting",
-      "lang": "en",
-      "words": 597,
       "id": "S3"
      }
     ],
     "also": [
      {
-      "outlet": "DW",
-      "title": "Why South Africa's local elections matter",
-      "link": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf",
-      "kind": "analysis",
-      "published": "2026-11-03T15:06:00+00:00"
+      "outlet": "BBC News",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-04T11:47:44+00:00"
      }
     ],
     "fetch_failures": [],
     "mode": "brief",
     "explained": {
-     "headline": "South Africans vote in local elections amid declining support for ANC",
+     "headline": "South Africans vote in local elections amid ANC struggles",
      "parts": {
       "happened": [
        {
-        "text": "South Africans began voting in municipal elections on Wednesday that could lead to fresh losses for the governing African National Congress.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "The vote takes place amid rising frustration over failing public services, including unreliable water and electricity supplies, high crime rates, and unemployment.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "Election officials stated that voting was proceeding smoothly despite long queues at certain polling stations.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       }
-      ],
-      "background": [
-       {
-        "text": "The African National Congress is the former liberation movement led by Nelson Mandela that has governed South Africa since the end of apartheid in 1994.",
+        "text": "South Africans began voting on Wednesday in municipal elections to decide who leads the country's local councils and major cities.",
         "kind": "fact",
         "cites": [
          "S3"
         ]
        },
        {
-        "text": "The party lost its parliamentary majority for the first time in the 2024 national elections, subsequently entering a national coalition with the Democratic Alliance and several other parties.",
+        "text": "The vote takes place amid deep discontent over power cuts, water outages and crumbling infrastructure.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Polls suggested the governing party could receive less than a third of the vote.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The party lost its parliamentary majority in 2024, leading to a national coalition government.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Opposition forces include the liberal Democratic Alliance and the leftwing uMkhonto weSizwe party led by former president Jacob Zuma.",
         "kind": "fact",
         "cites": [
          "S2"
@@ -679,68 +272,68 @@
       ],
       "matters": [
        {
-        "text": "Analysts suggest that further declines in support will lead to more municipalities being governed by unstable and chaotic coalition arrangements.",
+        "text": "Further declines in popularity could result in many South African cities being run by unstable coalition governments.",
         "kind": "fact",
         "cites": [
-         "S1"
+         "S3"
+        ]
+       },
+       {
+        "text": "Analysts state that high turnover in fragile municipal coalitions is a major reason for poor service delivery.",
+        "kind": "fact",
+        "cites": [
+         "S2"
         ]
        }
       ],
       "uncertain": [
        {
-        "text": "It remains unclear whether the uMkhonto weSizwe Party will secure an outright majority in the eThekwini metro area.",
+        "text": "The electoral commission has up to a week to announce the final results.",
         "kind": "fact",
         "cites": [
-         "S1"
+         "S2"
         ]
        },
        {
-        "text": "Political analyst Dr Levy Ndou stated uncertainty over whether the national unity government arrangement could influence how municipalities are eventually run.",
+        "text": "Parties have two weeks following the announcement of results to form councils and elect mayors.",
         "kind": "fact",
         "cites": [
-         "S1"
+         "S2"
         ]
        }
       ]
      },
      "terms": [
       {
-       "term": "Apartheid",
-       "definition": "The former system of legally enforced racial segregation and discrimination in South Africa."
+       "term": "Metropolitan municipality",
+       "definition": "A large urban area in South Africa with a single municipal authority."
       }
      ],
      "complete": false,
      "report": {
       "removed": [
        {
-        "id": "matters.0",
-        "text": "Political analyst Melanie Verwoerd predicted that the elections would serve as a severe judgment on the governing party and that the African National Congress would perform worse than ever before.",
-        "why": [
-         "quote not found in S1"
-        ]
-       },
-       {
-        "id": "background.2",
-        "text": "The Democratic Alliance is South Africa's second-biggest party and has controlled the coastal city of Cape Town since the late 2000s.",
+        "id": "background.0",
+        "text": "The African National Congress, led to power in 1994 by Nelson Mandela at the end of apartheid, has governed South Africa ever since.",
         "why": [
          "partial",
-         "Evidence does not explicitly state the DA is the second-biggest party."
+         "The evidence does not confirm the ANC has governed South Africa without interruption since 1994."
         ]
        }
       ],
-      "checked": 9,
+      "checked": 10,
       "coherence": null
      }
     },
     "brief": {
      "reports": [
       {
-       "outlet": "BBC News",
-       "title": "ANC under pressure to reverse South Africa decline",
-       "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-       "excerpt": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+       "outlet": "The Guardian",
+       "title": "ANC faces anger over poor services as South Africans vote in local elections",
+       "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+       "excerpt": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. …",
        "kind": "reporting",
-       "published": "2026-11-04T11:47:44+00:00",
+       "published": "2026-11-04T14:50:47+00:00",
        "lang": "en"
       },
       {
@@ -759,134 +352,124 @@
    {
     "selection": {
      "score": 3.0,
-     "region": "russia-ukraine",
+     "region": "americas",
      "adjustments": []
     },
-    "id": "119f2deb77",
+    "id": "fe1dbac305",
     "significance": 2,
     "outlets": [
-     "DW",
-     "The Guardian"
+     "Al Jazeera",
+     "DW"
     ],
     "names": [
-     "russia",
-     "ukraine",
-     "russian",
-     "zelenskyy"
+     "democrats",
+     "congress",
+     "trump",
+     "iran"
     ],
     "sources": [
      {
-      "outlet": "The Guardian",
-      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-      "published": "2026-11-04T01:31:46+00:00",
+      "outlet": "Al Jazeera",
+      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+      "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+      "published": "2026-11-04T12:48:11+00:00",
       "kind": "reporting",
       "lang": "en",
-      "words": 406,
+      "words": 1139,
       "id": "S1"
      },
      {
       "outlet": "DW",
-      "title": "Ukraine war: Merz doubts Russia is serious about a truce",
-      "link": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf",
-      "published": "2026-11-03T15:04:00+00:00",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-04T08:52:00+00:00",
       "kind": "reporting",
       "lang": "en",
-      "words": 698,
+      "words": 736,
       "id": "S2"
      }
     ],
     "also": [
      {
-      "outlet": "The Guardian",
-      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-      "link": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
+      "outlet": "Al Jazeera",
+      "title": "Trump loses control of Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
       "kind": "reporting",
-      "published": "2026-11-04T01:08:17+00:00"
+      "published": "2026-11-04T14:42:23+00:00"
      },
      {
-      "outlet": "DW",
-      "title": "Cyprus: From ties with Russia to a strategic alignment with the US",
-      "link": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",
-      "kind": "reporting",
-      "published": "2026-11-03T14:28:00+00:00"
-     },
-     {
-      "outlet": "DW",
-      "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-      "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf",
-      "kind": "reporting",
-      "published": "2026-11-03T07:00:00+00:00"
+      "outlet": "Al Jazeera",
+      "title": "How big is the Republican midterms loss, and is there a silver lining?",
+      "link": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-11-04T13:59:15+00:00"
      }
     ],
-    "fetch_failures": [],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+      "error": "only 43 words readable"
+     }
+    ],
     "mode": "brief",
     "explained": {
-     "headline": "Canada joins ice hockey boycott as Ukraine talks proceed in Berlin",
+     "headline": "Democrats win US midterms and seize control of Congress",
      "parts": {
       "happened": [
        {
-        "text": "Canada has joined a coalition of nations refusing to play ice hockey against Russian teams, meaning Russian skaters cannot compete in an upcoming world junior championship in Canada.",
+        "text": "Democrats have taken control of the United States House of Representatives and Senate in Tuesday’s midterm elections.",
         "kind": "fact",
         "cites": [
          "S1"
         ]
        },
        {
-        "text": "Meanwhile, German Chancellor Friedrich Merz and Ukrainian President Volodymyr Zelenskyy met in Berlin to discuss ceasefire negotiations and security guarantees.",
+        "text": "The Democratic majority gives the party the chairmanships of all congressional committees, enabling them to launch investigations and subpoena witnesses.",
         "kind": "fact",
         "cites": [
-         "S2"
+         "S1"
         ]
        },
        {
-        "text": "Russian airstrikes on a school building and a hospital in Ukraine killed and injured numerous civilians.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
+        "text": "The shift in legislative control could impact policies ranging from military funding and trade tariffs to immigration and foreign aid.",
+        "kind": "interp",
+        "cites": []
        }
       ],
       "background": [
        {
-        "text": "The sports dispute arose after the Court of Arbitration for Sport lifted an International Ice Hockey Federation ban on Russian teams that had been in place since the full-scale invasion of Ukraine began.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "Several national hockey federations subsequently announced they would refuse to play matches involving Russia to protect player safety and uphold sporting values.",
-        "kind": "fact",
-        "cites": [
-         "S1"
-        ]
-       },
-       {
-        "text": "On the diplomatic front, Germany has been a key supporter of Ukraine, providing aid and prioritizing air defense and energy infrastructure ahead of winter.",
+        "text": "The Republican Party previously secured both the presidency and majorities in both chambers of Congress during the 2024 elections.",
         "kind": "fact",
         "cites": [
          "S2"
+        ]
+       },
+       {
+        "text": "Donald Trump, the United States president, embarked on a war with Israel against Iran in February without congressional authorisation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Voter frustration regarding inflation and the rising cost of fuel and groceries contributed heavily to the Republican defeat.",
+        "kind": "fact",
+        "cites": [
+         "S1"
         ]
        }
       ],
       "matters": [
        {
-        "text": "Norwegian officials stated that playing against Russia could expose players and team staff to significant security risks.",
+        "text": "James Boys, research fellow at the Centre on US Politics at University College London, stated that Donald Trump may feel unleashed to act with impunity on the world stage.",
         "kind": "fact",
         "cites": [
          "S1"
         ]
        },
        {
-        "text": "Zelenskyy stated that a ceasefire alone would not secure lasting peace, and that Ukraine requires robust security guarantees backed by Europe and the United States.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "Merz warned that ongoing Russian attacks in the Black Sea risk further escalation and precipitate a global food crisis detrimental to the world's poorest nations.",
+        "text": "Michael O'Hanlon, director of research for foreign policy at the Brookings Institution, said Congress could perhaps prevent a major escalation in the Iran conflict by refusing to fund it.",
         "kind": "fact",
         "cites": [
          "S2"
@@ -895,21 +478,14 @@
       ],
       "uncertain": [
        {
-        "text": "It remains to be seen whether upcoming international tournaments will proceed as planned or how host cities will decide to handle the participation of Russian athletes.",
+        "text": "James Boys noted that whether the government must return already collected tariff money, and exactly how much, remains in dispute before United States courts.",
         "kind": "fact",
         "cites": [
          "S1"
         ]
        },
        {
-        "text": "German Chancellor Friedrich Merz stated he sees no indication that Russia is genuinely prepared to engage in serious negotiations regarding a ceasefire.",
-        "kind": "fact",
-        "cites": [
-         "S2"
-        ]
-       },
-       {
-        "text": "Uncertainty also surrounds the exact level of future financial support and whether European representatives will secure a meaningful seat at upcoming US-led talks in Abu Dhabi.",
+        "text": "It remains questionable whether a Democratic-controlled Congress could reactivate the closed United States Agency for International Development against the president's wishes.",
         "kind": "fact",
         "cites": [
          "S2"
@@ -919,44 +495,239 @@
      },
      "terms": [
       {
-       "term": "Court of Arbitration for Sport",
-       "definition": "An international body that settles legal disputes related to sports through arbitration."
+       "term": "Tariff",
+       "definition": "A tax imposed by a government on imported goods from other countries."
       },
       {
-       "term": "NATO",
-       "definition": "An intergovernmental military alliance of North American and European nations."
+       "term": "Veto",
+       "definition": "The constitutional right of a president to reject a decision or proposal passed by a lawmaking body."
       }
      ],
      "complete": false,
      "report": {
-      "removed": [],
-      "checked": 12,
-      "coherence": {
-       "coherent": false,
-       "problems": [
-        "The text mentions US-led talks in Abu Dhabi which are never previously introduced or explained."
-       ]
+      "removed": [
+       {
+        "id": "matters.0",
+        "text": "Brandon Conradis, a former journalist and now an editor at Bloomberg Government, said that Democrats can push legislation to provide more aid to Ukraine.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "uncertain.2",
+        "text": "Analysts remain divided on whether cutting off military funding for the war on Iran is practically straightforward given deployed troops.",
+        "why": [
+         "interpretation attributes a view to someone"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+       "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+       "excerpt": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
+       "kind": "reporting",
+       "published": "2026-11-04T12:48:11+00:00",
+       "lang": "en"
       }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "8c2919f2d2",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "russian",
+     "ukrainian",
+     "moscow",
+     "ukraine"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+      "published": "2026-11-04T16:20:23+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 551,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:01:10+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 565,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
+      "link": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
+      "published": "2026-11-04T06:00:27+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1067,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+      "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+      "kind": "reporting",
+      "published": "2026-11-04T05:00:25+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine Strikes Russia as Delegations Head to White House",
+     "parts": {
+      "happened": [
+       {
+        "text": "Ukrainian drone strikes killed three people in Russia's Belgorod region and hit energy infrastructure, while Russian attacks damaged power facilities across nine regions in Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "A Ukrainian drone attack also started a fire at a major Ozon distribution facility in the Republic of Adygea.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russian and Ukrainian delegations are due to meet at the White House following a six-day local ceasefire in Oleshky that enabled civilian evacuations.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The conflict between Russia and Ukraine escalated significantly after Russia launched its full-scale invasion of Ukraine in 2022.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy subsequently awarded Melania Trump the Order of Princess Olga for her humanitarian support and role in the ceasefire.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Kremlin spokesman Dmitry Peskov stated that the Kremlin hopes United States President Donald Trump will continue his peacemaking efforts following the recent midterms.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Democratic control of the legislature in January is expected to bring a more vocal pro-Kyiv majority in Congress that could pressure the US president to change tack.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Representative officials note that important discussions on postwar security agreements and de-escalation are scheduled for upcoming trilateral meetings.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclarified how many households were affected by the temporary outage schedules enforced in Crimea after the energy strikes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Neither the Russian nor Ukrainian sides elaborated on the exact nature or extent of Melania Trump's involvement in brokering the ceasefire.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The White House has not yet shared specific details regarding what the upcoming White House delegation event will entail.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ombudsman",
+       "definition": "An official appointed to represent the interests of the public by investigating and addressing grievances against public authorities."
+      },
+      {
+       "term": "Substation",
+       "definition": "An auxiliary power station where electrical voltage is transformed for transmission or distribution."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "The United States First Lady Melania Trump independently initiated engagement between the two warring nations to secure the Oleshky ceasefire.",
+        "why": [
+         "partial",
+         "The claim states the White House's assertion as an objective fact without attribution."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
      }
     },
     "brief": {
      "reports": [
       {
        "outlet": "The Guardian",
-       "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-       "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-       "excerpt": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Carney saying Russian skaters will not be able to compete in ⁠a world junior championship next month due to the war in Ukraine. …",
+       "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+       "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+       "excerpt": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukrainian. …",
        "kind": "reporting",
-       "published": "2026-11-04T01:31:46+00:00",
-       "lang": "en"
-      },
-      {
-       "outlet": "DW",
-       "title": "Ukraine war: Merz doubts Russia is serious about a truce",
-       "link": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf",
-       "excerpt": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Merz also expressed doubts that Russia is serious about seeking a truce.",
-       "kind": "reporting",
-       "published": "2026-11-03T15:04:00+00:00",
+       "published": "2026-11-04T05:00:25+00:00",
        "lang": "en"
       }
      ]
@@ -964,12 +735,14 @@
     "why": "too little survived checking"
    }
   ],
-  "clusters_found": 11,
+  "clusters_found": 9,
   "items": 367,
   "sources_ok": 8,
   "sources_active": 8,
   "sources_failed": [],
-  "notes": [],
+  "notes": [
+   "dropped israel, herzog: no report squarely about it"
+  ],
   "models": {
    "writer": "gemini-3.5-flash-lite",
    "judge": "gemini-3.1-flash-lite"
