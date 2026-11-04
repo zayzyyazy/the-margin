@@ -11,6 +11,10 @@ on:
         description: "Rebuild today's edition even if it exists"
         type: boolean
         default: false
+      send_mail:
+        description: "Send the email for the latest edition now"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -68,6 +72,17 @@ jobs:
       - id: deploy
         if: steps.pages.outputs.enabled == 'true' && (steps.update.outputs.changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: actions/deploy-pages@v4
+      - name: Email the edition
+        # Skips silently unless MAIL_TO, MAIL_FROM and GMAIL_APP_PASSWORD are set as repository secrets.
+        # Personal data (Notion) goes only into the email — never into the repo, the site or this log.
+        if: steps.update.outputs.changed == 'true' || inputs.send_mail
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          MARGIN_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python -m margin.mail
       - name: Report a failed update
         if: steps.update.outcome == 'failure'
         run: |
