@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-11-04T17:13:09.042228+00:00",
+  "checked_at": "2026-11-05T12:57:54.989904+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -29,7 +29,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-04T16:33:03+00:00",
+    "newest": "2026-11-04T18:46:36+00:00",
     "error": null
    },
    {
@@ -39,7 +39,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-04T11:01:00+00:00",
+    "newest": "2026-11-05T11:01:00+00:00",
     "error": null
    },
    {
@@ -69,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-04T16:06:03+00:00",
+    "newest": "2026-11-05T09:00:13+00:00",
     "error": null
    },
    {
@@ -89,7 +89,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-02T05:04:37+00:00",
+    "newest": "2026-11-05T02:01:33+00:00",
     "error": null
    },
    {
@@ -110,6 +110,16 @@
     "status": 200,
     "items": 10,
     "newest": "2026-10-15T10:09:45+00:00",
+    "error": null
+   },
+   {
+    "name": "Chip Huyen",
+    "feed": "https://huyenchip.com/feed.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2025-01-16T00:00:00+00:00",
     "error": null
    },
    {
@@ -159,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-04T04:42:19+00:00",
+    "newest": "2026-11-05T05:15:21+00:00",
     "error": null
    },
    {
@@ -170,6 +180,16 @@
     "status": 200,
     "items": 9,
     "newest": "2026-11-03T17:00:35+00:00",
+    "error": null
+   },
+   {
+    "name": "Eugene Yan",
+    "feed": "https://eugeneyan.com/rss/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 212,
+    "newest": "2026-06-21T00:00:00+00:00",
     "error": null
    },
    {
@@ -199,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-04T16:30:32+00:00",
+    "newest": "2026-11-05T12:00:32+00:00",
     "error": null
    },
    {
@@ -209,7 +229,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-04T15:06:37+00:00",
+    "newest": "2026-11-04T16:13:00+00:00",
     "error": null
    },
    {
@@ -228,8 +248,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 896,
-    "newest": "2026-11-03T17:15:21+00:00",
+    "items": 898,
+    "newest": "2026-11-05T00:00:00+00:00",
     "error": null
    },
    {
@@ -269,7 +289,17 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-03T02:24:31+00:00",
+    "newest": "2026-11-05T04:36:17+00:00",
+    "error": null
+   },
+   {
+    "name": "Latent Space",
+    "feed": "https://www.latent.space/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 301,
+    "items": 20,
+    "newest": "2026-11-05T06:24:09+00:00",
     "error": null
    },
    {
@@ -279,7 +309,17 @@
     "ok": true,
     "status": 200,
     "items": 100,
-    "newest": "2026-11-04T12:00:00+00:00",
+    "newest": "2026-11-05T12:00:00+00:00",
+    "error": null
+   },
+   {
+    "name": "Lilian Weng",
+    "feed": "https://lilianweng.github.io/index.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 53,
+    "newest": "2026-07-04T00:00:00+00:00",
     "error": null
    },
    {
@@ -289,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-04T13:10:00+00:00",
+    "newest": "2026-11-05T10:00:00+00:00",
     "error": null
    },
    {
@@ -299,7 +339,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-03T23:29:29+00:00",
+    "newest": "2026-11-05T06:41:00+00:00",
     "error": null
    },
    {
@@ -309,7 +349,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-04T16:48:24+00:00",
+    "newest": "2026-11-05T12:17:06+00:00",
     "error": null
    },
    {
@@ -329,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-04T17:00:00+00:00",
+    "newest": "2026-11-05T00:01:05+00:00",
     "error": null
    },
    {
@@ -339,7 +379,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-04T16:00:00+00:00",
+    "newest": "2026-11-05T00:01:00+00:00",
     "error": null
    },
    {
@@ -350,6 +390,16 @@
     "status": 200,
     "items": 20,
     "newest": "2026-10-19T20:11:55+00:00",
+    "error": null
+   },
+   {
+    "name": "One Useful Thing",
+    "feed": "https://www.oneusefulthing.org/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-10-20T15:57:59+00:00",
     "error": null
    },
    {
@@ -369,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-04T11:00:00+00:00",
+    "newest": "2026-11-05T11:00:00+00:00",
     "error": null
    },
    {
@@ -389,7 +439,7 @@
     "ok": true,
     "status": 200,
     "items": 12,
-    "newest": "2026-11-02T11:00:00+00:00",
+    "newest": "2026-11-05T11:00:00+00:00",
     "error": null
    },
    {
@@ -409,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-04T17:00:00+00:00",
+    "newest": "2026-11-05T12:00:00+00:00",
     "error": null
    },
    {
@@ -419,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-03T16:29:48+00:00",
+    "newest": "2026-11-04T15:26:02+00:00",
     "error": null
    },
    {
@@ -428,8 +478,18 @@
     "bucket": "mind",
     "ok": true,
     "status": 200,
-    "items": 46,
-    "newest": "2026-11-04T06:36:59+00:00",
+    "items": 47,
+    "newest": "2026-11-05T10:09:25+00:00",
+    "error": null
+   },
+   {
+    "name": "The Gradient",
+    "feed": "https://thegradient.pub/rss/",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 15,
+    "newest": "2026-02-18T23:25:52+00:00",
     "error": null
    },
    {
@@ -449,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-04T00:00:00+00:00",
+    "newest": "2026-11-05T00:00:00+00:00",
     "error": null
    },
    {
@@ -458,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 85,
-    "newest": "2026-11-04T17:05:44+00:00",
+    "items": 77,
+    "newest": "2026-11-05T12:44:20+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-04T17:13:09.042228+00:00",
-  "edition_date": "2026-11-04",
-  "sources_active": 46,
-  "sources_ok": 44,
-  "items_fetched": 1820,
-  "candidates": 161,
+  "at": "2026-11-05T12:57:54.989904+00:00",
+  "edition_date": "2026-11-05",
+  "sources_active": 52,
+  "sources_ok": 50,
+  "items_fetched": 2145,
+  "candidates": 168,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-04T17:13:09.042228+00:00",
-  "edition_date": "2026-11-04",
+  "at": "2026-11-05T12:57:54.989904+00:00",
+  "edition_date": "2026-11-05",
   "articles": 7
  }
 }

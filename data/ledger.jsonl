@@ -204,3 +204,6 @@
 {"at": "2026-11-04T17:15:12.810218+00:00", "label": "world:draft", "model": "gemini-3.5-flash-lite", "input": 3527, "output": 1519, "usd": 0.0, "paid_equivalent": 0.004856, "free_tier": true, "secs": 28.4, "status": "ok"}
 {"at": "2026-11-04T17:15:15.737253+00:00", "label": "world:judge", "model": "gemini-3.1-flash-lite", "input": 3077, "output": 1242, "usd": 0.0, "paid_equivalent": 0.002632, "free_tier": true, "secs": 2.9, "status": "ok"}
 {"at": "2026-11-04T17:15:16.598936+00:00", "label": "world:terms", "model": "gemini-3.1-flash-lite", "input": 131, "output": 49, "usd": 0.0, "paid_equivalent": 0.000106, "free_tier": true, "secs": 0.9, "status": "ok"}
+{"at": "2026-11-05T13:16:36.525832+00:00", "label": "world:draft", "model": "gemini-3.5-flash-lite", "input": 2390, "output": 1060, "usd": 0.0, "paid_equivalent": 0.003367, "free_tier": true, "secs": 358.3, "status": "ok"}
+{"at": "2026-11-05T13:16:38.823916+00:00", "label": "world:judge", "model": "gemini-3.1-flash-lite", "input": 2145, "output": 828, "usd": 0.0, "paid_equivalent": 0.001778, "free_tier": true, "secs": 2.3, "status": "ok"}
+{"at": "2026-11-05T13:16:39.579075+00:00", "label": "world:terms", "model": "gemini-3.1-flash-lite", "input": 135, "output": 81, "usd": 0.0, "paid_equivalent": 0.000155, "free_tier": true, "secs": 0.8, "status": "ok"}

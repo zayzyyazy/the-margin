@@ -1,0 +1,600 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T12:57:54.989904+00:00",
+ "candidates": 168,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "e7d4d9cecba5",
+   "title": "The U.S. Oil Sector’s Role in Restraining Prices",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/the-u-s-oil-sectors-role-in-restraining-prices/",
+   "source": "Liberty Street Economics",
+   "authors": [
+    "Thomas Klitgaard"
+   ],
+   "published": "2026-11-05T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "The start of the Middle East conflict in early 2026 caused an unprecedented drop in global petroleum supply. In response, oil prices jumped—but not to unprecedentedly high levels. The U.S. oil sector was a key factor in moderating the shock. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1350,
+   "access": "free",
+   "lang": "en",
+   "score": 4.739,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "21f274e95868",
+   "title": "Want to Rent an Internet Address at the White House?",
+   "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+   "source": "Krebs on Security",
+   "authors": [
+    "BrianKrebs"
+   ],
+   "published": "2026-11-05T04:36:17+00:00",
+   "bucket": "ai",
+   "excerpt": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 759,
+   "access": "free",
+   "lang": "en",
+   "score": 4.555,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "dec16233bac6",
+   "title": "How to take notes that actually help you learn",
+   "link": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
+   "source": "Psyche",
+   "authors": [
+    "Cynthia Nebel"
+   ],
+   "published": "2026-11-05T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.46,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "07c0cfdd5b0c",
+   "title": "Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It",
+   "link": "https://hackaday.com/2026/11/05/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it/",
+   "source": "Hackaday",
+   "authors": [
+    "Donald Papp"
+   ],
+   "published": "2026-11-05T12:00:32+00:00",
+   "bucket": "discovery",
+   "excerpt": "Around these parts, finger joints (or box joints) are usually the product of laser cutting. [bluesyann] shows us a method of using a stationary jigsaw, a custom blade, and 3D-printed …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.1,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "06fe967baf90",
+   "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+   "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Ben Brubaker"
+   ],
+   "published": "2026-11-04T15:32:52+00:00",
+   "bucket": "ai",
+   "excerpt": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.239,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "6b7f1f456e61",
+   "title": "My very good Conversation with Richard Hanania",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-11-05T05:51:48+00:00",
+   "bucket": "economy",
+   "excerpt": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately scrambled timeline, the near-total absence of religion in Conrad’s universe, Nostromo’s own vanity and treatment of women, a close reading of …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 851,
+   "access": "free",
+   "lang": "en",
+   "score": 3.639,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "79011ac6bddf",
+   "title": "A new bill could change how the US builds energy infrastructure",
+   "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Casey Crownhart"
+   ],
+   "published": "2026-11-05T10:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 848,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.188,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "2ede250318",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "kong",
+     "wong",
+     "movement",
+     "exclusive"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T08:07:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1014,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "published": "2026-11-05T07:56:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 614,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+      "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "published": "2026-11-05T07:50:44+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 461,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years",
+      "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-05T05:32:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 666,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+       "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+       "kind": "reporting",
+       "published": "2026-11-05T08:07:22+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+       "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+       "excerpt": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city. …",
+       "kind": "reporting",
+       "published": "2026-11-05T07:56:21+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "americas",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "54ecb83c4e",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "democrats",
+     "trump",
+     "congress",
+     "iran"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
+      "published": "2026-11-05T11:33:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1121,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+      "published": "2026-11-05T10:00:05+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1115,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T06:01:05+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1056,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Democrats take House and Senate from Republicans in US midterm rout",
+      "link": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-04T23:04:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 724,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+      "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-05T10:24:14+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-05T03:47:56+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-04T18:01:27+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-04T06:53:56+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
+      "kind": "opinion",
+      "published": "2026-11-05T12:35:11+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+       "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+       "excerpt": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
+       "kind": "reporting",
+       "published": "2026-11-05T10:24:14+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
+       "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+       "excerpt": "Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree The blue wave that swept Republicans out of power across the United States didn’t just strike Congress. In Tuesday’s midterm elections, Democrats gained hundreds of seats in state legislatures across the country, under-the-radar victories that may have major implications for life in America. …",
+       "kind": "reporting",
+       "published": "2026-11-05T10:00:05+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "dd3b0d447c",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "england",
+     "bank",
+     "mpc",
+     "iran"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Three ways the interest rate rise could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T12:11:04+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 715,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+      "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+      "published": "2026-11-05T12:00:31+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 678,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-04T10:47:31+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Bank of England raises interest rates to 4%",
+     "parts": {
+      "happened": [
+       {
+        "text": "Eight members of the Bank's monetary policy committee voted for the move, while Catherine Mann preferred a half-point increase.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The monetary policy committee sets interest rates to keep price rises at a steady level.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Middle East conflict has driven oil prices persistently above $100 in recent months, following a failure to reopen the strait of Hormuz.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "About 500,000 homeowners with mortgages tracking the Bank of England rate face immediate increases in monthly repayments.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Bank of England expects United Kingdom inflation to rise to 4.9% in the middle of next year.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Bank of England Governor Andrew Bailey raised the prospect of another rate rise in the near future, stating that a resolution to the Iran conflict is the key factor.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "An additional 500,000 homeowners on standard variable rates must wait to see if lenders choose to pass on the rate rise.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Base rate",
+       "definition": "The official interest rate set by a central bank to influence borrowing and lending across the economy."
+      },
+      {
+       "term": "Standard variable rate",
+       "definition": "The default interest rate a mortgage lender charges once an initial fixed-term or tracker deal ends."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "The Bank of England has raised interest rates from 3.75% to 4%, marking the first increase in more than three years.",
+        "why": [
+         "partial",
+         "The evidence says 'first time in three years', not 'more than three years'."
+        ]
+       }
+      ],
+      "checked": 8,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+       "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+       "excerpt": "Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs Business live – latest updates The Bank of England has raised interest rates for the first time in three years and warned of another increase to come, to combat soaring inflation unleashed by the Iran war. …",
+       "kind": "reporting",
+       "published": "2026-11-05T12:00:31+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "c25b20e750",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "russia",
+     "ukraine",
+     "ukrainian",
+     "ryazan"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "link": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-05T09:45:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 956,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+      "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+      "published": "2026-11-05T09:13:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 568,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+       "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+       "excerpt": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+       "kind": "reporting",
+       "published": "2026-11-05T09:13:35+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 359,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
