@@ -1,0 +1,538 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T12:45:49.228586+00:00",
+ "candidates": 163,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "141e643a0791",
+   "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+   "link": "https://spectrum.ieee.org/2026-solar-eclipse",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Tereza Pultarova"
+   ],
+   "published": "2026-11-05T14:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clustered around sets of portable telescopes and cameras connected to laptops. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.289,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a6c955687695",
+   "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+   "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-06T10:35:21+00:00",
+   "bucket": "ai",
+   "excerpt": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 7383,
+   "access": "free",
+   "lang": "en",
+   "score": 4.06,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "680653bd4784",
+   "title": "How Well do Bug Bounties Work?",
+   "link": "https://cepr.org/multimedia/how-well-do-bug-bounties-work",
+   "source": "VoxEU (CEPR)",
+   "authors": [],
+   "published": "2026-11-06T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "For three decades years, software makers have paid bug bounty hunters to break their code so they can make it more secure. Recently, some software companies have decided that bug bounties programmes aren't useful any more: Curl shut its bounty in January, and Intel suspended its own in September. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.766,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "90deea11c072",
+   "title": "Who am I if I don’t run?",
+   "link": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
+   "source": "Psyche",
+   "authors": [
+    "Richard Fisher"
+   ],
+   "published": "2026-11-05T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.082,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "68105b5d15ce",
+   "title": "datasette-apps 0.3a0",
+   "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-04T00:29:36+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.961,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "33002654cc65",
+   "title": "Why Mark Carney is still betting big on Europe",
+   "link": "https://theconversation.com/why-mark-carney-is-still-betting-big-on-europe-295647",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Katerina Sviderska, PhD Candidate in Politics, University of Cambridge"
+   ],
+   "published": "2026-11-05T14:25:55+00:00",
+   "bucket": "mind",
+   "excerpt": "When European Union officials Ursula von der Leyen and Antonio Costa recently joined Mark Carney on the docks of Montréal’s Old Port for the Canada-EU Summit, Canada’s prime minister presented closer ties with the EU as a good deal for Canadian households. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 834,
+   "access": "free",
+   "lang": "en",
+   "score": 3.841,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "69660430627c",
+   "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+   "source": "AWS Machine Learning Blog",
+   "authors": [
+    "James Kim"
+   ],
+   "published": "2026-11-05T18:06:43+00:00",
+   "bucket": "ai",
+   "excerpt": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 3573,
+   "access": "free",
+   "lang": "en",
+   "score": 3.921,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "a25ec0d2d5",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "trump",
+     "russian",
+     "ukrainian"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T07:56:19+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1026,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+      "published": "2026-11-06T06:00:41+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 256,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "link": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "published": "2026-11-06T02:11:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 657,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+      "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-05T23:32:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 414,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+      "kind": "reporting",
+      "published": "2026-11-05T20:52:27+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Melania Trump hosts Russian and Ukrainian officials at White House",
+     "parts": {
+      "happened": [
+       {
+        "text": "US First Lady Melania Trump hosted senior Russian and Ukrainian officials at the White House to call for a more enduring ceasefire following a recent truce in Kherson.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "US President Donald Trump held an unscheduled meeting with Russian envoy Kirill Dmitriev and predicted a major agreement involving Europe.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Delegations from both sides praised Melania Trump for helping to broker the six-day ceasefire in the Russian-occupied town of Oleshky.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The conflict began when Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The delegations visiting Washington included Ukraine's human rights ombudsman Dmytro Lubinets, Ukrainian Member of Parliament Davyd Arakhamia, and Kremlin envoy Kirill Dmitriev.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Ukrainian MP Davyd Arakhamia stated that the Oleshky ceasefire constituted the biggest de-escalation since 2022 and helped both sides learn the mechanics of keeping the peace.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Guardian reported that Donald Trump's comments will fuel European concerns that he is pivoting towards the Kremlin and pressing Ukraine towards an unfavourable deal.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Donald Trump refused to disclose what he discussed with the Kremlin envoy, and the exact nature of Melania Trump's involvement in coordinating the ceasefire remains unelaborated by Moscow and Kyiv.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Local government sources in Kherson noted that evacuation work had been ongoing for nearly a year, making it difficult to determine who played what role at each stage.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ombudsman",
+       "definition": "An official appointed to investigate individuals' complaints against public authorities or institutions."
+      },
+      {
+       "term": "Demining",
+       "definition": "The process of removing landmines from an area."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 9,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text mentions a recent truce in Kherson, but does not explain how this relates to Oleshky.",
+        "The phrase an unfavourable deal is used without prior introduction or context regarding what the deal entails."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+       "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+       "kind": "reporting",
+       "published": "2026-11-06T07:56:19+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "bb5b234c16",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "republican",
+     "trump",
+     "european",
+     "europe"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
+      "published": "2026-11-06T10:00:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1365,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:39:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1228,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+      "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "kind": "reporting",
+      "published": "2026-11-05T18:17:36+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+      "kind": "reporting",
+      "published": "2026-11-05T13:36:31+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-05T03:47:56+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "European airlines and airports targeted in second wave of hoax bomb threats",
+     "parts": {
+      "happened": [
+       {
+        "text": "At least 21 aircraft and several airports across Europe were targeted by bomb threats in the second such incident within a week.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The latest warnings were signed on behalf of a group or individual calling themselves Fighters of the Male State, which likely refers to a banned Russian ultra-right organisation.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A similar wave of security alerts occurred earlier in the week, involving flights searched after mid-air or pre-flight threats.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [],
+      "uncertain": [
+       {
+        "text": "Authorities stated it remains unclear whether the various threats are connected or if copycats are simply reproducing the disruptions.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Aeroporti di Roma",
+       "definition": "The corporate body responsible for managing the airport system in Italy's capital city."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Fighter jets escorted multiple flights, including Finnair and Ryanair services, while other planes were diverted or met by police upon landing.",
+        "why": [
+         "partial",
+         "The evidence does not mention Ryanair flights being escorted by fighter jets."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Searches by police and military personnel yielded no explosives, and UK officials described the warnings as malicious hoaxes.",
+        "why": [
+         "partial",
+         "Evidence does not mention military personnel searches, and the claim misses required attribution for the hoax assessment."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "Experts warned that a high volume of false alarms risks breeding complacency among aviation authorities or serving as a deliberate diversion.",
+        "why": [
+         "partial",
+         "The claim omits the expert's hedge that these are potential, not definitive, risks."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Analysts suggested the incidents form part of a pattern of cheap and deniable disruption directed at commercial air travel.",
+        "why": [
+         "partial",
+         "The claim omits attribution to experts and removes the hedge that this is a possible pattern."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Experts noted that the short duration of the incidents provides too small a sample to determine whether the warnings are coordinated or contagious.",
+        "why": [
+         "partial",
+         "The claim presents expert opinion as objective fact without proper attribution."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+       "link": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+       "excerpt": "European far-right leaders quick to distance themselves from US president and stress their own priorities Europe live – latest updates US midterms live – latest updates The historic Republican defeat in the US midterm elections has forcibly reminded Europe’s far-right leaders of their perennial Donald Trump dilemma: they may love his nativist agenda, but the man himself is a toxic electoral liability. …",
+       "kind": "reporting",
+       "published": "2026-11-05T13:36:31+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 13,
+  "items": 368,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped houthi, yemen, houthis: no report squarely about it",
+   "dropped serbia, list, marković: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
