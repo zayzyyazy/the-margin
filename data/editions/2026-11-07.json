@@ -1,0 +1,979 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T11:33:42.904294+00:00",
+ "candidates": 163,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "af942dce05eb",
+   "title": "How Do Building Codes Affect the Price of Housing?",
+   "link": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-06T13:01:35+00:00",
+   "bucket": "economy",
+   "excerpt": "A great deal of effort has gone into understanding the regulatory burden on housing construction, and the extent to which it contributes to high housing prices.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2588,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 6.155,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "2244b0c5b2a6",
+   "title": "[AINews] Anthropic IPO: Whither Now?",
+   "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-07T03:04:53+00:00",
+   "bucket": "ai",
+   "excerpt": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 6838,
+   "access": "free",
+   "lang": "en",
+   "score": 4.223,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "55f20f259b02",
+   "title": "Your Book Review: Orality and Literacy",
+   "link": "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-11-06T21:31:52+00:00",
+   "bucket": "mind",
+   "excerpt": "Imagine that you are dropped seven thousand years in the past, right in the middle of a village on a festival day. Everyone stares at you in horror: they think you’re a demon, a vengeful spirit. You are dressed in strange clothes, you are much taller than them, and you are holding a magic mirror that flashes with unexplained colors and sounds. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 6920,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.194,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "c849fa4ebe6d",
+   "title": "How Do You Land on a Moon With Almost No Gravity?",
+   "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Andrew Jones"
+   ],
+   "published": "2026-11-06T15:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos, the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.4,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "2ced1667c968",
+   "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+   "source": "AWS Machine Learning Blog",
+   "authors": [
+    "Adam Maksimuk"
+   ],
+   "published": "2026-11-06T16:55:05+00:00",
+   "bucket": "ai",
+   "excerpt": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2504,
+   "access": "free",
+   "lang": "en",
+   "score": 3.921,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "9f50d6227490",
+   "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+   "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Charlie Wood"
+   ],
+   "published": "2026-11-06T15:48:54+00:00",
+   "bucket": "discovery",
+   "excerpt": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.294,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e21b187842dc",
+   "title": "datasette-agent 0.5a0",
+   "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-03T23:13:45+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.711,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "a52f1be75a",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "russia",
+     "ukraine",
+     "moscow",
+     "zelenskyy"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-07T09:21:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 361,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+      "published": "2026-11-07T05:11:03+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 408,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "link": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
+      "published": "2026-11-07T03:12:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 588,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Moscow has shuttered Novaya Gazeta – we told the truth and we paid the price | Elena Kostyuchenko",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper",
+      "kind": "opinion",
+      "published": "2026-11-07T08:00:05+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Russian airstrikes hit Kyiv ahead of trilateral talks",
+     "parts": {
+      "happened": [
+       {
+        "text": "Russian forces launched a missile and drone attack on Kyiv and surrounding areas, damaging residential buildings, energy facilities and a bridge.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian authorities reported that one person was killed and several others were wounded in the overnight assault.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "President Volodymyr Zelenskyy stated that Russia deployed 172 drones and 36 ballistic missiles during the bombardment.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Vitali Klitschko is the mayor of Kyiv, the Ukrainian capital affected by recent power and infrastructure disruptions.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Moscow and Kyiv have engaged in intermittent diplomatic discussions mediated by the United States ahead of upcoming meetings in Abu Dhabi.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "President Zelenskyy asserted that Moscow is attempting to force Ukraine into a complete blackout by targeting vital utility infrastructure.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Previous rounds of talks have failed to produce breakthroughs, leaving major territorial and security questions unresolved.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian officials continue to seek specific, written guarantees from Western allies regarding how postwar security support will function.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Trilateral talks",
+       "definition": "Negotiations involving three distinct governmental parties or nations seeking a diplomatic resolution."
+      },
+      {
+       "term": "Ballistic missile",
+       "definition": "A self-guided munition system that follows a trajectory to deliver a payload over a long distance."
+      },
+      {
+       "term": "Ceasefire",
+       "definition": "A temporary suspension of active military hostilities agreed upon by opposing combatants."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Volodymyr Zelenskyy is the president of Ukraine, leading the nation through a conflict that has lasted for more than four years.",
+        "why": [
+         "supported",
+         "The evidence confirms Zelenskyy's role and the war's duration, though the claim is not about the specific development."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "US President Donald Trump stated that the war could be close to a settlement and envisioned a major agreement involving Europe and Moscow.",
+        "why": [
+         "supported",
+         "The evidence reflects Trump's stated vision for the agreement."
+        ]
+       },
+       {
+        "id": "matters.2",
+        "text": "Experts suggest that Russia might use a potential summit in China to align Beijing and Washington closer to Moscow's stance on Ukraine.",
+        "why": [
+         "partial",
+         "The claim fails to include the necessary hedge that this is an expert's opinion."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "It remains to be decided whether a historic meeting between the leaders of China, the US and Russia will officially take place.",
+        "why": [
+         "supported",
+         "Evidence confirms communication is ongoing regarding a potential meeting."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+       "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+       "kind": "reporting",
+       "published": "2026-11-07T09:21:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "d5cf55fb9f",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "paraguay",
+     "peña",
+     "bank",
+     "pena"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 476,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+      "published": "2026-11-07T00:06:18+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 298,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+      "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-06T20:23:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 922,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "published": "2026-11-06T06:16:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 874,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Paraguay's president impeached and placed under house arrest following bank collapse",
+     "parts": {
+      "happened": [
+       {
+        "text": "Santiago Peña, Paraguay's president, has been impeached and placed under house arrest following the collapse of Ueno Bank.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The collapse of the digital bank froze the savings of approximately three million depositors, leaving more than half of the country's population without access to their accounts.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Pedro Alliana, the former vice-president, was sworn in as the new interim president until 2028 and promised that affected citizens would be fully compensated.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Paraguayan central bank placed the lender under resolution and seized it after determining that it had breached minimum solvency requirements.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Analysts say Santiago Peña is likely to face prosecution over the bank's collapse now that he has been stripped of his immunity.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The crisis severely damages public trust and financial stability.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear when the affected customers will actually receive their money back or what will happen to deposits exceeding the legally protected maximum.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Santiago Peña has denied any wrongdoing, and his defence lawyer Ricardo Preda described the allegations as a reckless and opportunistic accusation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Instituto de Previsión Social",
+       "definition": "The Paraguayan social security agency responsible for managing pensions and social welfare payments."
+      },
+      {
+       "term": "Impeachment",
+       "definition": "A constitutional process in which a legislature brings charges against a public official for misconduct."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Santiago Peña, an economist who took power in August 2023, held shares until last year in the company that owned Ueno Bank.",
+        "why": [
+         "number(s) not in evidence: 2023"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Ueno Bank belongs to Grupo Vázquez, a large Paraguayan conglomerate, and expanded rapidly after receiving authorisation to operate as a digital bank in 2023.",
+        "why": [
+         "number(s) not in evidence: 2023"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Thousands of citizens took to the streets in protest, leading to clashes with police who used tear gas and water cannons.",
+        "why": [
+         "partial",
+         "Evidence does not confirm the protests were caused by the impeachment."
+        ]
+       },
+       {
+        "id": "background.3",
+        "text": "The institution had grown to manage hundreds of millions of dollars in public and pension funds, including deposits from the Instituto de Previsión Social.",
+        "why": [
+         "partial",
+         "The claim states reports as facts without proper attribution to media reports."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Senator Rafael Filizzola described the situation as the largest corruption scandal in the country's democratic history, calling it a tremendous blow to state credibility.",
+        "why": [
+         "partial",
+         "The claim presents the quote as an objective fact rather than a senator's opinion."
+        ]
+       },
+       {
+        "id": "uncertain.2",
+        "text": "Investigations are ongoing into whether the bank extended excessive loans to related companies and whether regulatory oversight was manipulated.",
+        "why": [
+         "partial",
+         "The claim states investigation focus as fact without citing the ongoing impeachment charges."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Paraguay's president impeached and under house arrest after bank collapse",
+       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+       "kind": "reporting",
+       "published": "2026-11-07T07:20:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+       "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.",
+       "kind": "reporting",
+       "published": "2026-11-06T20:23:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "7bfcef1b18",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "iran",
+     "tehran",
+     "trump",
+     "strait"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "published": "2026-11-07T07:00:04+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 707,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-06T17:47:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 458,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-07T07:10:37+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "How the Iran war helped Democrats win the midterms",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "kind": "opinion",
+      "published": "2026-11-07T06:26:58+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "error": "only 45 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Qatar mediates over Iran nuclear sites and Strait of Hormuz",
+     "parts": {
+      "happened": [
+       {
+        "text": "Qatar is attempting to persuade Tehran to allow United Nations nuclear inspectors to visit Iran's bombed nuclear facilities.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Qatari proposal involves the United States lifting the naval blockade in the Strait of Hormuz and releasing a portion of frozen Iranian assets in exchange for these nuclear inspections.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Meanwhile, the navy of the Islamic Revolutionary Guard Corps stated that two oil tankers attempting to pass through an unauthorised route in the Strait of Hormuz collided with mines and caught fire.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Qatar acts as the lead mediator in the conflict involving the United States and Iran.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Donald Trump serves as the president of the United States, while Mojtaba Khamenei holds the position of Iran's Supreme Leader.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The Guardian reported that the US naval blockade and frozen assets would be addressed if Iran permits nuclear inspections.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Mojtaba Khamenei warned through a statement that the regional war would widen if the United States resumes its attacks.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Attacks on shipping in the Persian Gulf continue to threaten regional stability and oil transport flows.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Donald Trump remains undecided on whether to launch a further assault on Iranian nuclear sites.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The exact funding mechanism for a proposed reconstruction and development fund for Iran remains unclear.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The United States did not confirm reports regarding the destruction of an American drone over Qeshm Island.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Islamic Revolutionary Guard Corps",
+       "definition": "A branch of the Iranian armed forces tasked with protecting the country's Islamic system."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.2",
+        "text": "Tensions have escalated following military strikes by the United States on Iranian nuclear sites and Qeshm Island.",
+        "why": [
+         "partial",
+         "The evidence mentions strikes on Qeshm Island but does not explicitly state US strikes on Iranian nuclear sites."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+       "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+       "excerpt": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear sites, including those housing the country’s stockpile of highly enriched uranium. …",
+       "kind": "reporting",
+       "published": "2026-11-07T07:00:04+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "c0df5435d7",
+    "significance": 3,
+    "outlets": [
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "miller",
+     "wiles",
+     "house"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+      "published": "2026-11-07T10:00:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 664,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+      "published": "2026-11-07T04:19:10+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 513,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Stephen Miller named by Trump as new White House chief of staff",
+      "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-06T20:41:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 610,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+      "kind": "reporting",
+      "published": "2026-11-07T01:38:06+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+      "kind": "reporting",
+      "published": "2026-11-06T20:20:30+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Donald Trump appoints Stephen Miller as new White House chief of staff",
+     "parts": {
+      "happened": [
+       {
+        "text": "Donald Trump announced via social media that Stephen Miller would replace Susie Wiles as White House chief of staff.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The announcement followed a midterm election defeat in which Democrats won control of the United States Congress.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Stephen Miller has served as deputy chief of staff and is known as a key architect of Donald Trump's immigration and mass deportation policies.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Susie Wiles had held the position of White House chief of staff since the inauguration in January 2025.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Stephen Miller joined Donald Trump's political campaigns as a speechwriter starting in 2016.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Public commentators and political analysts view the appointment as a clear signal that the administration intends to confront rather than cooperate with the newly empowered opposition in Congress.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Public commentators suggest the choice acts as a warning shot to lawmakers.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Some Republican politicians publicly questioned whether the choice of such a polarizing figure was wise given the recent electoral defeat.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It remains unclear how the White House will manage governance and policy implementation alongside a legislative branch controlled by the opposing party.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "White House chief of staff",
+       "definition": "The senior aide to the president of the United States who manages White House staff and oversees presidential operations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Democratic leaders stated that their congressional majorities would actively oppose the new agenda.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "While Donald Trump's allies celebrated the decision, Democratic lawmakers strongly condemned the appointment.",
+        "why": [
+         "partial",
+         "Evidence supports Democratic condemnation, but lacks information on celebration by Trump's allies."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+       "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+       "excerpt": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections Democratic lawmakers decried Stephen Miller as a “ hatemonger ”, a “ xenophobe ” and “ vile ” after Donald Trump appointed his most trusted adviser as White House chief of staff. …",
+       "kind": "reporting",
+       "published": "2026-11-07T10:00:08+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Stephen Miller named by Trump as new White House chief of staff",
+       "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The US president said he would be replacing Susie Wiles for the top advisory role. Stephen Miller is a controversial figure, known as a key architect of the administration's hard-line immigration policies.",
+       "kind": "reporting",
+       "published": "2026-11-06T20:41:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 358,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
