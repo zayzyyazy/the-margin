@@ -1,0 +1,952 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T11:46:09.738994+00:00",
+ "candidates": 157,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "d3bd8f404f0e",
+   "title": "Reading List 11/7/2026",
+   "link": "https://www.construction-physics.com/p/reading-list-1172026",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-07T13:23:36+00:00",
+   "bucket": "economy",
+   "excerpt": "Florida’s property tax rollback, projected PCB shortages, the end of Tesla’s Cybertruck, the lack of progress in carbon storage, and more.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 694,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.855,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "9270cee68a91",
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-07T23:57:46+00:00",
+   "bucket": "ai",
+   "excerpt": "I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\" This is bad. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.366,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "7157d1619b55",
+   "title": "Why Québec separatism is unlikely despite the Parti Québecois election win",
+   "link": "https://theconversation.com/why-quebec-separatism-is-unlikely-despite-the-parti-quebecois-election-win-295646",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Gavin Furrey, Assistant Professor, Political Science, Université du Québec à Montréal (UQAM)"
+   ],
+   "published": "2026-11-05T14:31:48+00:00",
+   "bucket": "mind",
+   "excerpt": "The recent Parti Québecois victory is more akin to detecting a faint pulse in a terminally ill patient than a spectacular jolt back to life.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1094,
+   "access": "free",
+   "lang": "en",
+   "score": 2.87,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "83b625f90229",
+   "title": "Use Your Year-End Review to Reach for a Promotion",
+   "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Brian Jenney"
+   ],
+   "published": "2026-11-05T16:08:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Hard work rarely speaks for itself. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.188,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "3ce8d1a60b43",
+   "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+   "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+   "source": "Latent Space",
+   "authors": [
+    "Basil Chatha"
+   ],
+   "published": "2026-11-02T23:01:02+00:00",
+   "bucket": "ai",
+   "excerpt": "In this episode, we chat with Jacob Lauritzen, CTO of Legora, following the announcement of their $550M Series E at an $8.8B valuation a couple weeks ago. We talk about what it takes to build AI agents for lawyers and what other people building agents can learn from that work. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 17256,
+   "access": "free",
+   "lang": "en",
+   "score": 3.427,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "8d51843a685c",
+   "title": "What are the Best MR Posts?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Alex Tabarrok"
+   ],
+   "published": "2026-11-07T12:17:10+00:00",
+   "bucket": "economy",
+   "excerpt": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The selection …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 2609,
+   "access": "free",
+   "lang": "en",
+   "score": 4.339,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "08936fc6276e",
+   "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+   "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Thomas Macaulay"
+   ],
+   "published": "2026-11-06T13:10:00+00:00",
+   "bucket": "ai",
+   "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 859,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.353,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "b4f985999d",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "israel",
+     "eisenkot",
+     "netanyahu",
+     "herzog"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+      "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+      "published": "2026-11-08T08:47:36+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1209,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T22:19:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 486,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+      "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+      "published": "2026-11-07T20:31:48+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 404,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Israeli president tasks Gadi Eisenkot with forming government",
+      "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-07T19:56:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 392,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "kind": "reporting",
+      "published": "2026-11-07T19:49:39+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+      "kind": "reporting",
+      "published": "2026-11-07T06:00:04+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israel's President Tasks Opposition Leader Eisenkot With Forming Government",
+     "parts": {
+      "happened": [
+       {
+        "text": "Israeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a new coalition government following recent parliamentary elections.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Eisenkot has 28 days to build an administration, with the possibility of a 14-day extension before the mandate could pass to another candidate.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Following consultations with incoming members of the Knesset, Eisenkot received 67 recommendations for the premiership while incumbent Prime Minister Benjamin Netanyahu received 46.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Isaac Herzog is the president of Israel who holds the discretion to choose the political figure he believes has the best chance of building a coalition.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Gadi Eisenkot is a former military chief of staff who leads the centrist Yashar party and heads an anti-Netanyahu alliance.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Benjamin Netanyahu is Israel's longest-serving prime minister, whose right-wing Likud party and its allies secured 53 seats in the 120-seat Knesset.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Al Jazeera reports that should Eisenkot succeed, he would face the toughest US landscape of any Israeli prime minister due to historic lows in Israel's reputation among the American public.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Tagesschau reports that Benjamin Netanyahu warned that an opposition government relying on Arab parties would destroy Israel from within.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "DW reports that if no candidate succeeds in forming a government, Israel will likely head to a fresh election.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Al Jazeera notes it remains uncertain how far Eisenkot will be able to go in relying on various political elements given his discomfort with political guile.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Al Jazeera reports that it is far from clear if Eisenkot's appointment as premier will alter the rights gap between Jewish and Palestinian citizens of Israel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Knesset",
+       "definition": "The unicameral legislature and national parliament of Israel."
+      },
+      {
+       "term": "Likud",
+       "definition": "A major right-wing political party in Israel."
+      },
+      {
+       "term": "Ultra-Orthodox",
+       "definition": "A traditional, conservative branch of Orthodox Judaism whose adherents strictly follow religious laws."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.3",
+        "text": "In October's election, neither Eisenkot's bloc nor Netanyahu's camp secured the 61 seats required for an outright majority, while Arab-led alliances won an unprecedented 19 seats.",
+        "why": [
+         "number(s) not in evidence: 61"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+       "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+       "excerpt": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+       "kind": "reporting",
+       "published": "2026-11-08T08:47:36+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+       "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+       "kind": "reporting",
+       "published": "2026-11-07T22:19:59+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "ed494f3d00",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "leo",
+     "uruguay",
+     "america",
+     "pope"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "published": "2026-11-08T09:00:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1318,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
+      "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-07T16:26:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 542,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T06:59:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 326,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Pope Leo XIV visits South America amid political tensions",
+     "parts": {
+      "happened": [
+       {
+        "text": "Pope Leo XIV travelled to Uruguay as the first leg of a 12-day, three-nation tour of South America.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The arrival in Argentina sets up a politically delicate encounter between the pope and the country's leader.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "background": [
+       {
+        "text": "Pope Leo XIV is a 71-year-old pontiff who holds US, Peruvian and Vatican citizenship and underwent surgery for lung cancer shortly before the tour.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Javier Milei, Argentina's president, is a far-right libertarian economist who has implemented wide-ranging public spending cuts.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The visit marks the first papal trip to Argentina since 1987, as Pope Francis never returned during his papacy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [],
+      "uncertain": [
+       {
+        "text": "Commentators remain unsure how the diplomatic friction between the pontiff and the Argentine president will formally play out during the meetings.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Pontiff",
+       "definition": "A general title for the Pope, the head of the Catholic Church."
+      },
+      {
+       "term": "Libertarian",
+       "definition": "A political philosophy that upholds individual liberty and minimal state intervention in society and the economy."
+      },
+      {
+       "term": "Secular",
+       "definition": "Relating to affairs unconnected with religion or religious institutions."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "More than 40,000 people attended the pontiff's Mass in Paysandu, and he subsequently travelled to Argentina for meetings.",
+        "why": [
+         "partial",
+         "The evidence says 'around 40,000' people attended, not a definitive count exceeding 40,000."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "Observers note that the pope's emphasis on social justice, labour and disability funding fundamentally clashes with the hyper-capitalist ideology of Argentina's government.",
+        "why": [
+         "partial",
+         "The claim presents observer opinions as facts without proper attribution."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Local analysts suggest the tour provides an important platform for ordinary people taking refuge in a global voice amidst economic hardship.",
+        "why": [
+         "partial",
+         "The claim generalizes specific analyst views as broad fact without attribution."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Government officials have attempted to downplay potential political tensions, leaving the exact tone of the official encounters open.",
+        "why": [
+         "partial",
+         "The claim states the government's attempt to downplay tension as fact, lacking attribution."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
+       "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America's most secular country.",
+       "kind": "reporting",
+       "published": "2026-11-07T16:26:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Pope in 'pretty good health' as he starts Latin America tour",
+       "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+       "kind": "reporting",
+       "published": "2026-11-07T06:59:48+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2.8,
+     "region": "mena",
+     "adjustments": [
+      "same region as 1 chosen"
+     ]
+    },
+    "id": "58e0a598bb",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "yemen",
+     "saudi",
+     "arabia",
+     "houthis"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T04:03:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 404,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+      "link": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-07T13:50:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 335,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "After rebel offensive, efforts to push them back appear to have stalled",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-08T10:28:08+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+      "error": "only 11 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Airstrikes kill dozens in Yemen as conflict reignites",
+     "parts": {
+      "happened": [
+       {
+        "text": "Media linked to the Houthi movement in Yemen reported that at least 33 people were killed in air strikes carried out by Saudi Arabia in the town of al-Shariyah.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Anees Alasbahi, a spokesman for the Houthi health ministry, stated that eight women and 13 children were among the dead, with at least 39 others wounded.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Live television footage showed rescuers pulling bodies from the rubble of several buildings while injured people were carried to hospital.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Houthi movement has controlled the Yemeni capital of Sanaa and large swathes of western and northern Yemen since the civil war began in 2014.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Saudi Arabia leads a coalition that has been fighting the Houthis for more than a decade in support of Yemen's internationally recognised government.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "A yearslong truce collapsed over the summer, and fighting reignited following the outbreak of the Iran war.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The United Nations reports that more than 1,600 people have been killed and over 300,000 displaced since the fighting resumed.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "A Houthi leader, Mahdi al-Mashat, has vowed that the group will take revenge for the latest attacks.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "There has been no initial comment from Saudi Arabia or the Saudi-led coalition on the reported strikes in al-Shariyah.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Rival sides also traded competing accusations over responsibility for a separate recent airstrike on a market in southern Yemen that killed at least 30 people.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 10,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The mention of the Iran war is a separate conflict that does not explain the Yemen civil war timeline."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Houthis say at least 33 killed in Saudi air strike",
+       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+       "kind": "reporting",
+       "published": "2026-11-08T04:03:12+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+       "link": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
+       "kind": "reporting",
+       "published": "2026-11-07T13:50:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2.5,
+     "region": "global",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "af3e5da51b",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "house",
+     "miller",
+     "white"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump asks UFC chief Dana White to be White House press secretary",
+      "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+      "published": "2026-11-08T03:12:44+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 303,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Trump offers White House press secretary role to Dana White",
+      "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-07T19:46:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 361,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+      "published": "2026-11-07T15:15:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 613,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Wofür Trumps neuer Stabschef Miller steht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+      "published": "2026-11-07T14:57:49+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 993,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Donald Trump appoints Stephen Miller as new White House chief of staff",
+     "parts": {
+      "happened": [
+       {
+        "text": "President Donald Trump appointed Stephen Miller as his new White House chief of staff following significant Republican losses in the US midterm elections.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "At an event on Friday evening, Stephen Miller pledged total devotion to Donald Trump upon taking up his new role.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Separately, Donald Trump asked Ultimate Fighting Championship chief executive Dana White to serve as White House press secretary.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The US midterm elections resulted in Democrats winning control of the US Congress and inflicting heavy losses on the Republican party.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Senior Republicans and political operatives described Stephen Miller as a wartime consigliere, signalling that the administration intends to double down on its nativist agenda.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Outgoing Republican congressman Don Bacon predicted that Stephen Miller will have an antagonistic relationship with many and alienated Hispanic voters in Arizona and Texas.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Publicist Chris Whipple characterised the appointment as a declaration of war against the incoming Democratic majority in Congress, according to analysis.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Donald Trump stated he expects to make a few further changes to his team, but did not specify which cabinet members or staff might be replaced.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "White House chief of staff",
+       "definition": "The senior aide to the US president who manages the presidential schedule, controls access to the Oval Office and coordinates government policies."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "Dana White is the chief executive of the Ultimate Fighting Championship and a long-standing supporter of Donald Trump since his 2016 campaign.",
+        "why": [
+         "number(s) not in evidence: 2016"
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Stephen Miller is a former deputy chief of staff known as the architect of Donald Trump's sweeping immigration crackdown and hardline policies.",
+        "why": [
+         "partial",
+         "The evidence does not confirm he is a 'former deputy chief of staff'."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "It remains unconfirmed whether Dana White has formally accepted or turned down the White House press secretary offer.",
+        "why": [
+         "partial",
+         "Evidence notes conflicting reports on whether he turned it down."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump asks UFC chief Dana White to be White House press secretary",
+       "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+       "excerpt": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+       "kind": "reporting",
+       "published": "2026-11-08T03:12:44+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Trump offers White House press secretary role to Dana White",
+       "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. White has neither formally accepted nor turned down the invitation.",
+       "kind": "reporting",
+       "published": "2026-11-07T19:46:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 8,
+  "items": 351,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
