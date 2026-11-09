@@ -1,0 +1,1048 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T13:40:24.928695+00:00",
+ "candidates": 152,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "449d85db82e3",
+   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "link": "https://latent.space/p/cs146s/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-08T21:41:44+00:00",
+   "bucket": "ai",
+   "excerpt": "The AI Engineer YouTube channel just crossed one million subscribers. Thank you to everyone who’s watched a talk, sent one to a teammate, or put something they learned into production. For this special, we wanted to sit down with someone who has to answer a question a lot of us are asking at work: what should a software engineer actually learn now? …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 26365,
+   "access": "free",
+   "lang": "en",
+   "score": 5.088,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": [
+    {
+     "source": "Latent Space",
+     "link": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/"
+    }
+   ]
+  },
+  {
+   "id": "c4cb1743f19f",
+   "title": "Has U.S. Monetary Policy Really Improved? A 150‑Year Perspective",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/has-u-s-monetary-policy-really-improved-a-150-year-perspective/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-09T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Has U.S. monetary policy actually improved over time? Or was the apparent success of the modern Federal Reserve mostly the result of more favorable economic conditions and better luck? In this post, we summarize our paper, which develops a framework for comparing monetary policy across different economic environments. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1337,
+   "access": "free",
+   "lang": "en",
+   "score": 4.794,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "84b113247c93",
+   "title": "The ethics of having a good time at Disney World, Florida",
+   "link": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+   "source": "Psyche",
+   "authors": [
+    "Adam Kadlac"
+   ],
+   "published": "2026-11-09T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.9,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "a088667ffbdb",
+   "title": "Web Satellite Tracker Plays the Music of the Spheres",
+   "link": "https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/",
+   "source": "Hackaday",
+   "authors": [
+    "Tom Nardi"
+   ],
+   "published": "2026-11-09T12:00:11+00:00",
+   "bucket": "discovery",
+   "excerpt": "There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.1,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "593a438e6118",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-09T04:32:33+00:00",
+   "bucket": "ai",
+   "excerpt": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.314,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "dd54d45b269b",
+   "title": "Energy labels, feebates and standards: Lessons from the EU’s 2021 reform",
+   "link": "https://cepr.org/voxeu/columns/energy-labels-feebates-and-standards-lessons-eus-2021-reform",
+   "source": "VoxEU (CEPR)",
+   "authors": [
+    "Toker Doganoglu, Lukasz Grzybowski, Frank Verboven"
+   ],
+   "published": "2026-11-09T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "The European Commission is simplifying the rules around the EU energy label. This column uses product-level sales data on refrigerators in Belgium, France, Germany, and Poland to evaluate the impact on energy use of the 2021 switch from the inflated A+++/A++/A+ scale to a more informative A–G scale. Although consumers prefer better-rated products, they value one euro of future electricity costs at only 42–79 cents. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.514,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0b9aedabb5ac",
+   "title": "The climate case for AI has not been made",
+   "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Mary Nichols, Jeremy Tamanini"
+   ],
+   "published": "2026-11-09T10:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1173,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.588,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "d874487912",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "huang",
+     "chinese",
+     "nvidia",
+     "ceo"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T08:10:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1036,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+      "published": "2026-11-09T03:32:51+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 368,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "published": "2026-11-09T00:25:28+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 775,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+      "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-08T23:07:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 374,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-09T13:02:46+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-09T07:10:11+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-09T13:10:32+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
+      "kind": "opinion",
+      "published": "2026-11-09T11:54:21+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+      "link": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
+      "kind": "analysis",
+      "published": "2026-11-09T11:18:00+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-11-09T10:49:02+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
+      "error": "only 14 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nvidia investigates CEO Jensen Huang over suspected Chinese spy ties",
+     "parts": {
+      "happened": [
+       {
+        "text": "Nvidia opened an independent investigation after reports that its chief executive Jensen Huang had a relationship with a suspected Chinese spy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The company's board of directors stated that it had no reason to believe national security or company secrets were compromised by the affair.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Republican lawmakers asked Jensen Huang to appear before congressional committees to discuss security protocols against foreign espionage.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [],
+      "matters": [
+       {
+        "text": "The sources state that Nvidia's microchips are a cornerstone of the artificial intelligence boom and central to the technological rivalry between the United States and China.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The board of directors declared that prioritising United States national and economic security is paramount to the interests of the company and its shareholders.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear what specific information Alice Huang allegedly passed to Beijing, how valuable that material was, or when her intelligence gathering began.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "China has rejected the espionage allegations entirely, describing the claims as groundless speculation intended to smear the country.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Semiconductor",
+       "definition": "A solid material whose electrical conductivity can be controlled, used widely in computer microchips."
+      },
+      {
+       "term": "Artificial intelligence",
+       "definition": "The simulation of human intelligence processes by computer systems and machine learning."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Jensen Huang co-founded Nvidia in 1993 and has led the microchip manufacturer for more than thirty years.",
+        "why": [
+         "number(s) not in evidence: 1993"
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Nvidia is valued at approximately $4.5 trillion and is central to manufacturing hardware for emerging artificial intelligence technologies.",
+        "why": [
+         "number(s) not in evidence: 4.5"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Jensen Huang admitted to being unfaithful to his wife and apologised, while stating that he would fully cooperate with the board's inquiry.",
+        "why": [
+         "partial",
+         "Jensen Huang apologised for infidelity, but the evidence does not state he promised to cooperate with the board."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "US intelligence officials believed that Alice Huang, an executive at a Singapore-based data centre firm named Megaspeed, was a spy for Beijing.",
+        "why": [
+         "partial",
+         "The evidence does not confirm Alice Huang was an executive at a company called Megaspeed."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+       "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+       "kind": "reporting",
+       "published": "2026-11-09T08:10:25+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+       "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+       "excerpt": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. …",
+       "kind": "reporting",
+       "published": "2026-11-09T00:25:28+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "e987fda70f",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "iran",
+     "washington",
+     "ukraine",
+     "europe"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "G7-Außenminister sprechen über Ukraine und Iran",
+      "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+      "published": "2026-11-09T10:05:12+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 384,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+      "published": "2026-11-09T09:27:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 935,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+      "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-09T04:18:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 517,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "link": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
+      "published": "2026-11-09T01:44:46+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 675,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "G7 ministers meet in Paris to discuss Ukraine and Iran",
+     "parts": {
+      "happened": [
+       {
+        "text": "Foreign ministers from the Group of Seven leading industrialised nations met in Paris for two days of talks.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Negotiations between Ukraine and Russia under United States mediation were scheduled to begin in Abu Dhabi.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Iranian officials submitted a new nuclear and peace proposal through Qatari mediators.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Group of Seven brings together Canada, France, Germany, Italy, Japan, the United Kingdom and the United States.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in 2022.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Relations between Washington and Tehran have been severely strained since the United States withdrew from the Iran nuclear deal in 2018 under President Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "European governments have insisted that any settlement to end the conflict in Ukraine must include European participation and preserve Ukrainian sovereignty.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "US President Donald Trump stated that the war in Ukraine could soon end and suggested that the country might emerge from a settlement with altered borders.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "German Foreign Minister Johann Wadephul urged Washington and Moscow to pursue concrete negotiations rather than military escalation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear how exactly European representatives will take part in the upcoming negotiations in Abu Dhabi.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "US Secretary of State Marco Rubio stated that negotiations with Iran had not made significant progress and described Iranian demands as unrealistic.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The United States has not ruled out resuming military strikes against Iran if diplomatic efforts fail.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Group of Seven",
+       "definition": "An international forum comprising seven major advanced economies discussing global economic and political issues."
+      },
+      {
+       "term": "International Atomic Energy Agency",
+       "definition": "An international organisation that seeks to promote the peaceful use of nuclear energy and inhibit its use for military purposes."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "US Secretary of State Marco Rubio attended the meetings, where discussions focused on the war in Ukraine and tensions involving Iran.",
+        "why": [
+         "partial",
+         "The evidence does not confirm Marco Rubio attended the meetings."
+        ]
+       }
+      ],
+      "checked": 13,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+       "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
+       "kind": "reporting",
+       "published": "2026-11-09T04:18:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "tagesschau",
+       "title": "G7-Außenminister sprechen über Ukraine und Iran",
+       "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+       "excerpt": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
+       "kind": "reporting",
+       "published": "2026-11-09T10:05:12+00:00",
+       "lang": "de"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "db96945cd9",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "milei",
+     "leo",
+     "argentina",
+     "xiv"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T05:30:37+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 465,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "published": "2026-11-09T02:11:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 653,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-09T01:35:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 480,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+      "published": "2026-11-09T00:43:39+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 255,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "kind": "reporting",
+      "published": "2026-11-08T09:00:35+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Pope Leo XIV urges social protection during Argentina visit",
+     "parts": {
+      "happened": [
+       {
+        "text": "Pope Leo XIV arrived in Buenos Aires on a Latin American tour and urged President Javier Milei to ensure the economy benefits the poor.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The pontiff stated that the economy must serve the people and stressed the needs of households struggling despite hard work.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "During his address, the Pope made a veiled reference to the government's controversial cuts to disability assistance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "In response, Javier Milei defended his libertarian policies by stating that individual rights form the backbone of the constitution.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Javier Milei is the president of Argentina who came to office promising to revive the economy and tame runaway inflation by shrinking the welfare state.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Pope Leo XIV is the leader of the world's 1.4 billion Catholics and is undertaking a 12-day tour of Latin America following lung cancer surgery.",
+        "kind": "fact",
+        "cites": [
+         "S1",
+         "S2"
+        ]
+       },
+       {
+        "text": "Javier Milei previously used harsh language against Pope Francis, though he struck a conciliatory tone toward his predecessor upon Leo's arrival.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Observers note that the visit serves as a litmus test of support for the church in a country where the proportion of Catholics has declined significantly.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Citizens have expressed hope that the pontiff's presence might help unite a country bitterly divided over austerity and politics.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The papal visit carries political significance ahead of Argentina's presidential election, in which Javier Milei has stated he will seek another term.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains to be seen whether the papal appeals will alter the administration's contentious fiscal policies or bridge the deep political divisions in the country.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Pontiff",
+       "definition": "Another title for the Pope, the Bishop of Rome and leader of the worldwide Catholic Church."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.2",
+        "text": "This journey marks the first papal visit to Argentina in nearly 40 years, as the late Pope Francis never returned during his papacy.",
+        "why": [
+         "number(s) not in evidence: 40"
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+       "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+       "excerpt": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. …",
+       "kind": "reporting",
+       "published": "2026-11-09T02:11:25+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+       "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
+       "kind": "reporting",
+       "published": "2026-11-09T01:35:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "191962630b",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "white",
+     "ufc",
+     "social"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+      "published": "2026-11-09T10:41:19+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 286,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T08:49:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 445,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "published": "2026-11-09T01:10:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 381,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "US-Präsident Trump bezeichnet Jobangebot für White als Spaß",
+      "link": "https://www.tagesschau.de/video/video-1680608.html",
+      "kind": "reporting",
+      "published": "2026-11-09T08:57:31+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump ‘only kidding’ about Dana White press secretary role",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-09T08:18:00+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+      "error": "only 47 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Trump calls Dana White press secretary offer a joke",
+     "parts": {
+      "happened": [
+       {
+        "text": "US President Donald Trump told reporters on Sunday that he was only kidding after previously announcing on his Truth Social platform that he had offered the role of White House press secretary to the Ultimate Fighting Championship boss Dana White.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Trump stated that while the invitation was just a little fun and that he had only been joking, White loved the idea.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Dana White is the chief executive officer of the Ultimate Fighting Championship and a long-standing friend of Donald Trump who has spoken at multiple Republican National Conventions.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The press secretary position became vacant in October after Katie Zacharia quit the job after less than five days.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The playful job offer followed heavy Republican losses in the midterm elections, in which the party lost its majority in both houses of Congress.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Trump did not specify exactly who told him that making the Ultimate Fighting Championship boss his spokesperson was a good idea.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "German broadcaster Tagesschau reported that the cable news network CNN stated White had turned down the post, whereas Trump maintained that White was visiting Washington for other reasons.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ultimate Fighting Championship",
+       "definition": "A major American mixed martial arts promotion company that hosts professional cage-fighting events."
+      },
+      {
+       "term": "White House press secretary",
+       "definition": "A senior official who acts as the primary spokesperson for the United States government administration and the president."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "In his original social media post, the president had asked White to take the job and bring several mixed martial arts fighters as assistants to defend against the left.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Trump claimed that after he made the mock announcement, people told him it was actually a pretty good idea.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Katie Zacharia had taken over the post from Karoline Leavitt, who served as press secretary from the start of the second presidential term until her resignation in August.",
+        "why": [
+         "contradicted",
+         "Evidence states Leavitt left in October, not August. The claim timeline is incorrect."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "It remained unclear whether Dana White would accept any other position, as he declined to state during a news conference whether he would take the vacant post during their planned Monday meeting.",
+        "why": [
+         "partial",
+         "White did not decline the post explicitly; he said he has many jobs."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+       "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+       "excerpt": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters Donald Trump said on Sunday that he “was only kidding” when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship (UFC). …",
+       "kind": "reporting",
+       "published": "2026-11-09T01:10:55+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+       "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+       "kind": "reporting",
+       "published": "2026-11-09T08:49:17+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 13,
+  "items": 363,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
