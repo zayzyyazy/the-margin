@@ -1,0 +1,1010 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T12:29:51.691783+00:00",
+ "candidates": 168,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "c0c6914de85d",
+   "title": "The missing quadrant in responses to AI",
+   "link": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+   "source": "Normal Technology",
+   "authors": [
+    "Sayash Kapoor"
+   ],
+   "published": "2026-11-10T18:37:42+00:00",
+   "bucket": "ai",
+   "excerpt": "We are starting a non-profit research organization: STABL. Adapting to advanced AI will require dramatic institutional change and broad societal resilience. It will also require evidence about AI progress and impacts — the prospects of recursive self-improvement (RSI), the pace of AI diffusion, and the bottlenecks that constrain how AI capabilities translate into societal outcomes. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 2698,
+   "access": "free",
+   "lang": "en",
+   "score": 5.723,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "3639119855ac",
+   "title": "A Look at the Wider Divide in Credit Card Delinquency by Income",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/a-look-at-the-wider-divide-in-credit-card-delinquency-by-income/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-10T16:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Credit card delinquency rose sharply between 2022 and 2024, and the increase was steepest among borrowers in lower-income neighborhoods. Here, we check in on credit card performance by neighborhood income and trace when the borrowers who are now struggling with their payments were issued cards. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1284,
+   "access": "free",
+   "lang": "en",
+   "score": 4.794,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "37f653f72512",
+   "title": "We need more goat sacrifices",
+   "link": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+   "source": "Experimental History",
+   "authors": [
+    "Adam Mastroianni"
+   ],
+   "published": "2026-11-10T17:21:43+00:00",
+   "bucket": "mind",
+   "excerpt": "Just a quick thing before this week’s post. If you’ve preordered THE STRANGEST IDEA IN THE WORLD, I’d like to send you a little something extra in the mail. Submit your preorder receipt and your mailing address here. This is only available to folks with US or UK addresses—apologies to those who live elsewhere! …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 3923,
+   "access": "free",
+   "lang": "en",
+   "score": 5.723,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "e8c36ccc5160",
+   "title": "The Case for a Bubble at Life’s Start",
+   "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Perri Thaler"
+   ],
+   "published": "2026-11-10T15:08:35+00:00",
+   "bucket": "discovery",
+   "excerpt": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.839,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "441f16256624",
+   "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+   "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-11-10T16:59:31+00:00",
+   "bucket": "ai",
+   "excerpt": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton’s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity. TLX has demonstrated performance improvements in RecSys training, RecSys inference, and large-scale LLM pretraining. Modern GPU architectures increasingly …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 3662,
+   "access": "free",
+   "lang": "en",
+   "score": 5.494,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "2d25136be262",
+   "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+   "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Amanda Davis"
+   ],
+   "published": "2026-11-10T19:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became the foundation for efficient, high-quality voice transmission over cellular networks. He received the 2013 IEEE Jack S. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.6,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "ce73ef378165",
+   "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+   "link": "https://latent.space/p/naiveai/",
+   "source": "Latent Space",
+   "authors": [
+    "Gabriele Beltramo"
+   ],
+   "published": "2026-11-10T18:56:32+00:00",
+   "bucket": "ai",
+   "excerpt": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2049,
+   "access": "free",
+   "lang": "en",
+   "score": 4.694,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "asia-pacific",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "5bc0363fd5",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "chinese",
+     "nvidia",
+     "huang",
+     "china"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "published": "2026-11-11T11:49:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 709,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+      "published": "2026-11-11T07:26:28+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 648,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T22:52:15+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 602,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Megaspeed and the battle to go high-end Nvidia chips into China",
+      "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-10T14:32:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1034,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-10T09:23:55+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-10T08:23:21+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+      "link": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-11-11T08:29:10+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-11T07:44:24+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nvidia Investigates Chief Executive Following Alleged Espionage Scandal",
+     "parts": {
+      "happened": [
+       {
+        "text": "Nvidia has appointed a US law firm to conduct an independent investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Federal Bureau of Investigation is also conducting its own probe into the matter.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The United States has implemented strict export controls to prevent advanced artificial intelligence chips from reaching China amid technological competition between the two nations.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Political pressure has also intensified, with United States congressional committees requesting briefings and lawmakers calling on Jensen Huang to step down.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Tech analyst Dan Ives expects the board investigation to take four to six weeks, writing in a note that there is a high probability Jensen Huang will remain as chief executive.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the law firm conducting the inquiry will be able to interview Alice Huang directly.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Sources familiar with the matter suggest the investigation will be treated as urgent, but the exact timeframe for its completion has not been formally specified by Nvidia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Observers hold varying estimates on leadership survival chances, with Jeffrey Sonnenfeld putting the probability of Jensen Huang remaining chief executive at fifty-fifty.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Poison pill defence",
+       "definition": "A corporate governance strategy utilised by companies to deter hostile takeovers by making stock acquisitions prohibitively expensive for an unwanted suitor."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Jensen Huang admitted to being unfaithful to his wife after media reports linked him to Alice Huang, a former executive at a Singapore-based data centre company and customer of Nvidia.",
+        "why": [
+         "partial",
+         "Evidence does not specify Alice Huang's role as a customer of Nvidia."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Jensen Huang co-founded Nvidia, which has grown to become one of the world's most valuable companies and a central manufacturer of computer chips used in artificial intelligence.",
+        "why": [
+         "partial",
+         "Evidence does not verify the claim that Nvidia is one of the most valuable companies."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "Alice Huang worked as an executive for Megaspeed, a Singapore-based data centre and artificial intelligence computing company that has been a customer of Nvidia and a focus of US export control investigations.",
+        "why": [
+         "partial",
+         "Evidence does not mention US export control investigations regarding Megaspeed."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "The scandal has wiped hundreds of billions of dollars off Nvidia's market value as investors gauge the potential impact on the company.",
+        "why": [
+         "partial",
+         "The evidence states $430bn was wiped off, not 'hundreds of billions'."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+       "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+       "excerpt": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Business live – latest updates Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy. …",
+       "kind": "reporting",
+       "published": "2026-11-11T11:49:12+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+       "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+       "excerpt": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+       "kind": "reporting",
+       "published": "2026-11-11T07:26:28+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "dc512fd78e",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "dhabi",
+     "russia",
+     "trump"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
+      "published": "2026-11-11T11:27:20+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 436,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:00:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1218,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange",
+      "link": "https://www.dw.com/en/us-russia-ukraine-wrap-up-abu-dhabi-talks-with-prisoner-exchange/live-79906232?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-10T07:09:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2057,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Silke Diettrich, ARD Moskau, zum Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+      "link": "https://www.tagesschau.de/video/video-1681872.html",
+      "kind": "reporting",
+      "published": "2026-11-11T09:55:34+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "What do Kyiv residents think about giving up territory to Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-11T09:07:59+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+      "kind": "reporting",
+      "published": "2026-11-10T21:08:29+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
+      "kind": "opinion",
+      "published": "2026-11-11T05:00:30+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+      "error": "only 16 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Peace talks wrap up in Abu Dhabi as prisoner swap agreed",
+     "parts": {
+      "happened": [
+       {
+        "text": "Delegations from Ukraine, Russia and the United States wrapped up two days of peace talks in Abu Dhabi.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russian chief negotiator Vladimir Medinsky stated that the two sides agreed on a large-scale prisoner exchange.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "While trilateral discussions took place, Russian and Ukrainian aerial strikes continued across multiple regions.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The meeting in Abu Dhabi marked the resumption of face-to-face negotiations after a pause of more than eight months.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The talks were mediated by United States officials including Jared Kushner and Steve Witkoff.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "A major sticking point in the conflict remains Russia's demand that Ukraine cede the entire Donbas region.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "United States envoy Jared Kushner stated that his team had narrowed the gaps between the warring sides.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy noted that the trilateral meetings allowed discussions regarding long-term security guarantees.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "European partners and leaders worry that Washington might pressure Kyiv into unfavourable territorial concessions.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Concrete details and final numbers for the agreed humanitarian prisoner release remain to be finalised.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Top Russian delegate Sergei Ryabkov declined to assess any broader progress, stating it was too early to talk about it.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Donbas",
+       "definition": "A historical, coal-rich region in eastern Europe spanning parts of eastern Ukraine and southwestern Russia."
+      },
+      {
+       "term": "Kaliningrad",
+       "definition": "A Russian exclave situated on the Baltic Sea, geographically separated from the rest of Russia and bordered by Poland and Lithuania."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "Vladimir Medinsky is listed as negotiator, while the background section credits Jared Kushner and Steve Witkoff.",
+        "The text introduces Jared Kushner and Steve Witkoff without explaining their roles or why they are mediating.",
+        "The text abruptly introduces Russia's demand for the Donbas region without sufficient context for a new reader."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange",
+       "link": "https://www.dw.com/en/us-russia-ukraine-wrap-up-abu-dhabi-talks-with-prisoner-exchange/live-79906232?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Peace talks between Russia, Ukraine and the US concluded in the United Arab Emirates. The two day talks were the first such meeting since February. DW has the latest updates.",
+       "kind": "reporting",
+       "published": "2026-11-10T07:09:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+       "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+       "kind": "reporting",
+       "published": "2026-11-10T17:00:11+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "18d2d84ed4",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "hegseth",
+     "trump",
+     "house",
+     "democrats"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:47:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 894,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Did Democrats save Pete Hegseth from impeachment?",
+      "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+      "published": "2026-11-11T10:32:03+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1014,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+      "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-11T02:04:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 301,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US House blocks impeachment bid against Defense Secretary Pete Hegseth",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United States House of Representatives voted 211 to 204 to refer articles of impeachment against Defense Secretary Pete Hegseth to the House Judiciary Committee.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The procedural move effectively killed the impeachment push for the remainder of the current congressional term.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Thomas Massie, a dissident Republican congressman from Kentucky, introduced the resolution to impeach Pete Hegseth, accusing him of waging war on Iran without congressional authorisation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Pete Hegseth serves as the United States defense secretary in the administration of President Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Donald Trump is the president of the United States, and his Republican Party currently remains in control of the House of Representatives.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Hakeem Jeffries, the most senior Democrat in the House, stated after the vote that the effort was not over and represented just the beginning.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ted Cruz, a Republican senator from Texas, stated that he expected Pete Hegseth to either resign or be fired by Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains to be seen whether Democrats will launch another impeachment process against Pete Hegseth after taking control of both chambers of Congress in January.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Sources note that lawmakers have questioned how long Pete Hegseth can last in the administration.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Impeachment",
+       "definition": "A formal process in which a legislative body brings charges of misconduct against a government official."
+      },
+      {
+       "term": "House of Representatives",
+       "definition": "The lower chamber of the United States Congress composed of representatives distributed among the states based on population."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Eleven Democratic lawmakers were absent from the vote, which several members attributed to traffic delays in Washington, DC.",
+        "why": [
+         "partial",
+         "Only some of the eleven absent members blamed traffic; others provided different reasons."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+       "kind": "reporting",
+       "published": "2026-11-11T11:47:22+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Did Democrats save Pete Hegseth from impeachment?",
+       "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+       "excerpt": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+       "kind": "reporting",
+       "published": "2026-11-11T10:32:03+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "589c54334b",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "israel",
+     "israeli",
+     "eisenkot",
+     "knesset"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
+      "link": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-11T03:33:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 582,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+      "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+      "published": "2026-11-10T19:59:33+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 550,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-11T10:57:39+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+      "error": "only 44 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israeli opposition moves to seize control as new parliament is sworn in",
+     "parts": {
+      "happened": [
+       {
+        "text": "The new Israeli parliament, or Knesset, was sworn in following a parliamentary election held on October 27.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Gadi Eisenkot's parliamentary bloc announced initiatives targeting the legacy of Prime Minister Benjamin Netanyahu.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Opposition lawmakers requested a vote for a new speaker to replace Netanyahu loyalist Amir Ohana and set the legislative agenda.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Gadi Eisenkot is a former Israeli military chief who leads the centrist Yashar Party.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "In the recent election, Eisenkot's coalition bloc secured 48 seats while Netanyahu's bloc received 53 seats in the 120-seat Knesset.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The sources state that if the fractured opposition successfully advances key legislation, Netanyahu's grip on the state would be weakened.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Opposition priorities include establishing a state commission of inquiry into the October 7 attacks and introducing term limits for prime ministers.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Netanyahu argued that a national unity government is necessary to confront international pressure regarding a nuclear-armed Iran.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unconfirmed whether Gadi Eisenkot can successfully form a government within the six-week presidential mandate.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The sources indicate that a failure to broker a coalition will likely lead to another round of elections.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Knesset",
+       "definition": "The unicameral national legislature of Israel."
+      },
+      {
+       "term": "Mandate",
+       "definition": "An official authorization given to a political leader to form a government."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Benjamin Netanyahu has ruled Israel for 19 of the last 30 years and is the longest-serving prime minister in Israeli history.",
+        "why": [
+         "partial",
+         "Evidence confirms the 19 of 30 years figure, but does not support the 'longest-serving' claim."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
+       "link": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.",
+       "kind": "reporting",
+       "published": "2026-11-11T03:33:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+       "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+       "excerpt": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails Opposition lawmakers have wasted no time after Israel’s new Knesset was sworn in, deploying their majority to seize control of the legislature from Benjamin Netanyhau and his allies. …",
+       "kind": "reporting",
+       "published": "2026-11-10T19:59:33+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 14,
+  "items": 361,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
