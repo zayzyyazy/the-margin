@@ -1,0 +1,1016 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T13:34:26.202735+00:00",
+ "candidates": 172,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "2d11299dcffc",
+   "title": "Technology as a Search Problem",
+   "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-12T13:01:45+00:00",
+   "bucket": "economy",
+   "excerpt": "One of my ongoing research interests is understanding the nature of technological progress: How does new technology come into the world and improve over time?",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 4925,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.294,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a872f1c6ef1c",
+   "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+   "link": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-11-11T17:00:38+00:00",
+   "bucket": "ai",
+   "excerpt": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best outcome for the entire system. We built …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1897,
+   "access": "free",
+   "lang": "en",
+   "score": 4.839,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "3146dc4982a2",
+   "title": "Why ‘patient influencers’ should come with a health warning",
+   "link": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+   "source": "Psyche",
+   "authors": [
+    "Zoe Cunniffe"
+   ],
+   "published": "2026-11-11T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.473,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "df33bd9428f2",
+   "title": "How a Metabolic Spark Could Have Jump-Started Life",
+   "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Jake Buehler"
+   ],
+   "published": "2026-11-11T15:10:30+00:00",
+   "bucket": "discovery",
+   "excerpt": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.839,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f2ef0539169b",
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "authors": [
+    "BrianKrebs"
+   ],
+   "published": "2026-11-11T18:06:01+00:00",
+   "bucket": "ai",
+   "excerpt": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1041,
+   "access": "free",
+   "lang": "en",
+   "score": 4.555,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "61ea116e9472",
+   "title": "Banking System Vulnerability: 2026 Update",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/banking-system-vulnerability-2026-update/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-12T13:25:00+00:00",
+   "bucket": "economy",
+   "excerpt": "As in previous years, we provide in this post an update on the vulnerability of the U.S. banking system based on four analytical models that capture different aspects of this vulnerability. We use data through 2026:Q2 to update our analysis and discuss how the vulnerability measures have changed since our last update one year ago.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1449,
+   "access": "free",
+   "lang": "en",
+   "score": 4.794,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0a56c359d125",
+   "title": "Gemini Decisions API",
+   "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-11T22:03:25+00:00",
+   "bucket": "ai",
+   "excerpt": "Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.265,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "52004cb134",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "putin",
+     "witkoff",
+     "kushner"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:14:51+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 486,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "published": "2026-11-12T09:01:24+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 717,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+      "published": "2026-11-12T07:00:29+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 504,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
+      "link": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-12T06:35:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1441,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+      "kind": "reporting",
+      "published": "2026-11-12T05:09:26+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
+      "link": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
+      "kind": "reporting",
+      "published": "2026-11-12T01:58:18+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+      "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+      "kind": "reporting",
+      "published": "2026-11-11T05:33:27+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Kommentar: Russland sägt an der europäischen Sicherheitsarchitektur",
+      "link": "https://www.tagesschau.de/kommentar/ukraine-verhandlungen-abu-dhabi-106.html",
+      "kind": "opinion",
+      "published": "2026-11-11T15:14:57+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US Envoys Meet Putin in Moscow as Peace Talks Continue",
+     "parts": {
+      "happened": [
+       {
+        "text": "United States special envoys Jared Kushner and Steve Witkoff travelled to Moscow to meet Russian President Vladimir Putin.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Overnight attacks continued as Russia launched ballistic missiles and drones at Ukraine, causing power outages in nine regions and killing one person in Kyiv.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Nearly five years have passed since Russia launched its full-scale invasion of Ukraine, during which Moscow has maintained maximalist demands regarding sovereign territory and European security commitments.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jared Kushner is the son-in-law of United States President Donald Trump, and Steve Witkoff serves as a special envoy.",
+        "kind": "fact",
+        "cites": [
+         "S2",
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The United States envoys stated they would ask Vladimir Putin to give his blessing to invite European representatives into future discussions regarding the security architecture of Europe.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy stated that ongoing systematic disruptions to the Starshield satellite internet service were helping Russian forces carry out more accurate strikes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear who ordered the temporary restrictions on Starshield services, as United States officials and SpaceX offered differing explanations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The full dataset regarding Russian military casualties remains unverified independently.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "The diplomatic meetings follow two days of trilateral peace negotiations mediated by the United States in Abu Dhabi that concluded without a breakthrough on ending the conflict.",
+        "why": [
+         "partial",
+         "Evidence does not specify two days; the claim omits the hedge regarding the lack of breakthrough."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "European leaders have largely been excluded from the direct negotiations led by the Americans, though they gathered in Dublin for a summit focused on the continent's security.",
+        "why": [
+         "partial",
+         "Claim incorrectly states 'more than 40' while evidence refers to that number."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "German Chancellor Friedrich Merz expressed his expectation that Russia would ultimately accept a European seat at the negotiating table.",
+        "why": [
+         "partial",
+         "The claim states the expectation as fact rather than attributing it to Merz."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Observers note that it is disputed whether the talks in Moscow will yield any tangible results toward ending the war, given that fundamental positions remain unchanged.",
+        "why": [
+         "partial",
+         "The claim presents observer sentiment as fact without attribution."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+       "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+       "kind": "reporting",
+       "published": "2026-11-12T12:14:51+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
+       "link": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The US president's son-in-law Jared Kushner and envoy Steve Witkoff are in Russia to meet Vladimir Putin. The expected meeting comes after two days of trilateral talks in Abu Dhabi. Follow DW for more.",
+       "kind": "reporting",
+       "published": "2026-11-12T06:35:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "9ad7fed1a1",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "colom",
+     "mississippi",
+     "senate",
+     "black"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:56:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 650,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+      "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+      "published": "2026-11-12T11:31:16+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1092,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+      "published": "2026-11-12T04:37:34+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 703,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
+      "link": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-11T23:33:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 435,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Mississippi elects first Black Senator since 1874",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-12T08:12:40+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+      "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "kind": "reporting",
+      "published": "2026-11-12T02:08:44+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Democrat Scott Colom Wins US Senate Seat in Mississippi",
+     "parts": {
+      "happened": [
+       {
+        "text": "Democrat Scott Colom has won the US Senate race in Mississippi, defeating the Republican incumbent Cindy Hyde-Smith by fewer than five thousand votes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The narrow victory makes Mr Colom the first Black person from Mississippi to be seated in the US Senate since Blanche Bruce served from 1875 to 1881.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Mr Colom won with 49.2% of the vote while Ms Hyde-Smith received 48.7%, and the incumbent congratulated her challenger in a video posted on X on Wednesday evening.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Scott Colom is a 43-year-old local prosecutor and lawyer who has served as a Mississippi prosecutor since 2016 until this year.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Cindy Hyde-Smith is a 67-year-old Republican who was first elected to the Senate in 2018 and consistently led in opinion polls in a state that Donald Trump won by nearly 23 points in 2024.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Leon Russell, chairman of the National Association for the Advancement of Colored People board, described the outcome as an amazing result driven by the organising work of the Black community.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "According to exit polls cited by sources, voter backlash against Donald Trump's Republican party has been driven in large part by economic woes blamed on tariffs and war.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Sources note that a knife-edge race in Alaska is still to be called.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Some supporters are already envisioning Mr Colom in the White House in 2028, though the politician has dismissed the conversation to focus on Mississippi.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "US Senate",
+       "definition": "The upper house of the United States Congress, composed of two senators from each state."
+      },
+      {
+       "term": "Incumbent",
+       "definition": "The current holder of a political office."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.0",
+        "text": "The result means the Democrats will hold 55 seats in the 100-member Senate, adding to a decisive midterm rebuke of President Donald Trump.",
+        "why": [
+         "number(s) not in evidence: 100, 55"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "The southern US state of Mississippi has been controlled mostly by white conservatives for generations, and the contest was not considered to be in play until the final weeks of the campaign.",
+        "why": [
+         "partial",
+         "The evidence does not explicitly mention control by white conservatives for generations."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+       "kind": "reporting",
+       "published": "2026-11-12T12:56:55+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+       "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+       "excerpt": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
+       "kind": "reporting",
+       "published": "2026-11-12T11:31:16+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "1b8475944c",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "trump",
+     "iran",
+     "bessent",
+     "treasury"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Where the US's war with Iran stands after the midterms",
+      "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-12T05:50:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1018,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T16:45:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 466,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "published": "2026-11-11T09:11:30+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 481,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US Treasury Chief Relocated Over Iran-Linked Threats",
+     "parts": {
+      "happened": [
+       {
+        "text": "The relocation occurred after a photo of Bessent's Georgetown mansion was published, allowing the property to be geolocated.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A Treasury Department spokesperson stated that Bessent will remain committed to the ongoing efforts to pressure Iran's economy.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Scott Bessent is the United States Treasury Secretary and has spearheaded efforts to isolate Iran economically through sanctions and a blockade.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Director of National Intelligence Jay Clayton warned that Iran has substantially increased efforts to target American officials.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Bessent joins several other senior administration figures who live on military bases due to security concerns.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [],
+      "uncertain": [
+       {
+        "text": "The exact nature and severity of the specific threats against Bessent remain unclear according to reports.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Iran has previously denied plotting to attack officials and people on US soil.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "US Treasury Secretary Scott Bessent has been moved from his Washington DC home to a military base following Iran-linked threats to his life.",
+        "why": [
+         "partial",
+         "Claim states it as fact; source attributes this to US media reports."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "The US and Israel launched a military campaign against Iran in February, leading to regional strikes and the effective closure of the Strait of Hormuz.",
+        "why": [
+         "partial",
+         "Claims US/Israel launched a campaign; evidence confirms an air campaign, not specifically a military campaign."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "The ongoing conflict and blockades have severely impacted global oil prices and increased living costs around the world.",
+        "why": [
+         "supported",
+         "Evidence links shipping attacks to higher oil prices and economic impacts."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Former US ambassador Ian Kelly forecasts that resolving the war is essential for Republicans looking toward the 2028 election.",
+        "why": [
+         "supported",
+         "The claim accurately attributes the political forecast to former ambassador Ian Kelly."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+       "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+       "excerpt": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life The US Treasury secretary, Scott Bessent, has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times has reported. …",
+       "kind": "reporting",
+       "published": "2026-11-11T09:11:30+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+       "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+       "kind": "reporting",
+       "published": "2026-11-11T16:45:11+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2.5,
+     "region": "asia-pacific",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "70358b39bc",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "nvidia",
+     "huang",
+     "chinese",
+     "ceo"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+      "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+      "published": "2026-11-12T11:43:19+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 951,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:21:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 785,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "published": "2026-11-12T06:43:31+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2109,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+      "link": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-12T00:01:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 360,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+      "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-12T10:49:41+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nvidia board weighs future of chief executive Jensen Huang",
+     "parts": {
+      "happened": [
+       {
+        "text": "Nvidia's board of directors met to decide whether to remove co-founder and chief executive officer Jensen Huang following reports of extramarital affairs.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "The company's shares fell more than 8 percent in after-hours trading following reports that the board was preparing to oust him.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Huang admitted in a memo to staff that he had been unfaithful to his wife after reports emerged regarding a relationship with Alice Huang, a former executive suspected by United States officials of working for Chinese intelligence.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Media reports also stated that Huang had an extramarital relationship with Kimberly Powell, Nvidia's vice president of healthcare, who reported to him.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Jensen Huang cofounded Nvidia in 1993 and turned it into the world's leading supplier of processors that power artificial intelligence.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Nvidia currently controls an estimated 80 to 90 percent of the market for chips used to run advanced artificial intelligence.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Under Nvidia's bylaws, directors can remove Huang with or without cause by a majority vote.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Analysts state that the short-term operational impact of Huang's departure would be minimal, though a new leader could alter the company's long-term direction.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Investors are starting to price in the prospect of Nvidia operating without its founder as a likely outcome rather than a minor tail risk.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unknown what specific evidence led United States intelligence to conclude that Alice Huang was spying for China, as the intelligence is classified.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Sources note that exact timelines regarding when Jensen Huang met Alice Huang, when their relationship became romantic, and whether information was passed remain unspecified.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "It is also unclear whether Jensen Huang will join President Donald Trump at the Asia-Pacific Economic Cooperation summit in Shenzhen.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Artificial Intelligence",
+       "definition": "The simulation of human intelligence processes by computer systems and machine learning algorithms."
+      },
+      {
+       "term": "Semiconductor",
+       "definition": "A solid material whose electrical conductivity is intermediate between that of a conductor and an insulator, vital for microchips."
+      },
+      {
+       "term": "Export controls",
+       "definition": "Government laws and regulations that restrict the shipment of sensitive goods, technologies, or data to foreign nations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.1",
+        "text": "Investment analysts suggest internal candidates to succeed Huang could include Chief Financial Officer Colette Kress and engineer Ian Buck.",
+        "why": [
+         "partial",
+         "The claim presents internal candidates as fact rather than reported market speculation."
+        ]
+       }
+      ],
+      "checked": 13,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+       "link": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.",
+       "kind": "reporting",
+       "published": "2026-11-12T00:01:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+       "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+       "excerpt": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+       "kind": "reporting",
+       "published": "2026-11-12T11:43:19+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 15,
+  "items": 374,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
