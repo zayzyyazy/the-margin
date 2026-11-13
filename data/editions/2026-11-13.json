@@ -1,0 +1,909 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T12:53:58.285302+00:00",
+ "candidates": 168,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "353f930cd096",
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Yasemin Saplakoglu"
+   ],
+   "published": "2026-11-12T15:45:27+00:00",
+   "bucket": "discovery",
+   "excerpt": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.789,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "5297321da0ce",
+   "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+   "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Aaron Zamost"
+   ],
+   "published": "2026-11-13T10:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 910,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.388,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d26746030ac6",
+   "title": "My excellent Conversation with Terence Tao",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-11-12T05:44:38+00:00",
+   "bucket": "economy",
+   "excerpt": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 723,
+   "access": "free",
+   "lang": "en",
+   "score": 3.565,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "4e1fe676459c",
+   "title": "The SS United States has been deliberately sunk – this is how marine life will colonise the world’s largest artificial reef",
+   "link": "https://theconversation.com/the-ss-united-states-has-been-deliberately-sunk-this-is-how-marine-life-will-colonise-the-worlds-largest-artificial-reef-294758",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Nicholas Ray, Doctoral Programmes Manager and Researcher in Aquatic Ecology, Nottingham Trent University"
+   ],
+   "published": "2026-11-12T17:42:17+00:00",
+   "bucket": "mind",
+   "excerpt": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea. Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer. Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 945,
+   "access": "free",
+   "lang": "en",
+   "score": 3.965,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "83c05214a054",
+   "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+   "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-11-10T17:00:49+00:00",
+   "bucket": "ai",
+   "excerpt": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1638,
+   "access": "free",
+   "lang": "en",
+   "score": 4.382,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a66145389d81",
+   "title": "My friend, my witness",
+   "link": "https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend",
+   "source": "Psyche",
+   "authors": [
+    "Ashwaq Masoodi"
+   ],
+   "published": "2026-11-13T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.86,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "40243ae082cb",
+   "title": "llm-gemini 0.37",
+   "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-12T22:55:19+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.265,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "193f523148",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "putin",
+     "europe",
+     "russia"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+      "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+      "published": "2026-11-13T11:24:30+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 667,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+      "published": "2026-11-13T02:19:34+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 358,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:01:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 531,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+      "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-12T22:00:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 792,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
+      "link": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers",
+      "kind": "reporting",
+      "published": "2026-11-13T03:38:51+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+      "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "kind": "reporting",
+      "published": "2026-11-12T22:26:37+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+      "kind": "reporting",
+      "published": "2026-11-12T16:29:23+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US envoys pledge European presence in upcoming Russia-Ukraine peace talks",
+     "parts": {
+      "happened": [
+       {
+        "text": "US envoys Jared Kushner and Steve Witkoff travelled to Moscow and Dublin, where they announced that European delegates would be included in the next round of peace talks with Russia.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in February 2022, and about one-fifth of Ukraine remains under Russian occupation.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Jared Kushner and Steve Witkoff are advisers to US President Donald Trump, operating as special intermediaries in ongoing shuttle diplomacy.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Prior to the Dublin meetings, negotiations were held in Abu Dhabi without direct European participation in talks with the Russian delegation.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Kaja Kallas stated that the presence of a European delegate showed the Kremlin had realised Europe is a major player.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "European leaders fear the US might accept Russian demands regarding regional security structures in exchange for a seat at the negotiating table.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Kaja Kallas expressed doubts as to whether there is genuine Russian momentum toward achieving a peace deal.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "European Union institutions have not yet decided on a single central figure to represent them in future talks.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Details regarding the exact timing and total number of prisoners to be included in the announced exchange remain unspecified.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "NATO",
+       "definition": "An international military alliance of European and North American nations established for collective security."
+      },
+      {
+       "term": "Shuttle diplomacy",
+       "definition": "The action of an intermediary traveling back and forth between disputing parties to help broker negotiations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "During their diplomatic tour, the US negotiators also met Ukrainian President Volodymyr Zelenskyy and agreed with Russia and Ukraine on plans for a large prisoner exchange.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Concurrently, a Russian drone strike hit an orthopaedic hospital in central Kyiv, injuring three people and temporarily suspending medical services.",
+        "why": [
+         "supported",
+         "The strike occurred as described, but this event is not the primary topic of the provided development."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
+       "link": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers",
+       "excerpt": "Jared Kushner says move will allow talks to address ‘broader postwar European security arrangements’; Putin refuses to soften territorial demands. What we know on day 1,724 Ukraine and Russia have agreed to expand the next round of peace negotiations to include European countries, Donald Trump’s envoy and son-in-law Jared Kushner said late on Thursday, after meeting Russian president Vladimir Putin. …",
+       "kind": "reporting",
+       "published": "2026-11-13T03:38:51+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+       "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
+       "kind": "reporting",
+       "published": "2026-11-12T22:00:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "07f69ebe87",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "outlook",
+     "teams",
+     "microsoft",
+     "gps"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "published": "2026-11-13T12:29:18+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 870,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "published": "2026-11-13T12:28:32+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 1179,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Microsoft hit by global outages: What happened and why?",
+      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+      "published": "2026-11-13T09:30:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1837,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Microsoft rules out 'malicious activity' as cause for global outage",
+      "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-13T07:46:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 395,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod!\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
+      "kind": "reporting",
+      "published": "2026-11-13T12:28:28+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+      "kind": "reporting",
+      "published": "2026-11-13T12:16:44+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
+      "link": "https://www.tagesschau.de/wirtschaft/digitales/microsoft-outlook-ausfall-100.html",
+      "kind": "reporting",
+      "published": "2026-11-13T08:07:39+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Weltweite Störung bei Outlook, Teams und anderen Programmen des Software-Konzerns Microsoft",
+      "link": "https://www.tagesschau.de/video/video-1682966.html",
+      "kind": "reporting",
+      "published": "2026-11-12T23:28:53+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Global Microsoft outage disrupts email and workplace software",
+     "parts": {
+      "happened": [
+       {
+        "text": "Microsoft stated that its initial repair efforts did not progress as expected because restarted servers became unresponsive again upon receiving traffic.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Microsoft is a US software giant whose Microsoft 365 cloud-based subscription service is used by more than 430 million people globally.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The disruption also affected third-party integrations relied upon by artificial intelligence firms such as OpenAI and Anthropic.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Josh Gilbert, a market analyst at the trading platform eToro, explained that repeated outages could damage customer trust in Microsoft over the long term.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "IT security expert Dennis-Kenji Kipker stated in an interview that companies and public authorities have become highly vulnerable and suffer a loss of control by outsourcing software to cloud services.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Mark Gregory, an associate professor at RMIT University, noted that businesses reliant on cloud services ought to maintain backup options.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Microsoft has not published a definitive root cause for the server failures, though the company stated there was no indication of a cyberattack.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The exact total number of affected users remains unconfirmed by the tech company.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "It remains unclear precisely when all Microsoft 365 services will be fully restored without restriction.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Cloud Computing",
+       "definition": "The delivery of computing services over the internet rather than relying on local hardware."
+      },
+      {
+       "term": "Server",
+       "definition": "A computer program or device that provides functionality for other programs or devices."
+      },
+      {
+       "term": "Artificial Intelligence",
+       "definition": "The simulation of human intelligence processes by machines and computer systems."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Microsoft experienced a global outage that affected millions of users across 74 countries and disrupted services including Outlook and Teams for more than 12 hours.",
+        "why": [
+         "number(s) not in evidence: 74"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "The disruption affected diverse international organizations, including pharmacy communications with general practitioner surgeries in the UK, flight support services in India, and government systems in Singapore and Japan.",
+        "why": [
+         "unsupported",
+         "Evidence does not mention UK pharmacy communications or Indian flight support services."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "The company previously suffered a Microsoft 365 outage in North America in January and an Azure cloud platform outage in the previous month.",
+        "why": [
+         "partial",
+         "Claim mentions 'previous month'; evidence says 'late August' and 'October 2025'."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "excerpt": "Tech firm says there has been ‘encouraging’ progress in recovery in Europe and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? …",
+       "kind": "reporting",
+       "published": "2026-11-13T12:29:18+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "asia-pacific",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "5b8f6a0af9",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "huang",
+     "lutnick",
+     "nvidia",
+     "chinese"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "published": "2026-11-13T09:41:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 870,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
+      "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+      "published": "2026-11-13T08:49:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 349,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+      "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-13T08:02:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 395,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+      "published": "2026-11-13T07:27:43+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 344,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-13T03:57:01+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US lawmakers summon Nvidia former chief and commerce secretary over scandal",
+     "parts": {
+      "happened": [
+       {
+        "text": "Jensen Huang resigned as the chief executive officer of Nvidia on Thursday following reports of extramarital affairs.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "US Senate Banking Committee Chairman Tim Scott requested that Jensen Huang and US Commerce Secretary Howard Lutnick appear at a public hearing on December 3.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Three House committees have also summoned Jensen Huang, Nvidia General Counsel Tim Teter and Under Secretary of Commerce Jeffrey Kessler for separate hearings.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Howard Lutnick serves as the United States commerce secretary within Donald Trump's administration.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "US authorities suspect a woman named Alice Huang, with whom Jensen Huang had a relationship, of spying for China, though China denies the allegation.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Chinese authorities warned that tightening US regulations on semiconductor exports would threaten the stability of global industry and supply chains.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Republican senator John Cornyn stated that there needed to be a thorough investigation and accountability for the circumvention of national security export controls.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Senate Democratic leader Chuck Schumer stated that Jensen Huang and Nvidia must answer whether America's security had been jeopardised.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "White House officials are discussing whether Howard Lutnick should be dismissed from his position.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Democratic lawmakers are questioning what President Donald Trump knew and when he learned about Jensen Huang's relationship.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "It remains to be seen whether Jensen Huang will appear voluntarily before congressional committees or face formal subpoenas.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Semiconductor",
+       "definition": "A solid material whose electrical conductivity is intermediate between that of a conductor and an insulator, vital for modern electronics."
+      },
+      {
+       "term": "Export controls",
+       "definition": "Government regulations that manage or restrict the shipment of goods, services, and technologies to other countries for security or economic reasons."
+      },
+      {
+       "term": "Artificial intelligence",
+       "definition": "The simulation of human intelligence processes by machines, especially computer systems, enabling them to perform complex tasks."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Jensen Huang cofounded Nvidia, a firm that manufactures advanced chips powering artificial intelligence, and enjoyed prominent status.",
+        "why": [
+         "partial",
+         "Evidence confirms his role at Nvidia but does not mention his cofounder status."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
+       "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+       "excerpt": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
+       "kind": "reporting",
+       "published": "2026-11-13T08:49:59+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+       "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.",
+       "kind": "reporting",
+       "published": "2026-11-13T08:02:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "a49b0304f6",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "The Guardian"
+    ],
+    "names": [
+     "iran",
+     "corps",
+     "bahrain",
+     "hormuz"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+      "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "published": "2026-11-13T12:07:13+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 664,
+      "id": "S1"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-13T10:54:25+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+      "error": "only 44 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+       "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+       "excerpt": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. …",
+       "kind": "reporting",
+       "published": "2026-11-13T12:07:13+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+       "excerpt": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
+       "kind": "reporting",
+       "published": "2026-11-13T10:54:25+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "only 1 readable report(s)"
+   }
+  ],
+  "clusters_found": 10,
+  "items": 368,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
