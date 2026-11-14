@@ -1,27 +1,7 @@
 {
  "feeds": {
-  "checked_at": "2026-11-13T12:53:58.285302+00:00",
+  "checked_at": "2026-11-14T11:58:03.957176+00:00",
   "reports": [
-   {
-    "name": "Bruegel",
-    "feed": "https://www.bruegel.org/rss.xml",
-    "bucket": "economy",
-    "ok": false,
-    "status": 403,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403"
-   },
-   {
-    "name": "Import AI",
-    "feed": "https://importai.substack.com/feed",
-    "bucket": "ai",
-    "ok": false,
-    "status": 403,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403"
-   },
    {
     "name": "AWS Machine Learning Blog",
     "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
@@ -29,7 +9,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-12T22:03:34+00:00",
+    "newest": "2026-11-13T23:22:09+00:00",
     "error": null
    },
    {
@@ -69,7 +49,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-13T12:00:40+00:00",
+    "newest": "2026-11-14T00:49:13+00:00",
     "error": null
    },
    {
@@ -89,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-12T23:09:15+00:00",
+    "newest": "2026-11-14T00:23:27+00:00",
     "error": null
    },
    {
@@ -110,6 +90,16 @@
     "status": 200,
     "items": 10,
     "newest": "2026-10-15T10:09:45+00:00",
+    "error": null
+   },
+   {
+    "name": "Bruegel",
+    "feed": "https://www.bruegel.org/rss.xml",
+    "bucket": "economy",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-08-19T09:43:45+00:00",
     "error": null
    },
    {
@@ -149,7 +139,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-12T14:52:17+00:00",
+    "newest": "2026-11-13T16:07:13+00:00",
     "error": null
    },
    {
@@ -169,7 +159,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-12T20:44:21+00:00",
+    "newest": "2026-11-14T03:10:37+00:00",
     "error": null
    },
    {
@@ -179,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 9,
-    "newest": "2026-11-11T17:00:38+00:00",
+    "newest": "2026-11-13T17:00:39+00:00",
     "error": null
    },
    {
@@ -188,8 +178,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 212,
-    "newest": "2026-06-21T00:00:00+00:00",
+    "items": 213,
+    "newest": "2026-06-30T00:00:00+00:00",
     "error": null
    },
    {
@@ -219,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-13T12:00:12+00:00",
+    "newest": "2026-11-14T09:00:43+00:00",
     "error": null
    },
    {
@@ -229,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-13T12:18:57+00:00",
+    "newest": "2026-11-13T15:26:11+00:00",
     "error": null
    },
    {
@@ -248,8 +238,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 906,
-    "newest": "2026-11-12T19:07:35+00:00",
+    "items": 907,
+    "newest": "2026-11-13T18:00:39+00:00",
     "error": null
    },
    {
@@ -259,7 +249,17 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-11T11:00:02+00:00",
+    "newest": "2026-11-13T19:00:03+00:00",
+    "error": null
+   },
+   {
+    "name": "Import AI",
+    "feed": "https://importai.substack.com/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-11-09T13:31:34+00:00",
     "error": null
    },
    {
@@ -299,7 +299,7 @@
     "ok": true,
     "status": 301,
     "items": 20,
-    "newest": "2026-11-13T09:04:13+00:00",
+    "newest": "2026-11-14T08:31:02+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-13T10:00:00+00:00",
+    "newest": "2026-11-13T13:10:00+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-07T14:44:26+00:00",
+    "newest": "2026-11-13T16:04:00+00:00",
     "error": null
    },
    {
@@ -349,7 +349,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-13T12:18:11+00:00",
+    "newest": "2026-11-14T06:54:06+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-12T22:00:00+00:00",
+    "newest": "2026-11-13T23:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +379,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-13T09:00:00+00:00",
+    "newest": "2026-11-14T07:00:00+00:00",
     "error": null
    },
    {
@@ -439,7 +439,7 @@
     "ok": true,
     "status": 200,
     "items": 12,
-    "newest": "2026-11-12T11:00:00+00:00",
+    "newest": "2026-11-13T16:24:10+00:00",
     "error": null
    },
    {
@@ -459,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-13T11:45:00+00:00",
+    "newest": "2026-11-14T11:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-12T22:55:19+00:00",
+    "newest": "2026-11-13T23:02:45+00:00",
     "error": null
    },
    {
@@ -479,7 +479,7 @@
     "ok": true,
     "status": 200,
     "items": 47,
-    "newest": "2026-11-13T01:26:45+00:00",
+    "newest": "2026-11-13T12:09:36+00:00",
     "error": null
    },
    {
@@ -509,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-13T00:00:00+00:00",
+    "newest": "2026-11-14T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 74,
-    "newest": "2026-11-13T12:51:41+00:00",
+    "items": 76,
+    "newest": "2026-11-14T11:11:58+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-13T12:53:58.285302+00:00",
-  "edition_date": "2026-11-13",
+  "at": "2026-11-14T11:58:03.957176+00:00",
+  "edition_date": "2026-11-14",
   "sources_active": 52,
-  "sources_ok": 50,
-  "items_fetched": 2150,
-  "candidates": 168,
+  "sources_ok": 52,
+  "items_fetched": 2184,
+  "candidates": 170,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-13T12:53:58.285302+00:00",
-  "edition_date": "2026-11-13",
+  "at": "2026-11-14T11:58:03.957176+00:00",
+  "edition_date": "2026-11-14",
   "articles": 7
  }
 }

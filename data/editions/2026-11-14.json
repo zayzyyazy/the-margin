@@ -1,0 +1,982 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T11:58:03.957176+00:00",
+ "candidates": 170,
+ "sources_active": 52,
+ "sources_ok": 52,
+ "sources_failed": [],
+ "items": [
+  {
+   "id": "15f701447334",
+   "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+   "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Kaitlyn Ridel"
+   ],
+   "published": "2026-11-13T19:00:03+00:00",
+   "bucket": "ai",
+   "excerpt": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governance, and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.243,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "48dca1dae912",
+   "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
+   "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "source": "Rest of World",
+   "authors": [
+    "Rest of World Staff"
+   ],
+   "published": "2026-11-13T16:24:10+00:00",
+   "bucket": "economy",
+   "excerpt": "Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.894,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1ec00f9b6c87",
+   "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
+   "link": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Narmin Nahidi, Assistant Professor in Finance, University of Exeter"
+   ],
+   "published": "2026-11-13T12:09:36+00:00",
+   "bucket": "mind",
+   "excerpt": "When I arrived at work to discover that Outlook had vanished from my computer, I wondered how I was supposed to get through my working day. No emails. No calendar. No meeting invitations. Then another thought crossed my mind: when did we become so dependent on a single technology company that losing access to one application could disrupt our entire working routine? …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 823,
+   "access": "free",
+   "lang": "en",
+   "score": 3.989,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "6ca80ef3435a",
+   "title": "Can Network Science Transform Health and Nutrition?",
+   "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Steven Strogatz and Janna Levin"
+   ],
+   "published": "2026-11-12T19:40:54+00:00",
+   "bucket": "discovery",
+   "excerpt": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.219,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "083a708bd10b",
+   "title": "datasette-cluster-map 0.19",
+   "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-13T23:02:45+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E, also demonstrating Datasette's recently redesigned facets: Tags: datasette, geospatial, openstreetmap",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.243,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "f34caf8f3915",
+   "title": "What Did the German Term Spread Predict for 2024?",
+   "link": "https://econbrowser.com/archives/2026/11/what-did-the-german-term-spread-predict-for-2024",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-11-14T03:10:37+00:00",
+   "bucket": "economy",
+   "excerpt": "The 10yr-3mo German spread, hitherto a pretty good predictor, inverted at 2022M12. Hitherto a pretty good predictor of German recessions (as labelled by ECRI), the implied probability was 70%, using a plain vanilla spread regression. From Chinn and Ferrara (2026), here are estimated probabilities for a probit regression, estimated up to 2019M12 (black line in …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 462,
+   "access": "free",
+   "lang": "en",
+   "score": 3.688,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "10db9dc25dc2",
+   "title": "AI Company Employees Should Unionize",
+   "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-11-12T23:09:15+00:00",
+   "bucket": "ai",
+   "excerpt": "I. Should safety-conscious employees at AI companies quit in protest, or stay and fight? The latest argument didn’t resolve the dispute, but it did get me in contact with organizers working on both sides. Those planning to stay and fight are increasingly interested in labor organization. This doesn’t need to mean literal government-recognized Labor Unions. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1585,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.006,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "52608e3719",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "russia",
+     "ukrainian",
+     "nato"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "published": "2026-11-14T11:43:06+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 380,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:41:20+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 572,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-14T11:40:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 409,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+      "link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+      "published": "2026-11-14T07:00:40+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1250,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-14T11:00:39+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "NATO und EU beraten über weitere Unterstützung für die Ukraine",
+      "link": "https://www.tagesschau.de/video/video-1683618.html",
+      "kind": "reporting",
+      "published": "2026-11-14T08:43:49+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "link": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
+      "kind": "reporting",
+      "published": "2026-11-14T02:06:00+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+      "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+      "kind": "reporting",
+      "published": "2026-11-13T20:38:25+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Ukraine is running out of options, and Russia knows it",
+      "link": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
+      "kind": "opinion",
+      "published": "2026-11-14T06:39:09+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1683618.html",
+      "error": "only 17 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "US Floats NATO Membership for Ukraine in Exchange for Donbas Withdrawal",
+     "parts": {
+      "happened": [
+       {
+        "text": "United States negotiators asked during peace talks in Abu Dhabi whether Ukraine would withdraw its forces from the eastern region of Donbas in exchange for joining the North Atlantic Treaty Organization.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy stated that while no concrete offer existed, he would put the proposal to a referendum if Kyiv received security guarantees, funding for armed forces and money for reconstruction.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Ukraine has been defending itself against a full-scale Russian invasion since February 2022 with Western assistance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Donbas comprises the Donetsk and Luhansk regions, which are partly occupied by Russia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Moscow has consistently demanded territorial concessions and Ukrainian neutrality, while opposing Kyiv's membership in the military alliance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Volodymyr Zelenskyy argued that Moscow's bid to review European security is dangerous because such moves lead to wars or escalations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": []
+     },
+     "terms": [
+      {
+       "term": "NATO",
+       "definition": "An intergovernmental military alliance consisting of European and North American countries dedicated to collective security."
+      },
+      {
+       "term": "Referendum",
+       "definition": "A direct vote in which an entire electorate is invited to vote on a particular proposal or public question."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "The diplomatic exchanges occurred as ongoing hostilities persisted, with a Ukrainian drone attack killing three people in the Russian region of Belgorod and Russian forces striking infrastructure across Ukraine.",
+        "why": [
+         "partial",
+         "The claim fails to attribute the report of the attack to Russian authorities."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Analysts express concern that high-level great power meetings could result in smaller nations being sidelined or partitioned in a geopolitical trade-off.",
+        "why": [
+         "partial",
+         "The claim omits that these are concerns held by analysts and certain leaders, not universal facts."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "It remains unclear whether a comprehensive peace deal can be reached, given that Russian demands for territory and neutrality continue to far exceed what Ukraine is prepared to consider.",
+        "why": [
+         "partial",
+         "The claim presents an analysis as an objective fact rather than a suggestion from officials."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Observers note that it is unknown what concrete outcomes will emerge if a trilateral summit between Donald Trump, Xi Jinping and Vladimir Putin takes place.",
+        "why": [
+         "partial",
+         "The claim presents an analysis as a consensus fact rather than stating what observers note."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "excerpt": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+       "kind": "reporting",
+       "published": "2026-11-14T11:43:06+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+       "kind": "reporting",
+       "published": "2026-11-14T11:41:20+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "50f953726e",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "lutnick",
+     "nvidia",
+     "china"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+      "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+      "published": "2026-11-14T06:48:14+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 740,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T19:53:57+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 710,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "published": "2026-11-13T19:51:28+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 952,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+      "published": "2026-11-13T19:06:39+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 587,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
+      "link": "https://www.tagesschau.de/video/video-1683612.html",
+      "kind": "reporting",
+      "published": "2026-11-14T08:21:32+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+      "kind": "reporting",
+      "published": "2026-11-13T07:27:43+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+      "kind": "reporting",
+      "published": "2026-11-13T02:36:47+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1683612.html",
+      "error": "only 16 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Cabinet rift widens over Nvidia chip exports and security scandal",
+     "parts": {
+      "happened": [
+       {
+        "text": "US Treasury Secretary Scott Bessent blamed Commerce Secretary Howard Lutnick's department for failing to properly oversee high-spec artificial intelligence chip exports to China amid a widening scandal.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Jensen Huang resigned as the chief executive officer of Nvidia following revelations regarding his relationships, including one with a businesswoman suspected of being a Chinese spy.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Nvidia is a major technology company whose advanced microchips are vital for developing cutting-edge artificial intelligence models.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Chinese artificial intelligence companies are reportedly attempting to secure Nvidia chip capacity outside China amid fears that export loopholes may now be closed.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": []
+     },
+     "terms": [
+      {
+       "term": "Artificial intelligence chip",
+       "definition": "A specialized electronic processor designed to accelerate the training and operation of complex machine learning models."
+      },
+      {
+       "term": "Export control",
+       "definition": "A government regulation that restricts the shipment of specific sensitive technologies or goods to foreign nations for security reasons."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "uncertain.1",
+        "text": "It remains unconfirmed who will permanently succeed Jensen Huang as the head of Nvidia, with reports suggesting the board has approached external candidates.",
+        "why": [
+         "quote not found in S4"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Both Lutnick and Huang have been summoned to testify before congressional committees regarding the export controls and the security breach.",
+        "why": [
+         "partial",
+         "Lutnick is summoned, but evidence does not confirm Huang was summoned to testify on the specific export controls."
+        ]
+       },
+       {
+        "id": "background.1",
+        "text": "The Commerce Department faced pressure to add a Singapore-based firm called Megaspeed, associated with the alleged spy Alice Huang, to a blacklist restricting trade due to suspicions of smuggling chips into China.",
+        "why": [
+         "partial",
+         "Claim lacks necessary hedges regarding smuggling suspicions and the firm's blacklist status."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Tensions have previously simmered between Bessent and Lutnick over past policy disagreements and competing for cabinet roles.",
+        "why": [
+         "partial",
+         "Claim omits reportorial hedges regarding the nature of past tensions."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "Lawmakers from across the political spectrum are pushing for stricter oversight and investigating whether US national security was compromised by the chip shipments.",
+        "why": [
+         "partial",
+         "Claim lacks hedges regarding whether national security was compromised, stating it as fact."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "White House officials are discussing whether Lutnick should face dismissal over the handling of the export controls.",
+        "why": [
+         "partial",
+         "Claim fails to include necessary reportorial hedges regarding the White House discussions."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+       "kind": "reporting",
+       "published": "2026-11-13T19:53:57+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+       "excerpt": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. …",
+       "kind": "reporting",
+       "published": "2026-11-13T19:51:28+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "00b346913f",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "orleans",
+     "tanker",
+     "mississippi",
+     "all"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+      "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+      "published": "2026-11-14T00:51:37+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 349,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:40:45+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 446,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+      "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-13T21:31:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 330,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Cruise ship capsizes in New Orleans after collision with tanker",
+     "parts": {
+      "happened": [
+       {
+        "text": "The river cruise ship American Heritage capsized in the port of New Orleans after being struck by a cargo vessel named Atlantic Asphalt.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Authorities reported that 32 people were treated in hospitals with non-critical injuries, while all passengers and crew members were accounted for.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Rescue teams, police and tugboat operators rushed to the scene to pull people wearing life jackets out of the water of the Mississippi River.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The American Heritage was operated by the company American Cruise Lines and had been finishing an eight-day cruise along the waterway.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Built in 2015, the paddlewheeler vessel can accommodate up to 150 guests across multiple decks.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Helena Moreno is the mayor of New Orleans, and Jeff Landry serves as the governor of the US state of Louisiana.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "New Orleans Mayor Helena Moreno described the rescue operation without any fatalities as a miracle.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "US Coast Guard Captain Melanie Burnham stated that the investigation into the incident will take some time.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Louisiana Governor Jeff Landry pledged that authorities would investigate what occurred on the river.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The exact cause of the crash remains under investigation by the authorities.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "When the news of the collision first broke, it was initially unclear whether there were any fatalities or how many people were injured or missing.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "US Coast Guard",
+       "definition": "A branch of the United States Armed Forces responsible for maritime law enforcement, search and rescue, and boating safety."
+      },
+      {
+       "term": "Paddlewheeler",
+       "definition": "A type of steamboat or riverboat propelled by large paddle wheels."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The background section includes irrelevant information about politicians not involved in the incident.",
+        "The first section mentions rescue teams, but the third section introduces officials who were not previously mentioned."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+       "kind": "reporting",
+       "published": "2026-11-13T23:40:45+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+       "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+       "kind": "reporting",
+       "published": "2026-11-13T21:31:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "3323c91663",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "orban",
+     "hungary"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Hungary: Millions in hidden cash found in Orban graft probe",
+      "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-14T09:19:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 613,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+      "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+      "published": "2026-11-14T09:08:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 346,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Hungarian authorities seize hidden cash in major corruption inquiry",
+     "parts": {
+      "happened": [
+       {
+        "text": "Hungarian investigators recovered nearly $20 million in hidden cash during a corruption investigation into former National Development Minister Miklos Sesztak.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The money was found across Budapest and three counties, concealed in forests, agricultural buildings, warehouses, residences and a secluded safe.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Twelve employees from the Hungarian State Treasury used five machines over eight hours to count the seized banknotes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Mr Sesztak is suspected of accepting more than $37 million in bribes and kickbacks related to state construction projects and overpriced used bus purchases.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Mr Magyar described the cash recovery as a turning point that officially marks the end of the previous governing coalition, which he characterized as a mafia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "A published opinion survey indicated that 70 percent of respondents consider the government's anti-corruption campaign to be very important.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The sources indicate that public support for Mr Orban's Fidesz party has fallen significantly following the election defeat and subsequent investigations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Mr Sesztak has denied any wrongdoing, and his lawyer has not yet responded to requests for comment regarding the latest cash discovery.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Mr Orban has condemned the ongoing investigations as political tyranny and revenge aimed at driving him out of the country's political sphere.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Hungarian State Treasury",
+       "definition": "A state institution responsible for managing public finances and the national budget."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Miklos Sesztak served as national development minister from 2014 to 2018 under former Prime Minister Viktor Orban, and was taken into police custody in September.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Prime Minister Peter Magyar defeated Mr Orban in April's parliamentary election, ending his 16-year rule and establishing a new anti-corruption agency.",
+        "why": [
+         "number(s) not in evidence: 16"
+        ]
+       },
+       {
+        "id": "uncertain.2",
+        "text": "Several other former officials, including a former central bank governor and Mr Orban's brother, face separate investigations and have also denied wrongdoing.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Hungary: Millions in hidden cash found in Orban graft probe",
+       "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Investigators discovered bundles of banknotes buried in forests and concealed in buildings. The money was seized during an investigation into a former minister accused of accepting millions in bribes.",
+       "kind": "reporting",
+       "published": "2026-11-14T09:19:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 8,
+  "items": 378,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
