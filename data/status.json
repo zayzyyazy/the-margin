@@ -1,7 +1,27 @@
 {
  "feeds": {
-  "checked_at": "2026-11-14T11:58:03.957176+00:00",
+  "checked_at": "2026-11-15T12:32:38.001631+00:00",
   "reports": [
+   {
+    "name": "Bruegel",
+    "feed": "https://www.bruegel.org/rss.xml",
+    "bucket": "economy",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
+   {
+    "name": "Import AI",
+    "feed": "https://importai.substack.com/feed",
+    "bucket": "ai",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
    {
     "name": "AWS Machine Learning Blog",
     "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
@@ -29,7 +49,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-10-24T11:14:32+00:00",
+    "newest": "2026-11-15T12:10:37+00:00",
     "error": null
    },
    {
@@ -49,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-14T00:49:13+00:00",
+    "newest": "2026-11-15T12:07:34+00:00",
     "error": null
    },
    {
@@ -93,16 +113,6 @@
     "error": null
    },
    {
-    "name": "Bruegel",
-    "feed": "https://www.bruegel.org/rss.xml",
-    "bucket": "economy",
-    "ok": true,
-    "status": 200,
-    "items": 10,
-    "newest": "2026-08-19T09:43:45+00:00",
-    "error": null
-   },
-   {
     "name": "Chip Huyen",
     "feed": "https://huyenchip.com/feed.xml",
     "bucket": "ai",
@@ -119,7 +129,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-12T13:01:45+00:00",
+    "newest": "2026-11-14T16:09:38+00:00",
     "error": null
    },
    {
@@ -129,7 +139,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-11T02:22:54+00:00",
+    "newest": "2026-11-15T10:08:03+00:00",
     "error": null
    },
    {
@@ -159,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-14T03:10:37+00:00",
+    "newest": "2026-11-14T18:48:02+00:00",
     "error": null
    },
    {
@@ -178,7 +188,7 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 213,
+    "items": 214,
     "newest": "2026-06-30T00:00:00+00:00",
     "error": null
    },
@@ -209,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-14T09:00:43+00:00",
+    "newest": "2026-11-15T12:00:56+00:00",
     "error": null
    },
    {
@@ -219,7 +229,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-13T15:26:11+00:00",
+    "newest": "2026-11-14T17:42:24+00:00",
     "error": null
    },
    {
@@ -253,23 +263,13 @@
     "error": null
    },
    {
-    "name": "Import AI",
-    "feed": "https://importai.substack.com/feed",
-    "bucket": "ai",
-    "ok": true,
-    "status": 200,
-    "items": 20,
-    "newest": "2026-11-09T13:31:34+00:00",
-    "error": null
-   },
-   {
     "name": "Interconnects",
     "feed": "https://www.interconnects.ai/feed",
     "bucket": "ai",
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-04T16:35:44+00:00",
+    "newest": "2026-11-14T12:23:15+00:00",
     "error": null
    },
    {
@@ -349,7 +349,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-14T06:54:06+00:00",
+    "newest": "2026-11-15T12:18:42+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-13T23:00:00+00:00",
+    "newest": "2026-11-14T15:00:00+00:00",
     "error": null
    },
    {
@@ -459,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-14T11:00:00+00:00",
+    "newest": "2026-11-15T12:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-13T23:02:45+00:00",
+    "newest": "2026-11-14T23:59:28+00:00",
     "error": null
    },
    {
@@ -509,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-14T00:00:00+00:00",
+    "newest": "2026-11-15T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 76,
-    "newest": "2026-11-14T11:11:58+00:00",
+    "items": 70,
+    "newest": "2026-11-15T11:21:27+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-14T11:58:03.957176+00:00",
-  "edition_date": "2026-11-14",
+  "at": "2026-11-15T12:32:38.001631+00:00",
+  "edition_date": "2026-11-15",
   "sources_active": 52,
-  "sources_ok": 52,
-  "items_fetched": 2184,
-  "candidates": 170,
+  "sources_ok": 50,
+  "items_fetched": 2149,
+  "candidates": 169,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-14T11:58:03.957176+00:00",
-  "edition_date": "2026-11-14",
+  "at": "2026-11-15T12:32:38.001631+00:00",
+  "edition_date": "2026-11-15",
   "articles": 7
  }
 }

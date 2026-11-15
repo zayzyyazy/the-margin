@@ -1,0 +1,919 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T12:32:38.001631+00:00",
+ "candidates": 169,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "e047ece72776",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "source": "Ahead of AI",
+   "authors": [
+    "Sebastian Raschka, PhD"
+   ],
+   "published": "2026-11-15T12:10:37+00:00",
+   "bucket": "ai",
+   "excerpt": "This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE. It’s essentially a comprehensive journey where we will work through the mechanisms with visual examples, a little math, and a small PyTorch implementation. And, of course, we will then also look at how modern architectures adapt or omit explicit positional encodings. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 8284,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 6.523,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0e51da8394fe",
+   "title": "Reading List 11/14/2026",
+   "link": "https://www.construction-physics.com/p/reading-list-11142026",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-14T16:09:38+00:00",
+   "bucket": "economy",
+   "excerpt": "A Brooklyn building collapse, BAAJA’s odds of passing, reusing old memory in new phones, a nationwide aircraft ground stop, and more.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 543,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.355,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e98e4d845556",
+   "title": "How groomers operate – and why victims become trapped",
+   "link": "https://theconversation.com/how-groomers-operate-and-why-victims-become-trapped-296535",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Emily Chiang, Research Associate, Aston Institute for Forensic Linguistics, Aston University"
+   ],
+   "published": "2026-11-12T16:54:19+00:00",
+   "bucket": "mind",
+   "excerpt": "Entertainer and children’s author David Walliams is alleged to have used his fame to approach teenage girls, in some cases reportedly initiating sexual contact with them. Walliams has denied the allegations, but the claims raise some familiar tropes about grooming: why did she go, why didn’t she say no, why didn’t she tell anyone? …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 991,
+   "access": "free",
+   "lang": "en",
+   "score": 3.534,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f6519626b571",
+   "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+   "link": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Marmon Utility (Hendrix®)"
+   ],
+   "published": "2026-11-13T11:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.377,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "ba1e55febf6c",
+   "title": "Open-source AI without Jensen",
+   "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "source": "Interconnects",
+   "authors": [
+    "Nathan Lambert"
+   ],
+   "published": "2026-11-14T12:23:15+00:00",
+   "bucket": "ai",
+   "excerpt": "The resignation of Nvidia CEO Jensen Huang is a major setback for the US development of an open model ecosystem. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1427,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.421,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ea435e61c602",
+   "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Alex Tabarrok"
+   ],
+   "published": "2026-11-15T12:18:42+00:00",
+   "bucket": "economy",
+   "excerpt": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1311,
+   "access": "free",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "b11740ea7618",
+   "title": "datasette-llm 0.1a11",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-14T23:59:28+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.243,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "8f9a50ea2b",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "asia",
+     "philippines",
+     "carmelle",
+     "sobra-sobra"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "World leaders head to Asia for back-to-back diplomatic summits",
+      "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "published": "2026-11-15T04:00:02+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 936,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-14T22:44:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 274,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
+      "link": "https://www.tagesschau.de/kultur/esc-asia-100.html",
+      "published": "2026-11-14T19:24:24+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 282,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:17:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 567,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "kind": "reporting",
+      "published": "2026-11-14T19:01:32+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Philippines Wins First Eurovision Song Contest Asia",
+     "parts": {
+      "happened": [
+       {
+        "text": "The Philippines won the inaugural Eurovision Song Contest Asia in Bangkok on Saturday with the song Sobra-Sobra performed by 19-year-old singer Carmelle.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Carmelle secured 211 points in total from national juries and viewing audiences, placing ahead of host nation Thailand in second place and Vietnam in third.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The event marks the first Asian regional offshoot of the longstanding European song competition, an idea that had been discussed for decades without materialising.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Major nations in the region such as China, Japan and India did not participate in the Bangkok event.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Winning singer Carmelle described her dance track as an empowering tribute to Filipino women.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the Asian contest will achieve the massive popularity of the original European event, which drew 131 million viewers.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Reports note that it is still not certain how much commitment regional broadcasters hold to sustain the contest and expand it beyond eleven countries.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Tuk-tuk",
+       "definition": "A motorised three-wheeled vehicle commonly used as a taxi in parts of Asia."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Eleven countries took part in the musical competition, featuring contestants who arrived in tuk-tuks and waved their national flags during a parade.",
+        "why": [
+         "partial",
+         "Evidence mentions tuk-tuks and flag waving but does not explicitly describe a parade."
+        ]
+       },
+       {
+        "id": "matters.0",
+        "text": "Organisers and participants hope the contest will establish a new chapter for the brand in Asia, with winning singer Carmelle scheduled to appear at the 2027 contest in Burgas.",
+        "why": [
+         "partial",
+         "Evidence confirms Carmelle will appear in 2027, but does not explicitly link organizers' hopes to this appearance."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+       "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+       "excerpt": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. …",
+       "kind": "reporting",
+       "published": "2026-11-14T19:01:32+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Philippines wins first Eurovision Song Contest Asia",
+       "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado's winning dance song is a tribute to Filipino women.",
+       "kind": "reporting",
+       "published": "2026-11-14T22:44:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "1631a5eedd",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "spacex",
+     "starship",
+     "musk",
+     "texas"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "published": "2026-11-14T23:12:16+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 371,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+      "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+      "published": "2026-11-14T22:35:06+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 405,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "SpaceX carries out first-ever spaceship capture",
+      "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-14T21:35:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 300,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-14T22:09:40+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "error": "only 141 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "SpaceX catches Starship upper stage during test flight",
+     "parts": {
+      "happened": [
+       {
+        "text": "The upper stage of the Starship system returned to its launch point in Texas after orbiting Earth 14 times during a 22-hour mission.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Two mechanical arms at the launch tower caught the roughly 50-metre-long upper stage in a first-ever recovery for the company.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "SpaceX is a private US spaceflight company founded by billionaire Elon Musk.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Starship system consists of the Super Heavy booster stage and the Starship upper stage, both designed to be fully reusable.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The US space agency NASA has contracted SpaceX to help land astronauts on the moon later this decade.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "SpaceX spokesperson Dan Huot stated that the successful return of the upper stage changed everything for the company.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Elon Musk stated that making the rocket system rapidly reusable could significantly reduce the enormous costs of space travel.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "NASA administrator Jared Isaacman stated on X that the successful test brought the agency one step closer to the moon.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Engineers are still investigating the exact cause of the booster malfunction that led to the destruction of the Super Heavy booster stage.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "During the flight, the spacecraft also deployed 26 Starlink satellites into space.",
+        "why": [
+         "partial",
+         "Claim states exactly 26 satellites; evidence indicates 'over 22 hours' rather than exactly 22 hours."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "It remains to be seen when SpaceX will achieve its goal of increasing test flight frequencies to a weekly or twice-weekly cadence.",
+        "why": [
+         "unsupported",
+         "Evidence lists the plan but does not frame it as uncertainty about achieving the goal."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+       "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+       "excerpt": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. …",
+       "kind": "reporting",
+       "published": "2026-11-14T22:35:06+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+       "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+       "kind": "reporting",
+       "published": "2026-11-14T22:09:40+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "e2a62fd1bb",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "donbas",
+     "nato",
+     "ukraine",
+     "ukrainian"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "‘If you don’t shower, so what?’ The western diplomats staying put in under-attack Kyiv",
+      "link": "https://www.theguardian.com/world/2026/nov/15/western-diplomats-stay-put-kyiv-russia-strikes-ukraine",
+      "published": "2026-11-15T12:00:13+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1111,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+      "published": "2026-11-15T10:58:36+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1677,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:37:25+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 795,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-14T11:40:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 409,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
+      "link": "https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says",
+      "kind": "reporting",
+      "published": "2026-11-15T03:38:18+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "US Floats Ukraine Ceding Donbas for NATO Membership",
+     "parts": {
+      "happened": [
+       {
+        "text": "United States negotiators Steve Witkoff and Jared Kushner floated the idea that Ukraine could withdraw its remaining forces from the eastern Donbas region in exchange for North Atlantic Treaty Organization membership during peace talks.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy stated that the proposition was communicated to him following a round of United States-mediated peace talks in Abu Dhabi, United Arab Emirates.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Zelenskyy indicated that if he received a comprehensive deal featuring security guarantees, military freedoms, and reconstruction funds, he would put the territorial question to a national referendum.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Russia launched a full-scale invasion of Ukraine in February 2022 and currently controls the majority of the industrial Donbas region.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Ukraine formally applied to join the North Atlantic Treaty Organization military alliance in September 2022 to fortify its borders against Russia.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Moscow has consistently opposed Ukraine joining the military alliance, viewing it as a red line and a direct threat to Russian national security.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Political scientist Chris Featherstone argued that offering North Atlantic Treaty Organization membership within a peace settlement would provide substantial security support to Ukraine if Russia restarted the conflict later.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Experts noted that the United States proposal tests whether territorial control over the Donbas truly matters to Moscow and attempts to break the ongoing diplomatic impasse.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unconfirmed whether Moscow would ever accept any arrangement involving Ukraine joining the Western military alliance.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Sources reported that the Kremlin has not yet formally responded to the latest United States proposal.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It is also unclear whether President Donald Trump could successfully persuade other alliance members to back the proposal.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Donbas",
+       "definition": "An economically vital, heavily industrialised region located in eastern Ukraine comprising the Luhansk and Donetsk provinces."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text refers to President Donald Trump without introducing him as part of the context."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+       "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+       "excerpt": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+       "kind": "reporting",
+       "published": "2026-11-15T10:58:36+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+       "kind": "reporting",
+       "published": "2026-11-14T22:37:25+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "africa",
+     "adjustments": []
+    },
+    "id": "0c5ebf695a",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "cambodia",
+     "congo",
+     "french-speaking",
+     "rwanda"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Macron urges unity as Francophonie summit opens in Cambodia",
+      "link": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-15T08:12:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 398,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "published": "2026-11-15T05:05:02+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 488,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Francophone summit opens in Cambodia amid Rwanda and DR Congo rift",
+     "parts": {
+      "happened": [
+       {
+        "text": "A summit of French-speaking nations opened on Sunday in Phnom Penh, bringing together leaders to choose a secretary-general.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "French President Emmanuel Macron urged unity at the gathering and reportedly suggested that both leading candidates step aside.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Democratic Republic of Congo withdrew its candidate, Juliana Lumumba, and backed former Romanian prime minister Dacian Ciolos.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Organisation internationale de la Francophonie unites about 90 states and governments that use French or have historic ties to France.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Democratic Republic of Congo has threatened to leave the association if Ms Mushikiwabo is re-elected, accusing Rwanda of backing the M23 armed group in eastern Congo, an accusation Rwanda denies.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Sources state that an exit by the Democratic Republic of Congo would be a major blow to the organisation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The dispute threatens to split the international group of French-speaking nations.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unconfirmed whether Rwanda will ultimately withdraw its candidate from the leadership race.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The final outcome of Monday's vote for the next secretary-general is yet to be decided.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Organisation internationale de la Francophonie",
+       "definition": "An international organisation representing countries and regions where French is a customary language or where there is a notable connection to French culture."
+      },
+      {
+       "term": "Secretary-general",
+       "definition": "The principal administrative officer who leads an international organisation."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "Rwanda's Louise Mushikiwabo, who has held the post since 2018, is seeking a third term as secretary-general.",
+        "why": [
+         "partial",
+         "The evidence says Mushikiwabo is seeking a term, not specifically a third term."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+       "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+       "excerpt": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+       "kind": "reporting",
+       "published": "2026-11-15T05:05:02+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 10,
+  "items": 370,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
