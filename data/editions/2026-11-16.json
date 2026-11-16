@@ -1,0 +1,876 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T13:24:27.905681+00:00",
+ "candidates": 164,
+ "sources_active": 52,
+ "sources_ok": 49,
+ "sources_failed": [
+  "Import AI",
+  "BAIR Blog",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "4d8fd6254403",
+   "title": "No matter how you ask, more Americans are negative than positive about AI",
+   "link": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+   "source": "Our World in Data",
+   "authors": [
+    "Max Roser"
+   ],
+   "published": "2026-11-16T00:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Five high-quality surveys ask about AI in different ways. Their wording matters, but the overall picture is consistent.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.023,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0c745c0d40f2",
+   "title": "Can Workers Predict Job Finding and Job Loss?",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-16T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Workers’ perceptions of the labor market may differ from aggregate labor market statistics. Individuals might be overly optimistic about their chance of finding a job, or too pessimistic about the odds of losing their current position. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1596,
+   "access": "free",
+   "lang": "en",
+   "score": 4.494,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "8c0b08c8ce8c",
+   "title": "After Ma and Pa",
+   "link": "https://psyche.co/turning-points/after-my-parents-died-why-did-i-hold-on-to-their-home",
+   "source": "Psyche",
+   "authors": [
+    "Susan Hornik"
+   ],
+   "published": "2026-11-16T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.823,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e6b594768e40",
+   "title": "A New Era for the Dawn of Life",
+   "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Yasemin Saplakoglu, Philip Ball, Perri Thaler and Jake Buehler"
+   ],
+   "published": "2026-11-12T16:20:28+00:00",
+   "bucket": "discovery",
+   "excerpt": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.47,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "a6b9cea6a093",
+   "title": "datasette 0.65.6",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-15T23:18:17+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security, datasette",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.2,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e5a0c3852371",
+   "title": "Inside central banks’ currency portfolios: New evidence from 149 countries and 23 currencies",
+   "link": "https://cepr.org/voxeu/columns/inside-central-banks-currency-portfolios-new-evidence-149-countries-and-23-currencies",
+   "source": "VoxEU (CEPR)",
+   "authors": [
+    "Thomas Harr"
+   ],
+   "published": "2026-11-16T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "An increasing number of central banks have begun disclosing reserve currency shares. This column introduces a new public database providing information on the reserve currency composition of 149 countries across 23 currencies, covering the period 1999 to 2026, which allows a granular analysis of the factors driving reserve currency composition. Liquidity, return, and safety are the determinants most frequently cited when explaining allocation decisions. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.539,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "eaee18abc809",
+   "title": "[AINews] The No AI Slop Manifesto",
+   "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-14T08:31:02+00:00",
+   "bucket": "ai",
+   "excerpt": "Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 3361,
+   "access": "free",
+   "lang": "en",
+   "score": 3.654,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 3,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "29fd5c95fa",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "germany",
+     "netherlands",
+     "denmark",
+     "rwanda"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T12:54:44+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 547,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Germany to join other EU states in announcing Rwanda deportation hub",
+      "link": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-16T12:10:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 431,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+      "link": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
+      "published": "2026-11-16T05:00:34+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1259,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Five European nations plan migrant deportation centre in Rwanda",
+     "parts": {
+      "happened": [
+       {
+        "text": "Five European Union member states are expected to announce the establishment of a migrant deportation centre in Rwanda.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The diplomatic initiative involves Germany, Denmark, Austria, Greece and the Netherlands.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Diplomatic sources indicate the facility would operate initially as a pilot project housing about one hundred individuals.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The European Union introduced new regulations allowing the creation of return hubs outside the bloc.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A previous British plan to send asylum seekers to Rwanda was abandoned after encountering legal challenges and a change in government.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Supporters argue the scheme will demonstrate effective government action on migration.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Researchers claim that enforcement policies alter travel routes rather than deterring overall migration.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Comprehensive operational details and official confirmation regarding the host country remain unconfirmed by the participating governments.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The precise role of the International Organisation for Migration in supporting the hubs is still under discussion.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Asylum seekers",
+       "definition": "Individuals who have fled their home countries and applied for international protection elsewhere."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "European administrations face sustained public pressure over immigration amid concerns regarding security and economic struggles.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Human rights organisations contend the arrangement risks violating fundamental rights and financing an abusive government.",
+        "why": [
+         "partial",
+         "Evidence mentions rights risks but does not explicitly mention financing an abusive government."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Germany to join other EU states in announcing Rwanda deportation hub",
+       "link": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The move follows approval of EU regulations that ease deportations and allow hubs to be set up outside the bloc. A similar scheme by the UK government fell apart over legal issues.",
+       "kind": "reporting",
+       "published": "2026-11-16T12:10:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "9a0ebec9ff",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "iran",
+     "trump",
+     "japan",
+     "ukraine"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "China says Xi, Trump, Putin to discuss 'world peace'",
+      "link": "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-16T12:48:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 581,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "published": "2026-11-16T09:40:29+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 744,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-16T09:31:36+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "India news: Modi heads to ASEAN meet in Manila",
+      "link": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-16T06:23:00+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "error": "only 54 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "US, Chinese and Russian Leaders Prepare for Shenzhen Summit",
+     "parts": {
+      "happened": [
+       {
+        "text": "The leaders of the United States, Russia and China are due to meet in the southern Chinese city of Shenzhen on Thursday for their first trilateral summit on the sidelines of the Asia-Pacific Economic Cooperation summit.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Beijing stated that the meeting will involve discussions on preserving global peace and promoting stability in relations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Donald Trump is the President of the United States, Xi Jinping is the President of China and Vladimir Putin is the President of Russia.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Iran war began with United States and Israeli strikes on February 28.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Foreign ministry spokeswoman Mao Ning stated that the trilateral summit will be of ground-breaking significance.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "United Nations Secretary-General Antonio Guterres stated that a commitment by the three leaders to meaningful denuclearization would be a great achievement for the world.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the conflict in Ukraine will be discussed during the trilateral talks, with US officials indicating that Donald Trump is not expected to raise the issue.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "China provided few details about the upcoming talks in Shenzhen.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Denuclearization",
+       "definition": "The international process of reducing or eliminating nuclear weapons from a state's military arsenal."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 8,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The mention of the Iran war is extraneous and lacks context for the Shenzhen summit narrative.",
+        "The text abruptly introduces an Iran war without explaining its relevance to the trilateral meeting."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+       "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+       "excerpt": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email, free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the pair meets on Tuesday, arguing for a speedy resolution to the wars in Iran and Ukraine while urging the US to engage in the Indo-Pacific. …",
+       "kind": "reporting",
+       "published": "2026-11-16T09:40:29+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "ca491b8d7a",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "nvidia",
+     "huang",
+     "musk",
+     "megaspeed"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T12:20:49+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 675,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "published": "2026-11-16T01:17:04+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 761,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+      "link": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+      "published": "2026-11-16T11:05:47+00:00",
+      "kind": "analysis",
+      "lang": "en",
+      "words": 1051,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-16T01:47:57+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Tech leaders launch campaign to reinstate former Nvidia boss Jensen Huang",
+     "parts": {
+      "happened": [
+       {
+        "text": "Elon Musk and Tim Sweeney are among the high-profile backers of the campaign to get the artificial intelligence chip giant's board to reinstate Huang.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Huang resigned as chief executive of Nvidia last week following the emergence of two extramarital affairs, one with a woman suspected of spying for China and another with an employee.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Jensen Huang founded Nvidia in 1993, and the company has since grown to become a crucial manufacturer of advanced chips used to power artificial intelligence.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Singapore-based cloud computing company Megaspeed International, linked to the controversy through Alice Huang, stated that it is a legitimate business and noted that Alice Huang left the firm in late 2025.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Following Huang's resignation, Colette Kress stepped in as interim chief executive officer while the firm faces inquiries from United States lawmakers and investigators.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Elon Musk claimed on social media that critical business deals relying on personal trust and handshakes rather than written contracts would be lost without Huang.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Al Jazeera reported as analysis that failing to reinstate Huang could hurt United States aspirations and business deals within the burgeoning artificial intelligence sector.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The situation has reignited a broader Silicon Valley debate regarding whether company founders are frequently treated unfairly by their boards of directors.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The BBC reported that the likelihood of Huang being reinstated is low while internal investigations remain ongoing.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "United States authorities have not yet reached a definitive conclusion regarding whether Alice Huang acted as a Chinese intelligence operative.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Congressional committees are still investigating whether the former chief executive's alleged affair compromised United States export restrictions or national security objectives.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Artificial intelligence chip",
+       "definition": "A specialised microchip designed to accelerate machine learning tasks and large language model computations."
+      },
+      {
+       "term": "Export restrictions",
+       "definition": "Government regulations that limit the sale of sensitive technologies or hardware to specific foreign nations."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "An open letter calling for Nvidia's board to give Jensen Huang his job back while an internal probe is conducted has received more than 175,000 signatures.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+       "kind": "reporting",
+       "published": "2026-11-16T01:47:57+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+       "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+       "excerpt": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang, says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. …",
+       "kind": "reporting",
+       "published": "2026-11-16T01:17:04+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "3613bb5085",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "russia",
+     "kerch",
+     "crimea"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+      "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+      "published": "2026-11-16T12:45:09+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 484,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+      "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+      "published": "2026-11-16T10:03:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 987,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine Strikes Kerch Bridge as Russia Stalls Peace Talks",
+     "parts": {
+      "happened": [
+       {
+        "text": "A Ukrainian kamikaze drone struck the Kerch bridge connecting Russia and occupied Crimea, leaving thousands of drivers stranded in traffic jams.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The bridge between Russia and occupied Crimea has been targeted twice before, once by a truck laden with explosives in 2022 and later by a sea baby drone.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The conflict is nearing its fifth anniversary as Russian forces continue their military offensive in Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "According to former Russian diplomat Boris Bondarev, individual nonaggression pacts proposed by Moscow could destroy NATO's collective defence principle.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The exact extent of the damage to the Kerch bridge arch remained unclear immediately following the drone attack.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Kamikaze drone",
+       "definition": "An uncrewed aerial vehicle designed to crash into a target and detonate its onboard explosives."
+      },
+      {
+       "term": "Alternative for Germany",
+       "definition": "A right-wing political party in Germany."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "The strike occurred at 5.38am local time when the drone crashed into one of the bridge arches.",
+        "why": [
+         "partial",
+         "Claim states as fact what the evidence labels as reported information."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Simultaneously, Russian negotiators participating in United States-mediated talks presented maximalist demands to American envoys in Abu Dhabi.",
+        "why": [
+         "partial",
+         "Evidence states talks were trilateral, including Kyiv, contradicting the claim's omission of Ukraine."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Analyst Aleksey Kusch stated that if right-wing political figures win upcoming elections in France and Germany, Ukraine will lose its ability to manoeuvre between Washington and Brussels.",
+        "why": [
+         "partial",
+         "The evidence refers to Le Pen and AfD, not the entire upcoming French and German elections."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Ukrainian President Volodymyr Zelenskyy noted that nobody fully understands Moscow's ultimate intentions regarding the recent negotiations.",
+        "why": [
+         "partial",
+         "Claim fails to attribute the statement to Zelenskyy as required by the context."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+       "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+       "excerpt": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. …",
+       "kind": "reporting",
+       "published": "2026-11-16T12:45:09+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+       "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+       "excerpt": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+       "kind": "reporting",
+       "published": "2026-11-16T10:03:11+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 10,
+  "items": 373,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
