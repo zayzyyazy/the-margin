@@ -1,0 +1,882 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T14:10:16.310511+00:00",
+ "candidates": 166,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "90ba32174481",
+   "title": "Does the Stock Market Stigmatize Banks that Borrow from the Fed?",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-17T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Banks may resist borrowing from the Federal Reserve during a panic if such borrowing is stigmatized (that is, viewed by the market as a sign of financial weakness), thus hampering the Fed’s ability to resolve the crisis. The problem may be particularly acute for publicly traded banks since their stock prices immediately reflect the market's opinion of them. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1279,
+   "access": "free",
+   "lang": "en",
+   "score": 4.939,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a1d2f6883d6e",
+   "title": "AI Is Giving Optical Computing Another Shot",
+   "link": "https://spectrum.ieee.org/optical-computing-ai",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Dina Genkina"
+   ],
+   "published": "2026-11-17T14:00:03+00:00",
+   "bucket": "ai",
+   "excerpt": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.523,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "34544df660a4",
+   "title": "The cultural rules that define us take shape in our homes",
+   "link": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+   "source": "Psyche",
+   "authors": [
+    "Oliver Sweet"
+   ],
+   "published": "2026-11-17T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel - by Oliver Sweet …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.86,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "8ec4c8bd1a98",
+   "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+   "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Charlie Wood"
+   ],
+   "published": "2026-11-16T15:15:33+00:00",
+   "bucket": "discovery",
+   "excerpt": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.189,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "28f9d619b8cd",
+   "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+   "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-17T09:24:56+00:00",
+   "bucket": "ai",
+   "excerpt": "Perplexity crossed a $1B annual revenue run rate today, CEO Aravind Srinivas told Semafor at a live event. The Information reported previously under $250M at the start of the year and over $750M by August, with Computer driving some of the growth. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 2029,
+   "access": "free",
+   "lang": "en",
+   "score": 4.455,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "c7573cd900bd",
+   "title": "Can’t Get the Right Cassette Mechanism? Have a Go at Making Your Own!",
+   "link": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+   "source": "Hackaday",
+   "authors": [
+    "Jenny List"
+   ],
+   "published": "2026-11-17T00:00:27+00:00",
+   "bucket": "discovery",
+   "excerpt": "In the world of cassette tape enthusiasts, it’s an oft-repeated factoid that there is only one tape deck mechanism still being manufactured. The truth may be a tiny bit murky …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.7,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ef40a30c6219",
+   "title": "llm 0.37.3",
+   "link": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-16T23:57:26+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.265,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "9d73c1164a",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "china",
+     "asia",
+     "chinese"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "Trump auf Gipfel-Marathon in Asien - Symbolik statt Substanz?",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-asien-reise-100.html",
+      "published": "2026-11-17T09:49:58+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 480,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
+      "link": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-17T07:34:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1582,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "published": "2026-11-16T11:00:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 918,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T10:22:09+00:00",
+      "kind": "analysis",
+      "lang": "en",
+      "words": 867,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump addresses Quad leaders at first summit since 2024",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T12:25:33+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T10:13:27+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T10:13:12+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T06:23:51+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+      "error": "only 48 words readable"
+     },
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "error": "only 72 words readable"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+      "error": "only 47 words readable"
+     },
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "error": "only 0 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Donald Trump embarks on Asia tour amid chip curbs",
+     "parts": {
+      "happened": [
+       {
+        "text": "US President Donald Trump arrived in Manila ahead of meetings with Southeast Asian leaders and Quad allies.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The United States administration imposed new rules to restrict China's access to American artificial intelligence chips and servers via third countries.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Donald Trump is undertaking his first foreign trip following the Democratic Party winning both the US House and Senate in the midterm elections.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The Quad is a strategic security partnership consisting of the United States, India, Australia, and Japan.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The tour also follows the resignation of Nvidia CEO Jensen Huang over revelations regarding an affair with a woman alleged to be a Chinese spy.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Political scientist Lucas Myers stated that Donald Trump's Asian journey is primarily intended for the cameras with little substantive outcome.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "European and Indo-Pacific allies fear that talks held without Ukraine or regional partners pose strategic risks.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": []
+     },
+     "terms": [
+      {
+       "term": "Quad",
+       "definition": "A strategic security partnership involving the United States, India, Australia, and Japan."
+      },
+      {
+       "term": "APEC",
+       "definition": "An intergovernmental forum for Pacific rim economies promoting free trade throughout the Asia-Pacific region."
+      },
+      {
+       "term": "ASEAN",
+       "definition": "An association comprising Southeast Asian states designed to promote economic growth and regional stability."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Donald Trump is scheduled to meet Chinese leader Xi Jinping and Russian President Vladimir Putin in Shenzhen.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Analysts suggest the trilateral meeting primarily benefits Vladimir Putin by boosting his standing through treatment on an equal footing with leaders of more powerful nations.",
+        "why": [
+         "partial",
+         "The claim omits the word 'likely', presenting the analyst's opinion as a definitive fact."
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "It remains unconfirmed whether North Korean leader Kim Jong Un will attend the gathering in China to meet Donald Trump.",
+        "why": [
+         "partial",
+         "The claim is stated as fact rather than an attribution of the president's speculation."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "The precise agenda and long-term viability of agreements remain doubted by researchers who note Donald Trump's status as a lame-duck leader.",
+        "why": [
+         "partial",
+         "This is an expert opinion that the claim presents as an objective, independent fact."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
+       "link": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live.",
+       "kind": "reporting",
+       "published": "2026-11-17T07:34:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+       "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+       "kind": "reporting",
+       "published": "2026-11-17T06:23:51+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "a122de61bb",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "crimea",
+     "ukraine",
+     "russia",
+     "russian"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+      "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+      "published": "2026-11-17T13:25:02+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1183,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T13:01:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 964,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike",
+      "link": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-17T11:13:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1891,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T13:29:27+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T05:59:01+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+      "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges",
+      "kind": "reporting",
+      "published": "2026-11-17T03:12:08+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
+      "kind": "opinion",
+      "published": "2026-11-17T11:26:49+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+      "error": "only 42 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+       "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+       "excerpt": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation. …",
+       "kind": "reporting",
+       "published": "2026-11-17T13:25:02+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+       "kind": "reporting",
+       "published": "2026-11-17T13:01:11+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "ed20fa0022",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "israeli",
+     "palestinians",
+     "bank",
+     "israel"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T13:02:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 598,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+      "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+      "published": "2026-11-17T12:18:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 574,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+      "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "kind": "reporting",
+      "published": "2026-11-16T11:00:56+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "UK sanctions Israeli firms as violence rises in West Bank",
+     "parts": {
+      "happened": [
+       {
+        "text": "The UK government announced sanctions targeting eight companies building Israeli settlements in the West Bank.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ed Miliband, the UK foreign secretary, also placed sanctions on a rightwing activist Israeli group involved in trying to block aid into Gaza.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "High tensions have persisted in the area since a group of settlers set up a new outpost in eight houses on 4 November.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "All settlements are considered illegal under international law.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Foreign Office stated that the current Israeli government has facilitated and encouraged settlements, approving more of them over four years than in the previous twenty years.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "According to the UK foreign secretary, the sanctions are designed to stop the flow of finance to eight identified construction firms.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ed Miliband stated that protecting the two-state solution is the north star of the government's approach.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The British government warned that the accelerating rate of settlement expansion risked rendering a two-state solution unviable.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "There are conflicting accounts between local Palestinians and the Israeli army regarding what happened during the shooting incident.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Sources note that in practice the extent to which any of the targeted firms are dependent on British finance is yet to be tested.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It remains to be seen how the new political leadership might shift regional approaches, as Israel's possible new prime minister, Gadi Eisenkot, has said he will take a tougher approach to settler violence.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Sanctions",
+       "definition": "Official restrictions imposed by a government to limit trade, financial transactions, or other activities with specific entities or countries."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "A 72-year-old Palestinian woman was shot dead and several people were wounded in an occupied West Bank village.",
+        "why": [
+         "number(s) not in evidence: 72"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+       "kind": "reporting",
+       "published": "2026-11-17T13:02:17+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+       "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+       "excerpt": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent settlements that destroy the chances of a two-state solution. …",
+       "kind": "reporting",
+       "published": "2026-11-17T12:18:08+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "90093dec7c",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "canadian",
+     "canada",
+     "africa",
+     "china"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T08:11:20+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 332,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Canada, China agree to ease tariffs amid trade rows with US",
+      "link": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-17T07:12:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 284,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Canada arrests luxury car theft suspects and eases trade tariffs with China",
+     "parts": {
+      "happened": [
+       {
+        "text": "Canadian police arrested 12 suspects in an investigation into an alleged luxury car theft syndicate.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Authorities recovered 96 high-value vehicles valued at 4.5 million dollars that were concealed in shipping containers destined for West Africa.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Separately, Canadian Prime Minister Mark Carney and Chinese President Xi Jinping agreed to ease tariffs following talks ahead of an economic summit.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The car theft investigation began in March after police identified a warehouse allegedly used to store stolen vehicles, leading to the discovery of re-VINed automobiles.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Relations between Canada and China had previously been strained for years before both nations sought to reduce their dependence on the United States.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Police stated that some of the accused individuals may face deportation after their criminal proceedings conclude.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Peel Regional Police Deputy Chief Nick Milinovich said that organised auto theft is a predatory business model run by transnational syndicates that terrorise families and fund broader criminal enterprises.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Critics in Canada have pointed out security concerns regarding closer ties to Beijing, while Canadian intelligence believes China interfered in at least two federal elections, an allegation that Beijing denies.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Vehicle Identification Number",
+       "definition": "A unique code used by the automotive industry to identify individual motor vehicles."
+      },
+      {
+       "term": "Tariff",
+       "definition": "A tax imposed by a government on imported goods and services from other countries."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Under the new trade deals, China will reduce tariffs on Canadian pork, fish and seafood while Canada prolongs tariff exemptions for Chinese steel and aluminum.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "uncertain.0",
+        "text": "Arrest warrants have been issued for additional suspects whose identities or locations have not been fully resolved.",
+        "why": [
+         "partial",
+         "Evidence confirms warrants were issued, but does not state identities or locations are unresolved."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Canada, China agree to ease tariffs amid trade rows with US",
+       "link": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The Canadian and Chinese leaders have vowed closer cooperation as both nations seek to reduce reliance on the US. Canada's government said it had agreed to further reduce tariffs on a range of products.",
+       "kind": "reporting",
+       "published": "2026-11-17T07:12:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 12,
+  "items": 380,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}

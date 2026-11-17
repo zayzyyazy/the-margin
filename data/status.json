@@ -1,17 +1,7 @@
 {
  "feeds": {
-  "checked_at": "2026-11-16T13:24:27.905681+00:00",
+  "checked_at": "2026-11-17T14:10:16.310511+00:00",
   "reports": [
-   {
-    "name": "BAIR Blog",
-    "feed": "https://bair.berkeley.edu/blog/feed.xml",
-    "bucket": "ai",
-    "ok": false,
-    "status": null,
-    "items": 0,
-    "newest": null,
-    "error": "TimeoutError: The read operation timed out"
-   },
    {
     "name": "Bruegel",
     "feed": "https://www.bruegel.org/rss.xml",
@@ -39,7 +29,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-13T23:22:09+00:00",
+    "newest": "2026-11-16T22:43:30+00:00",
     "error": null
    },
    {
@@ -49,7 +39,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-16T11:01:00+00:00",
+    "newest": "2026-11-17T11:00:00+00:00",
     "error": null
    },
    {
@@ -69,7 +59,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-12T17:39:00+00:00",
+    "newest": "2026-11-17T13:59:13+00:00",
     "error": null
    },
    {
@@ -79,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-16T12:00:57+00:00",
+    "newest": "2026-11-17T14:00:29+00:00",
     "error": null
    },
    {
@@ -99,7 +89,17 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-14T00:23:27+00:00",
+    "newest": "2026-11-17T06:30:03+00:00",
+    "error": null
+   },
+   {
+    "name": "BAIR Blog",
+    "feed": "https://bair.berkeley.edu/blog/feed.xml",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 10,
+    "newest": "2026-11-09T09:00:00+00:00",
     "error": null
    },
    {
@@ -139,7 +139,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-15T10:08:03+00:00",
+    "newest": "2026-11-17T12:29:27+00:00",
     "error": null
    },
    {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-16T13:01:55+00:00",
+    "newest": "2026-11-16T13:49:57+00:00",
     "error": null
    },
    {
@@ -159,7 +159,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-13T09:00:00+00:00",
+    "newest": "2026-11-17T09:00:00+00:00",
     "error": null
    },
    {
@@ -169,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-15T23:50:36+00:00",
+    "newest": "2026-11-17T02:28:30+00:00",
     "error": null
    },
    {
@@ -219,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-16T12:00:47+00:00",
+    "newest": "2026-11-17T12:00:42+00:00",
     "error": null
    },
    {
@@ -229,7 +229,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-16T11:52:55+00:00",
+    "newest": "2026-11-17T12:15:38+00:00",
     "error": null
    },
    {
@@ -248,8 +248,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 907,
-    "newest": "2026-11-13T18:00:39+00:00",
+    "items": 908,
+    "newest": "2026-11-16T00:00:00+00:00",
     "error": null
    },
    {
@@ -259,7 +259,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-16T10:00:01+00:00",
+    "newest": "2026-11-17T14:00:03+00:00",
     "error": null
    },
    {
@@ -299,7 +299,7 @@
     "ok": true,
     "status": 301,
     "items": 20,
-    "newest": "2026-11-14T08:31:02+00:00",
+    "newest": "2026-11-17T09:24:56+00:00",
     "error": null
    },
    {
@@ -309,7 +309,7 @@
     "ok": true,
     "status": 200,
     "items": 100,
-    "newest": "2026-11-16T12:00:00+00:00",
+    "newest": "2026-11-17T12:00:00+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-13T13:10:00+00:00",
+    "newest": "2026-11-17T13:10:00+00:00",
     "error": null
    },
    {
@@ -349,7 +349,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-16T12:18:54+00:00",
+    "newest": "2026-11-17T13:46:49+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-16T13:00:00+00:00",
+    "newest": "2026-11-17T13:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +379,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-16T09:00:00+00:00",
+    "newest": "2026-11-17T13:56:50+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-16T11:01:00+00:00",
+    "newest": "2026-11-17T11:00:00+00:00",
     "error": null
    },
    {
@@ -429,7 +429,7 @@
     "ok": true,
     "status": 200,
     "items": 5,
-    "newest": "2026-11-12T19:40:54+00:00",
+    "newest": "2026-11-16T15:15:33+00:00",
     "error": null
    },
    {
@@ -459,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-16T12:00:00+00:00",
+    "newest": "2026-11-17T13:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-15T23:58:36+00:00",
+    "newest": "2026-11-17T06:16:26+00:00",
     "error": null
    },
    {
@@ -509,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-16T00:00:00+00:00",
+    "newest": "2026-11-17T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 73,
-    "newest": "2026-11-16T13:23:18+00:00",
+    "items": 79,
+    "newest": "2026-11-17T14:09:36+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-16T13:24:27.905681+00:00",
-  "edition_date": "2026-11-16",
+  "at": "2026-11-17T14:10:16.310511+00:00",
+  "edition_date": "2026-11-17",
   "sources_active": 52,
-  "sources_ok": 49,
-  "items_fetched": 2142,
-  "candidates": 164,
+  "sources_ok": 50,
+  "items_fetched": 2159,
+  "candidates": 166,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-16T13:24:27.905681+00:00",
-  "edition_date": "2026-11-16",
+  "at": "2026-11-17T14:10:16.310511+00:00",
+  "edition_date": "2026-11-17",
   "articles": 7
  }
 }
