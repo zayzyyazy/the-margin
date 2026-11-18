@@ -1,0 +1,904 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T13:42:18.294745+00:00",
+ "candidates": 158,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "7eb001f84170",
+   "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+   "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Anritsu"
+   ],
+   "published": "2026-11-17T11:00:04+00:00",
+   "bucket": "discovery",
+   "excerpt": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations. How power efficiency, RF signaling, and antenna design shape satellite-connected device development. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.132,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "b48326e6ee07",
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "authors": [
+    "BrianKrebs"
+   ],
+   "published": "2026-11-18T02:52:04+00:00",
+   "bucket": "ai",
+   "excerpt": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1189,
+   "access": "free",
+   "lang": "en",
+   "score": 4.355,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "fe046fff45a6",
+   "title": "Resilience without retreat: How EU firms are redesigning their supply chains",
+   "link": "https://cepr.org/voxeu/columns/resilience-without-retreat-how-eu-firms-are-redesigning-their-supply-chains",
+   "source": "VoxEU (CEPR)",
+   "authors": [
+    "Marine Charlotte André, Román Arjona, Enrique Feás, Péter Harasztosi, Laurent Maurin, Frank Vandermeeren, Xosé-Luís Varela-Irimia, Christoph Weiss"
+   ],
+   "published": "2026-11-18T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Geopolitical tensions are changing the nature of supply-chain risk. This column presents new survey evidence showing that EU firms increasingly regard trade disruptions as persistent but are moving away from emergency responses such as stockpiling towards longer-term diversification of suppliers and markets. The EU Single Market provides an important buffer against external shocks. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.514,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f3ac71767b1f",
+   "title": "Varieties Of Discourseposting",
+   "link": "https://www.astralcodexten.com/p/varieties-of-discourseposting",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-11-18T07:47:03+00:00",
+   "bucket": "mind",
+   "excerpt": "I’m teaching at the Inkhaven blogging fellowship again this month. In my first class, I showed off terribly-written sentences and made the fellows analyze and improve them. Some were my own miscreations, some were Lyttle Lytton winners, and some came from the darkest abysses of the Internet. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1528,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "c2518115ebca",
+   "title": "External sandboxes for coding agents",
+   "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-17T22:52:29+00:00",
+   "bucket": "ai",
+   "excerpt": "I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant, the AI research lab behind Superpowers and other projects. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.221,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "c3296eb04f61",
+   "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+   "link": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University"
+   ],
+   "published": "2026-11-17T19:53:14+00:00",
+   "bucket": "mind",
+   "excerpt": "The end of Jensen Huang’s tenure at Nvidia is steeped in irony. The chief executive of a company whose growth has been propelled by the seemingly unstoppable rise of artificial intelligence was brought down by a vulnerability that no algorithm can eliminate: human nature. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 961,
+   "access": "free",
+   "lang": "en",
+   "score": 4.014,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d289572831cd",
+   "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+   "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-18T10:19:04+00:00",
+   "bucket": "ai",
+   "excerpt": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1480,
+   "access": "free",
+   "lang": "en",
+   "score": 4.023,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "229bee65a7",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "trump",
+     "china",
+     "putin",
+     "apec"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "APEC-Gipfel in Shenzen: Xi umarmt Trump - Putin schon da",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html",
+      "published": "2026-11-18T13:23:23+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 456,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T12:39:24+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 516,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+      "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+      "published": "2026-11-18T09:30:01+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1055,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
+      "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T09:23:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2045,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-18T11:37:29+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
+      "kind": "reporting",
+      "published": "2026-11-18T05:17:26+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+      "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+      "kind": "reporting",
+      "published": "2026-11-17T11:18:26+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+      "kind": "reporting",
+      "published": "2026-11-17T11:00:39+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-17T06:23:51+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+      "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+      "kind": "analysis",
+      "published": "2026-11-17T16:40:26+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+      "error": "only 47 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
+       "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The presidents of China, Russia and the US have greeted each other amid the APEC summit in Shenzhen. This comes a day ahead of the trilateral talks between Xi Jinping, Vladimir Putin and Donald Trump. Follow DW live.",
+       "kind": "reporting",
+       "published": "2026-11-18T09:23:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+       "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+       "kind": "reporting",
+       "published": "2026-11-18T12:39:24+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "7f6ec2140a",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "democrats",
+     "peltola",
+     "senate",
+     "republicans"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+      "published": "2026-11-18T13:00:04+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1052,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:23:57+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 787,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+      "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T06:27:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 412,
+      "id": "S3"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
+      "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+      "published": "2026-11-18T09:38:50+00:00",
+      "kind": "analysis",
+      "lang": "en",
+      "words": 1408,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Democrat Mary Peltola Wins Alaska Senate Seat",
+     "parts": {
+      "happened": [
+       {
+        "text": "Democrat Mary Peltola won Alaska's hard-fought Senate race after two full weeks of counting ballots.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The victory brings the total number of Republican-held Senate seats flipped by Democrats in the midterms to nine.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The election process in Alaska was marked by protracted vote counts due to the remote expanse of the state and remote rural communities.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Controversy arose during the campaign when reports alleged that Peltola's team worked with people attempting to recruit a spoiler candidate named Daniel J Sullivan.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Mary Peltola is a Yup'ik Alaskan and became the first Alaska Native elected to Congress when she won a special election in 2022.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The victory gives the Democrats a 56th Senate seat, cementing the party's majority in the upper house.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Scott Lucas, a professor of international politics, stated that the broader Democratic wave reaffirms a significant surge across multiple Republican strongholds.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Lucas forecasts a chaotic couple of years primarily driven by the executive branch.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The precise impact of the alleged spoiler candidate remains a subject of dispute, though analysts noted that Peltola's winning margin exceeded the challenger's total.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Future legal challenges concerning election certification procedures remain possible as the Department of Justice previously stated it would appeal.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "It remains to be seen whether the newly expanded Democratic majorities will successfully secure enough bipartisan support to override presidential vetoes.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Ranked-choice voting",
+       "definition": "An electoral system where voters rank candidates in order of preference rather than choosing just one."
+      },
+      {
+       "term": "Spoiler candidate",
+       "definition": "A minor candidate running in an election who is unlikely to win but can draw enough votes away from a major candidate to alter the outcome."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Peltola secured slightly more than 50 percent of the first-choice votes, defeating the incumbent Republican senator, Dan S Sullivan.",
+        "why": [
+         "number(s) not in evidence: 50"
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+       "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The US Senate's final outstanding midterm election race has been won by Mary Peltola. She unseats Republican Dan Sullivan after winning 50.1% of the vote.",
+       "kind": "reporting",
+       "published": "2026-11-18T06:27:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+       "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+       "kind": "reporting",
+       "published": "2026-11-18T10:23:57+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "c791221ec5",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "putin",
+     "crimea",
+     "apec"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "APEC summit: What Trump, Xi and Putin want",
+      "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T05:39:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1066,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T21:24:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1108,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+      "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+      "published": "2026-11-17T17:30:40+00:00",
+      "kind": "analysis",
+      "lang": "en",
+      "words": 1097,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine Strikes Crimean Bridge Ahead of Global Summit",
+     "parts": {
+      "happened": [
+       {
+        "text": "Ukraine severely damaged the Crimean Bridge in a multi-stage operation involving cruise missiles and drones.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Images shared by Ukrainian officials showed a section of the bridge collapsed into the water.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The strike coincided with overnight Russian missile and drone attacks on Kyiv and other regions.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The Crimean Bridge was built by Russia after it annexed Ukraine's southern peninsula in 2014.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The infrastructure project is widely viewed as a personal pet project of Russian President Vladimir Putin.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in February 2022.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "An anonymous source in Ukraine's armed forces stated that destroying the bridge was intended to show other world leaders that Vladimir Putin is weak and vulnerable.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The disabled crossing increases the risk of a serious transport and logistics crisis for the Russian military.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A soldier named Leon predicted that the disruption to logistics will create many problems for Russia's army in the south.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The sources report that the long-term impact of the Crimean Bridge strike is still not fully clear.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The Kremlin stated that the bridge would be restored and did not rule out the possibility that the strikes were linked to Vladimir Putin's visit to China.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Dnipro River",
+       "definition": "A major European river flowing through Russia, Belarus and Ukraine into the Black Sea."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The explanation fails to introduce Leon, leaving the reader confused about who he is.",
+        "The final sentence mentions a visit to China that was never previously mentioned or explained."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "APEC summit: What Trump, Xi and Putin want",
+       "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+       "kind": "reporting",
+       "published": "2026-11-18T05:39:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+       "kind": "reporting",
+       "published": "2026-11-17T21:24:35+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.8,
+     "region": "asia-pacific",
+     "adjustments": [
+      "same region as 1 chosen"
+     ]
+    },
+    "id": "f23b469ef1",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "huang",
+     "nvidia",
+     "chinese",
+     "congress"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T01:18:18+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 638,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "published": "2026-11-18T00:59:30+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 321,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+      "link": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T00:34:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 414,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+      "published": "2026-11-17T17:58:05+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 404,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Nvidia forms national security committee after Huang affair",
+      "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-17T14:53:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-18T06:04:21+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Nvidia reports soaring sales as board rules out Huang return",
+     "parts": {
+      "happened": [
+       {
+        "text": "Nvidia reported that its sales doubled to $115.8bn for the three months to 25 October, with profits also doubling to $65bn.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Nvidia chairman Harvey Jones stated that the board does not intend to reinstate ousted co-founder Jensen Huang.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jensen Huang is scheduled to testify before several congressional committees on 1 December regarding a potential breach of national security.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Jensen Huang co-founded Nvidia and led it for more than three decades, turning it into a dominant supplier of chips driving advanced artificial intelligence models.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Huang resigned from his position last week after alleged extramarital affairs came to light, including one with a woman suspected of being a Chinese intelligence asset.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Daniela Hathorn, a senior analyst for trading platform Capital.com, said the results offer a strong answer to concerns that demand for artificial intelligence infrastructure is cooling.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Analyst Daniela Hathorn added that Huang's exit is unlikely to change orders already committed, but could matter more for upcoming decisions on products, partnerships and investment.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Congressional investigators are seeking answers regarding Nvidia's role in allowing actors from the People's Republic of China to access advanced chips.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Artificial Intelligence",
+       "definition": "The simulation of human intelligence processes by machines and computer systems."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "uncertain.0",
+        "text": "Interim chief executive Colette Kress did not elaborate on why Nvidia has stopped shipping Hopper data centre semiconductors to China.",
+        "why": [
+         "quote not found in S1"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Colette Kress took over as interim chief executive while the company searches for a permanent replacement.",
+        "why": [
+         "partial",
+         "The evidence identifies Kress as interim CEO, but does not explicitly state a search for a permanent replacement."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+       "kind": "reporting",
+       "published": "2026-11-18T01:18:18+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+       "link": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The AI chipmaker said it doubled its third-quarter revenue and confirmed that Jensen Huang would not be reinstated as CEO after a Chinese spy scandal.",
+       "kind": "reporting",
+       "published": "2026-11-18T00:34:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 373,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
