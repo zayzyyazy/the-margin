@@ -1,0 +1,1039 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T14:10:26.867921+00:00",
+ "candidates": 161,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "3c049eeccea3",
+   "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+   "link": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+   "source": "Engineering at Meta",
+   "authors": [],
+   "published": "2026-11-18T16:59:38+00:00",
+   "bucket": "ai",
+   "excerpt": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template-driven approach that standardizes model design …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1694,
+   "access": "free",
+   "lang": "en",
+   "score": 4.894,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "5286ac545898",
+   "title": "Residential Investment Nowcasted Down",
+   "link": "https://econbrowser.com/archives/2026/11/residential-investment-nowcasted-down",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-11-18T22:17:14+00:00",
+   "bucket": "economy",
+   "excerpt": "October housing starts (volatile this year) exceeded expectations, but permits were way below consensus: -7.4% vs. -1.4% m/m. GDPNow nowcasts -7.9% decline in Q4 residential investment (q/q AR), contributing -0.29 ppts to 3.2% nowcasted GDP growth. Figure 1: Residential fixed investment (bold black), November Survey of Professional Forecasters median (blue), GDPNow of 11/18 (light blue …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.488,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "38f0f76fab9c",
+   "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
+   "link": "https://dailynous.com/2026/11/18/how-much-ai-generated-text-is-in-todays-philosophy-journals/",
+   "source": "Daily Nous",
+   "authors": [
+    "Justin Weinberg"
+   ],
+   "published": "2026-11-18T19:02:08+00:00",
+   "bucket": "mind",
+   "excerpt": "“It seems that philosophers have started to make substantial use of AI in their papers, and it’s not uncommon for AI-generated text to make it …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 3357,
+   "access": "free",
+   "lang": "en",
+   "score": 4.388,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "b3b3f9a09caf",
+   "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+   "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Shalma Wegsman"
+   ],
+   "published": "2026-11-18T15:51:40+00:00",
+   "bucket": "discovery",
+   "excerpt": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.789,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "e0a91645e51e",
+   "title": "datasette-arrows 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-18T17:09:59+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.243,
+   "why": [],
+   "also_in": [
+    {
+     "source": "Simon Willison's Weblog",
+     "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+    }
+   ]
+  },
+  {
+   "id": "c7b3408b1e18",
+   "title": "Build a Personal Brand to Help Employers Find You",
+   "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Brian Jenney"
+   ],
+   "published": "2026-11-18T17:33:26+00:00",
+   "bucket": "discovery",
+   "excerpt": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! In one year, the number of developers working for themselves has more than doubled. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.523,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "81f294f97e4e",
+   "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+   "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-19T07:07:43+00:00",
+   "bucket": "ai",
+   "excerpt": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1441,
+   "access": "free",
+   "lang": "en",
+   "score": 4.06,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "6a9fa05bca",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "ukraine",
+     "russian",
+     "putin",
+     "trump"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:07:35+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 482,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'",
+      "link": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-19T13:05:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2693,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
+      "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+      "published": "2026-11-19T08:32:10+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 881,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
+      "link": "https://www.theguardian.com/world/2026/nov/19/ukraine-war-briefing-russia-embassy-netherlands-destinus-missiles-kerch-crimea-bridge-strike",
+      "published": "2026-11-19T02:16:26+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 720,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
+      "link": "https://www.tagesschau.de/video/video-1686490.html",
+      "kind": "reporting",
+      "published": "2026-11-19T14:07:27+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Trump calls for nuclear arms reduction at APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-19T10:03:27+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-18T23:28:03+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-18T17:00:40+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-18T17:00:04+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+      "kind": "analysis",
+      "published": "2026-11-19T12:11:42+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1686490.html",
+      "error": "only 25 words readable"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "error": "only 48 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Superpowers hold unprecedented summit in Shenzhen as Crimean Bridge is struck",
+     "parts": {
+      "happened": [
+       {
+        "text": "The Crimean Bridge connecting Russia to the occupied peninsula was hit by a combined missile-and-drone strike that destroyed its central road section.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Simultaneously, United States President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin convened for unprecedented trilateral talks on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Following the attacks on the bridge, Russian President Vladimir Putin vowed a response that would be far more painful than Kyiv's strikes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Moscow has since used the peninsula as a military base to carry out strikes and resupply its troops in southern Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in 2022.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Kyiv's defence ministry stated that the bridge strikes amounted to time gained and lives saved by reducing what reaches occupying forces.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Analysts said the trilateral meeting between the US, Russia and China was unlikely to produce major agreements due to deep differences over Ukraine, Iran, nuclear weapons and trade.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The exact duration of the repairs required for the heavily damaged Crimean Bridge remains unclear, though officials note the work will likely take a long time under frequent fire.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains unconfirmed whether concrete steps towards nuclear disarmament will emerge, despite the signed peace declaration mentioning a dialogue on reducing nuclear risks.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "International Criminal Court",
+       "definition": "An intergovernmental organisation and international tribunal that prosecutes individuals for international crimes including genocide and war crimes."
+      },
+      {
+       "term": "Treaty on the Non-Proliferation of Nuclear Weapons",
+       "definition": "An international treaty designed to prevent the spread of nuclear weapons and weapon technology."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "The 12-mile Crimean Bridge was built in 2018, four years after Russia illegally annexed Ukraine's Crimean Peninsula.",
+        "why": [
+         "number(s) not in evidence: 12"
+        ]
+       },
+       {
+        "id": "matters.2",
+        "text": "The European Commission proposed an extra forty-five billion euro loan to plug Ukraine's budget shortfalls, which officials argued would provide a strong hand at the negotiation table.",
+        "why": [
+         "quote not found in S4"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+       "kind": "reporting",
+       "published": "2026-11-19T13:07:35+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'",
+       "link": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The three world leaders discussed the Russian invasion of Ukraine as well as nuclear arms controls. Following the trilateral talks, President Trump reportedly headed to the airport. Follow DW live.",
+       "kind": "reporting",
+       "published": "2026-11-19T13:05:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "37db6077b2",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "rohingya",
+     "myanmar",
+     "court",
+     "justice"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+      "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+      "published": "2026-11-19T13:52:10+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1138,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
+      "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
+      "published": "2026-11-19T12:42:10+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 730,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+      "link": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-19T11:39:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 851,
+      "id": "S3"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
+      "link": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+      "published": "2026-11-19T10:31:36+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 770,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein",
+      "link": "https://www.tagesschau.de/video/video-1686452.html",
+      "kind": "reporting",
+      "published": "2026-11-19T13:22:59+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "ICJ rules Myanmar committed genocide against the Rohingya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-19T12:20:19+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1686452.html",
+      "error": "only 25 words readable"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+      "error": "only 52 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "International Court of Justice rules Myanmar committed Rohingya genocide",
+     "parts": {
+      "happened": [
+       {
+        "text": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya Muslim minority during a 2017 military campaign.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Yuji Iwasawa, president of the court, stated that a majority of nine out of fifteen judges concluded that Myanmar intended to destroy a substantial part of the population.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The case was brought to the court in 2019 by Gambia, a West African nation, on behalf of Rohingya survivors.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Myanmar's leadership denied carrying out genocide, claiming the military operations were legitimate counter-terrorism measures against armed insurgents.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The decision marks the first time the International Court of Justice has found a sovereign state responsible for genocide.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Britain's foreign minister, Ed Miliband, announced the expulsion of Myanmar's defence attaché and called for an urgent session at the United Nations Security Council.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Observers note that the ruling could serve as a vital precedent for other high-profile genocide cases before the court, including allegations concerning actions in Gaza.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Sources note that the International Court of Justice lacks direct enforcement powers, leaving the practical impact dependent on future international actions such as sanctions or Security Council measures.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains unclear whether Myanmar will comply with the court's orders to provide reparations, facilitate safe returns, and investigate wrongdoing.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "International Court of Justice",
+       "definition": "The principal judicial organ of the United Nations that settles legal disputes between states."
+      },
+      {
+       "term": "Genocide Convention",
+       "definition": "An international treaty that criminalises genocide and obligates signatory states to prevent and punish the crime."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "The 2016-2017 military operations drove more than 700,000 Rohingya across the border into Bangladesh, where many remain in large refugee settlements.",
+        "why": [
+         "number(s) not in evidence: 2017"
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Judges found that security forces killed thousands of civilians, carried out widespread sexual violence and extreme violence against children, and restricted births.",
+        "why": [
+         "partial",
+         "Evidence mentions killing 10,000, while the claim says thousands; it does not confirm the claim's 'restricted births' detail."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+       "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+       "excerpt": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ruled, in a historic and unprecedented decision. …",
+       "kind": "reporting",
+       "published": "2026-11-19T13:52:10+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+       "link": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
+       "kind": "reporting",
+       "published": "2026-11-19T11:39:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "3cfe554c04",
+    "significance": 4,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "venezuela",
+     "hegseth",
+     "maduro",
+     "nicolas"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:31:23+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 696,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+      "published": "2026-11-19T02:10:36+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 263,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "published": "2026-11-18T20:24:19+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 917,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
+      "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T20:19:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 439,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "United States and Venezuela sign military agreement in Caracas",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United States and Venezuela have re-established military ties by signing a military co-operation agreement in Caracas.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "US Secretary of Defence Pete Hegseth travelled to Venezuela and met with interim President Delcy Rodríguez at the presidential palace.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Relations between Washington and Caracas deteriorated under Hugo Chávez and his successor, Nicolás Maduro, before hitting rock bottom last year.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "In January, United States forces seized Nicolás Maduro during a military raid on the capital, Caracas.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Delcy Rodríguez, formerly Nicolás Maduro's vice-president, became acting president with the blessing of United States President Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Pete Hegseth stated that Venezuela has transformed from an aggressive regional threat into a compliant security partner.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Pete Hegseth claimed that a related energy agreement will make the Strait of Hormuz an irrelevant factor for the Western Hemisphere.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Very few specific details about the newly signed military agreement have been published by either government.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "It remains unclear when elections might take place in Venezuela following the ouster of Nicolás Maduro.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Delta Force",
+       "definition": "A specialised United States military unit tasked with counter-terrorism and direct action missions."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.2",
+        "text": "Few details about the deal have been released, but officials noted it involves training, intelligence sharing and access to new technology.",
+        "why": [
+         "partial",
+         "The evidence mentions training and intelligence but does not mention access to new technology."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Delcy Rodríguez stated that the agreement will help both countries confront shared threats and improve operational equipment.",
+        "why": [
+         "partial",
+         "Evidence confirms the mention of 'common threats' but not improvements to operational equipment."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+       "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+       "excerpt": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. …",
+       "kind": "reporting",
+       "published": "2026-11-18T20:24:19+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+       "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+       "kind": "reporting",
+       "published": "2026-11-19T13:31:23+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "c172e838f0",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "gaza",
+     "israeli",
+     "hamas",
+     "israel"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+      "link": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
+      "published": "2026-11-19T13:24:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 612,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+      "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "published": "2026-11-19T12:40:46+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 650,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T11:07:37+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 791,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Israel launches new ground operation in Gaza",
+      "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-18T18:29:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 486,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Israeli forces complete ground operation in central Gaza",
+     "parts": {
+      "happened": [
+       {
+        "text": "The Israeli military carried out a ground operation in central Gaza that crossed the yellow line boundary into territory controlled by Hamas.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The conflict began following an attack led by Hamas on southern Israel on 7 October 2023, which resulted in about 1,200 deaths.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "A fragile ceasefire agreement was reached in October 2025, establishing a yellow line that separates Israeli-occupied areas from territory controlled by Hamas.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Despite the truce, violence and military strikes have continued intermittently over the subsequent months.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Hamas condemned the incursion as a flagrant violation of the ceasefire agreement and a dangerous escalation.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The Board of Peace overseeing the ceasefire warned that a truce delivering no visible improvements cannot be sustained indefinitely and remains at risk of collapse.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Sources note ongoing disputes over whether both sides have honoured their commitments to end hostilities.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "It remains unresolved whether the disarmament of Hamas, a key sticking point in negotiations, can be achieved alongside a phased withdrawal of Israeli troops.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "COGAT",
+       "definition": "The Israeli Ministry of Defence body that coordinates civilian matters in the Palestinian territories."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Humanitarian agencies reported that funding shortfalls and access restrictions put displaced populations at severe risk of acute hunger and shelter crises as winter approaches.",
+        "why": [
+         "quote not found in S4"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Dozens of families fled their tents and homes along the Salah al-Din road after tanks advanced under artillery fire and evacuation warnings were issued.",
+        "why": [
+         "partial",
+         "Evidence mentions fleeing families, but does not confirm their homes were along the Salah al-Din road."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "The military stated that the operation was completed after targeting a tunnel west of the yellow line, and authorities announced that the area was reopened to movement.",
+        "why": [
+         "partial",
+         "The evidence confirms the operation's goal and completion, but does not mention the area being reopened."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+       "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+       "excerpt": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents. …",
+       "kind": "reporting",
+       "published": "2026-11-19T12:40:46+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+       "kind": "reporting",
+       "published": "2026-11-19T11:07:37+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 13,
+  "items": 394,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
