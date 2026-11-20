@@ -1,0 +1,853 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T13:52:06.789660+00:00",
+ "candidates": 164,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "9fa180673ddd",
+   "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+   "link": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Willie D. Jones"
+   ],
+   "published": "2026-11-19T19:00:02+00:00",
+   "bucket": "ai",
+   "excerpt": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job. Dong, an IEEE senior member, is an extension regional specialist with the Colorado State University Extension, CSU’s outreach arm. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.488,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "dca455fbb9b6",
+   "title": "Worker runs: How compensation design can curb contagious departures like that at Weil, Gotschal & Manges",
+   "link": "https://cepr.org/voxeu/columns/worker-runs-how-compensation-design-can-curb-contagious-departures-weil-gotschal",
+   "source": "VoxEU (CEPR)",
+   "authors": [
+    "Florian Hoffmann, Vladimir Vladimirov"
+   ],
+   "published": "2026-11-20T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "The proposed dissolution of Weil, Gotshal & Manges followed an exodus of prominent partners from one of America’s largest law firms. Its rapid decline illustrates how departures by key employees can encourage others to leave, even when a firm remains profitable. This column explains why such departures can become self-reinforcing and how firms can mitigate the problem through compensation design. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.514,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "fc15ef0fdfbb",
+   "title": "The end of Xanadu",
+   "link": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+   "source": "Psyche",
+   "authors": [
+    "Henrick Karoliszyn"
+   ],
+   "published": "2026-11-20T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "The house my father built taught me to expect disaster. Seeing it come down was a release - by Henrick Karoliszyn …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.989,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "4cefea36f9d3",
+   "title": "The quest to understand a tick-borne allergy to red meat",
+   "link": "https://knowablemagazine.org/content/article/health-disease/2026/red-meat-allergy-how-ticks-spread-alpha-gal-syndrome",
+   "source": "Knowable Magazine",
+   "authors": [
+    "Amber Dance"
+   ],
+   "published": "2026-11-18T13:52:18+00:00",
+   "bucket": "discovery",
+   "excerpt": "When alpha-gal syndrome first emerged, it was a baffling medical mystery. Today, diagnoses are rising, yet much about this potentially life-threatening condition remains unexplained.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.244,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "10ccd3813e57",
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-20T02:49:57+00:00",
+   "bucket": "ai",
+   "excerpt": "Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.221,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "f83051f4f38e",
+   "title": "Australia Employment Declines below Consensus",
+   "link": "https://econbrowser.com/archives/2026/11/australia-employment-declines-below-consensus",
+   "source": "Econbrowser",
+   "authors": [
+    "Menzie Chinn"
+   ],
+   "published": "2026-11-20T05:56:20+00:00",
+   "bucket": "economy",
+   "excerpt": "-43.5K vs. +25.5K in October, m/m; unemployment rate rises +0.2 ppts, against no change consensus. Talk of recession ensues. Figure 1: Australian employment 15+ (blue, left log scale), unemployment rate, % (red, right scale), both s.a. Source: ABS. While the labor market deteriorated (surprisingly) in October, GDP data only extends to Q2 (next release December …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 314,
+   "access": "free",
+   "lang": "en",
+   "score": 3.488,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "aeb195802497",
+   "title": "The Download: inside the quest to make our minds immortal",
+   "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Thomas Macaulay"
+   ],
+   "published": "2026-11-20T13:10:00+00:00",
+   "bucket": "ai",
+   "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1011,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.188,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "c4c7f3afcf",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "poland",
+     "russian",
+     "ukraine",
+     "moscow"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T12:56:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 429,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+      "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+      "published": "2026-11-20T12:34:30+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 742,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+      "link": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-19T13:56:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 316,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Poland hit by at least one Russian missile, says Polish govt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-20T13:23:53+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+      "error": "only 43 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Russian Missiles and Drone Enter Polish Airspace During Ukraine Attacks",
+     "parts": {
+      "happened": [
+       {
+        "text": "Poland confirmed that three objects, including two cruise missiles and a jet-powered drone, violated its airspace during major Russian aerial attacks on Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Władysław Kosiniak-Kamysz, Poland's defence minister, stated that a Kh-101 cruise missile hit a rural area at Nowy Lipowiec in southeastern Poland.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Polish Prime Minister Donald Tusk described the airspace violations as an intentional provocation from Moscow rather than an accident.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The incursion occurred while an 11-country military exercise known as Koalicja 2026 was taking place in southeastern Poland.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The military manoeuvres followed a Coalition of the Willing summit in Berlin attended by 40 countries pledging continued support for Kyiv.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Previous airspace incidents have also occurred during the conflict, including a cruise missile landing in Poland in July.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Mark Rutte, North Atlantic Treaty Organization Secretary General, stated that North Atlantic Treaty Organization jets were scrambled and condemned the grave violations of Polish airspace.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Donald Tusk stated that the incident demonstrates how upcoming months will pose great challenges and highlighted why Poland must participate in decisions regarding Ukraine's future.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Russia has not made any comment regarding the airspace violations.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Johann Wadephul noted that peace negotiations might ultimately fail, which would require continued support and heating supplies for Ukraine through the coming winter.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Cruise missile",
+       "definition": "A motorized, guided military weapon designed to deliver an explosive payload over a precise long distance."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Andrii Sybiha, Ukraine's foreign minister, stated that the violations demonstrate the threats posed by Russian aggression to the whole of Europe and the transatlantic community.",
+        "why": [
+         "quote not found in S2"
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+       "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+       "kind": "reporting",
+       "published": "2026-11-20T12:56:48+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+       "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+       "excerpt": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone are reported to have crashed in Poland during Russian air attacks on Ukraine that took place amid major western military exercises by allied countries. …",
+       "kind": "reporting",
+       "published": "2026-11-20T12:34:30+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "34b5170441",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "myanmar",
+     "rohingya",
+     "icj",
+     "gambia"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+      "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-20T13:38:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1256,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+      "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+      "published": "2026-11-20T11:57:43+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 901,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T20:07:02+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1159,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+      "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+      "kind": "reporting",
+      "published": "2026-11-19T17:14:55+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+      "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+      "kind": "reporting",
+      "published": "2026-11-19T16:15:52+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+      "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+      "kind": "reporting",
+      "published": "2026-11-19T13:52:10+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Can the Rohingya genocide verdict deliver justice?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+      "kind": "opinion",
+      "published": "2026-11-20T10:45:20+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "The Gambia stood up for the Rohingya, now the world must act",
+      "link": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+      "kind": "opinion",
+      "published": "2026-11-20T07:20:53+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Top UN Court Rules Myanmar Committed Rohingya Genocide",
+     "parts": {
+      "happened": [
+       {
+        "text": "The International Court of Justice ruled that Myanmar committed genocide against the country's Rohingya minority a decade ago.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The United Nations' top court ordered Myanmar to prevent repeat offenses, undertake legal reforms, and provide reparations to victims.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The 15-judge panel reached its decision by a nine to six majority in The Hague.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The case was filed in 2019 by The Gambia, accusing Myanmar of a deliberate campaign of arson, rape, and murder against the Muslim Rohingya in 2016 and 2017.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Myanmar claimed its actions in Rakhine State were legitimate counterinsurgency operations against an armed group, a defense the court flatly rejected.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "This marks the first time the International Court of Justice has found a state responsible for genocide.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The UK announced it was expelling Myanmar's defense attaché in London and called for a United Nations Security Council session.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Richard Horsey stated that the judgment will slow Myanmar's efforts to restore international relations, though most regional governments will likely keep engaging.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Arsalan Suleman stated that the ruling could be used to help hold perpetrators to account in other courts, such as the International Criminal Court.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Michael Becker stated that ongoing civil war conditions in Myanmar mean the country is not currently amenable to realizing the relief ordered by the court.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Richard Horsey stated that China and Russia would almost certainly veto any proposed United Nations Security Council resolution aimed at punishing Myanmar.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "International Court of Justice",
+       "definition": "General definition: The principal judicial organ of the United Nations that settles legal disputes between states."
+      },
+      {
+       "term": "Rohingya",
+       "definition": "General definition: A predominantly Muslim ethnic minority group primarily originating from Rakhine State in Myanmar."
+      },
+      {
+       "term": "Genocide Convention",
+       "definition": "General definition: An international treaty that criminalizes genocide and obligates signatory states to prevent and punish it."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "Richard Horsey and Arsalan Suleman are introduced without explaining who they are to the reader.",
+        "The UK action mentioned in the third part is not linked to the context of the genocide ruling."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+       "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The ICJ held Myanmar responsible for genocide against the Rohingya and ordered restitution and reparations. Members of the community hailed the ruling but cautioned that achieving real change would be long and difficult.",
+       "kind": "reporting",
+       "published": "2026-11-20T13:38:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+       "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+       "kind": "reporting",
+       "published": "2026-11-19T20:07:02+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.3,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "same region as 1 chosen",
+      "covered in a recent edition"
+     ]
+    },
+    "id": "a80b7b6671",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "russia",
+     "ukraine",
+     "putin",
+     "trump"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T13:01:16+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 829,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+      "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-20T11:44:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1695,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+      "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+      "published": "2026-11-20T11:01:51+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1905,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+      "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+      "published": "2026-11-19T18:30:48+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 669,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-20T09:54:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-20T00:50:24+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "European leaders present united front in push for peace in Ukraine",
+      "link": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-19T18:44:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-19T17:38:22+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-19T17:23:29+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "kind": "reporting",
+      "published": "2026-11-19T17:13:23+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Russia targets Kyiv in massive strikes following Crimean Bridge attack",
+     "parts": {
+      "happened": [
+       {
+        "text": "Russia targeted bridges in Kyiv and railway stations in a major overnight attack launched days after Ukraine damaged the Crimean Bridge.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelensky said that Russia launched over 110 missiles and more than 400 attack drones.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The bombardment left at least nine people dead across Kyiv and Lviv.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Polish authorities reported that Russian flying objects entered Polish airspace during the aerial attacks.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Moscow illegally annexed Crimea in 2014, using the peninsula to house troops and military equipment travelling toward the front line.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Vladimir Putin, Russia's president, had threatened to retaliate for Ukraine's earlier operation against the Crimean Bridge.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The latest strikes coincided with a meeting in Berlin of the coalition of the willing, an international alliance of Ukraine's allies committed to providing security support.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "France's foreign minister Jean-Noël Barro called for a meeting of the United Nations Security Council, describing the strikes as crimes that Russia must answer for.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jared Kushner, US President Donald Trump's envoy, claimed that Russia was comfortable with Ukraine having security guarantees based on the North Atlantic Treaty Organisation's Article Five.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Ukrainian President Volodymyr Zelensky said that there was no common understanding at the Berlin meeting of what Article Five-style security guarantees would entail.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "It remains unclear what exact form NATO-like security guarantees for Ukraine would take.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Article Five",
+       "definition": "The collective defence principle of the North Atlantic Treaty Organisation stating that an attack on one member is treated as an attack on all."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Harry Nedelcu, partner and senior director of geopolitics at the Rasmussen Global consultancy, stated that Washington wants to show progress and secure a peace deal.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "uncertain.2",
+        "text": "Russia's deputy foreign minister Sergei Ryabkov pushed back against the proposals, stating that quasi-membership of the Western military alliance was unacceptable to Moscow.",
+        "why": [
+         "quote not found in S3"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+       "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+       "kind": "reporting",
+       "published": "2026-11-20T13:01:16+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+       "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+       "excerpt": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+       "kind": "reporting",
+       "published": "2026-11-20T11:01:51+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 13,
+  "items": 395,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped african, africa, cop31: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
