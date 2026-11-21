@@ -1,0 +1,604 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T13:16:14.686381+00:00",
+ "candidates": 166,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "00b355f0e988",
+   "title": "Reading List 11/21/2026",
+   "link": "https://www.construction-physics.com/p/reading-list-11212026",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-21T13:04:03+00:00",
+   "bucket": "economy",
+   "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at BAAJA, rayon for missiles, US gas consumption, Cyberarmageddon, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 637,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.355,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "cec5cefa403c",
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "authors": [
+    "BrianKrebs"
+   ],
+   "published": "2026-11-21T00:36:39+00:00",
+   "bucket": "ai",
+   "excerpt": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1420,
+   "access": "free",
+   "lang": "en",
+   "score": 4.855,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "eab11962f5ab",
+   "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
+   "link": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University"
+   ],
+   "published": "2026-11-20T14:26:34+00:00",
+   "bucket": "mind",
+   "excerpt": "Andy Burnham has attended his first EU-UK summit in Brussels with major agreements reached on youth mobility, food exports and carbon emissions. Ultimately though, the prime minister will have understood that this was merely the start of new political negotiations. Back home in the UK, he has started a “national conversation” on the future of UK-EU relations that gained momentum rapidly. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 836,
+   "access": "free",
+   "lang": "en",
+   "score": 4.066,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "85539fce33a3",
+   "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+   "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Hany Farid"
+   ],
+   "published": "2026-11-20T14:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. The U.S. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.488,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "ba59673836b9",
+   "title": "[AINews] Riemann Hypothesis proved...twice independently",
+   "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-21T05:02:13+00:00",
+   "bucket": "ai",
+   "excerpt": "Within a few hours of each other (timeline), two mathematicians claimed independent proofs of the Riemann Hypothesis, the most famous open problem in mathematics (Scientific American). Levent Alpöge of Anthropic first made his Claude-driven proof in a note released with Lean code (1.3GB worth, ~250,000 page equivalent) rather than a full paper. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 5506,
+   "access": "free",
+   "lang": "en",
+   "score": 4.523,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "8aa38fc865b4",
+   "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+   "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Ben Brubaker"
+   ],
+   "published": "2026-11-20T14:50:41+00:00",
+   "bucket": "discovery",
+   "excerpt": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.294,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e41553a2492f",
+   "title": "Quoting Ravi Vakil",
+   "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-20T19:21:49+00:00",
+   "bucket": "ai",
+   "excerpt": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.221,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "e79d8365d7",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "russian",
+     "ukraine",
+     "russia",
+     "moscow"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:52:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 660,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+      "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+      "published": "2026-11-21T12:49:05+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 567,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "published": "2026-11-21T11:02:49+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1910,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+      "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-20T17:12:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2236,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-21T10:26:36+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+      "link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
+      "kind": "reporting",
+      "published": "2026-11-21T02:41:14+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-20T15:14:01+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Missiles, a thwarted assassination and escalating tensions with Russia",
+     "parts": {
+      "happened": [
+       {
+        "text": "Meanwhile, Ukrainian President Volodymyr Zelensky defended recent attacks on the Crimean Bridge as a fair response to Russian strikes on Ukrainian infrastructure.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Vladimir Putin is the president of Russia, while Volodymyr Zelensky is the president of Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Poland is a member of the North Atlantic Treaty Organization, a military alliance whose members consider an armed attack on one as an attack on all under Article 5.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Analysts and officials warned that the latest incursions and strikes are part of a deliberate pattern by Moscow to test international responses and divide European allies.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "European leaders suggested that the aggressive actions will ultimately strengthen continental resolve and unity in supporting Ukraine.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear whether the missile incursions into Polish airspace were accidental or a deliberate provocation, though Polish leadership strongly suspected intent.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "It is not yet decided what precise form additional defensive support from the North Atlantic Treaty Organization for Poland will take.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Whether European representatives will ultimately participate in US-led peace negotiations in Moscow remains unconfirmed.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "North Atlantic Treaty Organization",
+       "definition": "An intergovernmental military alliance consisting of European and North American countries established for collective defence."
+      },
+      {
+       "term": "Schengen zone",
+       "definition": "A European travel area comprising multiple nations that have officially abolished passport and all other types of border control at their mutual borders."
+      },
+      {
+       "term": "Ballistic missile",
+       "definition": "A missile that follows a sub-orbital ballistic flight path to deliver one or more warheads to a predetermined target."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Russian forces launched a massive air attack on Ukraine involving more than 400 drones and 110 missiles, while separate missiles and a drone landed on Polish territory.",
+        "why": [
+         "quote not found in S3"
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Danish officials stated that the thwarted assassination attempt in Copenhagen highlights an increasingly aggressive and risk-taking approach by Russian intelligence.",
+        "why": [
+         "quote not found in S2"
+        ]
+       },
+       {
+        "id": "happened.1",
+        "text": "Denmark announced the expulsion of Russia's defence attache after intelligence services concluded Moscow orchestrated an assassination plot against a rapper.",
+        "why": [
+         "partial",
+         "The claim states the plot as fact rather than reporting that intelligence services claimed it."
+        ]
+       },
+       {
+        "id": "background.0",
+        "text": "Russia launched its full-scale invasion of Ukraine in February 2022, and the conflict has continued for over four and a half years.",
+        "why": [
+         "partial",
+         "Evidence does not confirm the conflict has continued for over four and a half years."
+        ]
+       }
+      ],
+      "checked": 10,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+       "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+       "excerpt": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper. …",
+       "kind": "reporting",
+       "published": "2026-11-21T12:49:05+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+       "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country.",
+       "kind": "reporting",
+       "published": "2026-11-20T17:12:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "b868946fde",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "angeles",
+     "palisades",
+     "fire"
+    ],
+    "sources": [
+     {
+      "outlet": "tagesschau",
+      "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
+      "published": "2026-11-21T08:14:03+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 415,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+      "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-21T07:10:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 401,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T04:34:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 405,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Schuldspruch nach \"Palisades\"-Feuer in Los Angeles",
+      "link": "https://www.tagesschau.de/video/video-1687452.html",
+      "kind": "reporting",
+      "published": "2026-11-21T08:09:08+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "explained",
+    "explained": {
+     "headline": "Man convicted over the deadly 2025 Palisades wildfire",
+     "parts": {
+      "happened": [
+       {
+        "text": "A United States federal court jury in Los Angeles found a thirty-year-old man guilty of two federal charges regarding the destructive twenty-twenty-five Palisades fire.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The jury convicted Jonathan Rinderknecht of starting the original brush fire and of the destruction caused when the blaze reignited.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Bill Essayli, the first assistant United States attorney, stated that the defendant faces up to forty years in prison.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The formal sentencing is scheduled to take place on March the seventeenth.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The wildfire began in the early hours of January the first, twenty-twenty-five, in the Santa Monica Mountains National Recreation Area after passengers were dropped off in Pacific Palisades.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Jonathan Rinderknecht, a former ride-share delivery driver who holds both United States and French citizenship, had previously been tried five months prior, but that trial ended in a mistrial after jurors deadlocked.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Prosecutors argued throughout the proceedings that the defendant was a lonely individual who held a deep resentment against wealthy members of society.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Defence lawyers maintained that the prosecution lacked sufficient physical evidence or records to prove their case.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The deadly disaster killed twelve people and destroyed thousands of structures in the affluent seaside enclave.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Property losses from the Palisades fire alone are estimated at one hundred and fifty billion dollars.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Bill Essayli stated that the guilty verdict provides a measure of justice for families who lost loved ones and for the thousands of people whose lives were upended.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Karen Bass, the mayor of Los Angeles, noted in a statement that many residents are still struggling to rebuild and that the devastation remains a daily reality for those displaced.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The precise prison term the defendant will ultimately serve remains to be determined by the court at the upcoming March hearing.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Defence lawyers expressed disappointment with the outcome while noting they respect the decision reached by the jury.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "While the defence suggested at trial that fireworks might have caused the initial brush fire, prosecutors asserted there was no evidence supporting that claim.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Grand Jury",
+       "definition": "A group of citizens convened by a court to decide whether there is enough evidence to officially accuse someone of a crime."
+      }
+     ],
+     "complete": true,
+     "report": {
+      "removed": [],
+      "checked": 15,
+      "coherence": {
+       "coherent": true,
+       "problems": []
+      }
+     }
+    },
+    "brief": null,
+    "why": null
+   }
+  ],
+  "clusters_found": 10,
+  "items": 390,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped gta, games, auto: no report squarely about it",
+   "dropped britain, europe, miliband: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
