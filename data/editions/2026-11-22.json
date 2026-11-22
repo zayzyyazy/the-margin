@@ -1,0 +1,739 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T13:07:21.132607+00:00",
+ "candidates": 162,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "bfd1a10b08c9",
+   "title": "Muru",
+   "link": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-21T23:56:28+00:00",
+   "bucket": "ai",
+   "excerpt": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.265,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "faa8b95fe9a7",
+   "title": "Paul Litvak’s Evidence Guide",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-11-21T11:58:56+00:00",
+   "bucket": "economy",
+   "excerpt": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.727,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "3c40dbc62ba2",
+   "title": "Traces of home",
+   "link": "https://psyche.co/turning-points/a-screenshot-is-precious-when-my-family-in-iran-is-out-of-reach",
+   "source": "Psyche",
+   "authors": [
+    "Elaheh Shabani Afarani"
+   ],
+   "published": "2026-11-18T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.217,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "4d86a1c8db3d",
+   "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Cal Newport"
+   ],
+   "published": "2026-11-19T12:00:03+00:00",
+   "bucket": "discovery",
+   "excerpt": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.076,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "12a96840525c",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Grace Huckins"
+   ],
+   "published": "2026-11-20T18:15:15+00:00",
+   "bucket": "ai",
+   "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1264,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.891,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "35b695be57bb",
+   "title": "What is the Riemann hypothesis and why is its solution so monumental?",
+   "link": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Karmela Padavic-Callaghan"
+   ],
+   "published": "2026-11-20T21:24:57+00:00",
+   "bucket": "discovery",
+   "excerpt": "It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1093,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.724,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "877929e1c381",
+   "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+   "source": "AWS Machine Learning Blog",
+   "authors": [
+    "Tala Qraitem"
+   ],
+   "published": "2026-11-20T20:37:31+00:00",
+   "bucket": "ai",
+   "excerpt": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 2406,
+   "access": "free",
+   "lang": "en",
+   "score": 3.749,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "8ac06a5e48",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "russian",
+     "bridge",
+     "polish"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "link": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
+      "published": "2026-11-22T02:19:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 565,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Russia strikes Zelenskyy's hometown, killing 2",
+      "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-21T14:44:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 370,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T13:17:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 800,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-22T07:59:29+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+      "error": "only 38 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Attacks escalate as strikes hit Baltic cargo ship and Poland",
+     "parts": {
+      "happened": [
+       {
+        "text": "A Russian cargo ship was hit by a Ukrainian drone and caught fire in the Baltic Sea.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Two Russian missiles and a drone crashed into Polish territory.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in February 2022.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Ukrainian forces partially destroyed the Kerch road bridge linking Russia to Crimea.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Finland joined the North Atlantic Treaty Organisation in 2023, dropping decades of military non-alignment.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Petteri Orpo, the prime minister of Finland, said the war was spilling over into the country's immediate vicinity.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Mark Rutte, the secretary general of the North Atlantic Treaty Organisation, guaranteed that the alliance would defend every inch of Polish territory.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Volodymyr Zelensky, the president of Ukraine, stated that Russian president Vladimir Putin wanted a reason to escalate the conflict.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Antti Hakkanen, the Finnish defence minister, stated that a suspected airspace violation by a Russian helicopter may be linked to rescue or monitoring operations for the damaged cargo ship.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russia has not publicly commented on the drone strike involving the merchant vessel in the Gulf of Finland.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "North Atlantic Treaty Organisation",
+       "definition": "An international military alliance of European and North American nations established for collective defence."
+      },
+      {
+       "term": "Kerch bridge",
+       "definition": "A major transport link connecting Russia to the Crimean peninsula."
+      },
+      {
+       "term": "Kaliningrad",
+       "definition": "A Russian exclave situated along the Baltic Sea between Poland and Lithuania."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Russian ballistic missile strikes on the southern Ukrainian city of Kryvyi Rih killed two people and wounded dozens.",
+        "why": [
+         "partial",
+         "The claim states the attack as fact, but the source notes local officials provided this information."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+       "excerpt": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+       "kind": "reporting",
+       "published": "2026-11-22T07:59:29+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+       "link": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
+       "excerpt": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory. What we know on day 1,733 A Russian cargo ship was hit by a Ukrainian drone and caught fire in the Baltic Sea on Saturday, as Finland’s prime minister said Kyiv had the right to hit back against its “aggressor”. …",
+       "kind": "reporting",
+       "published": "2026-11-22T02:19:48+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "69d4b927aa",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "isidro",
+     "fbi",
+     "mexican",
+     "flores"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T01:25:03+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 636,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+      "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-21T18:30:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 533,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "published": "2026-11-21T17:46:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 542,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Mexican special forces arrest cartel leader Fausto Isidro Meza Flores",
+     "parts": {
+      "happened": [
+       {
+        "text": "Fausto Isidro Meza Flores and seven others were detained by Mexican special forces in Guasave, Sinaloa.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Seven suspects and four members of the Mexican army were killed during the operation.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The arrest triggered retaliatory violence, including armed clashes, roadblocks and vehicle fires in the region.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The United States Federal Bureau of Investigation accused him of flooding the United States with fentanyl, cocaine, heroin and other drugs.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The United States is seeking the extradition of the arrested drug lord.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The operation forms part of wider efforts by Mexico to tackle drug-related crime under pressure from United States President Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It was not immediately clear whether authorities would extradite the suspect to the United States.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Authorities offered few details about how law enforcement agencies in Mexico and the United States coordinated the operation.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Federal Bureau of Investigation",
+       "definition": "The domestic intelligence and security service of the United States."
+      },
+      {
+       "term": "Extradition",
+       "definition": "The formal process where one country asks another to surrender a suspected criminal for trial."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Fausto Isidro Meza Flores, a 44-year-old drug lord known as Chapo Isidro, was on the United States Federal Bureau of Investigation's ten most wanted list.",
+        "why": [
+         "number(s) not in evidence: 44"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "He is the leader of the Meza Flores Organisation, also known as the Guasave Cartel, and was previously associated with the Beltrán Leyva criminal organisation.",
+        "why": [
+         "partial",
+         "Evidence identifies the Meza Flores Organisation, but does not mention the Beltrán Leyva association."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+       "kind": "reporting",
+       "published": "2026-11-22T01:25:03+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+       "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as \"Chapo Isidro,\" was captured by the Mexican military following a raid and a shootout in the coastal state of Sinaloa.",
+       "kind": "reporting",
+       "published": "2026-11-21T18:30:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "b28dbc7a90",
+    "significance": 2,
+    "outlets": [
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "brussels",
+     "miliband",
+     "britain",
+     "closer"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+      "link": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+      "published": "2026-11-22T11:41:49+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 604,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:40:55+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 861,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "UK and EU reach landmark cooperation deal at Brussels summit",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United Kingdom and the European Union agreed to a landmark deal in Brussels that includes scrapping most checks on British food exports and introducing a new youth mobility scheme.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Foreign Secretary Ed Miliband stated that the agreements will come into force regardless of whether the two sides reach a separate tuition fees agreement.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Conservative leader Kemi Badenoch criticised the agreement as unfair, arguing that British farmers would have to follow rules set in Brussels.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Ed Miliband is the Foreign Secretary of the United Kingdom, and Andy Burnham serves as the Prime Minister.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ursula von der Leyen serves as the President of the European Commission.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The international landscape has shifted significantly since the 2016 Brexit referendum, marked by Russia's full-scale invasion of Ukraine and the United States distancing itself from Europe under Donald Trump.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Prime Minister Andy Burnham stated that the Treasury believes the agreement could boost the United Kingdom economy by up to seventeen billion pounds a year.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Ed Miliband argued that closer links will give the United Kingdom a say on decisions made by Brussels rather than leaving the country in a position of following rules without input.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Any timeline for further integration, including potential discussions about the United Kingdom rejoining the European Union, remains unclear following the summit.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Negotiators have yet to resolve a proposal from the European Union to lower the level of tuition fees paid by European Union students studying in the United Kingdom.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Conservative opposition politicians stated that they would scrap the newly agreed deal if they win power.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Foreign Secretary",
+       "definition": "A cabinet minister in charge of a government's foreign policy and international relations."
+      },
+      {
+       "term": "Youth mobility scheme",
+       "definition": "A reciprocal agreement allowing young citizens to live, work or study abroad in partner countries for a set period."
+      },
+      {
+       "term": "Emissions trading",
+       "definition": "A market-based system aimed at reducing greenhouse gases by setting a limit on emissions and allowing entities to buy and sell allowances."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.2",
+        "text": "Duncan Ivison, the vice chancellor of the University of Manchester, warned that allowing European Union students to pay domestic university fees could take five hundred million pounds out of the higher education sector.",
+        "why": [
+         "partial",
+         "The claim omits that the £500m figure is an estimate."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+       "link": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+       "excerpt": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining UK politics live – latest updates Closer links with the EU will mean the UK having a say on decisions made by Brussels, Ed Miliband has argued as ministers faced pressure to move further after Friday’s landmark deal with the EU. …",
+       "kind": "reporting",
+       "published": "2026-11-22T11:41:49+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 10,
+  "items": 393,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped korea, kyo-jin, ai-assisted: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
