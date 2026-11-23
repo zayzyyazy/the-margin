@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-11-22T13:07:21.132607+00:00",
+  "checked_at": "2026-11-23T15:44:11.701638+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -13,9 +13,29 @@
     "error": "HTTP 403"
    },
    {
+    "name": "Fraunhofer",
+    "feed": "https://www.fraunhofer.de/en/rss/press.rss",
+    "bucket": "discovery",
+    "ok": false,
+    "status": null,
+    "items": 0,
+    "newest": null,
+    "error": "TimeoutError: The read operation timed out"
+   },
+   {
     "name": "Import AI",
     "feed": "https://importai.substack.com/feed",
     "bucket": "ai",
+    "ok": false,
+    "status": 403,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403"
+   },
+   {
+    "name": "Rest of World",
+    "feed": "https://restofworld.org/feed/latest/",
+    "bucket": "economy",
     "ok": false,
     "status": 403,
     "items": 0,
@@ -39,7 +59,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-20T11:00:00+00:00",
+    "newest": "2026-11-23T11:01:00+00:00",
     "error": null
    },
    {
@@ -59,7 +79,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-20T19:11:46+00:00",
+    "newest": "2026-11-23T14:03:07+00:00",
     "error": null
    },
    {
@@ -69,7 +89,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-22T12:07:41+00:00",
+    "newest": "2026-11-23T15:23:26+00:00",
     "error": null
    },
    {
@@ -149,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-20T21:28:46+00:00",
+    "newest": "2026-11-23T14:23:53+00:00",
     "error": null
    },
    {
@@ -169,7 +189,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-22T00:14:50+00:00",
+    "newest": "2026-11-23T02:33:55+00:00",
     "error": null
    },
    {
@@ -189,7 +209,7 @@
     "ok": true,
     "status": 200,
     "items": 215,
-    "newest": "2026-11-19T00:00:00+00:00",
+    "newest": "2026-11-22T00:00:00+00:00",
     "error": null
    },
    {
@@ -203,23 +223,13 @@
     "error": null
    },
    {
-    "name": "Fraunhofer",
-    "feed": "https://www.fraunhofer.de/en/rss/press.rss",
-    "bucket": "discovery",
-    "ok": true,
-    "status": 200,
-    "items": 25,
-    "newest": "2026-11-02T15:52:00+00:00",
-    "error": null
-   },
-   {
     "name": "Hackaday",
     "feed": "https://hackaday.com/feed/",
     "bucket": "discovery",
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-22T12:00:53+00:00",
+    "newest": "2026-11-23T15:00:16+00:00",
     "error": null
    },
    {
@@ -229,7 +239,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-21T22:35:19+00:00",
+    "newest": "2026-11-23T14:41:56+00:00",
     "error": null
    },
    {
@@ -248,8 +258,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 915,
-    "newest": "2026-11-20T00:00:00+00:00",
+    "items": 916,
+    "newest": "2026-11-23T00:00:00+00:00",
     "error": null
    },
    {
@@ -259,7 +269,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-20T14:00:03+00:00",
+    "newest": "2026-11-23T14:08:53+00:00",
     "error": null
    },
    {
@@ -309,7 +319,7 @@
     "ok": true,
     "status": 200,
     "items": 100,
-    "newest": "2026-11-17T12:00:00+00:00",
+    "newest": "2026-11-23T12:00:00+00:00",
     "error": null
    },
    {
@@ -329,7 +339,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-20T18:15:15+00:00",
+    "newest": "2026-11-23T13:10:00+00:00",
     "error": null
    },
    {
@@ -349,7 +359,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-22T07:40:20+00:00",
+    "newest": "2026-11-23T12:20:34+00:00",
     "error": null
    },
    {
@@ -369,7 +379,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-21T17:00:00+00:00",
+    "newest": "2026-11-23T15:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +389,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-20T22:33:06+00:00",
+    "newest": "2026-11-23T13:58:53+00:00",
     "error": null
    },
    {
@@ -419,7 +429,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-20T11:00:00+00:00",
+    "newest": "2026-11-23T11:00:00+00:00",
     "error": null
    },
    {
@@ -430,16 +440,6 @@
     "status": 200,
     "items": 5,
     "newest": "2026-11-20T14:50:41+00:00",
-    "error": null
-   },
-   {
-    "name": "Rest of World",
-    "feed": "https://restofworld.org/feed/latest/",
-    "bucket": "economy",
-    "ok": true,
-    "status": 200,
-    "items": 12,
-    "newest": "2026-11-19T11:00:00+00:00",
     "error": null
    },
    {
@@ -459,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-22T13:00:00+00:00",
+    "newest": "2026-11-23T11:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-21T23:56:28+00:00",
+    "newest": "2026-11-22T19:45:06+00:00",
     "error": null
    },
    {
@@ -478,8 +478,8 @@
     "bucket": "mind",
     "ok": true,
     "status": 200,
-    "items": 46,
-    "newest": "2026-11-20T14:26:34+00:00",
+    "items": 45,
+    "newest": "2026-11-23T02:56:48+00:00",
     "error": null
    },
    {
@@ -509,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-22T00:00:00+00:00",
+    "newest": "2026-11-23T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 76,
-    "newest": "2026-11-22T12:40:13+00:00",
+    "items": 69,
+    "newest": "2026-11-23T15:29:12+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-22T13:07:21.132607+00:00",
-  "edition_date": "2026-11-22",
+  "at": "2026-11-23T15:44:11.701638+00:00",
+  "edition_date": "2026-11-23",
   "sources_active": 52,
-  "sources_ok": 50,
-  "items_fetched": 2163,
-  "candidates": 162,
+  "sources_ok": 48,
+  "items_fetched": 2119,
+  "candidates": 156,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-22T13:07:21.132607+00:00",
-  "edition_date": "2026-11-22",
+  "at": "2026-11-23T15:44:11.701638+00:00",
+  "edition_date": "2026-11-23",
   "articles": 7
  }
 }

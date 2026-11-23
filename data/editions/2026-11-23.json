@@ -1,0 +1,543 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T15:44:11.701638+00:00",
+ "candidates": 156,
+ "sources_active": 52,
+ "sources_ok": 48,
+ "sources_failed": [
+  "Import AI",
+  "Rest of World",
+  "Fraunhofer",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "bd42235c50f1",
+   "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
+   "link": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-a-deep-dive-into-nr-ntn-technology-and-testing-aspects/",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Rohde & Schwarz"
+   ],
+   "published": "2026-11-23T14:08:53+00:00",
+   "bucket": "discovery",
+   "excerpt": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural regions, and disaster zones. How transparent and regenerative satellite payload architectures differ, and what each choice means for round trip time, link budget, and hardware complexity. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.16,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "36c8a02f5d5f",
+   "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+   "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "James Temple"
+   ],
+   "published": "2026-11-23T11:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 2032,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.688,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "94b11fbfe46c",
+   "title": "What Do Foreign Trends Tell Us About Future U.S. Labor Force Dynamics?",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/what-do-foreign-trends-tell-us-about-future-u-s-labor-force-dynamics/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-23T12:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Growth in the U.S. working-age population has fallen to near zero with the recent sharp drop in net immigration. Given the ongoing decline in the native-born working-age population, the available labor supply could soon begin to shrink. The demographic path the U.S. may soon navigate has already been trod by several other advanced economies that have experienced more rapid population aging and historically lower immigration. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1556,
+   "access": "free",
+   "lang": "en",
+   "score": 5.055,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "5dc64aa37611",
+   "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+   "link": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Jacqueline Peel, Professor of Law, The University of Melbourne",
+    "Kathryn Bowen, Director, Melbourne Climate Futures and Professor - Environment, Climate and Global Health at Melbourne Climate Futures and Melbourne School of Population and Global Health, The University of Melbourne"
+   ],
+   "published": "2026-11-23T02:56:48+00:00",
+   "bucket": "mind",
+   "excerpt": "Division over fossil fuels at this year’s UN climate summit scotched any hope of a deal – despite Australian efforts.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1694,
+   "access": "free",
+   "lang": "en",
+   "score": 4.266,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "7b2cf0fa9c6a",
+   "title": "Select Styling Specimens",
+   "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-22T19:45:06+00:00",
+   "bucket": "ai",
+   "excerpt": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.314,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "3b0c783baf5b",
+   "title": "How Modern Smartphones Talk To Satellites",
+   "link": "https://hackaday.com/2026/11/23/how-modern-smartphones-talk-to-satellites/",
+   "source": "Hackaday",
+   "authors": [
+    "Zoe Skyforest"
+   ],
+   "published": "2026-11-23T15:00:16+00:00",
+   "bucket": "discovery",
+   "excerpt": "The common cellular phone has always been a terrestrial communications device, speaking to towers dotted about the landscape. Meanwhile, satellite phones have long existed as specialized equipment, for staying in …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1465,
+   "access": "free",
+   "lang": "en",
+   "score": 4.7,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "b4474148e002",
+   "title": "Learning to leave",
+   "link": "https://psyche.co/turning-points/my-dog-had-separation-anxiety-i-had-ptsd-how-did-we-cope",
+   "source": "Psyche",
+   "authors": [
+    "Tracy Strauss"
+   ],
+   "published": "2026-11-23T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "My dog’s separation anxiety kept me housebound. To help him, I had to face my own fears of leaving - by Tracy Strauss …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.039,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "63a058bf2e",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "russian",
+     "ukraine",
+     "libya",
+     "merkury"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:41:23+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 954,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "published": "2026-11-23T11:42:51+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 740,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+      "published": "2026-11-23T11:10:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1030,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Ukraine bekennt sich zu Zerstörung von russischem Kriegsschiff",
+      "link": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
+      "published": "2026-11-23T08:24:41+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 288,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T09:33:46+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
+      "link": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-23T07:42:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T05:33:17+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
+      "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-22T16:50:00+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen",
+      "kind": "opinion",
+      "published": "2026-11-22T05:00:17+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+       "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+       "excerpt": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. …",
+       "kind": "reporting",
+       "published": "2026-11-23T11:42:51+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+       "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+       "excerpt": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
+       "kind": "reporting",
+       "published": "2026-11-23T11:10:12+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 6.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "69c3779a83",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "huang",
+     "nvidia",
+     "ceo",
+     "chinese"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:39:41+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 328,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Jensen Huang reinstated as Nvidia CEO",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "published": "2026-11-23T15:23:21+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 688,
+      "id": "S2"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
+      "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+      "published": "2026-11-23T15:18:29+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 457,
+      "id": "S3"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+      "published": "2026-11-23T14:24:38+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 553,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "tagesschau",
+      "title": "Markus Gürne, HR, über die Rückkehr von Huang zur Firmenspitze von Nvidia",
+      "link": "https://www.tagesschau.de/video/video-1688532.html",
+      "kind": "reporting",
+      "published": "2026-11-23T15:29:12+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Nvidia setzt Huang wieder als Chef ein - Markus Gürne, HR",
+      "link": "https://www.tagesschau.de/video/video-1688502.html",
+      "kind": "reporting",
+      "published": "2026-11-23T15:06:14+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "US government reassured Nvidia board over Huang",
+      "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T14:51:05+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+      "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-23T14:18:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-23T15:15:48+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "tagesschau",
+      "link": "https://www.tagesschau.de/video/video-1688532.html",
+      "error": "only 18 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Jensen Huang reinstated as Nvidia CEO",
+       "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+       "excerpt": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal after his dramatic resignation after reports of extramarital affairs including with an alleged Chinese spy. …",
+       "kind": "reporting",
+       "published": "2026-11-23T15:23:21+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Nvidia board reinstates Jensen Huang as CEO",
+       "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+       "excerpt": "Huang stepped down as CEO earlier this month after revelations of at least two affairs, including with a suspected spy.",
+       "kind": "reporting",
+       "published": "2026-11-23T14:24:38+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "ac993f641d",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "gaza",
+     "israel",
+     "israeli",
+     "oxfam"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:57:33+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 800,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+      "published": "2026-11-23T09:30:16+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1478,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+      "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+      "published": "2026-11-23T04:00:45+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 700,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T13:54:48+00:00"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T09:33:59+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+      "error": "only 53 words readable"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+      "error": "only 37 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+       "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+       "kind": "reporting",
+       "published": "2026-11-23T11:57:33+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+       "excerpt": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
+       "kind": "reporting",
+       "published": "2026-11-23T13:54:48+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   }
+  ],
+  "clusters_found": 8,
+  "items": 386,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped cop31, antalya: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
