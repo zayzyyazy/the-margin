@@ -1,0 +1,493 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T17:27:35.437261+00:00",
+ "candidates": 158,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "a9c2b1ef0059",
+   "title": "Management consulting is not a thin wrapper on intelligence",
+   "link": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+   "source": "Normal Technology",
+   "authors": [
+    "Sayash Kapoor"
+   ],
+   "published": "2026-11-23T20:12:32+00:00",
+   "bucket": "ai",
+   "excerpt": "By Rod Moshtagi and Sayash Kapoor. Moshtagi is a researcher at the Harvard Kennedy School and was previously a senior associate at PwC. In summer 2026, he was a GovAI fellow advised by Kapoor, and the research for this essay began as part of the fellowship. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 4830,
+   "access": "free",
+   "lang": "en",
+   "score": 5.723,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d36acf8b7366",
+   "title": "As Corporate Bond Markets Grow, Is Bank Lending Shrinking?",
+   "link": "https://libertystreeteconomics.newyorkfed.org/2026/11/as-corporate-bond-markets-grow-is-bank-lending-shrinking/",
+   "source": "Liberty Street Economics",
+   "authors": [],
+   "published": "2026-11-24T14:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "The size of global corporate bond markets has increased dramatically over the past three decades. As of the end of 2024, nonfinancial corporate bonds issued by U.S. firms accounted for 29 percent of U.S. GDP. In other advanced economies, though bond markets remain smaller than in the U.S., corporate bonds were on average 11 percent of GDP in the same year. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1678,
+   "access": "free",
+   "lang": "en",
+   "score": 5.055,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d5f593467525",
+   "title": "Everything I know about writing",
+   "link": "https://www.experimental-history.com/p/everything-i-know-about-writing",
+   "source": "Experimental History",
+   "authors": [
+    "Adam Mastroianni"
+   ],
+   "published": "2026-11-24T17:18:25+00:00",
+   "bucket": "mind",
+   "excerpt": "1. A few years ago, some researchers put ants and humans in a head-to-head battle of wits. The task was to maneuver an awkwardly sized object through a series of obstacles, like this: Humans and ants competed both as individuals and in groups. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 359,
+   "access": "free",
+   "lang": "en",
+   "score": 4.723,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "c07f4f3492bd",
+   "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+   "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Annie Melchor"
+   ],
+   "published": "2026-11-23T15:27:11+00:00",
+   "bucket": "discovery",
+   "excerpt": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.273,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "74166f21e4e9",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-24T16:53:59+00:00",
+   "bucket": "ai",
+   "excerpt": "Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library. It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.243,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "c3271a593ec7",
+   "title": "Getting Started With Hobbyist-Level 3D Scanning Technologies",
+   "link": "https://hackaday.com/2026/11/24/getting-started-with-hobbyist-level-3d-scanning-technologies/",
+   "source": "Hackaday",
+   "authors": [
+    "Maya Posch"
+   ],
+   "published": "2026-11-24T15:00:13+00:00",
+   "bucket": "discovery",
+   "excerpt": "Going from a physical object to a 3D model on your computer would go so much faster than manual modelling if you could just hold the object up to said …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 2363,
+   "access": "free",
+   "lang": "en",
+   "score": 4.1,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "1e7ffc87d01c",
+   "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+   "link": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-24T04:14:16+00:00",
+   "bucket": "ai",
+   "excerpt": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 6293,
+   "access": "free",
+   "lang": "en",
+   "score": 4.1,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "cc0a4543aa",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "russia",
+     "libya",
+     "africa"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T17:04:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 408,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+      "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+      "published": "2026-11-24T16:00:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1043,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Is North Korea holding back on sending Russia more troops?",
+      "link": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-24T12:51:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 751,
+      "id": "S3"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "After Libya, where will Ukraine strike Russia next?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T17:05:45+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T20:48:35+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "kind": "reporting",
+      "published": "2026-11-23T11:42:51+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+      "error": "only 51 words readable"
+     }
+    ],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "After Libya, where will Ukraine strike Russia next?",
+       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+       "excerpt": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
+       "kind": "reporting",
+       "published": "2026-11-24T17:05:45+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+       "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+       "kind": "reporting",
+       "published": "2026-11-24T17:04:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 4.5,
+     "region": "global",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "dd9f87c3a3",
+    "significance": 5,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "huang",
+     "nvidia",
+     "trump",
+     "ceo"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T17:04:20+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 489,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Nvidia stock cools after Huang’s return-driven surge",
+      "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+      "published": "2026-11-24T15:47:16+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 406,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "published": "2026-11-24T15:23:20+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 642,
+      "id": "S3"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "published": "2026-11-24T14:51:13+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 317,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Germany's Wadephul 'shocked' by Trump's Nvidia intervention",
+      "link": "https://www.dw.com/en/germany-s-wadephul-shocked-by-trump-s-nvidia-intervention/a-80033954?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-24T13:37:00+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T10:53:37+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T07:26:27+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T01:21:41+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T21:40:30+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-23T18:43:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+       "kind": "reporting",
+       "published": "2026-11-24T10:53:37+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+       "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+       "excerpt": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Nvidia staff: what do you think of Jensen Huang’s return as chief executive? …",
+       "kind": "reporting",
+       "published": "2026-11-24T15:23:20+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "e75f1063d4",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "israeli",
+     "palestinian",
+     "hamas",
+     "gaza"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T15:35:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 631,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israeli air strike kills senior Hamas security official in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+      "published": "2026-11-24T13:55:11+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 403,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+      "link": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+      "published": "2026-11-23T19:48:58+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 667,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+       "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+       "kind": "reporting",
+       "published": "2026-11-24T15:35:53+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israeli air strike kills senior Hamas security official in Gaza",
+       "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+       "excerpt": "Naim Abu Nahl, 50, was killed in a crowded area while four others, including a Palestinian woman, were wounded.",
+       "kind": "reporting",
+       "published": "2026-11-24T13:55:11+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 398,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped chinese, china, germany: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}

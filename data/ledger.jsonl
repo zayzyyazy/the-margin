@@ -406,3 +406,4 @@
 {"at": "2026-11-22T13:09:26.447456+00:00", "label": "world:judge", "model": "gemini-3.1-flash-lite", "input": 3002, "output": 1243, "usd": 0.0, "paid_equivalent": 0.002615, "free_tier": true, "secs": 5.0, "status": "ok"}
 {"at": "2026-11-22T13:09:29.025084+00:00", "label": "world:terms", "model": "gemini-3.1-flash-lite", "input": 172, "output": 116, "usd": 0.0, "paid_equivalent": 0.000217, "free_tier": true, "secs": 2.6, "status": "ok"}
 {"at": "2026-11-23T15:51:16.250803+00:00", "label": "world:draft", "model": "gemini-3.5-flash-lite", "input": 3446, "output": 1363, "usd": 0.0, "paid_equivalent": 0.004441, "free_tier": true, "secs": 25.5, "status": "ok"}
+{"at": "2026-11-24T17:28:15.196508+00:00", "label": "world:draft", "model": "gemini-3.5-flash-lite", "input": 3493, "output": 1175, "usd": 0.0, "paid_equivalent": 0.003985, "free_tier": true, "secs": 26.7, "status": "ok"}
