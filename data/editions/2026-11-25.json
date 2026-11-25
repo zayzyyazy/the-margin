@@ -1,0 +1,520 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T15:20:48.028615+00:00",
+ "candidates": 156,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "5822d7aaec03",
+   "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+   "link": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Kathy Pretz"
+   ],
+   "published": "2026-11-24T19:00:01+00:00",
+   "bucket": "discovery",
+   "excerpt": "The trajectory from researcher to top executive at a leading R&D organization doesn’t happen overnight. It took Anthony Vetro nearly 30 years to climb the corporate ladder at Mitsubishi Electric Research Laboratories, in Cambridge, Mass. He joined MERL in 1996, right out of college, and he has worked there ever since. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.243,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "71b6787f7c1a",
+   "title": "Three LLM inflection points in twelve months",
+   "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-24T23:02:07+00:00",
+   "bucket": "ai",
+   "excerpt": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.289,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "6f46345931b9",
+   "title": "How did the United States become a lawyerly society?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-11-25T10:18:10+00:00",
+   "bucket": "economy",
+   "excerpt": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a wave of new legislation and regulation …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.939,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "6fe1dbfdd948",
+   "title": "Alone-together in Karachi",
+   "link": "https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did",
+   "source": "Psyche",
+   "authors": [
+    "Sadia Khatri"
+   ],
+   "published": "2026-11-25T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Here, women pass from father to husband, like property. My friend and I rented our own apartment instead - by Sadia Khatri …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.039,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "e17abcc146e7",
+   "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+   "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-25T04:29:07+00:00",
+   "bucket": "ai",
+   "excerpt": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 5521,
+   "access": "free",
+   "lang": "en",
+   "score": 4.1,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "bc0623a72cc2",
+   "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+   "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+   "source": "Quanta Magazine",
+   "authors": [
+    "Jay Bennett"
+   ],
+   "published": "2026-11-25T14:00:49+00:00",
+   "bucket": "discovery",
+   "excerpt": "Scientists are inventing new ways to search for the missing mass of the universe.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.239,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "a6dc5eeb9fae",
+   "title": "AI is straining America’s open records systems",
+   "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Matthew King"
+   ],
+   "published": "2026-11-25T10:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 2003,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.088,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "d608203a00",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "islands",
+     "australia",
+     "china",
+     "australian"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Solomon Islands signs security deal with Australia",
+      "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "published": "2026-11-25T13:02:45+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 329,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+      "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-25T10:51:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 432,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T03:15:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 623,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+       "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Australia will become the Solomon Islands' primary security partner, while the archipelago will reject any foreign power trying to \"interfere\" on its \"sensitive\" infrastructure.",
+       "kind": "reporting",
+       "published": "2026-11-25T10:51:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+       "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+       "kind": "reporting",
+       "published": "2026-11-25T03:15:12+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "40e02940c1",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "russian",
+     "kyiv",
+     "libya"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Ukraine: Poland to set up no-fly zone near Ukraine border, urges others to follow after Russian airspace incursions",
+      "link": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border-urges-others-to-follow-after-russian-airspace-incursions/live-80047122?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-25T14:59:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1062,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:46:41+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 381,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russian strikes on Ukraine kill five, cause power outages in five regions",
+      "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+      "published": "2026-11-25T12:19:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 358,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orbán",
+      "link": "https://www.theguardian.com/world/2026/nov/25/ukraine-war-briefing-zelenskyy-and-hungary-pm-hail-new-era-of-cooperation-after-orban",
+      "published": "2026-11-25T02:21:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 740,
+      "id": "S4"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Ukraine: Poland to set up no-fly zone near Ukraine border, urges others to follow after Russian airspace incursions",
+       "link": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border-urges-others-to-follow-after-russian-airspace-incursions/live-80047122?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Poland urged NATO allies to be vigilant at their borders after repeated Russian airspace incursions. Allies have also offered different opinions on Kyiv attacking Russian ships in Libya. Follow DW for the latest.",
+       "kind": "reporting",
+       "published": "2026-11-25T14:59:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+       "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+       "kind": "reporting",
+       "published": "2026-11-25T14:46:41+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "a8d0de884d",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "tagesschau"
+    ],
+    "names": [
+     "israel",
+     "eisenkot",
+     "iran",
+     "israeli"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "link": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+      "published": "2026-11-25T10:27:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1036,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+      "published": "2026-11-25T05:18:30+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 496,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+       "link": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+       "excerpt": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+       "kind": "reporting",
+       "published": "2026-11-25T10:27:53+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   },
+   {
+    "selection": {
+     "score": 2.5,
+     "region": "global",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "ff1566ba90",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian",
+     "tagesschau"
+    ],
+    "names": [
+     "nvidia",
+     "huang",
+     "trump",
+     "second"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+      "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+      "published": "2026-11-25T13:04:17+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1032,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Viele offene Fragen bei Chipkonzern Nvidia",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
+      "published": "2026-11-25T11:32:09+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 439,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:03:12+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 800,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+      "published": "2026-11-24T14:00:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1583,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-25T03:44:07+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T18:21:43+00:00"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "kind": "reporting",
+      "published": "2026-11-24T14:51:13+00:00"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-24T10:53:37+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+       "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+       "excerpt": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
+       "kind": "reporting",
+       "published": "2026-11-25T13:04:17+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+       "kind": "reporting",
+       "published": "2026-11-24T10:53:37+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "model step failed: RuntimeError: gemini unavailable after five attempts"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 395,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
