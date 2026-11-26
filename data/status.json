@@ -1,6 +1,6 @@
 {
  "feeds": {
-  "checked_at": "2026-11-25T15:20:48.028615+00:00",
+  "checked_at": "2026-11-26T14:47:40.186881+00:00",
   "reports": [
    {
     "name": "Bruegel",
@@ -39,7 +39,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-25T11:01:00+00:00",
+    "newest": "2026-11-26T11:01:00+00:00",
     "error": null
    },
    {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-24T21:02:42+00:00",
+    "newest": "2026-11-26T09:00:22+00:00",
     "error": null
    },
    {
@@ -69,7 +69,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-25T14:29:43+00:00",
+    "newest": "2026-11-26T12:15:42+00:00",
     "error": null
    },
    {
@@ -89,7 +89,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-24T00:16:22+00:00",
+    "newest": "2026-11-25T21:20:38+00:00",
     "error": null
    },
    {
@@ -169,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-25T05:32:37+00:00",
+    "newest": "2026-11-25T23:05:40+00:00",
     "error": null
    },
    {
@@ -219,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-25T15:00:24+00:00",
+    "newest": "2026-11-26T12:00:24+00:00",
     "error": null
    },
    {
@@ -229,7 +229,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-25T12:47:05+00:00",
+    "newest": "2026-11-25T21:39:51+00:00",
     "error": null
    },
    {
@@ -248,8 +248,8 @@
     "bucket": "ai",
     "ok": true,
     "status": 200,
-    "items": 916,
-    "newest": "2026-11-25T10:22:09+00:00",
+    "items": 918,
+    "newest": "2026-11-26T11:37:17+00:00",
     "error": null
    },
    {
@@ -299,7 +299,7 @@
     "ok": true,
     "status": 301,
     "items": 20,
-    "newest": "2026-11-25T04:29:07+00:00",
+    "newest": "2026-11-25T22:28:01+00:00",
     "error": null
    },
    {
@@ -329,7 +329,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-25T13:10:00+00:00",
+    "newest": "2026-11-26T13:10:00+00:00",
     "error": null
    },
    {
@@ -339,7 +339,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-24T16:00:00+00:00",
+    "newest": "2026-11-25T17:17:08+00:00",
     "error": null
    },
    {
@@ -349,7 +349,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-25T10:18:10+00:00",
+    "newest": "2026-11-26T12:14:54+00:00",
     "error": null
    },
    {
@@ -369,7 +369,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-25T15:00:00+00:00",
+    "newest": "2026-11-26T13:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +379,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-25T15:00:00+00:00",
+    "newest": "2026-11-26T12:00:00+00:00",
     "error": null
    },
    {
@@ -419,7 +419,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-25T11:00:00+00:00",
+    "newest": "2026-11-26T11:00:00+00:00",
     "error": null
    },
    {
@@ -459,7 +459,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-25T14:45:00+00:00",
+    "newest": "2026-11-26T11:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-24T23:02:07+00:00",
+    "newest": "2026-11-26T06:08:25+00:00",
     "error": null
    },
    {
@@ -478,8 +478,8 @@
     "bucket": "mind",
     "ok": true,
     "status": 200,
-    "items": 47,
-    "newest": "2026-11-24T16:49:44+00:00",
+    "items": 50,
+    "newest": "2026-11-26T11:10:07+00:00",
     "error": null
    },
    {
@@ -509,7 +509,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-25T00:00:00+00:00",
+    "newest": "2026-11-26T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 82,
-    "newest": "2026-11-25T15:18:25+00:00",
+    "items": 73,
+    "newest": "2026-11-26T14:42:59+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-25T15:20:48.028615+00:00",
-  "edition_date": "2026-11-25",
+  "at": "2026-11-26T14:47:40.186881+00:00",
+  "edition_date": "2026-11-26",
   "sources_active": 52,
   "sources_ok": 50,
-  "items_fetched": 2171,
-  "candidates": 156,
+  "items_fetched": 2167,
+  "candidates": 155,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-25T15:20:48.028615+00:00",
-  "edition_date": "2026-11-25",
+  "at": "2026-11-26T14:47:40.186881+00:00",
+  "edition_date": "2026-11-26",
   "articles": 7
  }
 }

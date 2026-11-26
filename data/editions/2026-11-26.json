@@ -1,0 +1,964 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T14:47:40.186881+00:00",
+ "candidates": 155,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "f1d22cbf6650",
+   "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+   "link": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-25T22:23:41+00:00",
+   "bucket": "ai",
+   "excerpt": "AINews by Latent Space Scott Aaronson was still trying to digest two proofs of VP ≠ VNP at dinner. Before dessert, an OpenAI paper claimed that the square matrix multiplication exponent ω is exactly 9/4. During dessert, another paper claimed matching upper and lower bounds for the finite Fourier transform. The lower bound is the biggest news. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 4803,
+   "access": "free",
+   "lang": "en",
+   "score": 4.523,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "3dee0b788a53",
+   "title": "What we are grateful for",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
+   "source": "Marginal Revolution",
+   "authors": [
+    "Tyler Cowen"
+   ],
+   "published": "2026-11-26T12:14:54+00:00",
+   "bucket": "economy",
+   "excerpt": "Here is The Free Press symposium. Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day: Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough? We put a man on the moon and built the internet, but what about on …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.739,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "bd843b19c4f9",
+   "title": "Anima, Bicameral",
+   "link": "https://www.astralcodexten.com/p/anima-bicameral",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-11-25T21:20:38+00:00",
+   "bucket": "mind",
+   "excerpt": "Last Lightcone Commons grant round, two organizations stood out from the usual protest groups and think tanks. Both are brilliant and quixotic, and - I didn’t realize it at the time - have almost diametrically opposite agendas. Bicameral Labs is the brainchild of Erik Hoel; you might have read his Substack posts on aristocratic tutoring, the semantic apocalypse, or the gossip trap. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 3039,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f693922ed2ed",
+   "title": "The defence tech revolution is changing how we innovate",
+   "link": "https://www.newscientist.com/article/2599276-the-defence-tech-revolution-is-changing-how-we-innovate/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Justin Mullins"
+   ],
+   "published": "2026-11-26T06:27:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "Military technology companies are bypassing traditional procurement programmes to deliver low-cost, rapidly adaptable technology. That has important implications for innovators, investors and broader society, say experts",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1041,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.688,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "a7a5da90cc7d",
+   "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+   "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-26T06:08:25+00:00",
+   "bucket": "ai",
+   "excerpt": "This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.265,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "2c26fa5b5d18",
+   "title": "There and back",
+   "link": "https://psyche.co/notes-to-self/im-moving-back-where-i-grew-up-i-know-it-wont-be-the-same",
+   "source": "Psyche",
+   "authors": [
+    "Pam Weintraub"
+   ],
+   "published": "2026-11-26T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "A lost home lives on in spikes of joy and longing; it shifts in memory as life changes. But it’s never the same - by Pam Weintraub …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.943,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "0dbc6de2764a",
+   "title": "How data centers are driving a US natural-gas boom",
+   "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Casey Crownhart"
+   ],
+   "published": "2026-11-25T17:00:00+00:00",
+   "bucket": "ai",
+   "excerpt": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 711,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.188,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 5.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "ee19661ae6",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "russia",
+     "russian",
+     "savasleyka"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+      "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+      "published": "2026-11-26T12:07:14+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 772,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "Health issues delay trial of Berlin woman accused of spying for Russia",
+      "link": "https://www.dw.com/en/health-issues-delay-trial-of-berlin-woman-accused-of-spying-for-russia/a-80057677?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-26T10:28:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 396,
+      "id": "S2"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "published": "2026-11-26T10:02:09+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 566,
+      "id": "S3"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:46:41+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 381,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Stop using teargas on battlefield, dozens of countries tell Russia",
+      "link": "https://www.theguardian.com/world/2026/nov/26/ukraine-war-briefing-stop-using-tear-gas-on-battlefield-dozens-of-countries-tell-russia",
+      "kind": "reporting",
+      "published": "2026-11-26T06:49:29+00:00"
+     },
+     {
+      "outlet": "DW",
+      "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+      "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-26T05:45:00+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine strikes Russian airfield as fighting continues",
+     "parts": {
+      "happened": [
+       {
+        "text": "Kyiv's General Staff stated that three MiG-31 and two Su-34s aircraft were hit at the Savasleyka airfield.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Russia launched its full-scale invasion of Ukraine in February 2022, and fighting has continued despite various international efforts to end the conflict.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "The Savasleyka airfield, located in Russia's Nizhny Novgorod region, has been a frequent target for Ukraine and hosts aircraft used to launch hypersonic missiles and glide bombs.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "According to Al Jazeera's reporting from Moscow, Russia aims to put pressure on Kyiv's military infrastructure, strain its air defences, and inflict economic damage to wear down morale.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Kyiv's General Staff stated that the extent of the damage from the Savasleyka airfield strike was still being assessed.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Russia has not commented publicly on the strikes reported at the Savasleyka airfield.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "MiG-31",
+       "definition": "A supersonic interceptor aircraft used by military forces."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.0",
+        "text": "Ukraine struck a major Russian military base east of Moscow, damaging five aircraft used to launch missiles and bombs.",
+        "why": [
+         "partial",
+         "The claim states the attack as fact, omitting that it was reported by the Ukrainian General Staff."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Simultaneously, Russian forces struck Ukraine's capital, Kyiv, in a ballistic missile assault that targeted military-industrial facilities.",
+        "why": [
+         "unsupported",
+         "The evidence mentions a ballistic missile attack on Kyiv but does not mention military-industrial facility targets."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Ukraine's defence ministry stated that successful hits on fuel and logistics depots mean Moscow can carry out fewer strikes because vehicles cannot move without fuel.",
+        "why": [
+         "partial",
+         "The claim presents the ministry's view as an absolute certainty rather than a possibility."
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Stop using teargas on battlefield, dozens of countries tell Russia",
+       "link": "https://www.theguardian.com/world/2026/nov/26/ukraine-war-briefing-stop-using-tear-gas-on-battlefield-dozens-of-countries-tell-russia",
+       "excerpt": "Call comes after chemical weapons watchdog confirms traces of riot-control agent found in trench hit with Russian grenade. What we know on day 1,737 …",
+       "kind": "reporting",
+       "published": "2026-11-26T06:49:29+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+       "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+       "kind": "reporting",
+       "published": "2026-11-26T05:45:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "asia-pacific",
+     "adjustments": []
+    },
+    "id": "48ec921b84",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "The Guardian"
+    ],
+    "names": [
+     "trump",
+     "china",
+     "beijing",
+     "brazil"
+    ],
+    "sources": [
+     {
+      "outlet": "The Guardian",
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "published": "2026-11-26T12:00:22+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1092,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+      "published": "2026-11-26T11:07:30+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1115,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "kind": "analysis",
+      "published": "2026-11-25T19:38:05+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "error": "only 81 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "US proposes new tariffs on 14 major trading partners",
+     "parts": {
+      "happened": [
+       {
+        "text": "The United States administration proposed a new slate of trade tariffs against 14 key trading partners, including China, India, and the European Union.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Among the suggested levies announced on Wednesday, China is potentially facing the highest capped rate of 20 percent, which in some cases will be stacked on top of other import taxes for a total rate of 45 percent.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The administration will seek feedback from affected industries and hold a hearing on 25 January, suggesting final duties will not take effect until February or March.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Donald Trump is the President of the United States whose administration has launched several rounds of trade tariffs during his second term.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The latest measures cite section 301 of the Trade Act of 1974, following an eight-month investigation into what Washington calls structural excess capacity.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Jamieson Greer serves as the United States Trade Representative.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Dan Wang, a director on Eurasia Group’s China team, stated that the escalation in tariffs will not be a surprise to China and that she did not think the new measures would derail relations between Washington and Beijing.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Analyst Madeline Chalecki stated that the threat of additional tariffs may serve as a better negotiating chip than the duties themselves.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unclear when exactly the tariffs would take effect, though a senior United States official indicated they would likely start in January at the earliest.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Targeted nations and Washington continue to dispute the existence of industrial overcapacity, with several governments denying the allegations and rejecting the premises of the new duties.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Tariff",
+       "definition": "A tax imposed by a government on imported goods and services from other countries."
+      },
+      {
+       "term": "Overcapacity",
+       "definition": "A situation in which a sector produces a larger volume of goods than the market can absorb."
+      },
+      {
+       "term": "Trade truce",
+       "definition": "A temporary agreement between nations to halt or suspend escalating trade disputes and tariffs."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "matters.0",
+        "text": "Washington states that the tariffs are a response to unfair trading practices which harm United States manufacturing.",
+        "why": [
+         "partial",
+         "The claim states the reason as fact rather than attributing the statement to Washington."
+        ]
+       },
+       {
+        "id": "uncertain.1",
+        "text": "Whether the proposed tariff rates will ultimately double depending on the success or failure of ongoing trade talks remains subject to impending deadlines.",
+        "why": [
+         "partial",
+         "The claim presents these possibilities as absolute outcomes, omitting necessary hedging and attribution to the USTR."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+       "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+       "excerpt": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash. …",
+       "kind": "reporting",
+       "published": "2026-11-26T12:00:22+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.4,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "d2a7ac033a",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "cairo",
+     "egyptian",
+     "egypt",
+     "giza"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+      "published": "2026-11-26T11:22:59+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 484,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "published": "2026-11-26T00:39:10+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 358,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T22:18:06+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 362,
+      "id": "S3"
+     },
+     {
+      "outlet": "DW",
+      "title": "Egypt: At least 31 dead after fuel truck overturns on highway",
+      "link": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-25T21:37:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 283,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "Deadly fire erupts near Cairo killing dozens of people",
+      "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-26T09:09:49+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+      "error": "only 127 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Fuel truck crash on Cairo highway kills thirty-one",
+     "parts": {
+      "happened": [
+       {
+        "text": "A fuel tanker crashed and exploded on a busy highway in Giza on Wednesday, killing at least 31 people and injuring 21 others.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Egypt's public prosecutor announced an investigation into the crash and ordered DNA samples from victims.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Emergency responders subsequently cleared the highway and allowed it to reopen.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The accident occurred on a section of a ring road in the Waraq neighbourhood of Giza, which is part of the Greater Cairo area.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Local media reported that the truck driver swerved to avoid a high-voltage cable that had fallen in front of the vehicle.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Egypt has a poor transportation safety record, with road collisions frequently attributed to speeding, bad roads, and poor enforcement of traffic laws.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Official figures show that nearly 6,000 people died on Egypt's roads last year.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "The Egyptian health minister said that the death toll was preliminary, raising concerns that it could rise further.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Egyptian President Abdel-Fattah el-Sissi expressed his condolences and directed relevant authorities to provide support to the victims' families.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "Foreign officials from Italy and Algeria extended their solidarity and condolences to Egypt following the tragic incident.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       },
+       {
+        "text": "The disaster underscores ongoing concerns regarding infrastructure safety and the effectiveness of billions of pounds spent on transport systems.",
+        "kind": "interp",
+        "cites": []
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Official officials initially had not given a complete account of how the fire broke out before state-owned media reported the tanker overturned.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Investigations by the regional public prosecutor into the exact sequence of events remain under way.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Public prosecutor",
+       "definition": "An official who conducts criminal proceedings on behalf of the state."
+      },
+      {
+       "term": "Ring road",
+       "definition": "A road that surrounds a town or city to prevent through-traffic from entering the centre."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "The blaze charred twenty-seven vehicles and prompted the dispatch of 39 ambulances to take the injured to nearby hospitals.",
+        "why": [
+         "number(s) not in evidence: 39"
+        ]
+       },
+       {
+        "id": "uncertain.2",
+        "text": "Authorities continue to work on identifying all the severely burned victims through DNA testing.",
+        "why": [
+         "partial",
+         "Evidence does not explicitly state 'all' victims, though testing is underway."
+        ]
+       }
+      ],
+      "checked": 13,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+       "link": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+       "excerpt": "Egypt has suffered another tragedy as a deadly road explosion kills 31 and injures dozens.",
+       "kind": "reporting",
+       "published": "2026-11-26T11:22:59+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3,
+     "region": "global",
+     "adjustments": []
+    },
+    "id": "30f3144531",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "tagesschau"
+    ],
+    "names": [
+     "taylor",
+     "duran",
+     "rock",
+     "hall"
+    ],
+    "sources": [
+     {
+      "outlet": "BBC News",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T12:33:23+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 914,
+      "id": "S1"
+     },
+     {
+      "outlet": "tagesschau",
+      "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+      "published": "2026-11-25T23:56:55+00:00",
+      "kind": "reporting",
+      "lang": "de",
+      "words": 324,
+      "id": "S2"
+     },
+     {
+      "outlet": "DW",
+      "title": "Duran Duran guitarist Andy Taylor dies at 65",
+      "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-25T22:53:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 257,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Duran Duran guitarist Andy Taylor dies at 65",
+     "parts": {
+      "happened": [
+       {
+        "text": "Andy Taylor, the original guitarist of the English pop band Duran Duran, died at the age of 65 after a long battle with prostate cancer.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "His family and his bandmates stated that he passed away peacefully at home, surrounded by his family, on Monday 23rd November.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Pop stars including Simon Le Bon, Sir Rod Stewart and Gary Kemp paid tribute to the late musician following the announcement.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Andy Taylor was born near Newcastle in northeast England and joined Duran Duran in April 1980 after responding to an advertisement in a music magazine.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "He revealed his diagnosis with stage 4 metastatic prostate cancer in 2022 when the band was inducted into the Rock and Roll Hall of Fame.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Bandmates credited Taylor's guitar playing with driving the songs that took them around the world and giving the group its distinctive edge.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "His wife Tracey stated that fan support brought him immense comfort and strength during his illness.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The sources do not mention any open disputes or unknown details regarding his passing or career.",
+        "kind": "interp",
+        "cites": []
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "MTV",
+       "definition": "A television network originally dedicated to broadcasting music videos."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.1",
+        "text": "The group became one of the most successful pop acts of the 1980s, helping to lead the New Romantic movement with hits such as Girls On Film, Rio and Hungry Like The Wolf.",
+        "why": [
+         "number(s) not in evidence: 1980"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Taylor left the band in 1986, later pursued other musical projects including the Power Station, and rejoined the group briefly in the 2000s.",
+        "why": [
+         "number(s) not in evidence: 2000"
+        ]
+       }
+      ],
+      "checked": 7,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "BBC News",
+       "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+       "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+       "excerpt": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+       "kind": "reporting",
+       "published": "2026-11-26T12:33:23+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "DW",
+       "title": "Duran Duran guitarist Andy Taylor dies at 65",
+       "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Andy Taylor first revealed he was battling cancer in 2022 when Duran Duran was inducted into the Rock & Roll Hall of Fame. The band had numerous hits in the 1980s, including \"Girls on Film\" and \"Hungry Like The Wolf.\"",
+       "kind": "reporting",
+       "published": "2026-11-25T22:53:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 11,
+  "items": 396,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
