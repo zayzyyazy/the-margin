@@ -1,0 +1,558 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T14:45:47.955192+00:00",
+ "candidates": 152,
+ "sources_active": 52,
+ "sources_ok": 50,
+ "sources_failed": [
+  "Import AI",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "a662bb7bdb6c",
+   "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+   "link": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Jackie Snow"
+   ],
+   "published": "2026-11-27T14:00:01+00:00",
+   "bucket": "ai",
+   "excerpt": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.739,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "29ce08c9840c",
+   "title": "Explaining the stock market: Why is it still so hard?",
+   "link": "https://cepr.org/voxeu/columns/explaining-stock-market-why-it-still-so-hard",
+   "source": "VoxEU (CEPR)",
+   "authors": [
+    "Bryan Kelly, Yinan Su, Chao Zhang"
+   ],
+   "published": "2026-11-26T00:00:00+00:00",
+   "bucket": "economy",
+   "excerpt": "Physicists could already explain the motion of planets with extraordinary precision centuries ago. Finance still struggles to explain yesterday’s stock market movement. This column identifies a foundational failure of empirical asset pricing and makes significant progress towards explaining market movements using AI. Conventional measures account for remarkably little return variation, even with hindsight. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.56,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "f4a41e61ad10",
+   "title": "Fairuz in the morning and Umm Kulthum at night",
+   "link": "https://psyche.co/turning-points/my-grandparents-music-drove-me-mad-now-it-carries-me-home",
+   "source": "Psyche",
+   "authors": [
+    "Elissa Odeh"
+   ],
+   "published": "2026-11-27T11:00:00+00:00",
+   "bucket": "mind",
+   "excerpt": "Back home in Palestine, my grandparents’ music drove me mad. Now I’m in the US, I’m the one singing along - by Elissa Odeh …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 3.9,
+   "why": [],
+   "also_in": null
+  },
+  {
+   "id": "6f1db54723ad",
+   "title": "Read an extract from The Age of Alchemy by Kit Chapman",
+   "link": "https://www.newscientist.com/article/2601043-read-an-extract-from-the-age-of-alchemy-by-kit-chapman/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "authors": [
+    "Kit Chapman"
+   ],
+   "published": "2026-11-27T09:25:00+00:00",
+   "bucket": "discovery",
+   "excerpt": "In this extract from Kit Chapman’s award-winning popular science book The Age of Alchemy, the December read for the New Scientist Book Club, we learn of the rediscovery of the Leiden Papyrus X, the oldest surviving alchemy book in history",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 1307,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.088,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "24af5b9f57e4",
+   "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+   "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+   "source": "Latent Space",
+   "authors": [
+    "Basil Chatha"
+   ],
+   "published": "2026-11-26T23:02:48+00:00",
+   "bucket": "ai",
+   "excerpt": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 17718,
+   "access": "free",
+   "lang": "en",
+   "score": 4.7,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "53521bdb51ca",
+   "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+   "link": "https://theconversation.com/russia-wants-to-build-a-new-security-framework-to-end-the-war-this-is-why-it-wont-work-296813",
+   "source": "The Conversation · Global",
+   "authors": [
+    "Dilnoza Ubaydullaeva, Lecturer - National Security College, Australian National University"
+   ],
+   "published": "2026-11-27T01:19:26+00:00",
+   "bucket": "mind",
+   "excerpt": "Vladimir Putin wants to counter NATO with his own security pact, but there are reasons to be sceptical.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 957,
+   "access": "free",
+   "lang": "en",
+   "score": 3.514,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "51ee2a8f0bf5",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-26T05:08:46+00:00",
+   "bucket": "ai",
+   "excerpt": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.189,
+   "why": [],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 3.5,
+     "region": "russia-ukraine",
+     "adjustments": [
+      "covered in a recent edition"
+     ]
+    },
+    "id": "3a935b77db",
+    "significance": 4,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "russia",
+     "ukraine",
+     "european",
+     "russian"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
+      "link": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-27T12:37:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 742,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+      "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "published": "2026-11-27T11:44:46+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 377,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T09:07:48+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 938,
+      "id": "S3"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+      "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
+      "published": "2026-11-27T08:33:08+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 639,
+      "id": "S4"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "DW",
+      "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+      "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
+      "kind": "reporting",
+      "published": "2026-11-26T09:27:00+00:00"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-russias-war-dead-the-toll-wont-stop-putin-resolve-in-backing-ukraine-remains-essential",
+      "kind": "opinion",
+      "published": "2026-11-26T18:53:47+00:00"
+     }
+    ],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "European divisions grow over Russia sanctions and Ukraine support",
+     "parts": {
+      "happened": [
+       {
+        "text": "European Commission President Ursula von der Leyen proposed banning Russian athletes from competing under their own flag within the European Union.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelensky criticised Donald Trump for calling Vladimir Putin a friend and said delays in delivering anti-ballistic missiles were costing lives.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "German Chancellor Friedrich Merz threatened to veto the European Union budget unless all member states support a forty-five billion euro loan for Ukraine for two thousand and twenty-seven.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The International Olympic Committee previously ended its recommendation that Russian athletes compete only as neutrals without their flag or anthems.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Russia has been increasing its use of unconventional warfare, employing sabotage, reconnaissance and intimidation against European countries.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "A new survey by the Körber Foundation showed that for the first time, Kyiv no longer enjoys majority support among the German population.",
+        "kind": "fact",
+        "cites": [
+         "S4"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Analysts suggest that Russia's unconventional war on Europe has failed in its strategic purpose because military assistance to Ukraine from Western allies continues to increase.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Vladyslav Heraskevych warned that blanket sports bans could have a huge effect on Olympic qualifying events in Europe.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Italy's Prime Minister Giorgia Meloni warned that an attack sinking a Russian warship risked spreading war to the Mediterranean.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Zelensky revealed that it was not clear whether European negotiators would be at the table for upcoming peace talks.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       },
+       {
+        "text": "Zelensky stated that it remained unknown whether satellite communications restrictions were a technical decision by SpaceX or a political one.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "International Olympic Committee",
+       "definition": "The supreme organisation of the Olympic movement responsible for governing the Olympic Games."
+      },
+      {
+       "term": "Court of Arbitration for Sport",
+       "definition": "An international quasi-judicial body established to settle disputes related to sport through arbitration."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 11,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "Friedrich Merz is identified as German Chancellor, but the current Chancellor is Olaf Scholz.",
+        "The text mentions an attack sinking a Russian warship without explaining the event or its context.",
+        "The text introduces Vladyslav Heraskevych without identifying his role or relevance to the narrative."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
+       "link": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "As European countries challenge Russia's sporting return, Ukrainian Olympian Vladyslav Heraskevych believes the IOC is facing a 'very big crisis.'",
+       "kind": "reporting",
+       "published": "2026-11-27T12:37:00+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 2,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "1c8c1435c3",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "The Guardian"
+    ],
+    "names": [
+     "israeli",
+     "gaza",
+     "palestinians",
+     "israel"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+      "published": "2026-11-27T11:15:03+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 375,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "published": "2026-11-26T20:33:07+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 821,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Amnesty International accuses Israel of trying to destroy life in Gaza",
+     "parts": {
+      "happened": [
+       {
+        "text": "Amnesty International stated that Israel has sought to prevent births in Gaza by repeatedly targeting women and girls.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The rights group reported that Israeli forces killed about 30 women and girls daily since October 2023.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Separately, Gaza's ministry of education stated that Israeli strikes killed at least 16 schoolchildren in the territory since the start of November.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Amnesty International is a human rights organisation whose secretary general is Agnes Callamard.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The conflict has involved extensive destruction of medical and educational infrastructure, leaving thousands of children unable to attend school regularly.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The Israel Defense Forces stated that it carries out operations while taking measures to mitigate harm to civilians.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Amnesty International said that killings, forced displacement, starvation and healthcare disruptions formed part of a deliberate drive to prevent Palestinian population growth.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Agnes Callamard called on the International Criminal Court to examine gender-based crimes within its ongoing investigation into alleged war crimes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "The Israel Defense Forces stated that there was not enough information to comment on specific incidents involving young people.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Amnesty International noted that the blockade on the Gaza Strip caused an untold number of additional female deaths.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "International Criminal Court",
+       "definition": "An intergovernmental organisation and international tribunal that prosecutes individuals for genocide, crimes against humanity, war crimes and the crime of aggression."
+      },
+      {
+       "term": "Unicef",
+       "definition": "A United Nations agency responsible for providing humanitarian and developmental aid to children worldwide."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [],
+      "checked": 10,
+      "coherence": {
+       "coherent": false,
+       "problems": [
+        "The text mentions 'the blockade' without providing any background or context explaining what it is."
+       ]
+      }
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+       "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+       "excerpt": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+       "kind": "reporting",
+       "published": "2026-11-27T11:15:03+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+       "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+       "excerpt": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and a struggle to find food, clean water and shelter. …",
+       "kind": "reporting",
+       "published": "2026-11-26T20:33:07+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 8,
+  "items": 400,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [
+   "dropped spain, europe, france: no report squarely about it",
+   "dropped tame, murdoch, australian: no report squarely about it"
+  ],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}
