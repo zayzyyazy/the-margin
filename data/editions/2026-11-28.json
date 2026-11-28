@@ -1,0 +1,926 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T13:57:05.187748+00:00",
+ "candidates": 143,
+ "sources_active": 52,
+ "sources_ok": 49,
+ "sources_failed": [
+  "Behavioral Scientist",
+  "The New Atlantis",
+  "Bruegel"
+ ],
+ "items": [
+  {
+   "id": "4217870e99e2",
+   "title": "The Invention Algorithm",
+   "link": "https://www.construction-physics.com/p/the-invention-algorithm",
+   "source": "Construction Physics",
+   "authors": [
+    "Brian Potter"
+   ],
+   "published": "2026-11-27T15:58:24+00:00",
+   "bucket": "economy",
+   "excerpt": "As I noted in my last essay, I increasingly think that the process of creating new technologies is usefully thought of as a search process — the would-be inventor must sift through a huge mass of possibilities and pluck out from within it the specific arrangement of phenomena, parts, and components that actually performs some useful function.",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": false,
+   "full_words": 6761,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 5.923,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "0a6083a55426",
+   "title": "[AINews] Inside the exploding Coding Data Market",
+   "link": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+   "source": "Latent Space",
+   "authors": [
+    "swyx.ai"
+   ],
+   "published": "2026-11-28T03:45:59+00:00",
+   "bucket": "ai",
+   "excerpt": "There’s a lot of online drama around potential Claude sabotage and general trust in Anthropic, but we’re hesitant to give it more full title story treatment at this point barring further evidence (see below). …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 5806,
+   "access": "free",
+   "lang": "en",
+   "score": 4.7,
+   "why": [
+    "long-form",
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "77ca21a33756",
+   "title": "Book Review Contest 2026 Winners",
+   "link": "https://www.astralcodexten.com/p/book-review-contest-2026-winners",
+   "source": "Astral Codex Ten",
+   "authors": [
+    "Scott Alexander"
+   ],
+   "published": "2026-11-27T20:32:19+00:00",
+   "bucket": "mind",
+   "excerpt": "Thanks to everyone who entered or voted in the book review contest. The winners are: 1st: The Epic Of Gilgamesh, reviewed by John Wendover. John is a machine learning engineer from the UK. He hasn't written much publicly before but has tentatively started a Substack, Engines of Eudaimonia 2nd: Lee Kuan Yew’s Memoirs, reviewed by Shaked Koplewitz. …",
+   "excerpt_origin": "opening of the feed's full text",
+   "excerpt_shortened": true,
+   "full_words": 1275,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 4.139,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "ba1a4ea4d6a4",
+   "title": "How Engineers Designed a Mission to One of Jupiter’s Icy Moons",
+   "link": "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl",
+   "source": "IEEE Spectrum",
+   "authors": [
+    "Stephen Cass"
+   ],
+   "published": "2026-11-26T14:00:02+00:00",
+   "bucket": "discovery",
+   "excerpt": "On 3 December 2026, a 30.5-meter-wide space probe will slingshot past Earth, picking up the speed it needs to reach Jupiter in 2030. The Europa Clipper is designed to investigate Jupiter’s enigmatic moon Europa and look for places that could support life in the ocean beneath the moon’s thick shell of ice. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 5.09,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "73359b8ba723",
+   "title": "datasette-charts 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "source": "Simon Willison's Weblog",
+   "authors": [],
+   "published": "2026-11-27T23:57:17+00:00",
+   "bucket": "ai",
+   "excerpt": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 0,
+   "access": "free",
+   "lang": "en",
+   "score": 4.289,
+   "why": [],
+   "also_in": [
+    {
+     "source": "Simon Willison's Weblog",
+     "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/"
+    },
+    {
+     "source": "Simon Willison's Weblog",
+     "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
+    },
+    {
+     "source": "Simon Willison's Weblog",
+     "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/"
+    }
+   ]
+  },
+  {
+   "id": "5221b381f829",
+   "title": "How to Make a Nixie Tube",
+   "link": "https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/",
+   "source": "Hackaday",
+   "authors": [
+    "Maya Posch"
+   ],
+   "published": "2026-11-27T21:00:20+00:00",
+   "bucket": "discovery",
+   "excerpt": "Recently [polymatt] had a poke at one of the all-time favorites in the retro community, by making his own Nixie tube. Over the course of two weeks he tried to …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 301,
+   "access": "free",
+   "lang": "en",
+   "score": 3.7,
+   "why": [
+    "explanatory"
+   ],
+   "also_in": null
+  },
+  {
+   "id": "d3de82d1bf8a",
+   "title": "The next generation of bionic hands is here—and they can feel",
+   "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+   "source": "MIT Technology Review",
+   "authors": [
+    "Jessica Hamzelou"
+   ],
+   "published": "2026-11-26T09:59:00+00:00",
+   "bucket": "ai",
+   "excerpt": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects …",
+   "excerpt_origin": "feed summary",
+   "excerpt_shortened": true,
+   "full_words": 1754,
+   "access": "partly paywalled",
+   "lang": "en",
+   "score": 3.797,
+   "why": [
+    "long-form"
+   ],
+   "also_in": null
+  }
+ ],
+ "world": {
+  "developments": [
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "russia-ukraine",
+     "adjustments": []
+    },
+    "id": "0d51cf0dd6",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "ukraine",
+     "kyiv",
+     "ukrainian",
+     "hitler"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Ukraine's expertise comes in handy for international drone alliances",
+      "link": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-28T12:52:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 909,
+      "id": "S1"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+      "link": "https://www.theguardian.com/world/2026/nov/28/ukraine-war-briefing-zelenskyy-criticises-trump-for-calling-putin-his-friend-kyiv-deploys-new-laser-weapon",
+      "published": "2026-11-28T03:19:04+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 693,
+      "id": "S2"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:42:50+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 2016,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Ukraine Expands Drone Industry Amid Ongoing Russian Attacks",
+     "parts": {
+      "happened": [
+       {
+        "text": "Germany and Ukraine agreed that reconnaissance drones known as the Babka will be manufactured in Germany.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "German company Wingcopter and Ukrainian manufacturer Shadow Flytech established a joint venture funded by an investment of around 34 million euros from Germany.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Ukrainian President Volodymyr Zelenskyy criticised Donald Trump for calling Vladimir Putin his friend and likened the Russian leader to Adolf Hitler.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Kyiv has launched numerous cooperation agreements with European partners, including a joint Drone Alliance established by the European Union and Ukraine in July 2026.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Following the start of Russia's full-scale invasion in February 2022, Ukraine expanded its domestic drone development and production dramatically.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Defence partnerships allow Ukraine to access Western supply chains for urgently needed components and protect production facilities by relocating them abroad.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "German security expert Nico Lange stated that the cooperation has evolved into a strategic partnership and a partnership between equals.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Sources note that it remains unknown whether Ukraine has sufficient funding, components and secure production facilities to meet long-term demand.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Brave1 cautioned that a first successful laser interception does not mean the technology is ready for mass deployment, noting that laser air defence remains experimental.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Drone Alliance",
+       "definition": "A general term for collaborative initiatives between nations to co-develop, manufacture and supply military unmanned aerial vehicles."
+      },
+      {
+       "term": "Electronic warfare",
+       "definition": "Military operations involving the use of electromagnetic and directed energy to control the spectrum or attack an enemy."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.3",
+        "text": "Ukraine deployed a laser weapon known as Blysk for the first time to shoot down a Russian jet-powered drone.",
+        "why": [
+         "partial",
+         "The claim states the deployment as fact, while the evidence attributes it to Brave1."
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "The military conflict has dragged on for more than four and a half years, causing widespread destruction to Ukrainian infrastructure and cities.",
+        "why": [
+         "partial",
+         "Claim presents casualty figures as fact, whereas the text frames them as estimates."
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "The Guardian",
+       "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+       "link": "https://www.theguardian.com/world/2026/nov/28/ukraine-war-briefing-zelenskyy-criticises-trump-for-calling-putin-his-friend-kyiv-deploys-new-laser-weapon",
+       "excerpt": "Ukrainian leader likens Putin to Hitler; laser system intercepts Russian drone but not ready for ‘mass deployment’. What we know on day 1,739 Volodymyr Zelenskyy has criticised Donald Trump for calling Vladimir Putin his “friend”, likening the Russian leader to Adolf Hitler. “Of course it’s up to the president of the United States, but... …",
+       "kind": "reporting",
+       "published": "2026-11-28T03:19:04+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "europe",
+     "adjustments": []
+    },
+    "id": "5dff5861de",
+    "significance": 3,
+    "outlets": [
+     "Al Jazeera",
+     "BBC News",
+     "DW"
+    ],
+    "names": [
+     "spain",
+     "sanchez",
+     "europe",
+     "vox"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "As Spain votes, what could change for Europe?",
+      "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-28T11:24:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 856,
+      "id": "S1"
+     },
+     {
+      "outlet": "Al Jazeera",
+      "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+      "published": "2026-11-28T10:36:41+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1015,
+      "id": "S2"
+     }
+    ],
+    "also": [
+     {
+      "outlet": "BBC News",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "kind": "reporting",
+      "published": "2026-11-27T06:09:31+00:00"
+     }
+    ],
+    "fetch_failures": [
+     {
+      "outlet": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "error": "only 111 words readable"
+     }
+    ],
+    "mode": "brief",
+    "explained": {
+     "headline": "Spain votes in high-stakes snap election with far right poised to gain",
+     "parts": {
+      "happened": [
+       {
+        "text": "Voters in Spain headed to the polls in a snap election called by Prime Minister Pedro Sanchez after parliament rejected emergency housing decrees.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "Pedro Sanchez, prime minister of Spain and leader of the Spanish Socialist Workers' Party, has been in power since 2018.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The campaign was characterised by intense polarization over public discontent regarding soaring housing costs, immigration management, and allegations of corruption directed at the prime minister's circle.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The conservative People's Party is led by Alberto Nunez Feijoo, while the far-right Vox party is led by Santiago Abascal.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Policy analysts suggest that a change of government in Madrid would remove one of the European center-left's most prominent and influential voices.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Experts also anticipate that a new government would adopt a less vocal position regarding Palestinian statehood and relations with Israel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "It remains unconfirmed whether the conservative People's Party and Vox would form a formal governing coalition or rely on a minority arrangement supported by the far-right party in parliament.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The exact level of future defense spending remains open, as both right-wing parties support higher investment without specifying figures in their election programmes.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The precise demands Vox might make during potential government negotiations and the exact distribution of ministerial portfolios remain open questions.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Congress of Deputies",
+       "definition": "The lower house of Spain's bicameral parliament, responsible for passing national legislation and electing the prime minister."
+      },
+      {
+       "term": "North Atlantic Treaty Organization",
+       "definition": "An intergovernmental military alliance consisting of European and North American member states dedicated to mutual defense."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.1",
+        "text": "Polling ahead of the vote placed the opposition conservative People's Party in front, followed by the Socialists led by Sanchez and the right-wing populist Vox party in third place.",
+        "why": [
+         "partial",
+         "Claim states exact poll numbers; evidence indicates these were estimates ('around' 32%, 31%, 17%)."
+        ]
+       },
+       {
+        "id": "happened.2",
+        "text": "Projections indicated that the People's Party and Vox could together secure the absolute majority required in the 350-seat Congress of Deputies.",
+        "why": [
+         "partial",
+         "Claim states absolute certainty; evidence notes that projections only 'suggest' this outcome."
+        ]
+       },
+       {
+        "id": "matters.1",
+        "text": "Observers expect a conservative administration to shift Spain's stance towards stricter immigration controls and closer alignment with European countries pursuing tougher return policies for rejected asylum seekers.",
+        "why": [
+         "partial",
+         "Claim presents expectations as facts; evidence phrases them as potential outcomes/trends."
+        ]
+       }
+      ],
+      "checked": 12,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "As Spain votes, what could change for Europe?",
+       "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Spain votes on Sunday. A loss for Pedro Sanchez and a shift to the right in Madrid could affect how one of the EU's largest countries approaches migration, defense and the war in Gaza.",
+       "kind": "reporting",
+       "published": "2026-11-28T11:24:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+       "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+       "excerpt": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+       "kind": "reporting",
+       "published": "2026-11-28T10:36:41+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 4.0,
+     "region": "americas",
+     "adjustments": []
+    },
+    "id": "226fd387a6",
+    "significance": 3,
+    "outlets": [
+     "BBC News",
+     "DW",
+     "The Guardian"
+    ],
+    "names": [
+     "canada",
+     "quebec",
+     "sikh",
+     "muslim"
+    ],
+    "sources": [
+     {
+      "outlet": "DW",
+      "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+      "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-27T20:43:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 380,
+      "id": "S1"
+     },
+     {
+      "outlet": "BBC News",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T16:53:46+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 588,
+      "id": "S2"
+     },
+     {
+      "outlet": "The Guardian",
+      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+      "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+      "published": "2026-11-27T16:13:07+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 912,
+      "id": "S3"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Canada Supreme Court Upholds Quebec Religious Symbols Ban",
+     "parts": {
+      "happened": [
+       {
+        "text": "Canada's Supreme Court largely upheld a Quebec law that bans public sector workers from wearing religious symbols.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "The court ruled that provincial lawmakers should be permitted to wear religious symbols in Quebec's National Assembly.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The Supreme Court confirmed the validity of the legislation, known as Bill 21, in a 6-1 ruling.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The law applies to public servants such as teachers, police officers, judges, and lawyers.",
+        "kind": "fact",
+        "cites": [
+         "S3"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Proponents of the ruling hailed the decision as a significant victory for the preservation of Quebec's distinct societal values.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Civil liberties groups criticized the decision, with Stephen Brown stating that the outcome stripped fundamental protections away from Canadian citizens.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Prime Minister Mark Carney stated that his government would examine the ruling's implications while emphasizing the importance of respecting minority rights.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Legal questions remain regarding the future limits of the notwithstanding clause and its application to fundamental rights across Canadian provinces.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Dissenting justices expressed uncertainty over whether the use of the notwithstanding clause fundamentally conflicts with Canada's character as a democratic country.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Secularism",
+       "definition": "The principle of separating religion from government institutions and public administration."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "background.0",
+        "text": "Quebec passed the secularism law in 2019 by invoking the notwithstanding clause to shield it from constitutional challenges.",
+        "why": [
+         "number(s) not in evidence: 2019"
+        ]
+       },
+       {
+        "id": "background.2",
+        "text": "Supporters argued the measure was necessary to preserve state secularism, while critics maintained that it infringed upon fundamental rights and targeted Muslim women.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 9,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "DW",
+       "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+       "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+       "excerpt": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
+       "kind": "reporting",
+       "published": "2026-11-27T20:43:00+00:00",
+       "lang": "en"
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+       "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+       "excerpt": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+       "kind": "reporting",
+       "published": "2026-11-27T16:53:46+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   },
+   {
+    "selection": {
+     "score": 3.0,
+     "region": "mena",
+     "adjustments": []
+    },
+    "id": "5e27a983d1",
+    "significance": 2,
+    "outlets": [
+     "Al Jazeera",
+     "DW"
+    ],
+    "names": [
+     "kuwait",
+     "iran",
+     "israel",
+     "europe"
+    ],
+    "sources": [
+     {
+      "outlet": "Al Jazeera",
+      "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+      "link": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+      "published": "2026-11-28T13:42:53+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 1051,
+      "id": "S1"
+     },
+     {
+      "outlet": "DW",
+      "title": "US disables ship in Gulf of Oman under Iran blockade",
+      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
+      "published": "2026-11-27T23:17:00+00:00",
+      "kind": "reporting",
+      "lang": "en",
+      "words": 281,
+      "id": "S2"
+     }
+    ],
+    "also": [],
+    "fetch_failures": [],
+    "mode": "brief",
+    "explained": {
+     "headline": "Two European technicians killed in drone attack on Kuwait military site",
+     "parts": {
+      "happened": [
+       {
+        "text": "Two Italian technicians working for a European defence company in Kuwait were killed in a drone attack on a military site.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Italy's Foreign Minister Antonio Tajani stated that the deaths were caused by intercepted drone shrapnel hitting technicians who were maintaining detection antennae for an air defence system.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Kuwait summoned Iran's ambassador after the strike, with Deputy Foreign Minister Hamad Al-Mashaan condemning the continued Iranian attacks and stating that Kuwait reserved its right to self-defence.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "background": [
+       {
+        "text": "The conflict escalated significantly after the United States and Israel launched strikes on Iran, prompting Tehran to impose its own blockade on the Strait of Hormuz.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       },
+       {
+        "text": "Kuwait has suffered a series of attacks in recent weeks, exposing contractor personnel to high risks while servicing complex weapon systems at sensitive sites.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "The killed technicians worked for Rheinmetall Italia, a subsidiary of the German defence firm Rheinmetall.",
+        "kind": "fact",
+        "cites": [
+         "S2"
+        ]
+       }
+      ],
+      "matters": [
+       {
+        "text": "Experts warn that the incident could worsen relations between Iran and the European Union.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Riccardo Alcaro from the Istituto Affari Internazionali believes that Italy and Europe will continue condemning regional attacks and reviewing security protocols for personnel.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "Commentator Foad Izadi stated that lingering conflict would only hurt European consumers who are contending with higher gas and energy prices for winter.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ],
+      "uncertain": [
+       {
+        "text": "Riccardo Alcaro noted that the exact reasons why Iran might deny any responsibility for the attack remain unclear.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       },
+       {
+        "text": "State-aligned circles in Tehran have also implicated Ukraine in a separate narrative, disputing the attribution of the drone strike.",
+        "kind": "fact",
+        "cites": [
+         "S1"
+        ]
+       }
+      ]
+     },
+     "terms": [
+      {
+       "term": "Istituto Affari Internazionali",
+       "definition": "A Rome-based research organisation focusing on international affairs and political risk."
+      },
+      {
+       "term": "CENTCOM",
+       "definition": "The United States Central Command, which oversees military operations and forces in the Middle East."
+      },
+      {
+       "term": "Islamic Revolutionary Guard Corps",
+       "definition": "A major faction in the Iranian political and military establishment that controls substantial armed forces."
+      }
+     ],
+     "complete": false,
+     "report": {
+      "removed": [
+       {
+        "id": "happened.3",
+        "text": "Iran officially denied any role in the deaths, with Foreign Ministry officials and armed forces spokesmen describing the incident as a false flag operation.",
+        "why": [
+         "quote not found in S1"
+        ]
+       }
+      ],
+      "checked": 11,
+      "coherence": null
+     }
+    },
+    "brief": {
+     "reports": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+       "link": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+       "excerpt": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+       "kind": "reporting",
+       "published": "2026-11-28T13:42:53+00:00",
+       "lang": "en"
+      }
+     ]
+    },
+    "why": "too little survived checking"
+   }
+  ],
+  "clusters_found": 9,
+  "items": 383,
+  "sources_ok": 8,
+  "sources_active": 8,
+  "sources_failed": [],
+  "notes": [],
+  "models": {
+   "writer": "gemini-3.5-flash-lite",
+   "judge": "gemini-3.1-flash-lite"
+  }
+ }
+}

@@ -1,26 +1,36 @@
 {
  "feeds": {
-  "checked_at": "2026-11-27T14:45:47.955192+00:00",
+  "checked_at": "2026-11-28T13:57:05.187748+00:00",
   "reports": [
+   {
+    "name": "Behavioral Scientist",
+    "feed": "https://behavioralscientist.org/feed/",
+    "bucket": "mind",
+    "ok": false,
+    "status": 415,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 415"
+   },
    {
     "name": "Bruegel",
     "feed": "https://www.bruegel.org/rss.xml",
     "bucket": "economy",
     "ok": false,
-    "status": 403,
+    "status": 415,
     "items": 0,
     "newest": null,
-    "error": "HTTP 403"
+    "error": "HTTP 415"
    },
    {
-    "name": "Import AI",
-    "feed": "https://importai.substack.com/feed",
-    "bucket": "ai",
+    "name": "The New Atlantis",
+    "feed": "https://www.thenewatlantis.com/feed",
+    "bucket": "mind",
     "ok": false,
-    "status": 403,
+    "status": 415,
     "items": 0,
     "newest": null,
-    "error": "HTTP 403"
+    "error": "HTTP 415"
    },
    {
     "name": "AWS Machine Learning Blog",
@@ -69,7 +79,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-27T12:05:01+00:00",
+    "newest": "2026-11-28T12:00:20+00:00",
     "error": null
    },
    {
@@ -89,7 +99,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-25T21:20:38+00:00",
+    "newest": "2026-11-27T20:32:19+00:00",
     "error": null
    },
    {
@@ -100,16 +110,6 @@
     "status": 200,
     "items": 10,
     "newest": "2026-11-09T09:00:00+00:00",
-    "error": null
-   },
-   {
-    "name": "Behavioral Scientist",
-    "feed": "https://behavioralscientist.org/feed/",
-    "bucket": "mind",
-    "ok": true,
-    "status": 200,
-    "items": 10,
-    "newest": "2026-10-15T10:09:45+00:00",
     "error": null
    },
    {
@@ -129,7 +129,7 @@
     "ok": true,
     "status": 200,
     "items": 20,
-    "newest": "2026-11-21T13:04:03+00:00",
+    "newest": "2026-11-27T15:58:24+00:00",
     "error": null
    },
    {
@@ -169,7 +169,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-27T00:52:49+00:00",
+    "newest": "2026-11-27T18:05:04+00:00",
     "error": null
    },
    {
@@ -219,7 +219,7 @@
     "ok": true,
     "status": 200,
     "items": 7,
-    "newest": "2026-11-27T12:00:12+00:00",
+    "newest": "2026-11-28T12:00:55+00:00",
     "error": null
    },
    {
@@ -229,7 +229,7 @@
     "ok": true,
     "status": 200,
     "items": 25,
-    "newest": "2026-11-27T11:56:03+00:00",
+    "newest": "2026-11-27T20:44:45+00:00",
     "error": null
    },
    {
@@ -260,6 +260,16 @@
     "status": 200,
     "items": 30,
     "newest": "2026-11-27T14:00:01+00:00",
+    "error": null
+   },
+   {
+    "name": "Import AI",
+    "feed": "https://importai.substack.com/feed",
+    "bucket": "ai",
+    "ok": true,
+    "status": 200,
+    "items": 20,
+    "newest": "2026-11-23T14:11:17+00:00",
     "error": null
    },
    {
@@ -299,7 +309,7 @@
     "ok": true,
     "status": 301,
     "items": 20,
-    "newest": "2026-11-26T23:02:48+00:00",
+    "newest": "2026-11-28T03:45:59+00:00",
     "error": null
    },
    {
@@ -349,7 +359,7 @@
     "ok": true,
     "status": 200,
     "items": 15,
-    "newest": "2026-11-27T12:17:03+00:00",
+    "newest": "2026-11-28T06:02:07+00:00",
     "error": null
    },
    {
@@ -369,7 +379,7 @@
     "ok": true,
     "status": 200,
     "items": 10,
-    "newest": "2026-11-27T13:00:00+00:00",
+    "newest": "2026-11-28T13:00:00+00:00",
     "error": null
    },
    {
@@ -379,7 +389,7 @@
     "ok": true,
     "status": 301,
     "items": 10,
-    "newest": "2026-11-27T14:00:00+00:00",
+    "newest": "2026-11-28T09:00:00+00:00",
     "error": null
    },
    {
@@ -459,7 +469,7 @@
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-27T13:00:00+00:00",
+    "newest": "2026-11-28T13:00:00+00:00",
     "error": null
    },
    {
@@ -469,7 +479,7 @@
     "ok": true,
     "status": 200,
     "items": 30,
-    "newest": "2026-11-26T15:09:31+00:00",
+    "newest": "2026-11-27T23:57:17+00:00",
     "error": null
    },
    {
@@ -493,23 +503,13 @@
     "error": null
    },
    {
-    "name": "The New Atlantis",
-    "feed": "https://www.thenewatlantis.com/feed",
-    "bucket": "mind",
-    "ok": true,
-    "status": 200,
-    "items": 10,
-    "newest": "2026-10-07T14:11:52+00:00",
-    "error": null
-   },
-   {
     "name": "VoxEU (CEPR)",
     "feed": "https://cepr.org/rss/vox-content",
     "bucket": "economy",
     "ok": true,
     "status": 200,
     "items": 50,
-    "newest": "2026-11-27T00:00:00+00:00",
+    "newest": "2026-11-28T00:00:00+00:00",
     "error": null
    },
    {
@@ -518,25 +518,25 @@
     "bucket": "economy",
     "ok": true,
     "status": 200,
-    "items": 85,
-    "newest": "2026-11-27T14:40:48+00:00",
+    "items": 71,
+    "newest": "2026-11-28T13:05:47+00:00",
     "error": null
    }
   ]
  },
  "last_attempt": {
-  "at": "2026-11-27T14:45:47.955192+00:00",
-  "edition_date": "2026-11-27",
+  "at": "2026-11-28T13:57:05.187748+00:00",
+  "edition_date": "2026-11-28",
   "sources_active": 52,
-  "sources_ok": 50,
-  "items_fetched": 2179,
-  "candidates": 152,
+  "sources_ok": 49,
+  "items_fetched": 2165,
+  "candidates": 143,
   "result": "ok",
   "reason": null
  },
  "last_success": {
-  "at": "2026-11-27T14:45:47.955192+00:00",
-  "edition_date": "2026-11-27",
+  "at": "2026-11-28T13:57:05.187748+00:00",
+  "edition_date": "2026-11-28",
   "articles": 7
  }
 }
